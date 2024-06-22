@@ -1,10 +1,10 @@
 {"name":"gdextension-api","vers":"0.0.0","deps":[],"cksum":"1d12bdf9dfb010a77ca41155f2d342ea816575704d00fbe2bcca6eae994415d4","features":{},"yanked":true}
 {"name":"gdextension-api","vers":"4.2.0-rev.0","deps":[],"cksum":"0d27809a519defa9349231defe6341e682991ed837ecbab3f567953a4d91c048","features":{},"yanked":true}
 {"name":"gdextension-api","vers":"4.0.0-rev.0","deps":[],"cksum":"bfec1890879d1c0b04694858cbdd9e5fefafc2646eee517e27c95dab55023129","features":{},"yanked":true}
-{"name":"gdextension-api","vers":"4.0.1-rev.0","deps":[],"cksum":"4e7716ea33a56581d13de4ac9ef5fb6555be4a7a5bb4f74f4733e4dafda790a1","features":{},"yanked":false}
-{"name":"gdextension-api","vers":"4.0.2-rev.0","deps":[],"cksum":"580396f901fe9e33f18ad9cc41362f59912e225eb74c32de4e4c245c1979400d","features":{},"yanked":false}
-{"name":"gdextension-api","vers":"4.0.3-rev.0","deps":[],"cksum":"282dd59cd150d26b68b19e1d4e0d1ca4f20f9946a1b034af5a864775d0218fbe","features":{},"yanked":false}
-{"name":"gdextension-api","vers":"4.0.4-rev.0","deps":[],"cksum":"eb42e8042252b207398f22a446a5dc0232e0bb8b426ab52d6d425daa4d6ec704","features":{},"yanked":false}
+{"name":"gdextension-api","vers":"4.0.1-rev.0","deps":[],"cksum":"4e7716ea33a56581d13de4ac9ef5fb6555be4a7a5bb4f74f4733e4dafda790a1","features":{},"yanked":true}
+{"name":"gdextension-api","vers":"4.0.2-rev.0","deps":[],"cksum":"580396f901fe9e33f18ad9cc41362f59912e225eb74c32de4e4c245c1979400d","features":{},"yanked":true}
+{"name":"gdextension-api","vers":"4.0.3-rev.0","deps":[],"cksum":"282dd59cd150d26b68b19e1d4e0d1ca4f20f9946a1b034af5a864775d0218fbe","features":{},"yanked":true}
+{"name":"gdextension-api","vers":"4.0.4-rev.0","deps":[],"cksum":"eb42e8042252b207398f22a446a5dc0232e0bb8b426ab52d6d425daa4d6ec704","features":{},"yanked":true}
 {"name":"gdextension-api","vers":"4.1.0-rev.0","deps":[],"cksum":"2b95cbc29033680a4bda1bde92cda1a52537aa0797f59cf23b512c9d60e2b8dc","features":{},"yanked":false}
 {"name":"gdextension-api","vers":"4.1.1-rev.0","deps":[],"cksum":"9c8a5a61cb716ca23e921b13938d5f6c4a88cc3c34fdbe5994e89675be0676ce","features":{},"yanked":false}
 {"name":"gdextension-api","vers":"4.1.2-rev.0","deps":[],"cksum":"87f2f081ff6c3848cec83edff3b91d6720fceaed9a821ee404d59c7e7ef0f200","features":{},"yanked":false}
