@@ -2,3 +2,4 @@
 {"name":"gdextension-api","vers":"4.2.0-rev.0","deps":[],"cksum":"0d27809a519defa9349231defe6341e682991ed837ecbab3f567953a4d91c048","features":{},"yanked":false}
 {"name":"gdextension-api","vers":"4.0.0-rev.0","deps":[],"cksum":"bfec1890879d1c0b04694858cbdd9e5fefafc2646eee517e27c95dab55023129","features":{},"yanked":false}
 {"name":"gdextension-api","vers":"4.0.1-rev.0","deps":[],"cksum":"4e7716ea33a56581d13de4ac9ef5fb6555be4a7a5bb4f74f4733e4dafda790a1","features":{},"yanked":false}
+{"name":"gdextension-api","vers":"4.0.2-rev.0","deps":[],"cksum":"580396f901fe9e33f18ad9cc41362f59912e225eb74c32de4e4c245c1979400d","features":{},"yanked":false}
