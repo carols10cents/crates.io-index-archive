@@ -1,0 +1,1 @@
+{"name":"freq-det","vers":"0.1.0","deps":[{"name":"cpal","req":"^0.15.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"rustfft","req":"^6.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5c54e48daea7bfb21f356c3368d094e4153432532d20bd6dbce2cd2441218ecd","features":{},"yanked":false}
