@@ -1,0 +1,1 @@
+{"name":"llvm-lib","vers":"0.0.0-reserved","deps":[{"name":"llvm-sys","req":"^181.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"84c4a984243315b33e273629df2804ad9ccf06dd977b9d5d0f2b4f89cab02228","features":{},"yanked":false}
