@@ -1,0 +1,1 @@
+{"name":"bgel","vers":"0.1.0","deps":[{"name":"bevy","req":"^0.13","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dd9f7c5f48736d54d7df4d1ac2f00d4fe286b861129fd0eb17e49778e7205bb0","features":{},"yanked":false}
