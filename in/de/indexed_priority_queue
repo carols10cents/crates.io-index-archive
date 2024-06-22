@@ -1,0 +1,1 @@
+{"name":"indexed_priority_queue","vers":"0.1.0","deps":[{"name":"ordered-float","req":"^4.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"8456c58bfbdfbc031f4606d9493733e238b35ea87c1ea42d9a10d7a89045ec86","features":{},"yanked":false}
