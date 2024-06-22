@@ -1,0 +1,1 @@
+{"name":"rowid","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f5d6194aac7591f0f6b40ecd99297666cb78a41581cd4642179a67a9d9274e2a","features":{},"yanked":false}
