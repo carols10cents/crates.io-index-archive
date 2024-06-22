@@ -4,3 +4,4 @@
 {"name":"crb","vers":"0.0.3","deps":[],"cksum":"64aba6d11ce0b2c158dccbb74af701fc1bce4f38281fd3c7232e57789384f717","features":{},"yanked":false}
 {"name":"crb","vers":"0.0.4","deps":[],"cksum":"6a28e0fe9575e3381eaa0fd964320ab08af2acbb0f7809ac0940f3228c9fc850","features":{},"yanked":false}
 {"name":"crb","vers":"0.0.5","deps":[],"cksum":"c08f94e208befd8226e57224affb31ab494a39e633307a50ee6c9e16577d78ef","features":{},"yanked":false}
+{"name":"crb","vers":"0.0.6","deps":[],"cksum":"7d4b81bbecb2ec357623f98a41a2b0cfb671612f15f9b12853bd5d793fbb4d8b","features":{},"yanked":false}
