@@ -1,0 +1,1 @@
+{"name":"linear_isomorphic","vers":"0.1.0","deps":[{"name":"num","req":"^0.4.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3da2d7c6fd454772abd5f0c80ba6877edf5f1bb61049873a22322d0b87f4b757","features":{},"yanked":false}
