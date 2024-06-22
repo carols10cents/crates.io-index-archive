@@ -6,3 +6,4 @@
 {"name":"gdextension-api","vers":"4.0.3-rev.0","deps":[],"cksum":"282dd59cd150d26b68b19e1d4e0d1ca4f20f9946a1b034af5a864775d0218fbe","features":{},"yanked":false}
 {"name":"gdextension-api","vers":"4.0.4-rev.0","deps":[],"cksum":"eb42e8042252b207398f22a446a5dc0232e0bb8b426ab52d6d425daa4d6ec704","features":{},"yanked":false}
 {"name":"gdextension-api","vers":"4.1.0-rev.0","deps":[],"cksum":"2b95cbc29033680a4bda1bde92cda1a52537aa0797f59cf23b512c9d60e2b8dc","features":{},"yanked":false}
+{"name":"gdextension-api","vers":"4.1.1-rev.0","deps":[],"cksum":"9c8a5a61cb716ca23e921b13938d5f6c4a88cc3c34fdbe5994e89675be0676ce","features":{},"yanked":false}
