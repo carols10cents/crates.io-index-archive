@@ -1,0 +1,1 @@
+{"name":"rsnbs","vers":"0.1.0","deps":[{"name":"byteorder","req":"^1.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"paste","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5c1c15b33a045d247d8ee4792bfaff20e53d80cb5868afc6f3bac8b929ec26c0","features":{},"yanked":false}
