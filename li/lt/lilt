@@ -1,0 +1,1 @@
+{"name":"lilt","vers":"0.0.3","deps":[{"name":"iced","req":"^0.12.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"2a343cfd0266bc4e8483b6807fb9471a59299c42e24aa1ea0c3e2c0115a966da","features":{},"yanked":false}
