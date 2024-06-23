@@ -1,1 +1,2 @@
 {"name":"linear_isomorphic","vers":"0.1.0","deps":[{"name":"num","req":"^0.4.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3da2d7c6fd454772abd5f0c80ba6877edf5f1bb61049873a22322d0b87f4b757","features":{},"yanked":false}
+{"name":"linear_isomorphic","vers":"0.1.1","deps":[{"name":"num","req":"^0.4.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a6f69f20226c4140ac368509a1f1b2544a99a8770d6ae7593f8e4e14240acd0d","features":{},"yanked":false}
