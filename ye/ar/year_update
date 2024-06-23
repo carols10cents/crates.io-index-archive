@@ -2,3 +2,4 @@
 {"name":"year_update","vers":"1.1.0","deps":[],"cksum":"90d36748f1b541c24a9e7df95211155a8cc47c6731483aa0cef51daa280bdfa7","features":{},"yanked":true}
 {"name":"year_update","vers":"1.1.1","deps":[],"cksum":"6fd1c13f4226fde92fdc9ac60a43d21468c8ce3b14c80a9dc98529c65418a766","features":{},"yanked":true}
 {"name":"year_update","vers":"1.2.0","deps":[],"cksum":"b982ac300660f61abe596f45f3ac64f18a52f4f335e0f9a6f5d203f1b0b1bb64","features":{},"yanked":true}
+{"name":"year_update","vers":"1.2.1","deps":[],"cksum":"80a5baa7e6372bf3a9ab0e163d955942135689623a917f88d21a90eb7b309c35","features":{},"yanked":false}
