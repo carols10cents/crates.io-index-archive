@@ -9,3 +9,4 @@
 {"name":"enc","vers":"0.4.0","deps":[],"cksum":"c471e074bbec7e51497b5d4980fb7bfeffbb7034a5ed3fbdff47ab7149053644","features":{},"yanked":false}
 {"name":"enc","vers":"0.5.0","deps":[],"cksum":"48fa40209cf65bc0141cd85cabc97c7437da3bcaff81a8784b9cc872fa9a57b0","features":{},"yanked":false}
 {"name":"enc","vers":"0.6.0","deps":[],"cksum":"4ebb3260e7b99429bcd6c26b070e5b60f936f23d3335878d560525e176a5172f","features":{"base-64":[],"full":["hex","var-int"],"hex":[],"percent":["hex"],"var-int":[]},"yanked":false}
+{"name":"enc","vers":"0.7.0","deps":[],"cksum":"cd728681c117751bf06ffda499e9bc16fabd2c40a3ba79127c6076b33d20c7c0","features":{"base-64":[],"full":["base-64","hex","percent","var-int"],"hex":[],"percent":[],"var-int":[]},"yanked":false}
