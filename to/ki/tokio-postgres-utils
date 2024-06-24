@@ -1,0 +1,1 @@
+{"name":"tokio-postgres-utils","vers":"0.1.0","deps":[{"name":"tokio-postgres-macros","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"259caea9a2c2d368effb44df9312ee1a01f7437a65114ab51688612783d8a51d","features":{},"yanked":false}
