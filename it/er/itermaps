@@ -2,3 +2,4 @@
 {"name":"itermaps","vers":"0.1.1","deps":[],"cksum":"2351b03a1abc75bd7a3d4120c2e3ea3722ddece9618f7fd894f7fef300d63b8f","features":{"default":[],"no_std":[]},"yanked":false}
 {"name":"itermaps","vers":"0.2.0","deps":[],"cksum":"7087ed31ada5a0560ef56c03bb325494dc10fddd9d4b36f72a4ed3fc5d529deb","features":{"default":[],"no_std":[]},"yanked":false}
 {"name":"itermaps","vers":"0.2.1","deps":[],"cksum":"0f3ec1b61dd3370fb32eba81c1c9044ecb87a4a94c857f4d4e850935d75e41ce","features":{"default":[],"no_std":[]},"yanked":false}
+{"name":"itermaps","vers":"0.2.2","deps":[],"cksum":"2b79edf37502be0a4dbcb61dbe9676216526ee7b7b322cef9850d0896885380a","features":{"default":[],"no_std":[]},"yanked":false}
