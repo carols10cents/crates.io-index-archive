@@ -8,3 +8,4 @@
 {"name":"partiql-rewriter","vers":"0.7.0","deps":[],"cksum":"561aebc605b8af08c103c098341097b3b232e0a4f1b5bc7a7ba3f1325121832f","features":{},"yanked":false}
 {"name":"partiql-rewriter","vers":"0.7.1","deps":[],"cksum":"6465e02daaaba9dd4391530c1f9fa7eb0b055223d268b45822122b5d4c95352e","features":{},"yanked":false}
 {"name":"partiql-rewriter","vers":"0.7.2","deps":[],"cksum":"3f6149553c4708157fdff93592d8ec6cccbee08a52137ee562451df11673ea2d","features":{},"yanked":false}
+{"name":"partiql-rewriter","vers":"0.8.0","deps":[],"cksum":"740941623373943db768ce000d84cded9c86914e2d9b41ffdedd6b98be7b2161","features":{},"yanked":false}
