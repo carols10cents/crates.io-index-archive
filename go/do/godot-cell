@@ -1,1 +1,2 @@
 {"name":"godot-cell","vers":"0.0.0","deps":[],"cksum":"26b16d3109819bbc6d53eb993810a43de53c66e26230d1fb4a11f43511efb7ad","features":{},"yanked":false}
+{"name":"godot-cell","vers":"0.1.1","deps":[{"name":"proptest","req":"^1.4.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a7253c51afe51b9da8fe83a703c10754d488358e40bcebccc583fb35caea83de","features":{},"features2":{"proptest":["dep:proptest"]},"yanked":false,"rust_version":"1.78","v":2}
