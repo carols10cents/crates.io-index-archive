@@ -1,1 +1,1 @@
-{"name":"nb-tree","vers":"0.1.0","deps":[{"name":"log","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3e2508505aa35306494e52e08c9c9663b1833bcf742303a53285bcc1ddf0f333","features":{},"yanked":false}
+{"name":"nb-tree","vers":"0.1.0","deps":[{"name":"log","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3e2508505aa35306494e52e08c9c9663b1833bcf742303a53285bcc1ddf0f333","features":{},"yanked":true}
