@@ -1,1 +1,2 @@
 {"name":"cosmwasm-core","vers":"0.0.1","deps":[],"cksum":"4fedb44240a49fbfaa484e899e6d9d2c253836a2a94634cf1ef49db48893fb29","features":{},"yanked":false}
+{"name":"cosmwasm-core","vers":"2.1.0-rc.1","deps":[],"cksum":"4f4285d62814c308d0baf78e633fb041b5c2a62a55547bd7286c7cfef5dfd009","features":{},"yanked":false}
