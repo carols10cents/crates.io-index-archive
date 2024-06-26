@@ -1,0 +1,1 @@
+{"name":"ogsolve","vers":"0.0.1","deps":[{"name":"clap","req":"^4.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"ogs","req":"^0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ec77d2cefae56757b97f6f0d8cd6b4600d695187c46dac7e0c215c7c0f4cc176","features":{},"yanked":false}
