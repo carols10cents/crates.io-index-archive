@@ -1,0 +1,1 @@
+{"name":"command-parser","vers":"0.0.1","deps":[{"name":"thiserror","req":"^1.0.61","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"137feaa95c54351ab19e29c9f06919fbf5a5942ba5ed1718f62bb67e73e5052b","features":{},"yanked":false}
