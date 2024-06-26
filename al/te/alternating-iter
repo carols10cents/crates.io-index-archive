@@ -3,3 +3,4 @@
 {"name":"alternating-iter","vers":"0.1.2","deps":[],"cksum":"9babcaf20da5b6048cc3800411a270def48e3dc9e8ce1dde42c32feefafb1ff4","features":{},"yanked":true}
 {"name":"alternating-iter","vers":"0.2.0","deps":[],"cksum":"f61feeaff40d1b293bd3748259dd1383facfee87fe071f57e6b6d10166337acd","features":{},"yanked":false}
 {"name":"alternating-iter","vers":"0.3.0","deps":[],"cksum":"9192fe9ebf3d63430565a2a446d3fd508f7a7b84d975a2166c02673b8dc9874a","features":{},"yanked":false}
+{"name":"alternating-iter","vers":"0.3.1","deps":[],"cksum":"38e7bb35addfa5b45ff1fa39992babbcd35dc05a9f8ff0d915fcf4e364d6e765","features":{},"yanked":false}
