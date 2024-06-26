@@ -7,3 +7,4 @@
 {"name":"address","vers":"0.8.0","deps":[],"cksum":"630694dcc1857d64f5f09772e846ec135a56e19fec680a568bb1816df0adf943","features":{},"yanked":false}
 {"name":"address","vers":"0.9.0","deps":[],"cksum":"16eceececeabe041ef65673624c25955720e25d021c88a3c36cdec0f3e6576dc","features":{},"yanked":false}
 {"name":"address","vers":"0.10.0","deps":[],"cksum":"893a9c7d0ba3898e7036e24db2250d2c173f102946161ed70ca2e49627859581","features":{},"yanked":false}
+{"name":"address","vers":"0.11.0","deps":[],"cksum":"e4199bdcf5dadd559d2871a050e889a621054b55914d46cc1e85a813e5079913","features":{},"yanked":false}
