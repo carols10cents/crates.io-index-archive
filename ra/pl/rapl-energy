@@ -1,2 +1,3 @@
 {"name":"rapl-energy","vers":"0.1.0","deps":[],"cksum":"39dcaa203de54cacb6ef978ae7ac32a2cc61d8ec8eb8b8beaa05181eae74140d","features":{},"yanked":false}
 {"name":"rapl-energy","vers":"0.1.1","deps":[{"name":"arrayvec","req":"^0.7.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"acb1298201b6172e7ca5a2be722811964e191c54e770741493709e826d23af1f","features":{},"yanked":false}
+{"name":"rapl-energy","vers":"0.1.2","deps":[{"name":"arrayvec","req":"^0.7.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"36e8132e0eed30e92dd47f1556366a9ca35415c00bb639e4ca9e58ab75ced39e","features":{},"yanked":false}
