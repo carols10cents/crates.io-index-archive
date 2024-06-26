@@ -1,0 +1,1 @@
+{"name":"krata-loopdev","vers":"0.0.11","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b52ef231e60f42ab2314503d3a61be647d0e030974156884bccd149a5b4d0a84","features":{},"yanked":false}
