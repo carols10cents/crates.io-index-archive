@@ -1,5 +1,5 @@
 {"name":"box_raw_ptr","vers":"0.1.0","deps":[],"cksum":"51723bc1755eeb1db6fe50b59937e42f7d8c1bf7ad4221ae68fdfc8c133eadf4","features":{},"yanked":true}
-{"name":"box_raw_ptr","vers":"0.1.2","deps":[],"cksum":"af20e52180a617ce4550530eb24d7e3d2810e6e048a04d4128034c450d3132de","features":{},"yanked":false}
+{"name":"box_raw_ptr","vers":"0.1.2","deps":[],"cksum":"af20e52180a617ce4550530eb24d7e3d2810e6e048a04d4128034c450d3132de","features":{},"yanked":true}
 {"name":"box_raw_ptr","vers":"0.1.4","deps":[],"cksum":"4047fc204b03d8cb1c34219b5be7a85aa37ca553021ecfa02f3d1916fce310db","features":{},"yanked":true}
 {"name":"box_raw_ptr","vers":"0.1.6","deps":[],"cksum":"51798fc25827aea40b27229ce0b9bfe3f21764f80d4550358f50641ace271bb0","features":{},"yanked":true}
 {"name":"box_raw_ptr","vers":"0.1.8","deps":[],"cksum":"eef413ebdd0aada8ee5a5b6db138ef4ff57ddc3eb518b6196ebe376a0e3b68f2","features":{},"yanked":true}
