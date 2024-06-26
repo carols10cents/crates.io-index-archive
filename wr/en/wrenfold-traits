@@ -1,0 +1,1 @@
+{"name":"wrenfold-traits","vers":"0.0.3","deps":[{"name":"nalgebra","req":"^0.32.5","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f83ec34a020570a076d39429d1be22c545fb6f6e706812eb7fff4339c368d4c8","features":{},"features2":{"nalgebra":["dep:nalgebra"]},"yanked":false,"v":2}
