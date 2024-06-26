@@ -1,0 +1,1 @@
+{"name":"better_button","vers":"0.8.0","deps":[{"name":"bevy","req":"^0.13.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"df24ab46591d94289a93e015339ab35d369efc9e18316d6bebf334c10ae946e6","features":{},"yanked":false}
