@@ -1,0 +1,1 @@
+{"name":"franz","vers":"0.1.0","deps":[{"name":"disk-ringbuffer","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cecb579698a54826945dda9875fc20a3f60320a8afd184022c48e938e871665e","features":{},"yanked":false}
