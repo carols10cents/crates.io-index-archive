@@ -1,0 +1,1 @@
+{"name":"sequential_gen","vers":"0.1.0","deps":[{"name":"lazy_static","req":"^1.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"da850bb1f2deffd0d19c1a1fcf445cb747aa401517c96eff7c6d965de792175d","features":{"default":["lazy_static/spin"],"no_std":["lazy_static/spin_no_std"]},"yanked":false}
