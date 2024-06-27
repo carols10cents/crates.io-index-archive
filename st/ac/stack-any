@@ -1,0 +1,1 @@
+{"name":"stack-any","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"80a87c29239296717a9b67998abe08ab9213ed342f6e0fead80d7c10d2b2c57f","features":{"default":["std"],"std":[]},"yanked":false}
