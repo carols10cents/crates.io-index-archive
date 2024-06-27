@@ -1,1 +1,2 @@
 {"name":"manual_rwlock","vers":"0.1.0","deps":[{"name":"atomic-wait","req":"^1.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"00e6474c6c8a7660b1a1622a872f9c3918d903db33028b6c355d0b31c14c6894","features":{},"yanked":false}
+{"name":"manual_rwlock","vers":"0.1.1","deps":[{"name":"atomic-wait","req":"^1.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8e5a7adf2dd6d6e6f2ffd08e887583759e4ee2b6c3d0e1e1109b09de1bf79aff","features":{},"yanked":false}
