@@ -1,1 +1,2 @@
 {"name":"termsnap-lib","vers":"0.1.0","deps":[{"name":"alacritty_terminal","req":"^0.24","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a2edd617b6f542a7c97b2922c8365865f8af5bff8640c607454c89714ee93b51","features":{},"yanked":false}
+{"name":"termsnap-lib","vers":"0.1.1","deps":[{"name":"alacritty_terminal","req":"^0.24","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"50566f933b4b70f1d1d361a6e8c6b8d443b0c7255d8d7da52c28031a9b9c7f1b","features":{},"yanked":false}
