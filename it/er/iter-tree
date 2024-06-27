@@ -6,3 +6,4 @@
 {"name":"iter-tree","vers":"0.1.5","deps":[],"cksum":"c97e8a7e5ee604153a14dd63f7e534c314448d312b9498132e994393a2df9c85","features":{"default":["vec"],"deque":[],"vec":[]},"yanked":false}
 {"name":"iter-tree","vers":"0.1.6","deps":[],"cksum":"f75818b39be21075fc0aa523445de1b59a0303784e27165f4d787f968b69b438","features":{"default":["vec"],"deque":[],"vec":[]},"yanked":false}
 {"name":"iter-tree","vers":"0.1.8","deps":[],"cksum":"658ca794d35b267d9a49e10c3e662bb815a49671b18615895728a735c255a083","features":{"default":["vec"],"deque":[],"vec":[]},"yanked":false}
+{"name":"iter-tree","vers":"0.1.9","deps":[],"cksum":"3cced2166f8cfef3e0f407ca1f27cd9f94a3f4c4460587fb2c50eeaacb8f3c97","features":{"default":["vec"],"deque":[],"vec":[]},"yanked":false}
