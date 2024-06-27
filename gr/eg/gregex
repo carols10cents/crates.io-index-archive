@@ -4,3 +4,4 @@
 {"name":"gregex","vers":"0.5.1","deps":[],"cksum":"fc5efffd500ff59ad57073da20bcedda8ebc2e7dd07bf738a40d3f645adefc47","features":{},"yanked":false}
 {"name":"gregex","vers":"0.5.2","deps":[],"cksum":"0ff7f9fbe801fc72b23ace7b0fedc08b3fe16983a3f7b507cd43d017e7a71b08","features":{},"yanked":true}
 {"name":"gregex","vers":"0.5.3","deps":[],"cksum":"a039b75cbb0dec04eb6118964e753588e96e85eb436390b9107be64024cb25e7","features":{},"yanked":false}
+{"name":"gregex","vers":"0.6.0","deps":[],"cksum":"1f8fc0555e5633781822388e096f44ea9456f1786a731a24506840cfff8b7de5","features":{},"yanked":false}
