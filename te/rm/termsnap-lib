@@ -1,0 +1,1 @@
+{"name":"termsnap-lib","vers":"0.1.0","deps":[{"name":"alacritty_terminal","req":"^0.24","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a2edd617b6f542a7c97b2922c8365865f8af5bff8640c607454c89714ee93b51","features":{},"yanked":false}
