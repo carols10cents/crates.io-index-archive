@@ -3,3 +3,4 @@
 {"name":"machine-prime","vers":"1.2.0","deps":[],"cksum":"ec4b3b440ec3cc3802ea460ea2d87135585262c52077b321047f34cb0b719a8b","features":{"small":[],"tiny":[]},"yanked":false}
 {"name":"machine-prime","vers":"1.2.1","deps":[],"cksum":"9e9826c13bbd3d65d0b4c783142398f626233af7546bbd0c391f148734747b45","features":{"small":[],"tiny":[]},"yanked":false}
 {"name":"machine-prime","vers":"1.2.2","deps":[],"cksum":"b4b0faa8e755420f3bf8039364404a8b5d63929ba08fabc4ff7996773e03f881","features":{"small":[],"tiny":[]},"yanked":false}
+{"name":"machine-prime","vers":"1.3.0","deps":[],"cksum":"f1ee9fdb94afa76ca1892b3b769269fbfce0286b7848dbb0d69d9101c06febc1","features":{"small":[],"ssmr":[],"tiny":[]},"yanked":false}
