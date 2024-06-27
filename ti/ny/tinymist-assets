@@ -1,1 +1,2 @@
 {"name":"tinymist-assets","vers":"0.11.11","deps":[],"cksum":"f5447f4eb1ad02f211c1097b1f25372a59b5455aab878cba241aa6c38cb56a81","features":{"typst-preview":[]},"yanked":false}
+{"name":"tinymist-assets","vers":"0.11.12","deps":[],"cksum":"e51823bcf79f6ae1d0a1eb75c26cd9139cc062b7e2ae4f12077e5fb30b6aafa5","features":{"typst-preview":[]},"yanked":false}
