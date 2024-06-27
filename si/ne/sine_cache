@@ -1,1 +1,2 @@
 {"name":"sine_cache","vers":"0.1.0","deps":[],"cksum":"9ce6eaa6bd71097cacedd9d4944039a770b341146c3b3d34e1518c483d153dd0","features":{},"yanked":false,"rust_version":"1.70"}
+{"name":"sine_cache","vers":"0.1.1","deps":[],"cksum":"5cad74d5ed4c623010a089d88ff0029fa7be50f098e2220f57563b823c8c49f2","features":{},"yanked":false,"rust_version":"1.70"}
