@@ -1,1 +1,2 @@
 {"name":"command_runner","vers":"0.1.0","deps":[{"name":"anyhow","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f21bba6dc08c2e6ab9c7d9ec64ef99518fb9746ebed86a3db2c88892e4747431","features":{},"yanked":false,"rust_version":"1.79"}
+{"name":"command_runner","vers":"0.1.1","deps":[{"name":"anyhow","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f2c94d7ffa059bc75323549b9eafe615f690ffc4c164371ae0828622b897e423","features":{},"yanked":false,"rust_version":"1.79"}
