@@ -1,0 +1,1 @@
+{"name":"hexo-id","vers":"0.7.6","deps":[{"name":"lazy_static","req":"^1.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2bd9c44ba2882ca0115896fd3e73eea8770a927c6347845725fe067fc0ed2097","features":{},"yanked":false}
