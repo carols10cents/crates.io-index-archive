@@ -1,2 +1,3 @@
 {"name":"say-hello-laut","vers":"0.1.0","deps":[],"cksum":"cf915867d410e5ffe153c72b2db0d250d9899aa6dd655cdecb685ae5359b57e9","features":{},"yanked":false}
 {"name":"say-hello-laut","vers":"0.2.0","deps":[],"cksum":"71f7442c0d2590b7e5520db8e0bf6d8ffd36069b5ecd44ef656353e2e5e8f299","features":{},"yanked":false}
+{"name":"say-hello-laut","vers":"0.3.0","deps":[],"cksum":"2cf0bb698cc5170fb4eaaa3ce942fec69aad57211dbcda10e59b155be625bee0","features":{},"yanked":false}
