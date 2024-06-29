@@ -26,3 +26,4 @@
 {"name":"algori","vers":"0.11.3","deps":[],"cksum":"ff47e67385f12fb7d0ad3a5c7ab779baf1d070b5d4696cf0e07b0487ccee9058","features":{},"yanked":false}
 {"name":"algori","vers":"0.11.4","deps":[],"cksum":"2c7940ecf1b24a9d4ed557a423b066447315e909505eaf0b6fcb66e3599d6d54","features":{},"yanked":false}
 {"name":"algori","vers":"0.11.10","deps":[],"cksum":"fc8d8e96cef24d8ce69d8b9b72f30c99b648a0421534c5f9ce85af080cd2c359","features":{},"yanked":false}
+{"name":"algori","vers":"0.11.11","deps":[],"cksum":"bdc18070cd27cb66fd5160f1c2254b40afb521a37c984e52f8e31d9b57922e6c","features":{},"yanked":false}
