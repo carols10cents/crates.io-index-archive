@@ -1,1 +1,2 @@
 {"name":"anyscript-compiler","vers":"0.1.0","deps":[],"cksum":"cea556546c15d9a50fdde5a7a9bbff68c2a716e80021a011c9c9cb519c5b42dc","features":{},"yanked":false}
+{"name":"anyscript-compiler","vers":"0.1.1","deps":[{"name":"base64","req":"^0.22.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"which","req":"^6.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"80d6c940bb79fd5770af685d8254a9d0b0b7e751fbe9021a1dfffa6f83f75751","features":{},"yanked":false}
