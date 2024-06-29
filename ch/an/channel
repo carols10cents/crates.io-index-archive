@@ -1,1 +1,2 @@
 {"name":"channel","vers":"0.1.0","deps":[],"cksum":"8de85749ef3774510273b0ab7f552233ccf389096f01e4b0c4e0702b30168ba2","features":{},"yanked":false,"rust_version":"1.77"}
+{"name":"channel","vers":"0.1.1","deps":[],"cksum":"423ba7168bbd2ea9d9deb555c86c6ea53dbd8588e7f33f3bb2bae07c2ac05dd3","features":{},"yanked":false,"rust_version":"1.77"}
