@@ -1,0 +1,1 @@
+{"name":"tlns-google-oauth2","vers":"0.1.0","deps":[{"name":"oauth2","req":"^4.4.2","features":["reqwest"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7d03609029d53d2cdf58b21df378f8867dfda5fc190dc37043a450da40afabd3","features":{},"yanked":false}
