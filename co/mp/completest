@@ -23,3 +23,4 @@
 {"name":"completest","vers":"0.3.0","deps":[],"cksum":"657899081e91b9165a4364f3766fccf6592d19625efc87840d0f37afe268981f","features":{},"yanked":false,"rust_version":"1.70.0"}
 {"name":"completest","vers":"0.3.1","deps":[],"cksum":"ec892a8338317fb4e33d5492e6f0be47c3963829d8f7244c34d50bf47ac3cd08","features":{},"yanked":false,"rust_version":"1.70.0"}
 {"name":"completest","vers":"0.4.0","deps":[],"cksum":"8229e041ca8f8130ad7f0ce1afb9cfdb3033de7fd548e6422dbb2f4f12184f41","features":{},"yanked":false,"rust_version":"1.70.0"}
+{"name":"completest","vers":"0.4.1","deps":[],"cksum":"e6cda99a94266124c2cce3d239973ef8ce3160c83a3f426a314285d9bf6422d1","features":{},"yanked":false,"rust_version":"1.70.0"}
