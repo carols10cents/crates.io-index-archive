@@ -1,0 +1,1 @@
+{"name":"asimov-cli","vers":"24.0.0-dev.0","deps":[{"name":"asimov-sdk","req":"^24.0.0-dev.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"da4048c5932a916ae60718eafc3da0f547d18a16a8401de979079a31f5937dc9","features":{"default":[]},"yanked":false,"rust_version":"1.70"}
