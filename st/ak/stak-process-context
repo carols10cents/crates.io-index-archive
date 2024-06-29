@@ -1,0 +1,1 @@
+{"name":"stak-process-context","vers":"0.1.0","deps":[{"name":"once_cell","req":"^1.19.0","features":[],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"ec53c5bb6aa5b9a8e6998faafd63e9947560d02683628ed4109b9ae55ee87e61","features":{},"features2":{"std":["dep:once_cell"]},"yanked":false,"v":2}
