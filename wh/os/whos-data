@@ -1,0 +1,1 @@
+{"name":"whos-data","vers":"0.1.0","deps":[{"name":"phf","req":"^0.11","features":["macros"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"83df7d7d3f9210d6a9c2a21a1a5c4e1d6489c8be72288399eea638761f9765f8","features":{},"yanked":false}
