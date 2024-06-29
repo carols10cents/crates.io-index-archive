@@ -1,3 +1,4 @@
 {"name":"lilt","vers":"0.0.3","deps":[{"name":"iced","req":"^0.12.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"2a343cfd0266bc4e8483b6807fb9471a59299c42e24aa1ea0c3e2c0115a966da","features":{},"yanked":false}
 {"name":"lilt","vers":"0.1.0","deps":[{"name":"iced","req":"^0.12.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"b910ce68dee485edfbab131afb29540cfc9e6e00d6b75a8e520b665b97c8e322","features":{},"yanked":false}
 {"name":"lilt","vers":"0.2.0","deps":[],"cksum":"a9b185706c3f0e9d7bb824178c85262a8c37d44bb3454cb15cfa51ff3caa5544","features":{},"yanked":false}
+{"name":"lilt","vers":"0.2.1","deps":[],"cksum":"06e7f5ffd5da211fdb57d71b769a480edd62902ab4863ddad37619de0f0504d6","features":{},"yanked":false}
