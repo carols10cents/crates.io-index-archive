@@ -1,1 +1,2 @@
 {"name":"tlns-google-oauth2","vers":"0.1.0","deps":[{"name":"oauth2","req":"^4.4.2","features":["reqwest"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7d03609029d53d2cdf58b21df378f8867dfda5fc190dc37043a450da40afabd3","features":{},"yanked":false}
+{"name":"tlns-google-oauth2","vers":"0.1.1","deps":[{"name":"oauth2","req":"^4.4.2","features":["reqwest"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ec4a844e9da67eadfd1757eb3f391dd6c649f1a955bcd74b99dbcb872aba1773","features":{},"yanked":false}
