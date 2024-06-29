@@ -4,3 +4,4 @@
 {"name":"ignore-crates-io-language-aliases-broken","vers":"0.1.3","deps":[],"cksum":"3716cd70addbf91b1f68cf6678c22908bb470d36e267af1bd8d8721de3271e28","features":{},"yanked":false}
 {"name":"ignore-crates-io-language-aliases-broken","vers":"0.1.4","deps":[],"cksum":"977ded107e7f7b09983bd50d23380d5afef3524542c5c7cd8a8f009553443211","features":{},"yanked":false}
 {"name":"ignore-crates-io-language-aliases-broken","vers":"0.1.5","deps":[],"cksum":"36c805286afb6a130a02e3b68caa8651d96f504ea42ca27abd5e6409eb7245a0","features":{},"yanked":false}
+{"name":"ignore-crates-io-language-aliases-broken","vers":"0.1.6","deps":[],"cksum":"581f664f4a8f1339c655040668397d7c0cdea6c44d98b427ac1599ec15626a21","features":{},"yanked":false}
