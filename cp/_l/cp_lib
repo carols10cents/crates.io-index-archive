@@ -1,1 +1,2 @@
 {"name":"cp_lib","vers":"0.1.0","deps":[{"name":"anyhow","req":"^1.0.86","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7c48571f6d70634e0a1cba313879935e0c2ac6255dac6a3444a8102091b1c64e","features":{},"yanked":false}
+{"name":"cp_lib","vers":"0.1.1","deps":[{"name":"anyhow","req":"^1.0.86","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dfb04ebcf2a7136eefa6fa08af87f8a3954e6b61a5409f308fed6f03ff08bafa","features":{},"yanked":false}
