@@ -1,1 +1,2 @@
 {"name":"string_calculator","vers":"0.1.0","deps":[{"name":"statrs","req":"^0.16","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b391458893400a65b117af37f16c2bfaca44a561f331139aa432389d8fda9e33","features":{},"yanked":false}
+{"name":"string_calculator","vers":"0.1.1","deps":[{"name":"statrs","req":"^0.16","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f05772dc953ca95eac6a893d27464774fd4b83383edf499fedad1aa6e382364b","features":{},"yanked":false}
