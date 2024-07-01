@@ -17,3 +17,4 @@
 {"name":"sysutil","vers":"0.4.3","deps":[],"cksum":"0659835b3ed1bfed8c33d0444257087c2f1860856a9a3b2095927719b16376a5","features":{},"yanked":false}
 {"name":"sysutil","vers":"0.4.4","deps":[{"name":"rsjson","req":"^0.3.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"96ea8fc970b947347ecfd1070b74eef7987a9949ae501dae48e4f6c7c38e9e0a","features":{},"yanked":false}
 {"name":"sysutil","vers":"0.4.5","deps":[{"name":"rsjson","req":"^0.4.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e27465edfa4aa666ce108b4ef10ef83975cc34624ce08ee4767c1b1d4f3ef951","features":{},"yanked":false}
+{"name":"sysutil","vers":"0.4.6","deps":[{"name":"rsjson","req":"^0.4.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bf4d0490f79ace816a081a33e3125f30dfa2716e302607f30cb69f919a02cd23","features":{},"yanked":false}
