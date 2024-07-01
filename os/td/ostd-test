@@ -1,0 +1,1 @@
+{"name":"ostd-test","vers":"0.1.0","deps":[{"name":"owo-colors","req":"^3.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c9e23cd87779773b9934d31c58df7d6c1fc0a6348ce81df38ab8c93272cb7c79","features":{},"yanked":false}
