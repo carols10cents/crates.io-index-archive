@@ -1,0 +1,1 @@
+{"name":"glume","vers":"0.1.0","deps":[{"name":"gl","req":"^0.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"glutin","req":"^0.29.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"175f35c61f56e7f1115aa0325d1a7a5f65dfff99ca3894ab2efdf6d6c1dd96a2","features":{},"yanked":false}
