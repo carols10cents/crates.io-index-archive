@@ -1,0 +1,1 @@
+{"name":"ggus","vers":"0.0.0","deps":[{"name":"memmap2","req":"^0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5103320f7d09dd81702131aa0f4862921e32b148d8c6d87c75b0fdfaa238f9ff","features":{},"yanked":false}
