@@ -1,0 +1,1 @@
+{"name":"nbpf-sys","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2.155","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0de35ac03c3179e1da319f237be634cfbabdb1fee94f59f379965286f38cdcc7","features":{},"yanked":false}
