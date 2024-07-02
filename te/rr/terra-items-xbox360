@@ -1,0 +1,1 @@
+{"name":"terra-items-xbox360","vers":"0.1.0","deps":[{"name":"terra-items","req":"^0.2.2","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"58c27d9d70f919649f6aca8b040e628c23faa704d35a9a536545ae5f0f44e139","features":{},"features2":{"convert":["dep:terra-items"]},"yanked":false,"v":2}
