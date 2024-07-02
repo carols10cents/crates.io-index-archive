@@ -1,1 +1,2 @@
 {"name":"wgm","vers":"0.0.1","deps":[],"cksum":"760d50294a2883591451dd84802083c599c0a036305d26a1da5f0f8f4eb56826","features":{},"yanked":false}
+{"name":"wgm","vers":"0.0.2","deps":[{"name":"bytemuck","req":"^1.16.1","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"},{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"5c423a6970980b401b8553a38a0c66f43432ce21be6f0957d666d33047049d86","features":{},"yanked":false}
