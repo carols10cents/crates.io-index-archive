@@ -1,1 +1,2 @@
 {"name":"ggus","vers":"0.0.0","deps":[{"name":"memmap2","req":"^0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5103320f7d09dd81702131aa0f4862921e32b148d8c6d87c75b0fdfaa238f9ff","features":{},"yanked":false}
+{"name":"ggus","vers":"0.1.0","deps":[],"cksum":"1a3c614354c2ea215277450158c4d614d9563111edaf043a562a18369e97a4e1","features":{},"yanked":false}
