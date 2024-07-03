@@ -1,0 +1,1 @@
+{"name":"doo","vers":"0.1.2","deps":[{"name":"eframe","req":"^0.28.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"62d030f7aa166388380f1283efb430814ef6054493e7eb16a1ec137764b0802a","features":{},"yanked":false}
