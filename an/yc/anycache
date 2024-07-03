@@ -1,1 +1,2 @@
 {"name":"anycache","vers":"1.0.0","deps":[{"name":"tokio","req":"^1","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e24253e67579e0b56b839645038227a55fcc46621d845c9bb5db0d7a5f1dea0d","features":{},"yanked":false}
+{"name":"anycache","vers":"1.0.1","deps":[{"name":"tokio","req":"^1","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"17e8cdc724dec5239c0e1d14964dd95fe2966e6140902a6da28766b57205fe0d","features":{},"yanked":false}
