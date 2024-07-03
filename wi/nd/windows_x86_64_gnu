@@ -32,3 +32,4 @@
 {"name":"windows_x86_64_gnu","vers":"0.52.3","deps":[],"cksum":"704131571ba93e89d7cd43482277d6632589b18ecf4468f591fbae0a8b101614","features":{},"yanked":false,"rust_version":"1.60"}
 {"name":"windows_x86_64_gnu","vers":"0.52.4","deps":[],"cksum":"5eee091590e89cc02ad514ffe3ead9eb6b660aedca2183455434b93546371a03","features":{},"yanked":false,"rust_version":"1.56"}
 {"name":"windows_x86_64_gnu","vers":"0.52.5","deps":[],"cksum":"4e4246f76bdeff09eb48875a0fd3e2af6aada79d409d33011886d3e1581517d9","features":{},"yanked":false,"rust_version":"1.56"}
+{"name":"windows_x86_64_gnu","vers":"0.52.6","deps":[],"cksum":"147a5c80aabfbf0c7d901cb5895d1de30ef2907eb21fbbab29ca94c5b08b1a78","features":{},"yanked":false,"rust_version":"1.56"}
