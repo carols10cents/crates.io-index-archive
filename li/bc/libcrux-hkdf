@@ -1,0 +1,1 @@
+{"name":"libcrux-hkdf","vers":"0.0.2-alpha.1","deps":[{"name":"libcrux-hacl","req":"=0.0.2-alpha.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b9f33e5d886c6fa211c2283a650f34d65dee6be47388f2b1b7bd440a30295f68","features":{},"yanked":false}
