@@ -1,0 +1,1 @@
+{"name":"p3-maybe-rayon","vers":"0.1.0","deps":[{"name":"rayon","req":"^1.7.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fd2ac84bc3c6b18330a7cb00ae9a81036fd535b6aaf756611bfd67393dfd8ef5","features":{"parallel":["rayon"]},"yanked":false}
