@@ -1,1 +1,2 @@
 {"name":"TR_PDF_rename","vers":"0.1.0","deps":[{"name":"pdf-extract","req":"^0.7.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"237f99da99f8f70b35cf9a47e036d29720e56d79937ced4ce4e025347b0488fe","features":{},"yanked":false}
+{"name":"TR_PDF_rename","vers":"0.1.1","deps":[{"name":"pdf-extract","req":"^0.7.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7959f537f6540392cdabd63ccd44be30da8e8bc34cec294fc6592912f8dc4ae7","features":{},"yanked":false}
