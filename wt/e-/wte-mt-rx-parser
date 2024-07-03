@@ -1,0 +1,1 @@
+{"name":"wte-mt-rx-parser","vers":"0.1.0","deps":[{"name":"thiserror","req":"^1.0.61","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"45462645388cd6d44af42ae9ea12230cc1d834a8ea622729ffabb1e999cfd1da","features":{},"yanked":false}
