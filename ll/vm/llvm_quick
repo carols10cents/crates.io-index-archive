@@ -1,0 +1,1 @@
+{"name":"llvm_quick","vers":"181.0.0-alpha.1","deps":[{"name":"llvm-sys","req":"^181.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5a33e7ae6f46b1c6c23f033c8d34caaee26ac42022c2a0989b99ca69b1020973","features":{},"yanked":false}
