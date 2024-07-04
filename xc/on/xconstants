@@ -1,0 +1,1 @@
+{"name":"xconstants","vers":"0.1.0","deps":[{"name":"xconstants-macros","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7f4d39ccdbaba1e08fbd97af45c9454b42d1f12571d494b2ed52aff95e10b70f","features":{},"yanked":false}
