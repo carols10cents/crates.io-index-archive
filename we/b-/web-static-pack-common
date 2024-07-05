@@ -1,0 +1,1 @@
+{"name":"web-static-pack-common","vers":"0.5.0-beta.1","deps":[{"name":"rkyv","req":"^0.7.44","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"959cdc15ca0be5d4cd1a3efe10243482a808e1ce36c16ac2c9d38d591e0ab3c8","features":{},"yanked":false}
