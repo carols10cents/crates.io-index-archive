@@ -1,0 +1,1 @@
+{"name":"bevy_mod_xr","vers":"0.1.0-rc1","deps":[{"name":"bevy","req":"^0.14.0","features":["bevy_render","bevy_core_pipeline","bevy_winit","x11"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"a7264e918cbf68ad39a0932a351634d4083369178348bbba1814838e75ed9941","features":{},"yanked":false}
