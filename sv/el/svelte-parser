@@ -1,1 +1,1 @@
-{"name":"svelte-parser","vers":"0.1.0","deps":[{"name":"expressrs","req":"^0.1.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bd7bf2a3b8330d3e2133f4607c8115553f8bac3ce9b4613fbd17f4a3de4f87c3","features":{},"yanked":false}
+{"name":"svelte-parser","vers":"0.1.0","deps":[{"name":"expressrs","req":"^0.1.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bd7bf2a3b8330d3e2133f4607c8115553f8bac3ce9b4613fbd17f4a3de4f87c3","features":{},"yanked":true}
