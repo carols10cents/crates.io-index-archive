@@ -1,0 +1,1 @@
+{"name":"tauri-plugin-pinia","vers":"0.1.1","deps":[{"name":"tauri","req":"^2.0.0-beta.22","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"48985c57148af3a5871ce3efe490eb8a60b2f7671ddfe7d37405e09a86e9b20c","features":{},"yanked":false}
