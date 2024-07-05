@@ -1,0 +1,1 @@
+{"name":"twirp-build-rs","vers":"0.3.0","deps":[{"name":"prost-build","req":"^0.12","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"25019d8d3244a6a380f621129e4ed63a04bb91617effd46440405aad43588c40","features":{},"yanked":false}
