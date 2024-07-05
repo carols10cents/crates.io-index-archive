@@ -1,1 +1,1 @@
-{"name":"rsdisk","vers":"0.0.1","deps":[{"name":"cc","req":"^1.0.98","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"d96dd5b587e4d0db7f22fc40309987fcf7adc917f9e5f5806f5cc3bdd25808a3","features":{},"yanked":false}
+{"name":"rsdisk","vers":"0.0.1","deps":[{"name":"cc","req":"^1.0.98","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"d96dd5b587e4d0db7f22fc40309987fcf7adc917f9e5f5806f5cc3bdd25808a3","features":{},"yanked":true}
