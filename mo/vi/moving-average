@@ -5,3 +5,4 @@
 {"name":"moving-average","vers":"0.1.4","deps":[],"cksum":"26381fcd6cd0be790b7bcf739bb11d858d1681c4b35746fa39aeb3f4e272b548","features":{},"yanked":false}
 {"name":"moving-average","vers":"0.1.5","deps":[],"cksum":"cf3d350744229a50c6f95a651c9fb2a4fbc9143a01a0a5d8b71bfec80db2f9e9","features":{},"yanked":false}
 {"name":"moving-average","vers":"0.1.6","deps":[],"cksum":"d802bf04ca2a6f125f54897c9ccf65623b1f752b99730874942787eb9021eeb3","features":{},"yanked":false}
+{"name":"moving-average","vers":"0.1.7","deps":[],"cksum":"ac0959cea7cafcbc9c9949b6b12dd8fb2c388b71867bd998e346cc7d0cdee876","features":{},"yanked":false}
