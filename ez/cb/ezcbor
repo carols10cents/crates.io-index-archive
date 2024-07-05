@@ -1,1 +1,2 @@
 {"name":"ezcbor","vers":"0.0.1","deps":[],"cksum":"60ae5bb14f9e4ba59b6577e345f17476e5fc11d9a39eb314ff48fee2c8499e8d","features":{},"yanked":false}
+{"name":"ezcbor","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.5.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"4224728bd49cd2ac90b3cbbd2b9c34a411cf7a4ce0bd51bbdcaa366fd7c116a9","features":{},"yanked":false}
