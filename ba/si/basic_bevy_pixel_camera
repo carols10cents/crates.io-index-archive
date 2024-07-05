@@ -1,0 +1,1 @@
+{"name":"basic_bevy_pixel_camera","vers":"0.1.0","deps":[{"name":"bevy","req":"^0.14.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"16feae780077e382cd26fbcf725eac92c15fbf30ac84b745f9d354cf55d0cd7e","features":{},"yanked":false}
