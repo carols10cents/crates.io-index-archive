@@ -1,0 +1,1 @@
+{"name":"seen_set","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"61f862a15939da1018f58959f85d0e8a3520aec2c79f8e75f8d59af6b2d3fde5","features":{},"yanked":false}
