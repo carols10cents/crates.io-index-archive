@@ -4,3 +4,4 @@
 {"name":"lilt","vers":"0.2.1","deps":[],"cksum":"06e7f5ffd5da211fdb57d71b769a480edd62902ab4863ddad37619de0f0504d6","features":{},"yanked":false}
 {"name":"lilt","vers":"0.2.5","deps":[],"cksum":"e9dabba731cf335a9bdfbfc96731d44c6ee6b72df5c8b76dad88815c7357ef06","features":{},"yanked":false}
 {"name":"lilt","vers":"0.3.0","deps":[],"cksum":"857f35e1665418e53890fc25677c8fdb9ff3ef14a3b1496e91b37ff99ecbfbbb","features":{},"yanked":false}
+{"name":"lilt","vers":"0.4.0","deps":[],"cksum":"d02f4e8fead2a34a7aafe9d0effb4a56f9918656b10ed5e7f5ab4d26d9c3c935","features":{},"yanked":false}
