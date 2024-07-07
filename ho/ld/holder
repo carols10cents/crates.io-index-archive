@@ -1,0 +1,1 @@
+{"name":"holder","vers":"0.1.0","deps":[{"name":"holder_derive","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1f05f667304bcb4fe717f53c6b3ace225b6e54334f3123804bb9086f1b13af11","features":{},"yanked":false}
