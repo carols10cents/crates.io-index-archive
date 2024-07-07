@@ -1,0 +1,1 @@
+{"name":"EMDisi_lib","vers":"0.1.0","deps":[{"name":"json_parser_simple","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"423d03d9b0126bcf595b899f66ad14ac8a4ecb9756e2e752f856aaedacbcf2a0","features":{},"yanked":false}
