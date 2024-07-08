@@ -1,0 +1,1 @@
+{"name":"charls-sys","vers":"0.1.0","deps":[{"name":"cmake","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"87302289bf01647e89cba05e976235caa5ab35214733d3b6cc0e79e382492f01","features":{"default":[],"static":[]},"yanked":false,"links":"charls"}
