@@ -3,3 +3,4 @@
 {"name":"magic_string_search","vers":"0.1.4","deps":[],"cksum":"3cd32466b57096cbf19990ceafffa8944e82f3398ce74f2e6a8c4f8ad597a9c0","features":{},"yanked":false}
 {"name":"magic_string_search","vers":"0.1.5","deps":[],"cksum":"316f3a5b1c087bbbd3b8a0e5ddd28e9a448c9785e1d6267068d6ec95e87b9bac","features":{},"yanked":false}
 {"name":"magic_string_search","vers":"0.2.0","deps":[],"cksum":"7236bd9d11c99d408c66a089ca643ca895db1cc4c5d68e70ff783fb8c4eb1173","features":{},"yanked":false}
+{"name":"magic_string_search","vers":"0.2.1","deps":[],"cksum":"d25c2ed7b402fa4ba4b65fa9144dce5899a6369356a3bccae904c11044fdb532","features":{},"yanked":false}
