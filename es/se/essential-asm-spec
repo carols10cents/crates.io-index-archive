@@ -1,1 +1,2 @@
 {"name":"essential-asm-spec","vers":"0.0.0-release","deps":[],"cksum":"cc10c48d9c4402d39f54e9cfdc49dc9148b45acc9107531309437a47ca378899","features":{},"yanked":false}
+{"name":"essential-asm-spec","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0.195","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"serde_yaml","req":"^0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e80b8df98cd47c97a40b710b137c8541e1037916fde9fa6894663410d30e5635","features":{},"yanked":false}
