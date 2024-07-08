@@ -12,3 +12,4 @@
 {"name":"oxc_ast_macros","vers":"0.16.3","deps":[],"cksum":"34f6e9a0084937918818610e310edd9234b324863fcf46d9b5106b92fba30824","features":{},"yanked":false,"rust_version":"1.74"}
 {"name":"oxc_ast_macros","vers":"0.17.0","deps":[],"cksum":"cd04f0b1cfb84ef3f9a24891f04b20b47bd6f6f9aa6dc53f7d883ac6fd1a5ccd","features":{},"yanked":false,"rust_version":"1.74"}
 {"name":"oxc_ast_macros","vers":"0.17.1","deps":[],"cksum":"005fbdb91079c0bdc37fbebdd1a38a290edc1d9381efabad21b5cb1e5fc0f37f","features":{},"yanked":false,"rust_version":"1.74"}
+{"name":"oxc_ast_macros","vers":"0.17.2","deps":[],"cksum":"90c9015d5c843f49ae1e40276a3011f383a79c36ae32fd7165cc1764a3e50d39","features":{},"yanked":false,"rust_version":"1.74"}
