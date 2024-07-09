@@ -1,0 +1,1 @@
+{"name":"cjaggerx","vers":"0.0.2","deps":[{"name":"cjaggerx-sys","req":"^0.0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"00e02782a680214776ef890fab275d02672b0985bef8b628906882d030a29656","features":{},"yanked":false}
