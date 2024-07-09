@@ -1,0 +1,1 @@
+{"name":"jnim","vers":"0.1.0","deps":[{"name":"cesu8","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"jnim_sys","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fca27d6446bc263136069f21c63470c8b38ead24138414dfb25f03cd135b578a","features":{},"yanked":false}
