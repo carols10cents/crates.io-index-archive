@@ -1,0 +1,1 @@
+{"name":"zh_num","vers":"0.3.1","deps":[{"name":"peg","req":"^0.8.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"74f8f6abecf7ee27520f74265c5afe302b64888a528f86db4bccc956fcf75ac2","features":{},"yanked":false}
