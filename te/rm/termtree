@@ -6,3 +6,4 @@
 {"name":"termtree","vers":"0.3.0","deps":[],"cksum":"73470588c950a20bad3ae9fccdecd7f565a561d62137fb745a18fc1e5bd4a3fe","features":{},"yanked":false}
 {"name":"termtree","vers":"0.4.0","deps":[],"cksum":"95059e91184749cb66be6dc994f67f182b6d897cb3df74a5bf66b5e709295fd8","features":{},"yanked":false}
 {"name":"termtree","vers":"0.4.1","deps":[],"cksum":"3369f5ac52d5eb6ab48c6b4ffdc8efbcad6b89c765749064ba298f2c68a16a76","features":{},"yanked":false}
+{"name":"termtree","vers":"0.5.0","deps":[{"name":"snapbox","req":"^0.6.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"804a949d00f0fe6d3935127238b04ef4f56131c7cab670584194f17f01fca6b6","features":{},"yanked":false,"rust_version":"1.74"}
