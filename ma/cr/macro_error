@@ -1,1 +1,2 @@
 {"name":"macro_error","vers":"0.1.0","deps":[{"name":"colored","req":"^2.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ab57b1c2cc3ce632aa1c92ac4d4a96ebb09a2671a96b6e7b9e1d8b51e5ea8e0a","features":{},"yanked":false}
+{"name":"macro_error","vers":"0.1.1","deps":[{"name":"colored","req":"^2.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c618a9da03582d6197ce4998ceb586e07c7428fcec8fcf07376e8ffbd4a3ccdf","features":{},"yanked":false}
