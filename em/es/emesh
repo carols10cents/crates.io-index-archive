@@ -1,0 +1,1 @@
+{"name":"emesh","vers":"0.0.1-alpha.3","deps":[{"name":"emesh-core","req":"^0.0.1-alpha.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"101814f951f7ebb1f7020e410c19e6c87d85fc5d3859c7eceed497cc08b7a120","features":{},"yanked":false}
