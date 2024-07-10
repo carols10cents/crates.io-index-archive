@@ -1,0 +1,1 @@
+{"name":"scout-lexer","vers":"0.5.1","deps":[{"name":"test-case","req":"^3.3.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"0ef3843cf23b03b9ba93c47fe24460f6b30e2c7a93120bd0749b12344f3333fd","features":{},"yanked":false}
