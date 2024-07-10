@@ -1,0 +1,1 @@
+{"name":"kvdb-lib","vers":"0.1.0","deps":[{"name":"dashmap","req":"^6.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7b4a77d61db10f786be78c2873bd4680c96687a97a46047c2c030a8b04761616","features":{},"yanked":false}
