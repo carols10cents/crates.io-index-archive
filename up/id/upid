@@ -1,0 +1,1 @@
+{"name":"upid","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"caa163f240c07d2d15c3abd2e23082e5aecab5ab5be54c8597c7b65510e215a6","features":{},"yanked":false}
