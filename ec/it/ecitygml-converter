@@ -1,0 +1,1 @@
+{"name":"ecitygml-converter","vers":"0.0.1-alpha.3","deps":[{"name":"ecitygml-converter-core","req":"^0.0.1-alpha.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fff504cef6351089b3c806359bd5afa9ee9bfa012ec256f260e05517fa7ae500","features":{"default":["rosbag","voxel"],"rosbag":[],"voxel":[]},"yanked":false}
