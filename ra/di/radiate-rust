@@ -1,0 +1,1 @@
+{"name":"radiate-rust","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"693de76c11f7c2a2b5a26ffd01e022a09b4d4af72875d9372c8eaabcedf98c2e","features":{},"yanked":false}
