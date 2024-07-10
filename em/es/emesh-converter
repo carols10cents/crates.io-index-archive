@@ -1,0 +1,1 @@
+{"name":"emesh-converter","vers":"0.0.1-alpha.3","deps":[{"name":"emesh-converter-core","req":"^0.0.1-alpha.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"67a0cde68c778aeba17e4328c0b9d3dc3f1aee209fd7c8300d7c8e8c6b2cbd8a","features":{},"yanked":false}
