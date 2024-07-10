@@ -1,1 +1,2 @@
 {"name":"erydanos","vers":"0.1.0","deps":[{"name":"num-traits","req":"^0.2.19","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2b0354c3359e57ded8b5f8a120273cb1da304630399da59afa14182404573d6f","features":{},"yanked":false}
+{"name":"erydanos","vers":"0.1.1","deps":[{"name":"num-traits","req":"^0.2.19","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3159c4da878d5762f804f7cafac570729d0a6c27183aa75473fccee4fe98d01f","features":{},"yanked":false}
