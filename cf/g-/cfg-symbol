@@ -1,0 +1,1 @@
+{"name":"cfg-symbol","vers":"0.0.1","deps":[{"name":"miniserde","req":"^0.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"97a00c99b50a3584312822b053283eea0dada2bb97a0e3178707f8c25afd5cd4","features":{"serialize":["miniserde"]},"yanked":false}
