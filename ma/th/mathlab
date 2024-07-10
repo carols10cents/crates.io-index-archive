@@ -1,2 +1,3 @@
 {"name":"mathlab","vers":"0.1.0","deps":[],"cksum":"b85908a26df25e15868bfad2a547985edd171c5092c6c0f3a28927c30b74a892","features":{},"yanked":true}
 {"name":"mathlab","vers":"0.1.1","deps":[],"cksum":"30b017c4de77bf1e4d2cbf630955624c32a207b19c6b58772cb0b3e23b006c58","features":{},"yanked":false}
+{"name":"mathlab","vers":"0.1.2","deps":[],"cksum":"e93a272a23f0c5623eed5606f1071540468be6fd18ea679d197cfe61fade466d","features":{},"yanked":false}
