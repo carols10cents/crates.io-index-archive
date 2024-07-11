@@ -1,0 +1,1 @@
+{"name":"gr-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.68","features":["runtime"],"optional":true,"default_features":false,"target":null,"kind":"build"}],"cksum":"6b05e529eb21276e93350813eec034a5ed78ff7113a98dc5095c8222f1ea7ea7","features":{},"yanked":false,"links":"gr"}
