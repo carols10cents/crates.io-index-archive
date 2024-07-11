@@ -4,3 +4,4 @@
 {"name":"musicxml_internal","vers":"1.0.3","deps":[],"cksum":"4584ffb68f2c2dda3e7fff40976b597e9a8167f2a80759f18dfb486266ba5de0","features":{},"yanked":false}
 {"name":"musicxml_internal","vers":"1.0.4","deps":[],"cksum":"ea9b9bbf5e4f708d18f37f96dffce39ce785358fe6aeeec5444dd8065ae205f7","features":{},"yanked":false}
 {"name":"musicxml_internal","vers":"1.0.5","deps":[],"cksum":"dd6d44cdb37909cb1706149e124b2e30d33e724d1f0c416c5d9077f75e789311","features":{},"yanked":false}
+{"name":"musicxml_internal","vers":"1.0.6","deps":[],"cksum":"91e0649e95898d1e35aae1a9edcaaa160790b70f073dad26ceb004f2ec5a14aa","features":{},"yanked":false}
