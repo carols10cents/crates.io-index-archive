@@ -1,1 +1,2 @@
 {"name":"copyvec","vers":"0.1.0","deps":[],"cksum":"2897f029b39597c656f055ba7676017dc796aa32992fd4315fad740f22f089bd","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":true}
+{"name":"copyvec","vers":"0.1.1","deps":[{"name":"quickcheck","req":"^1.0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"a853112803a381b833572af7767712c7a58ba815e412cf0702883f40047b57df","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false}
