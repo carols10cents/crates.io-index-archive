@@ -11,3 +11,4 @@
 {"name":"golem-wit","vers":"0.2.9","deps":[],"cksum":"d22d012692cc1acaea089d5fb577ceac478fdbf0d6b8f24150eea29e9e7ff5ca","features":{},"yanked":false}
 {"name":"golem-wit","vers":"0.2.10","deps":[],"cksum":"09a9f3d1abc406d69396138285161f49bef5ce4faa3d840ca27c7b2cefe49449","features":{},"yanked":false}
 {"name":"golem-wit","vers":"0.3.0","deps":[],"cksum":"fe38e8abe5a18164ccb7e8c08736a9a8bae4f3368872e349d526057b1a09cc0f","features":{},"yanked":false}
+{"name":"golem-wit","vers":"0.3.1","deps":[],"cksum":"e8b4e1c1cad2fa57e4490c85b1fb1f93ee89720cafcc26ed1b672bb64c635f74","features":{},"yanked":false}
