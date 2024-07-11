@@ -1,0 +1,1 @@
+{"name":"flatten_objects","vers":"0.1.0","deps":[{"name":"bitmaps","req":"^3.2","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"640ae5c0dad96e72fe0acc974f42f9ab1e39c3e9708aa02579c160895d884244","features":{},"yanked":false}
