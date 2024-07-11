@@ -1,0 +1,1 @@
+{"name":"chik_wasm","vers":"0.10.0","deps":[{"name":"wasm-bindgen","req":"^0.2.92","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"262a3c6fcc581d79f91b3d0130fe40e305d1c2d878c072240e9b3aa590465b73","features":{},"yanked":false}
