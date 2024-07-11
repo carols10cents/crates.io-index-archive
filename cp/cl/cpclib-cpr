@@ -1,0 +1,1 @@
+{"name":"cpclib-cpr","vers":"0.3.0","deps":[{"name":"cpclib-common","req":"^0.8.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"63fd46ea3675abbac5623f7723e6f2e51a0ec01a86102e7ac98a080eab0ac305","features":{},"yanked":false}
