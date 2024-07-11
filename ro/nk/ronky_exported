@@ -1,0 +1,1 @@
+{"name":"ronky_exported","vers":"0.0.0-a","deps":[{"name":"serde_json","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"785c603338fc5ebeae596cd700339c06519983d1e437008bdf7433e5cc85b8d8","features":{},"yanked":false}
