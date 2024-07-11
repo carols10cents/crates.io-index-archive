@@ -1,0 +1,1 @@
+{"name":"lepton_rs","vers":"0.1.0","deps":[{"name":"embedded-hal","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"94e41a7c4bbafedd73cb80e9c8ca3863dddfb94617ee225608e64a34ff975e1e","features":{},"yanked":false}
