@@ -1,0 +1,1 @@
+{"name":"copyvec","vers":"0.1.0","deps":[],"cksum":"2897f029b39597c656f055ba7676017dc796aa32992fd4315fad740f22f089bd","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false}
