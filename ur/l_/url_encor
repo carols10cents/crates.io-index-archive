@@ -2,3 +2,4 @@
 {"name":"url_encor","vers":"0.2.0","deps":[],"cksum":"82648b8a6bcfb19df6744c4d6fc28548224d57ddf00114d7f500bbf8fece3978","features":{},"yanked":false}
 {"name":"url_encor","vers":"0.3.0","deps":[],"cksum":"a8ad9caab27a33afcbaab6da73b96bb89a7329cceb6cb256354a256e8c8049e9","features":{},"yanked":false}
 {"name":"url_encor","vers":"1.0.0","deps":[],"cksum":"93227c775f51495bfddd8bc494a0af192e1a2c830a23abec0798eaf91ba1677e","features":{},"yanked":false}
+{"name":"url_encor","vers":"1.0.1","deps":[],"cksum":"88897cd390f5f821311042171877d3545417a495360fc73768574826c593ba61","features":{},"yanked":false}
