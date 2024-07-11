@@ -1,1 +1,2 @@
 {"name":"compact-debug","vers":"0.1.0","deps":[{"name":"region","req":"^3.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"aed45fe326460b0066ada789cc1bab4cfeadab4f91d69795de0d9f99cac7359e","features":{},"yanked":false}
+{"name":"compact-debug","vers":"0.1.1","deps":[{"name":"region","req":"^3.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"69052cf8dc11d8b4f53e0e78e83728633232628d5f64754e67a1167cea6576cf","features":{},"yanked":false}
