@@ -5,3 +5,4 @@
 {"name":"mathlab","vers":"0.1.4","deps":[],"cksum":"71684464bcc17217690d4e4b7be843df1b3f13a4bb4ccf5c962e1ca4b1031a05","features":{},"yanked":false}
 {"name":"mathlab","vers":"0.1.5","deps":[],"cksum":"2353da2be5cc27e2f162ec1bcc195ffd0dd027c01fd66f337be97579a4c65f79","features":{},"yanked":false}
 {"name":"mathlab","vers":"0.1.6","deps":[],"cksum":"54c84033b60a87d567abf78ecc92d388b6453ce42a5dd75898f527bd5fa6fafd","features":{},"yanked":false}
+{"name":"mathlab","vers":"0.1.7","deps":[],"cksum":"e24005153a46c6d51c450279bf8f9990473f58461e5bf6965b1a86fb9b3533ed","features":{},"yanked":false}
