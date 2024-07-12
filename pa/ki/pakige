@@ -1,0 +1,1 @@
+{"name":"pakige","vers":"0.1.0","deps":[{"name":"regex","req":"^1.10.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7b3c9483ae57667b916721e72fed2556dea17b379bfe6d2dab59e650ef84f167","features":{},"yanked":false}
