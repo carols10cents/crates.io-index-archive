@@ -1,1 +1,2 @@
 {"name":"krata-loopdev","vers":"0.0.11","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b52ef231e60f42ab2314503d3a61be647d0e030974156884bccd149a5b4d0a84","features":{},"yanked":false}
+{"name":"krata-loopdev","vers":"0.0.12","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0b5a22c1adad10f4e4be90192e7157b70f38a3d05b368123d693b2807749a365","features":{},"yanked":false}
