@@ -1,0 +1,1 @@
+{"name":"vyder_std","vers":"0.3.0","deps":[{"name":"vyder","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0a0cda1dc8ca27a3f2a0b0190925eb68058bef4572e34918a5a81703c1b497cf","features":{},"yanked":false}
