@@ -8,3 +8,4 @@
 {"name":"scoped_thread_local","vers":"0.3.0","deps":[],"cksum":"2dfb8eb9136869882c082634bdce09fa4d52ec90c530e8e9e926c67bef59ff72","features":{},"yanked":false}
 {"name":"scoped_thread_local","vers":"0.4.0","deps":[],"cksum":"dcdaccc283970655657203c821218a0b6a16b897cfdf87ebf510075c2ce546f1","features":{},"yanked":false}
 {"name":"scoped_thread_local","vers":"0.5.0","deps":[],"cksum":"fca488507e0243bc6fbe36594bc8b274f205f32725065ebaa7636ee563ad47c4","features":{},"yanked":false}
+{"name":"scoped_thread_local","vers":"0.5.1","deps":[],"cksum":"a2691044c7b46fd9d05f8efe0801732346a332eb358962489bed7598c3decd41","features":{},"yanked":false}
