@@ -6,3 +6,4 @@
 {"name":"dyn_std","vers":"0.3.0","deps":[],"cksum":"c224dedee0e7805eb944910c94af84609b979f53896effd58b05afd4d4c3e657","features":{},"yanked":false}
 {"name":"dyn_std","vers":"0.3.1","deps":[],"cksum":"84d895ed9d817cdfb7ea5327bd7df205f4f9aa860de298c5c59a5d763fac548e","features":{},"yanked":false}
 {"name":"dyn_std","vers":"0.3.2","deps":[],"cksum":"c99a2d59777a6c67602b9134b5016afe012b63a16918b9f3a1124f7fbc40b8b6","features":{},"yanked":false}
+{"name":"dyn_std","vers":"0.3.3","deps":[],"cksum":"18150a3b95526a6f32f542e74999f7f34607794d2048a105a30474b361474e67","features":{},"yanked":false}
