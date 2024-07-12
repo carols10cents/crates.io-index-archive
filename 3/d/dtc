@@ -1,0 +1,1 @@
+{"name":"dtc","vers":"0.1.0","deps":[{"name":"chrono","req":"^0.4.38","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f2512039d7c537ac7fef401977b51fd021460fd510acff1381cebcbac786ab61","features":{},"yanked":false}
