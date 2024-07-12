@@ -7,3 +7,4 @@
 {"name":"array-section","vers":"0.1.6","deps":[],"cksum":"2da8700c85db92da8d4d37cb68f46e02ab48679d84aab4487add74a0cbe769f4","features":{"alloc":[],"std":["alloc"]},"yanked":false}
 {"name":"array-section","vers":"0.1.7","deps":[],"cksum":"f07c8a6b5e9a90d3ecfc25160bd0cf630c57d594c59c04206aee424e7e429912","features":{"alloc":[],"std":["alloc"]},"yanked":false}
 {"name":"array-section","vers":"0.1.8","deps":[],"cksum":"5f9caf07ad021a46f095ea65914dcfc665cd44da61505ca3b1b47067ca8d6cf8","features":{"alloc":[],"std":["alloc"]},"yanked":false}
+{"name":"array-section","vers":"0.2.0","deps":[],"cksum":"adf1bde993dc4bf6006c78a174e5036f4b21c81796c5b744ff6044336a0e7974","features":{"alloc":[],"std":["alloc"]},"yanked":false}
