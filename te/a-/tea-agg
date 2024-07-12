@@ -1,0 +1,1 @@
+{"name":"tea-agg","vers":"0.2.1","deps":[{"name":"tea-core","req":"^0.2.1","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"40fa8eaee5be235e77c971208d0d07d4f290124b901a147da3407714541b33a3","features":{},"yanked":false}
