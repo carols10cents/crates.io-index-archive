@@ -1,1 +1,2 @@
 {"name":"cliperge","vers":"0.1.0","deps":[{"name":"clipboard","req":"^0.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7bc3de823030cc796fdfddb31c4ce4a311ecbf390cca644f7a72b4c13930d614","features":{},"yanked":false}
+{"name":"cliperge","vers":"0.1.1","deps":[{"name":"clipboard","req":"^0.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d76ea0a4ac75f82444836e67c162bcca119a653f59c60636ee007c8787e8142f","features":{},"yanked":false}
