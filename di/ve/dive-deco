@@ -16,3 +16,4 @@
 {"name":"dive-deco","vers":"1.3.3","deps":[],"cksum":"54d19ecfc256b40cf8e17bf968d4f2dfa1a28889d621dbda24d567e2d7e428ab","features":{},"yanked":false}
 {"name":"dive-deco","vers":"1.4.0","deps":[],"cksum":"cf79fd7efaa4a3d8b53f00a288c0bde7438650b4b301b8da1a18f30e2293cc8e","features":{},"yanked":false}
 {"name":"dive-deco","vers":"2.0.0","deps":[],"cksum":"0e8c64f545ca112878832dc208d5b2a36ac96facd529084c63beb9cb31e1a41a","features":{},"yanked":false}
+{"name":"dive-deco","vers":"2.1.0","deps":[],"cksum":"6fbb33b0a12225387b626528c9c860e7f2ea08639419fb776fbe5420d6ce97cb","features":{},"yanked":false}
