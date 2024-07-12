@@ -1,0 +1,1 @@
+{"name":"grovedbg-types","vers":"1.0.0-rc.2","deps":[{"name":"serde","req":"^1.0.201","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"105b8bb1de1e03b1a5b3b60c1f8144aea644c90e462700f716e635d81c03a4ab","features":{},"yanked":false}
