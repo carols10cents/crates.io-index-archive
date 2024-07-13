@@ -3,3 +3,4 @@
 {"name":"big_num_math","vers":"1.0.2","deps":[],"cksum":"cb460b3d846c93c1a9e22ee4f6831692b20ff52e110cb7cccd97300039d58843","features":{},"yanked":false}
 {"name":"big_num_math","vers":"2.0.0","deps":[],"cksum":"88c3d742334e0561adfb02da96d9c808d265b34116e2173cd6dae9db7a68e257","features":{},"yanked":false}
 {"name":"big_num_math","vers":"2.0.1","deps":[],"cksum":"57131b2d8d144ba1ccd9da83e70da25bbf3254010ae15ede1ca6505ea4540a58","features":{},"yanked":false}
+{"name":"big_num_math","vers":"2.1.0","deps":[],"cksum":"7519841516901808d16495f1966d6a263d8bc19a4da9e39159bf49545d0367a6","features":{},"yanked":false}
