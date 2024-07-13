@@ -1,0 +1,1 @@
+{"name":"soplex-rs","vers":"0.1.0","deps":[{"name":"soplex-sys","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dabd7e58754c163c1e79f43ed105b1d5558ef80ccd4afbb85f551e1c24de7f0f","features":{},"yanked":false}
