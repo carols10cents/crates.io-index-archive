@@ -2,3 +2,4 @@
 {"name":"m4rs","vers":"0.2.0","deps":[],"cksum":"8fa4fd92b4a4a683f5d258ff729f18710740be1e40c95c69fc5a10af92d26105","features":{},"yanked":false}
 {"name":"m4rs","vers":"0.3.0","deps":[],"cksum":"db87d43276967873c2194485fa490ac31d5d68b69b603bc71ebb3164eda834a9","features":{},"yanked":false}
 {"name":"m4rs","vers":"0.4.0","deps":[],"cksum":"19f4f281e27a594ac5e03bc863cd3f56d10eadcaf8b513ba6060111c31d5396e","features":{},"yanked":false}
+{"name":"m4rs","vers":"0.5.0","deps":[],"cksum":"b9082dde654cac92510e95bb47be021d87c3071ed5415dfae4a87c81ffe5b449","features":{},"yanked":false}
