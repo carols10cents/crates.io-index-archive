@@ -17,3 +17,4 @@
 {"name":"rsjson","vers":"0.4.0","deps":[],"cksum":"2cc01bcd34e850fc0da5cd3b0b4fde5671f9769212b9ef1f6ea60dcfdb6e52be","features":{},"yanked":false}
 {"name":"rsjson","vers":"0.4.1","deps":[],"cksum":"64259b2838a7238e598c012e66b99db9d84fda302fe61823d58c4b64f5e036c6","features":{},"yanked":false}
 {"name":"rsjson","vers":"0.4.2","deps":[],"cksum":"ece6a491d4b13f068a8407c36d993d87d9ce01a1129b75ec3b2b39326e8909ac","features":{},"yanked":false}
+{"name":"rsjson","vers":"0.4.3","deps":[],"cksum":"674a427c57d461f5739a15a4a34c2969d9fefface85c1d1aeab38eef9a54c84e","features":{},"yanked":false}
