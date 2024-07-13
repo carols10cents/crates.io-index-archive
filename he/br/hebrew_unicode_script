@@ -1,0 +1,1 @@
+{"name":"hebrew_unicode_script","vers":"0.1.0","deps":[{"name":"is-even","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"178c64ac37dddc3314745fb373090d3fc4667d0c9e9f18bf6aacbc144521cf7c","features":{},"yanked":false}
