@@ -1,1 +1,2 @@
 {"name":"cpclib-cpr","vers":"0.3.0","deps":[{"name":"cpclib-common","req":"^0.8.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"63fd46ea3675abbac5623f7723e6f2e51a0ec01a86102e7ac98a080eab0ac305","features":{},"yanked":false}
+{"name":"cpclib-cpr","vers":"0.3.1","deps":[{"name":"cpclib-common","req":"^0.8.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"34bfdd1214f8bc3d76c998b05e12bbf3a97cc207793a286a7f772f634cf8f618","features":{},"yanked":false}
