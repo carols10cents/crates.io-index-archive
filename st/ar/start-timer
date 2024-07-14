@@ -1,0 +1,1 @@
+{"name":"start-timer","vers":"0.0.1","deps":[{"name":"clap","req":"^4.5.2","features":["std","derive","env"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d51a8bea79c65533a99039f74fe18083b29e8e69dcb73e3cfd32163b83d77f1c","features":{},"yanked":false}
