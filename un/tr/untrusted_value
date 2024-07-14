@@ -1,1 +1,2 @@
 {"name":"untrusted_value","vers":"0.1.0","deps":[],"cksum":"8ae9309ec39d9623a8a76ec4a9db5fc4de3800a8a2fc9cb9cef820dadb6f87fd","features":{"allow_usage_without_sanitization":[],"default":["allow_usage_without_sanitization"]},"yanked":false}
+{"name":"untrusted_value","vers":"0.1.1","deps":[],"cksum":"701c4f542e80f4929f4c2c49c2188d1b67cc9d3ed3fedf23a6c49258b2f9ba14","features":{"allow_usage_without_sanitization":[],"default":["allow_usage_without_sanitization"]},"yanked":false}
