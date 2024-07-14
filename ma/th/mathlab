@@ -8,3 +8,4 @@
 {"name":"mathlab","vers":"0.1.7","deps":[],"cksum":"e24005153a46c6d51c450279bf8f9990473f58461e5bf6965b1a86fb9b3533ed","features":{},"yanked":false}
 {"name":"mathlab","vers":"0.1.8","deps":[],"cksum":"ebdb24055d40a4534b86bd85120a5f26b10b0390a19295fd3a9bbe5186fc3234","features":{},"yanked":false}
 {"name":"mathlab","vers":"0.1.9","deps":[],"cksum":"c7f2ee91d49bdfbcb4ebfa62c7bec6d0e26064096d36156fcc1362f4f16e29d4","features":{},"yanked":false}
+{"name":"mathlab","vers":"0.2.0","deps":[],"cksum":"498a6850a771538c6e1ff24373cea8bea997dcac86740064c709e556ecdafd22","features":{},"yanked":false}
