@@ -1,1 +1,2 @@
 {"name":"marg","vers":"0.1.0","deps":[],"cksum":"2e1b41b84872773f78cdd409ea717a6eaf36d451404b97ac40ab37b6b387446b","features":{"default":["postgres"],"postgres":[],"rsa":[],"sqlite":[],"token":[]},"yanked":false}
+{"name":"marg","vers":"0.2.0","deps":[],"cksum":"64ffd4a19bea19abd54158b77dec4a70158068368d17d3073d3ea90aa7af1dd6","features":{"default":["postgres"],"postgres":[],"rsa":[],"sqlite":[],"token":[]},"yanked":false}
