@@ -1,1 +1,2 @@
 {"name":"bluefile","vers":"0.1.0","deps":[],"cksum":"617d55c75b5130598e3a375a3f98122d0b7c6662206b5ed8d1761833af3b21b5","features":{},"yanked":false}
+{"name":"bluefile","vers":"0.2.0","deps":[{"name":"num","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0429ad89d6a5187f5e668e4b5a3d9c9b9e7fadfa5fb743bde1027efae40581eb","features":{},"yanked":false}
