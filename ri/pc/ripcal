@@ -7,3 +7,4 @@
 {"name":"ripcal","vers":"0.5.1","deps":[],"cksum":"837cabf5e0a1a986838f214900555a3707923c0d9a553146ad2267a9034c24f6","features":{},"yanked":true}
 {"name":"ripcal","vers":"0.5.2","deps":[],"cksum":"d7eed98a10534b14167e379c418fe4c024091aee8e828f268d45111c3a6562a0","features":{},"yanked":false}
 {"name":"ripcal","vers":"0.6.0","deps":[],"cksum":"e97e2182869790dd1fc37de4f28f9912324bf3d667d7021c5b05886379c6c465","features":{},"yanked":false}
+{"name":"ripcal","vers":"0.6.1","deps":[],"cksum":"f7244fd918f3d0298f9908f5f86fdeecc37c3e3ff90de1a1b0833f8a9b57c66d","features":{},"yanked":false}
