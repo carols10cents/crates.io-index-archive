@@ -1,1 +1,2 @@
 {"name":"flager","vers":"0.0.1","deps":[],"cksum":"746097f5dd4cde9f92d7bf485b14f73eef50a3292323810649221935728cce39","features":{},"yanked":false,"rust_version":"1.56.0"}
+{"name":"flager","vers":"0.0.2","deps":[],"cksum":"5fb5ce14b52b6d018f4b717ff62f5ac3cf89051446878b8d14b1895b9ea5e91d","features":{},"yanked":false,"rust_version":"1.56.0"}
