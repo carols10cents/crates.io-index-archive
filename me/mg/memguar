@@ -1,0 +1,1 @@
+{"name":"memguar","vers":"0.0.1","deps":[{"name":"libc","req":"^0.2.155","features":["default"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f366d00a22c40f7d5690e8bfff1625f922b5bc154929cde5b030a26b9f48650c","features":{},"yanked":false}
