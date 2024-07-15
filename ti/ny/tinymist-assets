@@ -5,3 +5,4 @@
 {"name":"tinymist-assets","vers":"0.11.15-rc1","deps":[],"cksum":"6c4a18c00554813c1be6842584eaf77551c9872c78450d0c2ce7a248add7e9f8","features":{"typst-preview":[]},"yanked":false}
 {"name":"tinymist-assets","vers":"0.11.15-rc2","deps":[],"cksum":"2fa20a81901061f3fba8031e4f60653ebdaf0320e78fb7c788f48a90e48cc2cd","features":{"typst-preview":[]},"yanked":false}
 {"name":"tinymist-assets","vers":"0.11.15-rc3","deps":[],"cksum":"ee30d36918e2179d63c49633e4f7e742b024a318629486c19c330dfaa467d0eb","features":{"typst-preview":[]},"yanked":false}
+{"name":"tinymist-assets","vers":"0.11.15","deps":[],"cksum":"9a903925a80e7eb0726472180da9b8a7cc7d14bc97f639e32110aa597f77f6e4","features":{"typst-preview":[]},"yanked":false}
