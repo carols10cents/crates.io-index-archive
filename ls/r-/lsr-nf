@@ -1,0 +1,1 @@
+{"name":"lsr-nf","vers":"0.1.0","deps":[{"name":"termsize","req":"^0.1.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"90f31384dd9a845c104ea07893d81298d4adb0dbbe4a6355ecd6e4f04f164079","features":{},"yanked":false}
