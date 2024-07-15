@@ -1,1 +1,2 @@
 {"name":"human-number","vers":"0.1.0","deps":[{"name":"test-case","req":"^3.3.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"6f6256633a071be6aa60e372c6dd79a7c20bccd2e6ce9e87fc66035e1c06154d","features":{},"yanked":false}
+{"name":"human-number","vers":"0.1.1","deps":[{"name":"test-case","req":"^3.3.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"e263d29253f13bb5e9324b3eb61db716f793980e1a87c7dd758ed803a343576b","features":{},"yanked":false}
