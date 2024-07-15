@@ -1,0 +1,1 @@
+{"name":"zk","vers":"0.1.0","deps":[{"name":"rand_core","req":"^0.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"74ff43f8b11eb120c285d61d5f7a194ca0f15c1d73d11fefb1939456bd9d61cc","features":{},"yanked":false}
