@@ -1,0 +1,1 @@
+{"name":"shive","vers":"0.1.0-alpha.1","deps":[{"name":"shive-derive","req":"^0.1.0-alpha.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c7dc8bb5422c48f2a110bb05b81f296d4fe52318b6538026acdb9b08cc43fd61","features":{"derive":["shive-derive"]},"yanked":false}
