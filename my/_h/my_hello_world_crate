@@ -1,4 +1,4 @@
 {"name":"my_hello_world_crate","vers":"0.1.0","deps":[],"cksum":"4bf2a02e16e7cf7de42bc659ba30573ec488eabf453b669beca223bacc1fddff","features":{},"yanked":true}
 {"name":"my_hello_world_crate","vers":"0.1.1","deps":[],"cksum":"b7e974bc5682df2e1c24672f12ac4821883f7633ff73c46dac42eeb0d68341e1","features":{},"yanked":true}
 {"name":"my_hello_world_crate","vers":"0.1.2","deps":[],"cksum":"bed58fad484662f3a9639539eb8705c04b1ef45c00b3407d69ed2ac1d8b8624d","features":{},"yanked":true}
-{"name":"my_hello_world_crate","vers":"0.1.3","deps":[],"cksum":"0b65db505d1317e8643f1c977e5e1be52c05270307e2cd198b4b04e5c2d331db","features":{},"yanked":false}
+{"name":"my_hello_world_crate","vers":"0.1.3","deps":[],"cksum":"0b65db505d1317e8643f1c977e5e1be52c05270307e2cd198b4b04e5c2d331db","features":{},"yanked":true}
