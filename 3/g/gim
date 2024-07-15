@@ -1,0 +1,1 @@
+{"name":"gim","vers":"0.1.0","deps":[{"name":"dotenvy","req":"^0.15.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"375c6aa20bc3b51c8216df7504074cb4869ffee73ee4be01341278ed52443843","features":{},"yanked":false}
