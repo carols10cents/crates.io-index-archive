@@ -1,0 +1,1 @@
+{"name":"relax","vers":"0.1.0-alpha.1","deps":[{"name":"relax-macros","req":"^0.1.0-alpha.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a6049d7aaffd5503fbcb26458eaf431ab25d54c17b7284bd6ca15ca10cfefe45","features":{"default":["macros"]},"features2":{"macros":["dep:relax-macros"]},"yanked":false,"rust_version":"1.74.0","v":2}
