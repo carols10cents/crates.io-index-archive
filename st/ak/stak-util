@@ -1,0 +1,1 @@
+{"name":"stak-util","vers":"0.1.18","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"adc30b76d8ccdea0e415771d41d8d36c0e11112d50d29d240a72790e0dfda6ef","features":{},"yanked":false}
