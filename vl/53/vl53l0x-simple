@@ -1,0 +1,1 @@
+{"name":"vl53l0x-simple","vers":"0.1.0","deps":[{"name":"embedded-hal","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c8afc64901781dacbb423cb3dd2f94981bb148a7464a71fcfb072125e1f6d70d","features":{},"yanked":false}
