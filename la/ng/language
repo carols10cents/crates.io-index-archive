@@ -1,0 +1,1 @@
+{"name":"language","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"897f447d5900f5db29433f209a476c0e31de4b42c3f26b184adb60e4221dbd6b","features":{},"yanked":false}
