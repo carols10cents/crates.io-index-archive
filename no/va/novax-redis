@@ -1,0 +1,1 @@
+{"name":"novax-redis","vers":"0.0.0","deps":[{"name":"redis","req":"^0.25.4","features":["aio","tokio-comp"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cc6dd63c82d468d0c73111bb4577a6bf6916946d58c610ee59c4ffb923fcf7f2","features":{},"yanked":false}
