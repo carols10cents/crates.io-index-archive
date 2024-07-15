@@ -1,1 +1,2 @@
 {"name":"ic-file-uploader","vers":"0.1.0","deps":[{"name":"tempfile","req":"^3.9.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"40bc1264acb19196ed9070686309b40ad01ed0d5b9421abfc4e8c94f74727b48","features":{},"yanked":false}
+{"name":"ic-file-uploader","vers":"0.1.1","deps":[{"name":"tempfile","req":"^3.9.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f63db8d0f848305b36ecffe91ab24709b1251d964a5a664c30a755391de04046","features":{},"yanked":false}
