@@ -1,0 +1,1 @@
+{"name":"noether","vers":"0.1.0","deps":[{"name":"num-traits","req":"^0.2.19","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d641c14a1b006e3450e7d8412604cbcd09b4d0408483d897d586cb18110bbdbf","features":{},"yanked":false}
