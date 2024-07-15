@@ -1,0 +1,1 @@
+{"name":"strim","vers":"0.1.0","deps":[{"name":"litrs","req":"~0.4.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cfc61d60c85a2e606112740d1da188f3eecd0de987c5639413594889b7f14253","features":{},"yanked":false}
