@@ -1,1 +1,2 @@
 {"name":"vl53l1x-simple","vers":"0.1.0","deps":[{"name":"embedded-hal","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"722751c8d9fc5715566b68800cfa6ca07e8e1df114f9e83ded2d9872ee0d3556","features":{},"yanked":false}
+{"name":"vl53l1x-simple","vers":"0.1.1","deps":[{"name":"embedded-hal","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ba92be637af182991c940ffadd1e15e16d50bff8077316f17786ccdaf1a69de7","features":{},"yanked":false}
