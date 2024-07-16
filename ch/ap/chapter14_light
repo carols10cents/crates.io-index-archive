@@ -1,1 +1,2 @@
 {"name":"chapter14_light","vers":"0.1.0","deps":[],"cksum":"bcdc4456874f485f2058e04658fca4d3a5f33e6ef55d87a8ff72e08ff0c2eb62","features":{},"yanked":false}
+{"name":"chapter14_light","vers":"0.1.1","deps":[{"name":"strum","req":"^0.26","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"598cf618bcbd5edd0f0fccef7bf53d22f29b6ec8cbaac7588f939bc5a067c05a","features":{},"yanked":false}
