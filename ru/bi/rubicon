@@ -1,2 +1,3 @@
 {"name":"rubicon","vers":"1.0.0","deps":[],"cksum":"565e876da64bdcd113a2ce32da8114592fdadd6b3c393ecea7b8c5c81ee262bd","features":{"default":[],"export-globals":[],"import-globals":[]},"yanked":false}
 {"name":"rubicon","vers":"1.0.1","deps":[],"cksum":"dfb1edb38b9e129835ae655566b948e5eaf2746046af79ae79784c0b7cbbdf36","features":{"default":[],"export-globals":[],"import-globals":[]},"yanked":false}
+{"name":"rubicon","vers":"2.0.0","deps":[{"name":"paste","req":"^1.0.15","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b62facba5fc7353c1f973f1030f3cae051c35ed73bc39363885c7e032a6e71a0","features":{"default":[],"export-globals":[],"import-globals":[],"soprintln":[]},"yanked":false}
