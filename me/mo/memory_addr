@@ -1,2 +1,3 @@
 {"name":"memory_addr","vers":"0.1.0","deps":[],"cksum":"91b53e2ffbb2aaf3b738bd38ddd7ca8c511e47e05cd03fc09eacb7c5fa1285e5","features":{},"yanked":false}
 {"name":"memory_addr","vers":"0.1.1","deps":[],"cksum":"359639f2591c78370034feaa79ebd114516d04ba642a89bb68b2b806ef2bc2f6","features":{},"yanked":false}
+{"name":"memory_addr","vers":"0.2.0","deps":[],"cksum":"bea53f55564acdbe43e404118414b5fb45dfe9bea0dfc9bd80b8e5bb02aeb047","features":{},"yanked":false}
