@@ -1,0 +1,1 @@
+{"name":"saxaboom-runtime","vers":"0.1.0+irconverter-1.1","deps":[{"name":"metal","req":"^0.29","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cb1dcebe86368a2def1919dbd594945c3d48b524e3101dbd2b41997b80189adc","features":{},"yanked":false}
