@@ -1,5 +1,5 @@
 {"name":"sila-transpiler-infrastructure","vers":"0.1.0","deps":[],"cksum":"e2010a91d94dfc83026d4ce91c51b238f86f7bd4145a7999b35aed292bbc5200","features":{},"yanked":false}
 {"name":"sila-transpiler-infrastructure","vers":"0.1.1","deps":[],"cksum":"1cb7e94f02a9b6eb101760cd51c1b81b4795f32c58e9dbede58702dc7cba5c3c","features":{},"yanked":false}
 {"name":"sila-transpiler-infrastructure","vers":"0.1.2","deps":[],"cksum":"9d4bf75d2ced256ea12663076d863a8bb05ae1167c16d777b869f0bee5437784","features":{},"yanked":false}
-{"name":"sila-transpiler-infrastructure","vers":"0.2.0","deps":[],"cksum":"7d0b9630275342633c169f948db29ea69efc9f9bc72befe50a6ba41f57006ae2","features":{},"yanked":true}
+{"name":"sila-transpiler-infrastructure","vers":"0.2.0","deps":[],"cksum":"7d0b9630275342633c169f948db29ea69efc9f9bc72befe50a6ba41f57006ae2","features":{},"yanked":false}
 {"name":"sila-transpiler-infrastructure","vers":"0.2.1","deps":[],"cksum":"56099564cb3f903063bb5208e060afb9ec9f8c54ea4f4e7bf0a797b6e110b2a7","features":{},"yanked":false}
