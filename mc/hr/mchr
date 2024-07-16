@@ -1,1 +1,2 @@
 {"name":"mchr","vers":"0.1.0","deps":[{"name":"thiserror","req":"^1.0.61","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"80fde5a2fcf9995db0a24fab7380a2b293d1cb1bac255faf74f8739e50693861","features":{},"yanked":false}
+{"name":"mchr","vers":"0.1.1","deps":[],"cksum":"7e7b4601c52b491673fdc69eee05b377402e1fc3f8ad94f549707debe0ae150a","features":{},"yanked":false}
