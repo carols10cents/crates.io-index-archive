@@ -1,0 +1,1 @@
+{"name":"lunar-png","vers":"0.1.0","deps":[{"name":"flate2","req":"^1.0.30","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ce4816129ea098cde419174ac6997883137aafe4bb66d6f992ea32793e427750","features":{},"yanked":false}
