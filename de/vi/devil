@@ -1,0 +1,1 @@
+{"name":"devil","vers":"0.0.1","deps":[{"name":"pkg-config","req":"^0.3.30","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"cabe2db82094e03eefb850c8b33024986d92eb855b0157a6e57750bc52ee1680","features":{},"yanked":false}
