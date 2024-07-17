@@ -1,0 +1,1 @@
+{"name":"wutengine_editor","vers":"0.0.0","deps":[{"name":"wutengine","req":"^0.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"968260321e6605e46a0f3e7d302ea326a2cddef773907cba113d4dbb0ceb8dcb","features":{},"yanked":false}
