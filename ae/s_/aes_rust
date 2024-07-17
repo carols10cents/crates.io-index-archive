@@ -1,0 +1,1 @@
+{"name":"aes_rust","vers":"0.1.1","deps":[{"name":"cli_select","req":"^0.1.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"07ee35a9a738b24fa796d5be5ef6d13a974f59978089e5e3525b118b48cc4f12","features":{},"yanked":false}
