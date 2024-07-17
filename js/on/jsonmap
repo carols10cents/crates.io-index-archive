@@ -1,0 +1,1 @@
+{"name":"jsonmap","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"39026ad9dadd6bf44324e50f77a16f2fe31e8fbfe0a52b5239a5a04f3e8863ec","features":{},"yanked":false}
