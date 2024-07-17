@@ -1,0 +1,1 @@
+{"name":"rusty_lr","vers":"0.1.0","deps":[{"name":"thiserror","req":"^1.0.62","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1385e5fd67a2a1174860d01369fd67ac5a480532ad12027d223d6d37fd1e91e0","features":{},"yanked":false}
