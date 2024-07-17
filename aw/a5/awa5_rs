@@ -1,1 +1,2 @@
 {"name":"awa5_rs","vers":"0.1.0","deps":[{"name":"clap","req":"^4.5.9","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7d0c95e26c70e897eab40bc88d890ca4fa4d7d3d16404a42d16bea68be873609","features":{},"yanked":false}
+{"name":"awa5_rs","vers":"0.1.1","deps":[{"name":"clap","req":"^4.5.9","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3d713a04bf77a90b9b58a0fb2513583b47f531b0c38f665dc6a41eccfbb4326e","features":{},"yanked":false}
