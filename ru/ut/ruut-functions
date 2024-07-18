@@ -8,3 +8,4 @@
 {"name":"ruut-functions","vers":"0.1.0","deps":[],"cksum":"37e45b4f122b94ebdab17995a3637a5f2a6f1d523fcd767cdcda369331e6caf1","features":{},"yanked":false}
 {"name":"ruut-functions","vers":"0.1.1","deps":[],"cksum":"335c352f6a1a34e922998a261a00cc8f8d51a9485e4007d06b741923dcab1780","features":{},"yanked":false}
 {"name":"ruut-functions","vers":"0.1.2","deps":[{"name":"criterion","req":"^0.5.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"ruut-algebra","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"10bef84be5439292d345d7dfc594b897cb044d5be8251bcd7411a878f2f91034","features":{},"yanked":false}
+{"name":"ruut-functions","vers":"0.2.0","deps":[{"name":"criterion","req":"^0.5.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"7a1d201fbda970afea8d98032caec00ab3bb23c16c4f8eccf0a3c826e362febc","features":{},"yanked":false}
