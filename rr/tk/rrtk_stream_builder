@@ -1,0 +1,1 @@
+{"name":"rrtk_stream_builder","vers":"0.1.0","deps":[{"name":"gtk4","req":"^0.8.2","features":["v4_12"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9968e677cda70cd230a28440edf3aed646935211ac080e44bfd45e894fcf52b2","features":{},"yanked":false}
