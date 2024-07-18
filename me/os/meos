@@ -1,0 +1,1 @@
+{"name":"meos","vers":"0.1.0","deps":[{"name":"meos-sys","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"paste","req":"^1.0.15","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ecf660cf1f970bf4d406cc2cfd7b20b0840ed5b68041dccfd0769b44e0c9d1be","features":{},"yanked":false}
