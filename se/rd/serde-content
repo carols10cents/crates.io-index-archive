@@ -1,0 +1,1 @@
+{"name":"serde-content","vers":"0.0.0","deps":[{"name":"serde","req":"^1.0.204","features":["alloc"],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"0804067f9f4d17043c4370efd767f09f92c1d086a7fa988567b9b3465b8d98c3","features":{"default":["derive"],"derive":["serde/derive"]},"yanked":false}
