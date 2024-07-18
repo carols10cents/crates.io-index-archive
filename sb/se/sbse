@@ -1,0 +1,1 @@
+{"name":"sbse","vers":"0.0.1","deps":[{"name":"cal","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5d6d8292a70ba0a3f63eadf5856fe0061bbec7cf54176b3b7b8487ac138bea59","features":{},"yanked":false}
