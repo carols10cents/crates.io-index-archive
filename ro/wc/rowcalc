@@ -1,0 +1,1 @@
+{"name":"rowcalc","vers":"0.1.2","deps":[{"name":"clap","req":"^4.5.4","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d107ad95b94831acf7cc7d582c7b5273d58ea0c6fbc461ef0bf7607484d6f9d1","features":{},"yanked":false}
