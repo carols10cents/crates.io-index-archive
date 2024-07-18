@@ -1,1 +1,2 @@
 {"name":"soprintln","vers":"1.0.0","deps":[],"cksum":"6b71e9add2a405b0200115149ffef897d3e7fac6a3498a3836ff1d26c27831f8","features":{},"yanked":false}
+{"name":"soprintln","vers":"2.0.0","deps":[],"cksum":"1ae2883f247728b2bfe3adedb4742e6d2a51b530cfa7b02998876b3459aa608e","features":{"print":[]},"yanked":false}
