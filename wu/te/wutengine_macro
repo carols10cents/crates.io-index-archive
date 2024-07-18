@@ -1,1 +1,2 @@
 {"name":"wutengine_macro","vers":"0.0.0","deps":[{"name":"wutengine_core","req":"^0.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0bc3a88fc64cf6e11794f10790e359f975cc79143dbf80416ef20f836a5e753d","features":{},"yanked":false}
+{"name":"wutengine_macro","vers":"0.0.1","deps":[{"name":"wutengine_core","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"143e78ee65f3a15d365857efee520d046bf0754cff0be0680bfc2bb96af6a66f","features":{},"yanked":false}
