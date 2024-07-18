@@ -1,1 +1,2 @@
 {"name":"jsonmap","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"39026ad9dadd6bf44324e50f77a16f2fe31e8fbfe0a52b5239a5a04f3e8863ec","features":{},"yanked":false}
+{"name":"jsonmap","vers":"0.1.1","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e1f2a55051f36f9c1de33b4ab11517c2b0598a88eb3af63be4479348ec901a7d","features":{},"yanked":false}
