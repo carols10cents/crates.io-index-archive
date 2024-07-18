@@ -1,1 +1,2 @@
 {"name":"sbse","vers":"0.0.1","deps":[{"name":"cal","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5d6d8292a70ba0a3f63eadf5856fe0061bbec7cf54176b3b7b8487ac138bea59","features":{},"yanked":false}
+{"name":"sbse","vers":"0.0.2","deps":[{"name":"c_a_l","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ed5a3b3f82e69a778d28c93d3291cc90441d7cb00b54ff304e81df3fc4460d06","features":{},"yanked":false}
