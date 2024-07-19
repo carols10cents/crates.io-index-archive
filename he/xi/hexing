@@ -1,0 +1,1 @@
+{"name":"hexing","vers":"0.1.0","deps":[{"name":"paste","req":"^1.0.15","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"751d7ecfc36320020971851065351acbd6a0dd0e5590307a1bfd88ee4b485b55","features":{},"yanked":false}
