@@ -1,0 +1,1 @@
+{"name":"async-sema","vers":"0.1.0","deps":[{"name":"event-listener","req":"^5.3.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d2f8f9b9fe38d4cfcf7edafb6962eb33e1fddbb8c6d46cdbd80c14e28386eb36","features":{},"yanked":false,"rust_version":"1.71"}
