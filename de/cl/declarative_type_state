@@ -1,4 +1,4 @@
-{"name":"declarative_type_state","vers":"0.1.0","deps":[],"cksum":"ee60ef06e918bf73fc0bd7997c9d310b90f2fa3b9445fa84abe1cd3bc77b7f25","features":{},"yanked":false}
+{"name":"declarative_type_state","vers":"0.1.0","deps":[],"cksum":"ee60ef06e918bf73fc0bd7997c9d310b90f2fa3b9445fa84abe1cd3bc77b7f25","features":{},"yanked":true}
 {"name":"declarative_type_state","vers":"0.1.1","deps":[],"cksum":"1be55141f353fe9603ce1de241be6b928aa8f17f75928af4b28ea203fcd568f1","features":{"default":[],"try_impl":[]},"yanked":true}
 {"name":"declarative_type_state","vers":"0.1.2","deps":[],"cksum":"efdc54a068aa3081c71ce932d6825014bf658de36e319af0a0fc518d8e45590c","features":{"default":[],"try_impl":[]},"yanked":true}
 {"name":"declarative_type_state","vers":"0.1.3","deps":[],"cksum":"f360da13109caa987100aa9f34e93df4e4118a89e13638b73389218eac7b3f7c","features":{"default":[],"try_impl":[]},"yanked":true}
