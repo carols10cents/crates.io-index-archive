@@ -1,1 +1,2 @@
 {"name":"bevy_simple_camera_controller","vers":"0.1.0","deps":[{"name":"bevy","req":"^0.14.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"54f02fcbd218a6b7d26ccddb83c1dc2f5786ef3bed24401feac80b26bd484508","features":{},"yanked":false}
+{"name":"bevy_simple_camera_controller","vers":"0.1.1","deps":[{"name":"bevy","req":"^0.14.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cab786069ee35a2cf99e06e0a316851d38f9fe015262d4af97f69cc419ca6c03","features":{},"yanked":false}
