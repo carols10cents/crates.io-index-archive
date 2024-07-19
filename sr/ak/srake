@@ -1,0 +1,1 @@
+{"name":"srake","vers":"0.1.0","deps":[{"name":"stop-words","req":"^0.8.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b32ca478315af515db38d52f337c768205c7ac93d8d51a7f0c17674794645275","features":{},"yanked":false}
