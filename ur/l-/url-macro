@@ -1,0 +1,1 @@
+{"name":"url-macro","vers":"0.1.0","deps":[{"name":"url","req":"^2.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f40eb3d2895c68189954fb50ccfe185edb65fc1a1e2d0972a8055d64f110df2c","features":{},"yanked":false}
