@@ -1,0 +1,1 @@
+{"name":"fastlz-rs","vers":"0.0.1","deps":[],"cksum":"a448a3a1a60b5903cbfa15fafe62d920b1cf48ceef46dd8a06342208abfb78d9","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false}
