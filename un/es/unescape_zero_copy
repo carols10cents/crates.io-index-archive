@@ -1,0 +1,1 @@
+{"name":"unescape_zero_copy","vers":"1.0.0","deps":[],"cksum":"978ef2444a909f98c8c5d92d2ac0974ea92155158190acf68f656e1a4ae47f26","features":{"default":["std"],"std":[]},"yanked":false}
