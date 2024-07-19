@@ -6,3 +6,4 @@
 {"name":"linear_type","vers":"0.5.0","deps":[{"name":"no-panic","req":"^0.1.26","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"eee53a5bc4153af0e0d31942c905b8062df5f062b93442417d8eb18b5bc6f335","features":{},"features2":{"compile_error":["dep:no-panic"]},"yanked":false,"v":2}
 {"name":"linear_type","vers":"0.6.0","deps":[],"cksum":"9ed410fc4a5fe4ca6b788b5fbd2de8d4dbd42dc57ff601d378715a828ae49dba","features":{"default":[],"drop_unchecked":[]},"yanked":false,"rust_version":"1.60.0"}
 {"name":"linear_type","vers":"0.7.0","deps":[],"cksum":"13aa667173bb58fdbe2a36994c05cd562f8746a110aa019ffde08ff28d252a5a","features":{"default":[],"drop_unchecked":[]},"yanked":false,"rust_version":"1.60.0"}
+{"name":"linear_type","vers":"0.7.1","deps":[],"cksum":"5f3b351f73aa50dbd1d2c97958cb219f78d9636c2ee17474e10c165291f9ff0e","features":{"default":[],"drop_unchecked":[]},"yanked":false,"rust_version":"1.60.0"}
