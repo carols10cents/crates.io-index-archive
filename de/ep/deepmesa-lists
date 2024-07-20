@@ -5,8 +5,8 @@
 {"name":"deepmesa-lists","vers":"0.4.0","deps":[],"cksum":"e4f0b533421410d45e25a881b2d56e97ed57d95f7435d26e0e7bc6d7f037348f","features":{},"yanked":true}
 {"name":"deepmesa-lists","vers":"0.4.1","deps":[],"cksum":"ac255f7c2435a6df14eef8c52efc833a47b60e88335a1a6e0e32b7426a7ef3b9","features":{},"yanked":true}
 {"name":"deepmesa-lists","vers":"0.5.0","deps":[],"cksum":"2c162d2f0c1c838f3b28e7c159babafbd6ae5b68cc115f6021e63244ed6fe48f","features":{},"yanked":true}
-{"name":"deepmesa-lists","vers":"0.6.0","deps":[],"cksum":"5d88a97219e09eb18f5a1cdb71ec4a26c9370f924fc1b5e38175df042b87a092","features":{},"yanked":false}
-{"name":"deepmesa-lists","vers":"0.6.1","deps":[],"cksum":"96f64ef94a5599e7e4ecb8eedb6eb76b8385983740aeddd48aa46e18db491908","features":{},"yanked":false}
+{"name":"deepmesa-lists","vers":"0.6.0","deps":[],"cksum":"5d88a97219e09eb18f5a1cdb71ec4a26c9370f924fc1b5e38175df042b87a092","features":{},"yanked":true}
+{"name":"deepmesa-lists","vers":"0.6.1","deps":[],"cksum":"96f64ef94a5599e7e4ecb8eedb6eb76b8385983740aeddd48aa46e18db491908","features":{},"yanked":true}
 {"name":"deepmesa-lists","vers":"0.7.0","deps":[],"cksum":"285779e3ab13b2c9da229df324d8bb0c76ad720fb990f9077b667b4dd8597c37","features":{},"yanked":false}
 {"name":"deepmesa-lists","vers":"0.9.0","deps":[],"cksum":"70203109c3af76a8bbce1aced9c0faa25d2ef5af8fceffa159a98db6186bdfd7","features":{},"yanked":false}
 {"name":"deepmesa-lists","vers":"0.9.1","deps":[],"cksum":"9c612116d07998166a85d69b2e27120717de3c563564c6c3c05f28444b103ad5","features":{},"yanked":false}
