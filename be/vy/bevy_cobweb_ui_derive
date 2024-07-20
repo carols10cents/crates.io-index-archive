@@ -1,0 +1,1 @@
+{"name":"bevy_cobweb_ui_derive","vers":"0.1.0","deps":[{"name":"syn","req":"^2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"021a6fe8179dd6e98756b33c0f86ce37348ea7091bfc968683b496a58d888e01","features":{},"yanked":false}
