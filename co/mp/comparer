@@ -1,3 +1,3 @@
 {"name":"comparer","vers":"0.1.0","deps":[],"cksum":"98ae62a215aba656475b5d88af2fa4501548be0ccda688dc39c519a87b61a6d5","features":{},"yanked":false}
-{"name":"comparer","vers":"0.1.1","deps":[],"cksum":"489c65bdd27780e834c07408ca8528802911547784c5e7c61e8066422e01cd6d","features":{},"yanked":false}
+{"name":"comparer","vers":"0.1.1","deps":[],"cksum":"489c65bdd27780e834c07408ca8528802911547784c5e7c61e8066422e01cd6d","features":{},"yanked":true}
 {"name":"comparer","vers":"0.1.11","deps":[],"cksum":"f1db23a18ef3abfb24c434f6351db3458b3fef22f284f29834d0a195805f80d9","features":{},"yanked":false}
