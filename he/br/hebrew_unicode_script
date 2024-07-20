@@ -1,1 +1,2 @@
 {"name":"hebrew_unicode_script","vers":"0.1.0","deps":[{"name":"is-even","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"178c64ac37dddc3314745fb373090d3fc4667d0c9e9f18bf6aacbc144521cf7c","features":{},"yanked":false}
+{"name":"hebrew_unicode_script","vers":"0.1.1","deps":[{"name":"is-even","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"931a609e23f7a6d65e4fe6753034c2fb3a0720d552fd51f0f9d55344150debf6","features":{},"yanked":false}
