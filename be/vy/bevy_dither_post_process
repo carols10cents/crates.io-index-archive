@@ -1,0 +1,1 @@
+{"name":"bevy_dither_post_process","vers":"0.2.0","deps":[{"name":"bevy","req":"^0.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"efd7778e3e2492de2201ed5b13a869acb0d0aeb5a677b16ab8f781b0b76e398b","features":{},"yanked":false}
