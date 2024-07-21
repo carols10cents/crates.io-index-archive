@@ -1,1 +1,2 @@
 {"name":"dyn_trie","vers":"1.0.0","deps":[],"cksum":"96147dae76855c44a0717c1b9088fbbc4e65700be9e41aad5fc14028e8f2fe25","features":{},"yanked":true}
+{"name":"dyn_trie","vers":"1.0.1","deps":[],"cksum":"abb3f8eefb89c2b19d6f7ada061b65555e711cb91bcae52183eee1a78bb67330","features":{},"yanked":false}
