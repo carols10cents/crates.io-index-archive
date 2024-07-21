@@ -10,4 +10,4 @@
 {"name":"scoped_thread_local","vers":"0.5.0","deps":[],"cksum":"fca488507e0243bc6fbe36594bc8b274f205f32725065ebaa7636ee563ad47c4","features":{},"yanked":true}
 {"name":"scoped_thread_local","vers":"0.5.1","deps":[],"cksum":"a2691044c7b46fd9d05f8efe0801732346a332eb358962489bed7598c3decd41","features":{},"yanked":true}
 {"name":"scoped_thread_local","vers":"0.6.0","deps":[],"cksum":"9eb91c52f993dcc33afb8963880749cc8c8c06b2d09c437f580edfb711c4d3d8","features":{},"yanked":true}
-{"name":"scoped_thread_local","vers":"0.6.1","deps":[],"cksum":"c8d02ffc27a1bbcc17092a4d7750e0d132dd28e9d86cb10d336a4b6dd7b033bc","features":{},"yanked":false}
+{"name":"scoped_thread_local","vers":"0.6.1","deps":[],"cksum":"c8d02ffc27a1bbcc17092a4d7750e0d132dd28e9d86cb10d336a4b6dd7b033bc","features":{},"yanked":true}
