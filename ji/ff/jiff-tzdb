@@ -1,1 +1,2 @@
 {"name":"jiff-tzdb","vers":"0.0.1","deps":[],"cksum":"fe66b2d044d8462898bed063b4f86674148955185353b04ec8a269207cad90a0","features":{},"yanked":false}
+{"name":"jiff-tzdb","vers":"0.1.0","deps":[],"cksum":"05fac328b3df1c0f18a3c2ab6cb7e06e4e549f366017d796e3e66b6d6889abe6","features":{},"yanked":false,"rust_version":"1.70"}
