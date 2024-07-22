@@ -1,1 +1,2 @@
 {"name":"c8str","vers":"0.1.0","deps":[],"cksum":"14a9cc7679be695b7e3baf3404908e3f2121301eb715ae8081c0f7e950cc5b21","features":{"alloc":[],"default":[],"nightly":[],"std":["alloc"]},"yanked":false}
+{"name":"c8str","vers":"0.1.1","deps":[],"cksum":"930e365988f7132f4c5c1cf119d2cfa54ccb0f2e563916552127f9674aadff0a","features":{"alloc":[],"default":[],"nightly":[],"std":["alloc"]},"yanked":false}
