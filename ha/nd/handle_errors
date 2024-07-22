@@ -1,0 +1,1 @@
+{"name":"handle_errors","vers":"0.1.0","deps":[{"name":"colored","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0ab7c057c1e9cf19816b14c8abce4f09697bc1d669563339e44f2c60983021e5","features":{},"yanked":false}
