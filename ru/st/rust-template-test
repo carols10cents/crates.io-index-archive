@@ -1,0 +1,1 @@
+{"name":"rust-template-test","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.5","features":["std","std_rng"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"82b4fbc2cb4b4fd3934dcb0e067a9c7e4401cf0534296599917e90e335a8302a","features":{},"yanked":false,"rust_version":"1.75"}
