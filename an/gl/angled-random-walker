@@ -1,0 +1,1 @@
+{"name":"angled-random-walker","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"aeb4e1a7686997dd11973f96d497b2dddb4164d88555e11d92c49d511a7f4306","features":{},"yanked":false}
