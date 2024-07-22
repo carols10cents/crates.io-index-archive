@@ -1,1 +1,2 @@
 {"name":"midenc-hir-type","vers":"0.0.0","deps":[],"cksum":"aef5ca9e99c5f4129491036e360fccffc9f7fe2f7ad7be0df8f4886f8a98bdd3","features":{},"yanked":false,"rust_version":"1.78"}
+{"name":"midenc-hir-type","vers":"0.0.1","deps":[{"name":"smallvec","req":"^1.13","features":["union","const_generics","const_new","drain_filter"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d512b15925d3b41218157da3c2e42410d5de1c68f0e7f4227a31e19a149740ae","features":{},"yanked":false,"rust_version":"1.78"}
