@@ -1,0 +1,1 @@
+{"name":"bevy_outline_post_process","vers":"0.3.0","deps":[{"name":"bevy","req":"^0.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7a94798af265ca63ac2f3b7b8b20d0bbea9b1cafa274585c82c1188841a3c115","features":{},"yanked":false}
