@@ -6,3 +6,4 @@
 {"name":"rs_openshowvar","vers":"0.1.5","deps":[],"cksum":"ce90a4296d865693d7f9fe8fa6c5a066fe59381aa6acb35cd34bfb13a2a89459","features":{},"yanked":false}
 {"name":"rs_openshowvar","vers":"0.1.6","deps":[],"cksum":"2ad1a8ca86d850db5ca189c785a2d2a4acb4e39554215aa2feb5bc57969127df","features":{},"yanked":false}
 {"name":"rs_openshowvar","vers":"0.1.7","deps":[],"cksum":"3fc3ac1955eee6ed309d0cd30dfc2bbca8f6b028208f84fb452e76d6eb4639d3","features":{},"yanked":false}
+{"name":"rs_openshowvar","vers":"0.1.8","deps":[],"cksum":"f51089796e0ca724bb89d6d0238517ce622fa036cbc6f044ee343abd96d9b6d8","features":{},"yanked":false}
