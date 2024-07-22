@@ -1,3 +1,4 @@
 {"name":"rusty_lr","vers":"0.1.0","deps":[{"name":"thiserror","req":"^1.0.62","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1385e5fd67a2a1174860d01369fd67ac5a480532ad12027d223d6d37fd1e91e0","features":{},"yanked":false}
 {"name":"rusty_lr","vers":"0.2.0","deps":[{"name":"thiserror","req":"^1.0.62","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"422f63c284fec8233e8d987beb380f21a38823cb7d0208604848a7c1c446d7a6","features":{},"yanked":false}
 {"name":"rusty_lr","vers":"0.2.3","deps":[{"name":"thiserror","req":"^1.0.62","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"705b91bcf28b65566c0eae0418577ef48bdafde2f767ac50f825b4aeea54500c","features":{},"yanked":false}
+{"name":"rusty_lr","vers":"0.3.0","deps":[],"cksum":"48cf4ac5a00bfdc283033f75eab47c1bba3ac6747a88ad6c5fbb017ae37cc7bc","features":{},"yanked":false}
