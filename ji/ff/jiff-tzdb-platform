@@ -1,1 +1,2 @@
 {"name":"jiff-tzdb-platform","vers":"0.0.1","deps":[],"cksum":"05583e2e2db4cd03607d248ebcc0a9c6d74d0dcc44ce4f845df3565b5a8795c5","features":{},"yanked":false}
+{"name":"jiff-tzdb-platform","vers":"0.1.0","deps":[{"name":"jiff-tzdb","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f8da387d5feaf355954c2c122c194d6df9c57d865125a67984bb453db5336940","features":{},"yanked":false,"rust_version":"1.70"}
