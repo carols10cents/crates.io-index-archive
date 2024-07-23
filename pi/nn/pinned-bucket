@@ -10,3 +10,4 @@
 {"name":"pinned-bucket","vers":"0.3.0","deps":[],"cksum":"a05e958b0d2bffbf989159528ab3540358756d92cc0e5295db328d435057bb80","features":{},"yanked":true}
 {"name":"pinned-bucket","vers":"0.4.0","deps":[],"cksum":"542228860a5f86860393393688328c365ed7d6fb11a62e4f7be0995a509f20ae","features":{},"yanked":false}
 {"name":"pinned-bucket","vers":"0.4.1","deps":[],"cksum":"9e948914cb94056cbba6b4d6cc1b1178f439f6bb06598688dc936d0c3edc96c6","features":{},"yanked":false}
+{"name":"pinned-bucket","vers":"0.4.2","deps":[{"name":"rayon","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"52a69d750a326332b8eacc99eb899038d808e8133b337490e1c7c71a64dd2864","features":{"strict":[]},"yanked":false}
