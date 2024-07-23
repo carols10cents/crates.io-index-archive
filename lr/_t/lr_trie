@@ -2,3 +2,4 @@
 {"name":"lr_trie","vers":"1.0.1","deps":[],"cksum":"ab41ec87e6992584f2c69b809ef9a3d286b76f662532f964a95ea1a11c12361e","features":{},"yanked":false}
 {"name":"lr_trie","vers":"1.0.2","deps":[],"cksum":"6bd34aa01757e8541075d3ba742aaaec5970a2fc3a5dda33fb2ef75a908c83ba","features":{},"yanked":false}
 {"name":"lr_trie","vers":"1.0.3","deps":[],"cksum":"04dd61532c5def8d57c03c6918322b2c04f3931c4a31eb3b7c164cd41e21a0db","features":{},"yanked":false}
+{"name":"lr_trie","vers":"1.1.0","deps":[],"cksum":"fceda381d19da8c1eeb0f6818aea220f97a5fecdd65564df92b4cac2bf45bd6f","features":{},"yanked":false}
