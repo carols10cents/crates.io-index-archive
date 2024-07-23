@@ -1,1 +1,2 @@
 {"name":"installed_pkg","vers":"0.1.0","deps":[{"name":"winreg","req":"^0.52.0","features":[],"optional":false,"default_features":true,"target":"cfg(windows)","kind":"normal"}],"cksum":"c1fc541cc04a7db835fd06a063e88c562468878bbffef971c23b0e9dc45cc2d4","features":{},"yanked":false}
+{"name":"installed_pkg","vers":"0.1.1","deps":[{"name":"winreg","req":"^0.52.0","features":[],"optional":false,"default_features":true,"target":"cfg(windows)","kind":"normal"}],"cksum":"3a43065433e13b2f06e4526d29901341d872b9fe63ef1e3d623c69b25d62bfaa","features":{},"yanked":false}
