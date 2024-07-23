@@ -3,3 +3,4 @@
 {"name":"rusty_lr","vers":"0.2.3","deps":[{"name":"thiserror","req":"^1.0.62","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"705b91bcf28b65566c0eae0418577ef48bdafde2f767ac50f825b4aeea54500c","features":{},"yanked":false}
 {"name":"rusty_lr","vers":"0.3.0","deps":[],"cksum":"48cf4ac5a00bfdc283033f75eab47c1bba3ac6747a88ad6c5fbb017ae37cc7bc","features":{},"yanked":false}
 {"name":"rusty_lr","vers":"0.3.1","deps":[],"cksum":"61bc16e0e687446bf7300344995a6643f7e0080c3de40acf55319bfeb5513241","features":{},"yanked":false}
+{"name":"rusty_lr","vers":"0.3.3","deps":[],"cksum":"ee93b3b24f87f3a38e5abf47c20dfa46c7aa9e2235611ce4807187dddee04d7e","features":{},"yanked":false}
