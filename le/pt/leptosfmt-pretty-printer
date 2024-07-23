@@ -7,3 +7,4 @@
 {"name":"leptosfmt-pretty-printer","vers":"0.1.8","deps":[],"cksum":"be74cfbc480df242650d6e77427752f2148dcfa69798605c81b33adaecfe11ab","features":{},"yanked":false}
 {"name":"leptosfmt-pretty-printer","vers":"0.1.18","deps":[],"cksum":"d9d122a24b4668a28e90020d53a616caac0e6ca2d8d07a2138f719dd9a8d31fc","features":{},"yanked":false}
 {"name":"leptosfmt-pretty-printer","vers":"0.1.19","deps":[],"cksum":"9a8d4bccacfeefb09662740ff588ba73fd90062c1723ee6e09baed313c5eef29","features":{},"yanked":false}
+{"name":"leptosfmt-pretty-printer","vers":"0.1.20","deps":[],"cksum":"6e78b4009853f2f53646f537689cb23d0485b62a06122cb741d1bb8106b8d71c","features":{},"yanked":false}
