@@ -13,3 +13,4 @@
 {"name":"sludge-cicd","vers":"0.1.12","deps":[],"cksum":"c58e7b1807089f78d1075e25cc9a46ef4d236ca56b00ac4016b14afb3ed4a6b8","features":{},"yanked":false}
 {"name":"sludge-cicd","vers":"0.1.13","deps":[],"cksum":"55a86456ff23fdd486441de44c1488221f6426a48a3c63bd97ad5eda1ff6b3d5","features":{},"yanked":false}
 {"name":"sludge-cicd","vers":"0.1.14","deps":[{"name":"expect-test","req":"^1.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"3a1817a3f5a1a73e59c28ffb5c0e06e63575b36a9d943f8ba2e0d0ddadda8eb4","features":{},"yanked":false}
+{"name":"sludge-cicd","vers":"0.1.15","deps":[{"name":"expect-test","req":"^1.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"804b62486698f94bb189158c63445dd56b6533572f5b9e5cc9015956ad602bd0","features":{},"yanked":false}
