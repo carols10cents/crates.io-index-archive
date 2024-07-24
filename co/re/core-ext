@@ -1,1 +1,2 @@
 {"name":"core-ext","vers":"0.0.0","deps":[{"name":"insta","req":"^1.39.0","features":["yaml"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"d7b2800fd8c231592b14197b1be11d33b35aec45c2932d428cff5d31b5b161a6","features":{},"yanked":true}
+{"name":"core-ext","vers":"0.0.1-rc1","deps":[{"name":"insta","req":"^1.39.0","features":["yaml"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"9d3e7f53e8a9db94a535fd8aa2a862c0583560bf2d43d55cb5c7ed315e367d45","features":{},"yanked":false}
