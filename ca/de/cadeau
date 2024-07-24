@@ -1,0 +1,1 @@
+{"name":"cadeau","vers":"0.1.0","deps":[{"name":"cadeau-sys","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"758810357cb41f6ea96bd715332357c1171919cad86ba6c60065de96b56c54e8","features":{"default":["xmf"],"dlopen":["cadeau-sys/dlopen"],"xmf":["cadeau-sys/xmf"]},"yanked":false}
