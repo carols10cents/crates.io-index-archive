@@ -16,3 +16,4 @@
 {"name":"mathlab","vers":"0.3.3","deps":[],"cksum":"e3abc1a4ef5d5b19f67e87930a9b0256d221cabdec15e9cc777dd177f357eea3","features":{},"yanked":false}
 {"name":"mathlab","vers":"0.3.4","deps":[],"cksum":"017d7141c9d484b1eff40b340a12769eb165f355cef70631ddaec464ccf90b18","features":{},"yanked":false}
 {"name":"mathlab","vers":"0.3.5","deps":[],"cksum":"a5f949f4e6dafc87f5d608c5d0ea32c4e3c0f3954756aa9570247d5b8b74d774","features":{},"yanked":false}
+{"name":"mathlab","vers":"0.3.6","deps":[],"cksum":"94b21605d7e6af4a1748e83849db42c66983cbae75476ec00981e574d2c3d735","features":{},"yanked":false}
