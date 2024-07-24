@@ -1,1 +1,2 @@
 {"name":"moq-catalog","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fb272f96e245148fc0ac6de6035b6f5c37d1ffd3ab3d036d9ba7106f1ac36903","features":{},"yanked":false}
+{"name":"moq-catalog","vers":"0.2.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6c5a27ef60fd9f2253793ebbe8a597b6d75c5b5ce84a12de9b424206453ccb98","features":{},"yanked":false}
