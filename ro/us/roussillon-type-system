@@ -12,3 +12,4 @@
 {"name":"roussillon-type-system","vers":"0.3.1","deps":[],"cksum":"1e098593ac59adcb7cd2e2ad4f32498d151cbe8de3d74fc02409d882ea193aab","features":{},"yanked":false}
 {"name":"roussillon-type-system","vers":"0.3.2","deps":[],"cksum":"9bae1b2dae698c1d1c72bab21e1fc69892a625a4b0a8879f0546aa02f3cb6e53","features":{"default":[],"experiments":[]},"yanked":false}
 {"name":"roussillon-type-system","vers":"0.3.3","deps":[],"cksum":"a2be4f2f804d559ce94c2c7f1606b96a1b97bfdb589eb5a81363bba266ce5207","features":{"default":[],"experiments":[]},"yanked":false}
+{"name":"roussillon-type-system","vers":"0.3.4","deps":[],"cksum":"e6832f43987e3f35a5aa8efe9cefb8e2adec1bf78c25d51b5390d2bfce58b43d","features":{"default":[],"experiments":[]},"yanked":false}
