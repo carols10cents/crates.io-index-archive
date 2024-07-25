@@ -1,0 +1,1 @@
+{"name":"libmapper-rs","vers":"1.0.0","deps":[{"name":"pkg-config","req":"^0.3.30","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"7c8028435297c3443516aca21355f1efc8c2d99b0dee02cfdcfa602c52cdf131","features":{},"yanked":false}
