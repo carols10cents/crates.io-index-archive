@@ -1,1 +1,2 @@
 {"name":"airplane","vers":"0.1.0","deps":[{"name":"plotters","req":"^0.3.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cc83437a1df64c4e51e5dda39f7e15435de3e5c73c2a854d7c308b8eb2e1b6de","features":{},"yanked":false}
+{"name":"airplane","vers":"0.1.1","deps":[{"name":"plotters","req":"^0.3.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"09d91a3d78b96c9b90119549d6f6f9a257a4526aefd93d54ad7625d17bd0a463","features":{},"yanked":false}
