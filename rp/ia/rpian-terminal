@@ -2,6 +2,6 @@
 {"name":"rpian-terminal","vers":"0.1.1","deps":[],"cksum":"b799991b1c655961c362ace62a1e2f8e7b20347f0350adbe754a45ab7b1a6c9d","features":{},"yanked":true}
 {"name":"rpian-terminal","vers":"0.1.2","deps":[],"cksum":"94b56a30664ec9f09f2080527a00ad976cdf833714ece18b661d9149e33b5f94","features":{},"yanked":true}
 {"name":"rpian-terminal","vers":"0.1.4","deps":[],"cksum":"b18e62577612d2aa7311645d117a18dd7ac0c0e992fa62bb2a979896c6c9fcc7","features":{},"yanked":true}
-{"name":"rpian-terminal","vers":"0.2.0","deps":[],"cksum":"d89a015514320f13546427096a8e88a8d3bb821fa5732325011989731a165118","features":{},"yanked":false}
+{"name":"rpian-terminal","vers":"0.2.0","deps":[],"cksum":"d89a015514320f13546427096a8e88a8d3bb821fa5732325011989731a165118","features":{},"yanked":true}
 {"name":"rpian-terminal","vers":"0.2.1","deps":[],"cksum":"71a67c44bae7e5eb319413030ead33f1770cae2fa3c9197c239a515d29af82dc","features":{},"yanked":false}
 {"name":"rpian-terminal","vers":"0.2.2","deps":[],"cksum":"5eb12e62a8eed24d6703b5b66e8c9fdc61a73f3a3ce83f570c96c9fb79fddc97","features":{},"yanked":false}
