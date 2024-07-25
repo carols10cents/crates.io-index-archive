@@ -1,0 +1,1 @@
+{"name":"ape_lexer","vers":"0.1.1","deps":[{"name":"ape_ast","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9584ee39c5b890daa8357c7a8861a5caee5abdf987cfe664b69dbcb0a134b9fe","features":{},"yanked":false}
