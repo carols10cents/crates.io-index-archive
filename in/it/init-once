@@ -1,0 +1,1 @@
+{"name":"init-once","vers":"0.1.0","deps":[{"name":"tokio","req":"^1.39.1","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"8c424a03aba4eaa61a8b2eccb401ec8f60c85dc3548777624da8ed3f2e27a131","features":{},"yanked":false}
