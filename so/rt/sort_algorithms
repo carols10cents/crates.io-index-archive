@@ -9,3 +9,4 @@
 {"name":"sort_algorithms","vers":"0.2.9","deps":[],"cksum":"17428139b7b210dcd7a436720bf06d3f04c1684fa46cc3c93482b95a8d4dc976","features":{},"yanked":false}
 {"name":"sort_algorithms","vers":"0.3.0","deps":[],"cksum":"23a9ffdd26b7791322efed5ea66f298de54fc50499055bc400f331aabcadbd76","features":{},"yanked":false}
 {"name":"sort_algorithms","vers":"0.3.1","deps":[],"cksum":"524d10f741c920077017860fd60ea8b1e2145020c6713491f2bd7ca569982e2a","features":{},"yanked":false}
+{"name":"sort_algorithms","vers":"0.3.5","deps":[],"cksum":"c213e4e1eee008fb9f9e0fc008b19dc2c777325447ecf07047769817bc321752","features":{},"yanked":false}
