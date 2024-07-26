@@ -1,0 +1,1 @@
+{"name":"wstd","vers":"0.1.0","deps":[{"name":"slab","req":"^0.4.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"wasi","req":"^0.13.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9681ca5c9e1184bf6034184fe399a852d4c130ed15cce66f8cc23842a3f5bac2","features":{},"yanked":false}
