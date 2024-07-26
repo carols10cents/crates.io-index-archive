@@ -1,2 +1,3 @@
 {"name":"dark_iron_ecs","vers":"0.5.0","deps":[],"cksum":"993df003cbdf942809b32f3c85be7765f84f85e04f50089961a3cc26155d636c","features":{},"yanked":false}
 {"name":"dark_iron_ecs","vers":"0.6.1","deps":[],"cksum":"546a619b81992fa6515bbeeed87f6a576332d57ae59c15d5680e435719e6b530","features":{},"yanked":false}
+{"name":"dark_iron_ecs","vers":"0.6.5","deps":[],"cksum":"da2804c5a65267588ac9fed99ab864206f9ac23489a25adceb12923050acbb9d","features":{},"yanked":false}
