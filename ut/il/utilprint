@@ -1,1 +1,2 @@
 {"name":"utilprint","vers":"0.1.1","deps":[{"name":"lazy_static","req":"^1.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"86baef18370780f784a598aa18b0aaf527bf673bda39dba58f1c7a4eb5e98f72","features":{},"yanked":false}
+{"name":"utilprint","vers":"0.1.2","deps":[{"name":"lazy_static","req":"^1.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c495c5f62405bcbe59c5f4edab894f9f0c104bc50ffd5cdda5e2e252d38c59ed","features":{},"yanked":false}
