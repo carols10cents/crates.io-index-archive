@@ -1,1 +1,2 @@
 {"name":"init-once","vers":"0.1.0","deps":[{"name":"tokio","req":"^1.39.1","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"8c424a03aba4eaa61a8b2eccb401ec8f60c85dc3548777624da8ed3f2e27a131","features":{},"yanked":false}
+{"name":"init-once","vers":"0.1.1","deps":[{"name":"tokio","req":"^1.39.1","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"2aa7788981c8c48db6fe5e02837bc18be485f14842e54f18345cca109ad451dd","features":{},"yanked":false}
