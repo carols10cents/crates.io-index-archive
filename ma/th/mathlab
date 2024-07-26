@@ -18,3 +18,4 @@
 {"name":"mathlab","vers":"0.3.5","deps":[],"cksum":"a5f949f4e6dafc87f5d608c5d0ea32c4e3c0f3954756aa9570247d5b8b74d774","features":{},"yanked":false}
 {"name":"mathlab","vers":"0.3.6","deps":[],"cksum":"94b21605d7e6af4a1748e83849db42c66983cbae75476ec00981e574d2c3d735","features":{},"yanked":false}
 {"name":"mathlab","vers":"0.3.7","deps":[],"cksum":"f3677ed4fe0e9e1e5a01a834e71f8bde04d31eee959076f96f370dc71715ae2f","features":{},"yanked":false}
+{"name":"mathlab","vers":"0.3.8","deps":[],"cksum":"eed68351f53c7f99d207ad3caf59cb52e1edd4fdd87aacf1dd6f8799e6f4cc17","features":{},"yanked":false}
