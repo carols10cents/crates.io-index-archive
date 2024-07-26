@@ -3,3 +3,4 @@
 {"name":"code_generator","vers":"0.1.2","deps":[],"cksum":"04cad0289c5d88dfe643715048c1e2efc975399f82e659a8c57bbd24c72820f8","features":{},"yanked":false}
 {"name":"code_generator","vers":"0.1.3","deps":[],"cksum":"2a6357aba66426289521d86507c9fc7d4fa8d57e020578ffd150c9553c4c2dc1","features":{},"yanked":false}
 {"name":"code_generator","vers":"0.1.4","deps":[],"cksum":"e6f1d67da6dcf699f9859d5981beb33e8df054b70bd75be1030b66cc190648e8","features":{},"yanked":false}
+{"name":"code_generator","vers":"0.1.5","deps":[],"cksum":"b684b88d81681bc96d9be953daab81e70014a9f51acff7acde3e9a28fa78f0b1","features":{},"yanked":false}
