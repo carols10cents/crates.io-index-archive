@@ -10,3 +10,4 @@
 {"name":"partiql-ir","vers":"0.7.2","deps":[],"cksum":"c36fcfa8d9059291655aa25489cd91211735a0584e26b34c4c6770a7912fdc8b","features":{},"yanked":false}
 {"name":"partiql-ir","vers":"0.8.0","deps":[],"cksum":"71c23c8ce62bdd34e411341619b56b59929dc5b7dc1e63034fd2a770cda948b5","features":{},"yanked":false}
 {"name":"partiql-ir","vers":"0.9.0","deps":[],"cksum":"32a4005b88d10a34814020d0f9e1dd13295cbc070f34931c56c62d3203717b77","features":{},"yanked":false}
+{"name":"partiql-ir","vers":"0.10.0","deps":[],"cksum":"a70418fc4eb70232412067fb32b722c7659b40a30c920218e1a02a92e0d36292","features":{},"yanked":false}
