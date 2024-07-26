@@ -1,0 +1,1 @@
+{"name":"rom_cache","vers":"0.0.1-alpha1","deps":[{"name":"thiserror","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c650f4448ede8457373223bd8fefd2282e2d4c56af96e31faa952a2755780e8d","features":{},"yanked":false}
