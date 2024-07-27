@@ -1,2 +1,3 @@
 {"name":"beetmash-cli","vers":"0.0.4","deps":[],"cksum":"b79797abc41923a37e77498853e372808533f193c3ad94f405e83640d354c103","features":{},"yanked":false}
 {"name":"beetmash-cli","vers":"0.0.5","deps":[],"cksum":"ab09a5dd2448a3bc0abfc9fb3e9aac25e810ebb5a786b62ac459c63adcdf7b2a","features":{},"yanked":false}
+{"name":"beetmash-cli","vers":"0.0.6-rc.1","deps":[],"cksum":"19325ea134608d46218cd529e0f18c80aa50411335bb9af884b9c7052ae503a1","features":{},"yanked":false}
