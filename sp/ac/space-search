@@ -6,3 +6,4 @@
 {"name":"space-search","vers":"3.0.0","deps":[],"cksum":"6c121cf159fe16fca21bc335ae2c7dcb3a3d6bd909980957f831dd99d014393d","features":{},"yanked":false}
 {"name":"space-search","vers":"4.0.0","deps":[],"cksum":"65e77ebe3ba2657800b9ee43e9549578865c3abf2cf7a78460c15c9ccb6d271a","features":{},"yanked":false}
 {"name":"space-search","vers":"4.0.1","deps":[],"cksum":"d025897f64dd837b59a5d0cb189de151d5c2053adf19d16f0fb710d39fe1e54b","features":{},"yanked":false}
+{"name":"space-search","vers":"4.0.2","deps":[],"cksum":"a70017cabae326b00638ca836e8442984e1c15f3fa7a5ca6761b63bf9dc6ce7d","features":{},"yanked":false}
