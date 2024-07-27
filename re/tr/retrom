@@ -1,3 +1,4 @@
 {"name":"retrom","vers":"0.0.8","deps":[],"cksum":"781e9dc57e64ac98b5e66826b37841772f0fdd9a64b65faa2312ddfc122fb6cd","features":{},"yanked":false}
 {"name":"retrom","vers":"0.0.9","deps":[],"cksum":"c395ef10cf85075ce0cc6c19049a2efc76383d110c65527b6a64dbcd301da972","features":{},"yanked":false}
 {"name":"retrom","vers":"0.0.10","deps":[],"cksum":"7497f9c024e249b2d8775aa8d2c970fa3dfa503dcc2ded0b762b48fb6a3a6086","features":{},"yanked":false}
+{"name":"retrom","vers":"0.0.11","deps":[],"cksum":"c4b6a30b89f4a2dc7c092b93dd00948dba2dff60f24ba79310159d81b816af26","features":{},"yanked":false}
