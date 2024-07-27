@@ -14,3 +14,4 @@
 {"name":"rrtk","vers":"0.3.0","deps":[],"cksum":"4d18cf4bac473604e5c48eae0c966c3edfe31f4d6f450a9aab090fa11c748fec","features":{"default":["std"],"std":[]},"yanked":false}
 {"name":"rrtk","vers":"0.3.1","deps":[],"cksum":"bc2e5d653da29858f9505650cbb51f8e0b99e57fb204f2aa03cbcfcf6cf7f22a","features":{"default":["std"],"std":[]},"yanked":false}
 {"name":"rrtk","vers":"0.4.0-alpha.1","deps":[],"cksum":"eba0d83bc1ed61c8f70be812ae7bab41fae0914afd911f05161c1a48cf834ef3","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"rrtk","vers":"0.4.0-alpha.2","deps":[],"cksum":"9239453371ba032e5ee784fd2771aa262b586b95deecaa6d6c2400f194204ffe","features":{"default":["std"],"std":[]},"yanked":false}
