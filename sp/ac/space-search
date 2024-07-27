@@ -5,3 +5,4 @@
 {"name":"space-search","vers":"2.0.3","deps":[],"cksum":"886358e9bd62e2d35e81b77f605bee7d88a1e6d65543d3baaa5bb2df17e6c709","features":{},"yanked":false}
 {"name":"space-search","vers":"3.0.0","deps":[],"cksum":"6c121cf159fe16fca21bc335ae2c7dcb3a3d6bd909980957f831dd99d014393d","features":{},"yanked":false}
 {"name":"space-search","vers":"4.0.0","deps":[],"cksum":"65e77ebe3ba2657800b9ee43e9549578865c3abf2cf7a78460c15c9ccb6d271a","features":{},"yanked":false}
+{"name":"space-search","vers":"4.0.1","deps":[],"cksum":"d025897f64dd837b59a5d0cb189de151d5c2053adf19d16f0fb710d39fe1e54b","features":{},"yanked":false}
