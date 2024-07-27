@@ -7,3 +7,4 @@
 {"name":"rusty_lr","vers":"0.3.4","deps":[],"cksum":"e7437d8c8af532144280f1e57078766d5f0a04037ce694aa7d854ded536ba9c0","features":{},"yanked":false}
 {"name":"rusty_lr","vers":"0.4.0","deps":[],"cksum":"67a4a7f377b90d46cb06b3c167411a72aff520c65527d3142c8a09031289f53c","features":{},"yanked":false}
 {"name":"rusty_lr","vers":"0.4.1","deps":[],"cksum":"fabdeaaf8eb7df914255d92b2920b8c98e834e684e6e669bf64d1f89a207e278","features":{},"yanked":false}
+{"name":"rusty_lr","vers":"0.5.0","deps":[],"cksum":"7be4f809087f9b128f125d9e2ad24d2e754a7710b338016c4c804717dd0be4de","features":{},"yanked":false}
