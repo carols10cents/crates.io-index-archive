@@ -6,3 +6,4 @@
 {"name":"xynth","vers":"0.1.5","deps":[{"name":"hex","req":"^0.4.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9adf032944e342c7b52a267e4cc719db7356006939c5ed85ee258db6b8d3c274","features":{},"yanked":false}
 {"name":"xynth","vers":"0.1.6","deps":[{"name":"hex","req":"^0.4.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9974477d905dd67031dc8e6e0e6a9ab87ddc6ee6566b063c35ee57e4b313ceba","features":{},"yanked":false}
 {"name":"xynth","vers":"0.1.7","deps":[],"cksum":"384d38e0f14a48d50e02b87559d706707ae659ff41eaeb68e91e1e5c1b995da8","features":{},"yanked":false}
+{"name":"xynth","vers":"0.2.0","deps":[],"cksum":"b7b819231f0c66d419b0440e4943e2516e4325c3d2986efe3663b038d81a3d38","features":{},"yanked":false}
