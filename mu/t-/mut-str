@@ -5,3 +5,4 @@
 {"name":"mut-str","vers":"1.0.1","deps":[],"cksum":"2277bd408cd46ab6db77da82dd0ebf3946f1a331dbc3ed17bd6c0f7e7b7fe397","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false}
 {"name":"mut-str","vers":"1.0.2","deps":[],"cksum":"6ebef64d2a54380439636ebe91ef30552d50fc4dec5ab180182dac82faf0d1ba","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false}
 {"name":"mut-str","vers":"1.1.0-alpha.1","deps":[],"cksum":"7874f0ec869e987209fb67fcd5fe94e77122b60f94abe755a043f88e049d8d4e","features":{"alloc":[],"default":["std"],"future":[],"std":["alloc"]},"yanked":false}
+{"name":"mut-str","vers":"1.1.0-alpha.2","deps":[],"cksum":"a3c1850a922d1bb7b12e96c60ac2c1cfb212bcd8ee2e1574086309c2d4741f79","features":{"alloc":[],"default":["std"],"nightly":[],"std":["alloc"]},"yanked":false}
