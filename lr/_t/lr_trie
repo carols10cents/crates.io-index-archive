@@ -3,3 +3,4 @@
 {"name":"lr_trie","vers":"1.0.2","deps":[],"cksum":"6bd34aa01757e8541075d3ba742aaaec5970a2fc3a5dda33fb2ef75a908c83ba","features":{},"yanked":false}
 {"name":"lr_trie","vers":"1.0.3","deps":[],"cksum":"04dd61532c5def8d57c03c6918322b2c04f3931c4a31eb3b7c164cd41e21a0db","features":{},"yanked":false}
 {"name":"lr_trie","vers":"1.1.0","deps":[],"cksum":"fceda381d19da8c1eeb0f6818aea220f97a5fecdd65564df92b4cac2bf45bd6f","features":{},"yanked":false}
+{"name":"lr_trie","vers":"1.2.0","deps":[],"cksum":"6d8aaaa3b2d7fff8a86f94e8b54cbd50eb4ea053a87602323e593132c68b6d82","features":{},"yanked":false}
