@@ -1,0 +1,1 @@
+{"name":"ferrisume-domain","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a0ffb6b5a933bd3a64ebd326eef6a3d38835cf84ecc34dd024077fccb7753d2f","features":{},"yanked":false}
