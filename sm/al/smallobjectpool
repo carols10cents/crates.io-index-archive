@@ -1,0 +1,1 @@
+{"name":"smallobjectpool","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.5.1","features":["html_reports"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"b24fa53757d02621bc58a59596880cdd1667670c82400fa5c028313f9f897ff6","features":{},"yanked":false}
