@@ -7,3 +7,4 @@
 {"name":"undo_stack","vers":"0.1.6","deps":[],"cksum":"57bfb95a1b1bcfdc6beec607d0f1a7d2b2d8f07d338430173abec8a2c676188c","features":{"std":[]},"yanked":false}
 {"name":"undo_stack","vers":"0.1.7","deps":[],"cksum":"de9169174f130b453d213da59ddeb9fe4e2a34e2960001a3d90472007410ee4f","features":{"std":[]},"yanked":false}
 {"name":"undo_stack","vers":"0.1.8","deps":[],"cksum":"c0c11d099d9fba07def29fec1d45f9bd6635ca93cb1cf26e805ec658d1a00c89","features":{"std":[]},"yanked":false}
+{"name":"undo_stack","vers":"0.1.9","deps":[],"cksum":"9a79e71dbfe703c71864ff71d92fc2c919cfcd82fd53a6831b397420320fd41c","features":{"std":[]},"yanked":false}
