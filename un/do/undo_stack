@@ -5,3 +5,4 @@
 {"name":"undo_stack","vers":"0.1.4","deps":[],"cksum":"927d2f6db02c9df6232b679bc895babc0ebdb8d349f14c79e4ddc1d75d4f858a","features":{"std":[]},"yanked":false}
 {"name":"undo_stack","vers":"0.1.5","deps":[],"cksum":"456d567505d02b41d647943a3853840dc288e3fd270d29ebbc977c635e993d3e","features":{"std":[]},"yanked":false}
 {"name":"undo_stack","vers":"0.1.6","deps":[],"cksum":"57bfb95a1b1bcfdc6beec607d0f1a7d2b2d8f07d338430173abec8a2c676188c","features":{"std":[]},"yanked":false}
+{"name":"undo_stack","vers":"0.1.7","deps":[],"cksum":"de9169174f130b453d213da59ddeb9fe4e2a34e2960001a3d90472007410ee4f","features":{"std":[]},"yanked":false}
