@@ -1,0 +1,1 @@
+{"name":"ape_errors","vers":"0.1.1","deps":[{"name":"colored","req":"^2.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ae209af7a02b4ceec9af681280c0523f82c666d4b4c401c22ce7889bf880dd84","features":{},"yanked":false}
