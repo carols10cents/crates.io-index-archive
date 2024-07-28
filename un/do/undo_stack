@@ -9,3 +9,4 @@
 {"name":"undo_stack","vers":"0.1.8","deps":[],"cksum":"c0c11d099d9fba07def29fec1d45f9bd6635ca93cb1cf26e805ec658d1a00c89","features":{"std":[]},"yanked":false}
 {"name":"undo_stack","vers":"0.1.9","deps":[],"cksum":"9a79e71dbfe703c71864ff71d92fc2c919cfcd82fd53a6831b397420320fd41c","features":{"std":[]},"yanked":false}
 {"name":"undo_stack","vers":"0.2.0","deps":[],"cksum":"aff573be1739cba29f5912b1bc1163cab6578b32402fa9fbb1a04be661e09432","features":{"std":[]},"yanked":false}
+{"name":"undo_stack","vers":"0.2.1","deps":[],"cksum":"19e945d873184e5529efe9eb8bcaad4cb6e0427e6ebdeada1bb8431819c57a7e","features":{"std":[]},"yanked":false}
