@@ -1,1 +1,2 @@
 {"name":"sq3-rs","vers":"0.1.5","deps":[],"cksum":"05e926117ebf7ef4ba6373fcd346ef166eda5a186531f8fcbb315b1966f7686e","features":{"default":["log"],"log":[],"show-ct-checks":[]},"yanked":false,"rust_version":"1.79.0"}
+{"name":"sq3-rs","vers":"0.1.6","deps":[],"cksum":"a535a7211950fc155e5258ea874ad13b520b6e50614da360e1455926ef9f5714","features":{"default":["log"],"log":[],"show-ct-checks":[]},"yanked":false,"rust_version":"1.79.0"}
