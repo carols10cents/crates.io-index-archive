@@ -3,3 +3,4 @@
 {"name":"ape_ast","vers":"0.1.2","deps":[],"cksum":"1682ccf90c8a32a49f0241e822c4f5dcffef5ba7852112b11ac2975daa2f072d","features":{},"yanked":false}
 {"name":"ape_ast","vers":"0.1.3","deps":[],"cksum":"989e229d2fafd0342db7f39e98cabee15509acc7f7015694c6c6124e224b081c","features":{},"yanked":false}
 {"name":"ape_ast","vers":"0.1.4","deps":[],"cksum":"6ca86766aa96e19c7c6b4d2f0713ce606f2ca4d5a6f5886f0f190182a3639c7a","features":{},"yanked":false}
+{"name":"ape_ast","vers":"0.1.5","deps":[],"cksum":"b0d22766607c0ae876cfdae19b3d4dae04d50e34341491a37cb8fb1b9e3f7302","features":{},"yanked":false}
