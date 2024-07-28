@@ -2,3 +2,4 @@
 {"name":"ziyy","vers":"0.1.1","deps":[],"cksum":"8665a1915556643ab97850569811e2f57ce6b40a5090a8601d960c5c03066d94","features":{},"yanked":false}
 {"name":"ziyy","vers":"1.0.6","deps":[],"cksum":"bdf383faf3d7d8dc3a68e60632a188d45c93a18f03b07a5f46607c85d529d338","features":{},"yanked":false}
 {"name":"ziyy","vers":"2.0.0-beta.0","deps":[],"cksum":"25ca1039664125a3fe2db9e758c1f258e984b5c7b11b5287e0fb1010d5e45c06","features":{},"yanked":false}
+{"name":"ziyy","vers":"2.0.0-beta.1","deps":[],"cksum":"fd431f8e5ffc87bb37884810cf46001f97a174938035a1021e56058f9ef1b75c","features":{"debug":[]},"yanked":false}
