@@ -1,0 +1,1 @@
+{"name":"lambert_w","vers":"0.1.0","deps":[{"name":"approx","req":"^0.5.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"ec15aefdf684f0324fe75254d813f608cb0752c7da02085f960d2ecea4bcaf54","features":{},"yanked":false,"rust_version":"1.65.0"}
