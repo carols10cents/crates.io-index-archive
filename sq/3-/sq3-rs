@@ -1,0 +1,1 @@
+{"name":"sq3-rs","vers":"0.1.5","deps":[],"cksum":"05e926117ebf7ef4ba6373fcd346ef166eda5a186531f8fcbb315b1966f7686e","features":{"default":["log"],"log":[],"show-ct-checks":[]},"yanked":false,"rust_version":"1.79.0"}
