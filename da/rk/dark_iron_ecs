@@ -8,3 +8,4 @@
 {"name":"dark_iron_ecs","vers":"0.6.55","deps":[],"cksum":"b2e0253b3d8d67b9af95eb2b28f761a7d7056238e07cd9fbb0cd05a40518e626","features":{},"yanked":false}
 {"name":"dark_iron_ecs","vers":"0.6.56","deps":[],"cksum":"e0a84e256505b8ac66c85a636091bb5f26f9c823b552fb065a1cf123ebafcca6","features":{},"yanked":false}
 {"name":"dark_iron_ecs","vers":"0.6.60","deps":[],"cksum":"60f14b2aad71df0ede4269db44a6ffb5571dbb217eb9bee3d2d677546e39041d","features":{},"yanked":false}
+{"name":"dark_iron_ecs","vers":"0.6.7","deps":[],"cksum":"3e84b8c933b0f90d91c2d701286beb24ff52ccadd71197f35c4911654f4b6eba","features":{},"yanked":false}
