@@ -1,4 +1,4 @@
 {"name":"sq3-rs","vers":"0.1.5","deps":[],"cksum":"05e926117ebf7ef4ba6373fcd346ef166eda5a186531f8fcbb315b1966f7686e","features":{"default":["log"],"log":[],"show-ct-checks":[]},"yanked":false,"rust_version":"1.79.0"}
-{"name":"sq3-rs","vers":"0.1.6","deps":[],"cksum":"a535a7211950fc155e5258ea874ad13b520b6e50614da360e1455926ef9f5714","features":{"default":["log"],"log":[],"show-ct-checks":[]},"yanked":false,"rust_version":"1.79.0"}
+{"name":"sq3-rs","vers":"0.1.6","deps":[],"cksum":"a535a7211950fc155e5258ea874ad13b520b6e50614da360e1455926ef9f5714","features":{"default":["log"],"log":[],"show-ct-checks":[]},"yanked":true,"rust_version":"1.79.0"}
 {"name":"sq3-rs","vers":"0.1.7","deps":[],"cksum":"c4742e4e1306be07e573a8abf4ee364dc2912fe43e6b7e966a3740cab57a1255","features":{"default":["log"],"log":[],"show-ct-checks":[]},"yanked":true,"rust_version":"1.80.0"}
 {"name":"sq3-rs","vers":"0.1.8","deps":[],"cksum":"59d24ad2d368ebe95b2adfa4dd5974b955bc7a567b0951ef0e93095545a6cc23","features":{"default":["log"],"log":[],"show-ct-checks":[]},"yanked":false,"rust_version":"1.80.0"}
