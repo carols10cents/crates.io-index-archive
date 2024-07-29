@@ -1,1 +1,2 @@
 {"name":"five8_const","vers":"0.1.0","deps":[{"name":"five8_core","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d9e9538d4ba3cc45cf2262cb32df0983dfbcc5e63de635e7d49f38a18ee7cf49","features":{},"yanked":false}
+{"name":"five8_const","vers":"0.1.1","deps":[{"name":"five8_core","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b536b1101b6198195a406d6d979dde8f58bc3879e636e82d6a218e519051f72c","features":{},"yanked":false}
