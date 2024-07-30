@@ -17,3 +17,4 @@
 {"name":"mut_set","vers":"0.3.3","deps":[],"cksum":"890acb9d2c36627da95768fa845a34705569d57c35e87f4b0edd13f60c55494a","features":{},"yanked":false}
 {"name":"mut_set","vers":"0.3.4","deps":[],"cksum":"9b624ea9c321ceaade8ba734ed43f0f36c4cd9ae7fc01a7abda02f5445af37ce","features":{},"yanked":false}
 {"name":"mut_set","vers":"0.3.5","deps":[{"name":"serde","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6c910d1d257f0848eb3717acf81eddf62471f45d05f3a269cf3c723f34db513e","features":{},"yanked":false}
+{"name":"mut_set","vers":"0.3.6","deps":[{"name":"serde","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"75dbe96489425e7429249f6432482514f26b43cbacfb4abbe6efa990708315b7","features":{},"yanked":false}
