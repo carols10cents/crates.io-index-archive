@@ -1,0 +1,1 @@
+{"name":"relrc","vers":"0.1.0","deps":[{"name":"derive_more","req":"^0.99.18","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2cb8d8e6d04731cb497e23e7da7502aee17250545a831676e0f506a970073765","features":{},"yanked":false}
