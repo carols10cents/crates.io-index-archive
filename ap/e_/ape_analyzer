@@ -1,0 +1,1 @@
+{"name":"ape_analyzer","vers":"0.1.0","deps":[{"name":"ape_ast","req":"^0.1.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3480f6cccb1be889c7a6dd3e45de87c069a11475d37e08d1fe218594eba4e3bd","features":{},"yanked":false}
