@@ -1,1 +1,2 @@
 {"name":"sq3_derive","vers":"0.2.1","deps":[],"cksum":"2e2abde2791dc5aaf0d705010e756441433097a5e5f9078ee155ef7e219511cd","features":{},"yanked":false,"rust_version":"1.80.0"}
+{"name":"sq3_derive","vers":"0.2.2","deps":[],"cksum":"72032cc6ec15a5fb7ec3208055733a492770dd43ce016311c5d948544c0d5451","features":{},"yanked":false,"rust_version":"1.80.0"}
