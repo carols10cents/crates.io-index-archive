@@ -1,0 +1,1 @@
+{"name":"protobin","vers":"0.1.0","deps":[{"name":"proptest","req":"^1.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"0095033457f81357c3011e217f3a659da654b9e8a65063b6b3c050ad5b7dee8d","features":{},"yanked":false}
