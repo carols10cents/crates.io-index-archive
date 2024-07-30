@@ -1,0 +1,1 @@
+{"name":"argentum_log_business","vers":"0.2.0-dev.1","deps":[{"name":"chrono","req":"0.4.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9c6ce6c8b78f8f96c13a7743f574ba5c375729983ecf76911494beb8333088cb","features":{},"yanked":false}
