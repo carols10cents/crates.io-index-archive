@@ -1,1 +1,2 @@
 {"name":"welcomer","vers":"0.1.0","deps":[{"name":"clap","req":"^4.5.11","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ac094518a772dde8e005bb6c3532f1d78c88425c0c17274fdb2e220c83cabd87","features":{},"yanked":false}
+{"name":"welcomer","vers":"0.1.1","deps":[{"name":"clap","req":"^4.5.11","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8987d67b18e3d303bb7f0339fb3f20624c4e78e3afbb5406a2672fe387988d2c","features":{},"yanked":false}
