@@ -1,0 +1,1 @@
+{"name":"tscale_sequence","vers":"0.1.0","deps":[{"name":"approximately","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b9dffed23d09163d6f32c311af9d26fcdc44f390e9d5fa0d7fc5559615750aa1","features":{},"yanked":false}
