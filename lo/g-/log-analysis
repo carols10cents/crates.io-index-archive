@@ -1,2 +1,3 @@
 {"name":"log-analysis","vers":"0.1.0","deps":[],"cksum":"f0c54f88897d5b1f7ae48e29614bee0e8c93ecd5aa595b530f18a8417660bcce","features":{"default":["ip2location"],"ip2location":[]},"yanked":false}
 {"name":"log-analysis","vers":"0.1.1","deps":[],"cksum":"21161e45bb9b4e3d616c791970cdab1fb55e1f57e307b812b94c2a140ee95a99","features":{"default":["ip2location"],"ip2location":[]},"yanked":false}
+{"name":"log-analysis","vers":"0.1.2","deps":[],"cksum":"b3da7db2dac805dded74d775006f68ae44bb9422c0664e39791a1f0dd7f16b63","features":{"default":["ip2location"],"ip2location":[]},"yanked":false}
