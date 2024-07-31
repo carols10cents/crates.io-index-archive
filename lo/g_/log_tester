@@ -1,0 +1,1 @@
+{"name":"log_tester","vers":"0.1.0","deps":[{"name":"log","req":"^0.4","features":["std"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c26f1f246e2b88e027ca6d364faeb05f5181adac0b5dcaa17f4da0ac8d490698","features":{},"yanked":false}
