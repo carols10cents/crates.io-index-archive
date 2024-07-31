@@ -1,0 +1,1 @@
+{"name":"elegance","vers":"0.1.0","deps":[{"name":"indoc","req":"^2.0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"8dc86dac9fd5396bd4ebf6da3a976a775c9f23a8b4035a9c7079ae13243402f2","features":{},"yanked":false}
