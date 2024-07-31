@@ -1,0 +1,1 @@
+{"name":"day_count_conventions","vers":"0.1.0","deps":[{"name":"chrono","req":"^0.4.38","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d24669b6740a28c1cd28aa479914ea109d6729e14558e4f06e17d1241329c20d","features":{},"yanked":false}
