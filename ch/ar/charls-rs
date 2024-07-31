@@ -1,1 +1,0 @@
-{"name":"charls-rs","vers":"0.2.0","deps":[{"name":"charls-sys","req":"^2.4.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ba1298140196ae575b89e9e58e781b35ac42b700ed276ed51a8b0cd3bf20c03f","features":{"default":[],"static":["charls-sys/static"]},"yanked":true}
