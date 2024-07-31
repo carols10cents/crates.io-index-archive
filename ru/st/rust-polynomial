@@ -1,0 +1,1 @@
+{"name":"rust-polynomial","vers":"1.0.0","deps":[{"name":"num","req":"^0.4.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4cae08d75cf3eb1ba5b6cbc06c5f714c6ff60abbeb777d22f38f204dd4d885aa","features":{},"yanked":false}
