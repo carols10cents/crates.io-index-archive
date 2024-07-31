@@ -12,3 +12,4 @@
 {"name":"partiql-irgen","vers":"0.8.0","deps":[],"cksum":"1e69503da09409b179a66a5f62cd1a48c63c83a018d2c0ab9bb2aedd1fad75c2","features":{},"yanked":false}
 {"name":"partiql-irgen","vers":"0.9.0","deps":[],"cksum":"58d0ba76b26a67cbf2739a8cfac21722b40d40d3547ffe30342b131a69fa2a48","features":{},"yanked":false}
 {"name":"partiql-irgen","vers":"0.10.0","deps":[],"cksum":"ff2c4862258789d47c3160e9b7e6f31a648f1599b0fac4c0b806968b8efab351","features":{},"yanked":false}
+{"name":"partiql-irgen","vers":"0.10.1","deps":[],"cksum":"720f8c37be324daead12cd5cc9f2125e979c5eb6613a84a985fb4915c82e622e","features":{},"yanked":false}
