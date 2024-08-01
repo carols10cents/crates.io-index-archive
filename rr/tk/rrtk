@@ -15,3 +15,4 @@
 {"name":"rrtk","vers":"0.3.1","deps":[],"cksum":"bc2e5d653da29858f9505650cbb51f8e0b99e57fb204f2aa03cbcfcf6cf7f22a","features":{"default":["std"],"std":[]},"yanked":false}
 {"name":"rrtk","vers":"0.4.0-alpha.1","deps":[],"cksum":"eba0d83bc1ed61c8f70be812ae7bab41fae0914afd911f05161c1a48cf834ef3","features":{"default":["std"],"std":[]},"yanked":false}
 {"name":"rrtk","vers":"0.4.0-alpha.2","deps":[],"cksum":"9239453371ba032e5ee784fd2771aa262b586b95deecaa6d6c2400f194204ffe","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"rrtk","vers":"0.4.0-alpha.3","deps":[],"cksum":"e799a0e1f3f1231973a3702e3d847e362cec8b7ad740de59978cc39f6423d356","features":{"default":["std"],"devices":[],"std":[]},"yanked":false}
