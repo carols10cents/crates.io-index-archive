@@ -5,3 +5,4 @@
 {"name":"not-found-error","vers":"0.1.4","deps":[],"cksum":"658215bb8638ef62f46186ced3a0839b3bdfc1bd4754d07d64fcef4206e6f57a","features":{},"yanked":false}
 {"name":"not-found-error","vers":"0.1.5","deps":[],"cksum":"8a07c9a610eed68da5960f21c02cb668c087257baf4563ee6ae949fcc4e409e1","features":{},"yanked":false}
 {"name":"not-found-error","vers":"0.1.6","deps":[],"cksum":"48ae3e84edbf05d95ac67317f9dde754729989121bc0334ee0cfa5c2b53e4775","features":{},"yanked":false}
+{"name":"not-found-error","vers":"0.2.0","deps":[],"cksum":"6529b368d723c5858d703aaddc38312af38a17f6ff45184108a150310b00dae3","features":{},"yanked":false}
