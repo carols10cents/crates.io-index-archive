@@ -1,1 +1,2 @@
 {"name":"gyges_engine","vers":"1.0.0","deps":[{"name":"gyges","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"76781c5a07af479ed33656fbe96d1588c64ac6313e1c5d3f977687a5a07e27d2","features":{},"yanked":false}
+{"name":"gyges_engine","vers":"1.0.1","deps":[{"name":"gyges","req":"^1.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ec34b88dbad7625ce10b9b8b9eb201f401d4f62a3f1088110ecf4998cec4571e","features":{},"yanked":false}
