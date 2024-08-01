@@ -1,2 +1,3 @@
 {"name":"argentum_event_business","vers":"0.2.0-dev.1","deps":[],"cksum":"188d2dab3bff4e673244417403a9102e90b50daed7f0446758a319ba9408ffbd","features":{},"yanked":false}
 {"name":"argentum_event_business","vers":"0.2.0","deps":[],"cksum":"28a5c660362f5020ae0d2a9a2991c9fcafbec11388b04efd080ef375c0103e85","features":{},"yanked":false}
+{"name":"argentum_event_business","vers":"0.2.1","deps":[],"cksum":"3f7dada17e990147cd9e4eaf06cadbcea94c1e3194db47fbf4d79d31bf9fb8ff","features":{},"yanked":false}
