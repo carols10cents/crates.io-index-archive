@@ -1,1 +1,2 @@
 {"name":"arti-relay","vers":"0.20.0","deps":[],"cksum":"74bafa2b3699ea3f6b72a6d378db336e3bdf8f09be0b4e030068ef5163b47e3e","features":{"default":[],"full":[]},"yanked":false,"rust_version":"1.70"}
+{"name":"arti-relay","vers":"0.21.0","deps":[],"cksum":"0429ee4560c5edaf007ea61ba466dd0d86937e1da804bdb405f74cff4542c347","features":{"default":[],"full":[]},"yanked":false,"rust_version":"1.70"}
