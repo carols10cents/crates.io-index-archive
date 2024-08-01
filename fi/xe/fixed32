@@ -9,3 +9,4 @@
 {"name":"fixed32","vers":"0.0.9","deps":[],"cksum":"fe0313a19b4946b91359b190254951bb1f538f10bd5c3605a0036036444b9479","features":{},"yanked":false}
 {"name":"fixed32","vers":"0.0.10","deps":[],"cksum":"565df1e159eeef13a700a058b1f14a1cff3b3b61df314ffc8dcb7fa162f417a8","features":{},"yanked":false}
 {"name":"fixed32","vers":"0.0.11","deps":[],"cksum":"75e520a8664d7187e57d78650a962c71822f1c440db9cbd8e1ec432a97856561","features":{},"yanked":false}
+{"name":"fixed32","vers":"0.0.12","deps":[],"cksum":"d0bbe5b101433141d4c3d0fbed7d8fcdf62349e6d8c9fb9c9eed763b4862943e","features":{},"yanked":false}
