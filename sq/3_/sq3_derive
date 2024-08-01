@@ -4,3 +4,4 @@
 {"name":"sq3_derive","vers":"0.2.4","deps":[],"cksum":"7345875bd566df044ba08471039c1d393047967e8f7abb0a1ebec177fe268d8f","features":{},"yanked":false,"rust_version":"1.80.0"}
 {"name":"sq3_derive","vers":"0.2.5","deps":[],"cksum":"152e39e7c40ef1aefa7409f77daf55f8eed141edcb7c853b53d8b4caf65ef7a8","features":{},"yanked":false,"rust_version":"1.80.0"}
 {"name":"sq3_derive","vers":"0.2.6","deps":[],"cksum":"799ef705de325ba89e843a16e5e407e049be07c9a51ea3dbaefce155329bccdc","features":{},"yanked":false,"rust_version":"1.80.0"}
+{"name":"sq3_derive","vers":"0.2.7","deps":[],"cksum":"a631bb855e001af2831929021dff761214a7c988538e1227e7b097590cb13547","features":{},"yanked":false,"rust_version":"1.80.0"}
