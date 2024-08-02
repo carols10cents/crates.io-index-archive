@@ -4,3 +4,4 @@
 {"name":"asimov-sys","vers":"24.0.0-dev.3","deps":[],"cksum":"2b3e686a4ca13137b2ab490102aecd0675a2a164238866c6761175a785c9bebe","features":{"default":[]},"yanked":false,"rust_version":"1.70"}
 {"name":"asimov-sys","vers":"24.0.0-dev.4","deps":[],"cksum":"6fe219a45f2a7b4f4d7a7349cb524cc0a53696b9cd5bf3c0a95ef2d567fd09d0","features":{"default":[]},"yanked":false,"rust_version":"1.70"}
 {"name":"asimov-sys","vers":"24.0.0-dev.5","deps":[],"cksum":"21bd21f33bbde16d7c2ca7c08e5915055c09eda563b7e8e2b283b96122b87801","features":{"default":[]},"yanked":false,"rust_version":"1.70"}
+{"name":"asimov-sys","vers":"24.0.0-dev.6","deps":[],"cksum":"5059ede6e9f510c9c7bfb2b694655c60c0fe2dae8c193dac21188a3580e8e214","features":{"default":[]},"yanked":false,"rust_version":"1.70"}
