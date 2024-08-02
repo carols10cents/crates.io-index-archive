@@ -1,0 +1,1 @@
+{"name":"mmap-wrapper","vers":"0.9.9","deps":[{"name":"memmap2","req":"^0.9.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"241a56610706130b3a4eade9dfad54f2289a29b1ac7cc16f0f8face13e699063","features":{},"yanked":false}
