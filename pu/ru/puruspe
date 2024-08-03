@@ -8,3 +8,4 @@
 {"name":"puruspe","vers":"0.2.2","deps":[],"cksum":"49b5e7eddbce9b2e1b1b3c24af28e1a1d75832159ce02bd47e42de2e9d61b907","features":{},"yanked":false}
 {"name":"puruspe","vers":"0.2.3","deps":[],"cksum":"2c6778a7ae74b21f07fc5b9d550b1fdc212d719ec76d03cd2940c41002247c8a","features":{},"yanked":false}
 {"name":"puruspe","vers":"0.2.4","deps":[{"name":"peroxide","req":"^0.35","features":["plot"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"06a1eed715f625eaa95fba5e049dcf7bc06fa396d6d2e55015b3764e234dfd3f","features":{},"yanked":false}
+{"name":"puruspe","vers":"0.2.5","deps":[{"name":"peroxide","req":"^0.37","features":["plot"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"3804877ffeba468c806c2ad9057bbbae92e4b2c410c2f108baaa0042f241fa4c","features":{},"yanked":false}
