@@ -1,0 +1,1 @@
+{"name":"palette-transfer","vers":"0.1.0","deps":[{"name":"colorutils-rs","req":"^0.5.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ff07bdeac43e797f925c78546e4be956de4b4a945deee209b27412a73430874c","features":{},"yanked":false}
