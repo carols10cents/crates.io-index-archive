@@ -5,3 +5,4 @@
 {"name":"m4rs","vers":"0.5.0","deps":[],"cksum":"b9082dde654cac92510e95bb47be021d87c3071ed5415dfae4a87c81ffe5b449","features":{},"yanked":false}
 {"name":"m4rs","vers":"0.6.0","deps":[],"cksum":"9180d5ff47ab5342e2d3bd673edb33797f9d14161401b7946d74cebcdae2472f","features":{},"yanked":false}
 {"name":"m4rs","vers":"0.7.0","deps":[],"cksum":"6ce60d3986c7c75efd7661c111481e2ecc73081a840340a264dca5082aee5606","features":{},"yanked":false}
+{"name":"m4rs","vers":"0.8.0","deps":[],"cksum":"10d1bfd9159a2a81a760e50dd3eec89f38ec3e72b65ef3d2ebaeb6a46a469e36","features":{},"yanked":false}
