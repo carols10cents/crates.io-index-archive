@@ -8,3 +8,4 @@
 {"name":"sq3_derive","vers":"0.2.8","deps":[],"cksum":"f7a92b8aaa8adaf07caef859f0bd54e3a50ca2d6a4e26f397e86268f913d61d2","features":{},"yanked":false,"rust_version":"1.80.0"}
 {"name":"sq3_derive","vers":"0.2.9","deps":[],"cksum":"4ab056beb355d14eaadfb49cbea5ad08483ea561badd1605582c293332d95ab1","features":{},"yanked":true,"rust_version":"1.80.0"}
 {"name":"sq3_derive","vers":"0.2.10","deps":[],"cksum":"d6b9f585fb71a0db769e55f077e64fed7864cd42d5153d5e128ab6e4d72ecf85","features":{},"yanked":false,"rust_version":"1.80.0"}
+{"name":"sq3_derive","vers":"0.2.11","deps":[],"cksum":"44b1b5cf8672dabfa0d0e1896ee813590216bac8685493eda60e557d36e46c64","features":{},"yanked":false,"rust_version":"1.80.0"}
