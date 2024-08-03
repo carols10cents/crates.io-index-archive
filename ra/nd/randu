@@ -1,1 +1,2 @@
 {"name":"randu","vers":"0.9.0","deps":[],"cksum":"37f826084ba88c8a1552db8b865b280fe247d32b062588c919315ed6648df62f","features":{},"yanked":false,"rust_version":"1.56.1"}
+{"name":"randu","vers":"0.9.1","deps":[],"cksum":"0d590462ab73a7dfa268e59ecbfaffc0951d1d9b68246743e112dcb30ca5f716","features":{},"yanked":false,"rust_version":"1.56.1"}
