@@ -1,0 +1,1 @@
+{"name":"ittybitty","vers":"0.1.0","deps":[{"name":"generic-tests","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"01cf08e707e571d9ce0f3748f2c2d911c44a9523448c20e5f25c9a70b90c03bc","features":{},"yanked":false}
