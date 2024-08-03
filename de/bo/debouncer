@@ -1,0 +1,1 @@
+{"name":"debouncer","vers":"0.1.0","deps":[{"name":"tokio","req":"^1","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bf9068cc7ce5408a85d405e3e4d9022471b9ae76ed9fbfb722d7a785ef0a2d96","features":{},"yanked":false}
