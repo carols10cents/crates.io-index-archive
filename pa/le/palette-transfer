@@ -1,1 +1,2 @@
 {"name":"palette-transfer","vers":"0.1.0","deps":[{"name":"colorutils-rs","req":"^0.5.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ff07bdeac43e797f925c78546e4be956de4b4a945deee209b27412a73430874c","features":{},"yanked":false}
+{"name":"palette-transfer","vers":"0.1.1","deps":[{"name":"colorutils-rs","req":"^0.5.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"347ec3c36f40fa6418b3c9f6053e49af4e4b60e24fd8b03c7ee5f73f985c8162","features":{},"yanked":false}
