@@ -1,0 +1,1 @@
+{"name":"x86-simd","vers":"0.1.0","deps":[{"name":"rustc_version","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"0d122de7e7b02177685780b0f41fc7febbf728408b1d465a7a84bcc01d348cef","features":{"default":["std"],"std":[]},"yanked":false}
