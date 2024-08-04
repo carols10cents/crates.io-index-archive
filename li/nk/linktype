@@ -1,1 +1,2 @@
 {"name":"linktype","vers":"0.1.0","deps":[],"cksum":"a8d5de5d82e1c95fc7970052276fb11aa0f1608dcf7226ad92799200c132fadb","features":{},"yanked":false}
+{"name":"linktype","vers":"0.1.1","deps":[{"name":"num_enum","req":"^0.7.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0e38aedb711524aa41308367d80e314fb859a2285afd8f163329c7a715996329","features":{},"yanked":false}
