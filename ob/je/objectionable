@@ -1,2 +1,3 @@
 {"name":"objectionable","vers":"0.1.0","deps":[],"cksum":"704c9bea39523890034d3aa718e2d9b5caee9806d2ccacf7465e6ce775b7ae86","features":{"default":[],"strict-provenance":[]},"yanked":false}
 {"name":"objectionable","vers":"0.2.0","deps":[],"cksum":"42fb75a2c1a45a14610fcf50935bce7a40be9f6ece35514ff6c505dc7abddea7","features":{"default":[],"strict-provenance":[]},"yanked":false}
+{"name":"objectionable","vers":"0.2.1","deps":[],"cksum":"5187a4a5936e05b2ab805b37fdc29bc19b536866af7605a4ba3bf59112fbe77e","features":{"default":[],"strict-provenance":[]},"yanked":false}
