@@ -1,2 +1,3 @@
 {"name":"vortex-flatbuffers","vers":"0.1.0","deps":[],"cksum":"f55f74544a842d136fcfb4b96ccc6d76a2b6e95b815bc0e8f195a9074da0064d","features":{},"yanked":false}
 {"name":"vortex-flatbuffers","vers":"0.2.0","deps":[{"name":"flatbuffers","req":"^24.3.25","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9e97db1f53b3f082e8f36d69755a58bfca990bef1868c46075ced70c007bb4ba","features":{},"yanked":false,"rust_version":"1.76"}
+{"name":"vortex-flatbuffers","vers":"0.3.0","deps":[{"name":"flatbuffers","req":"^24.3.25","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3f931f3123902d30050683bb083e49793441d6b1f135612635d153e051a28826","features":{},"yanked":false,"rust_version":"1.76"}
