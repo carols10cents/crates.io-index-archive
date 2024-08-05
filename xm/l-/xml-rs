@@ -67,3 +67,4 @@
 {"name":"xml-rs","vers":"0.8.18","deps":[],"cksum":"bab77e97b50aee93da431f2cee7cd0f43b4d1da3c408042f2d7d164187774f0a","features":{},"yanked":false,"rust_version":"1.58"}
 {"name":"xml-rs","vers":"0.8.19","deps":[],"cksum":"0fcb9cbac069e033553e8bb871be2fbdffcab578eb25bd0f7c508cedc6dcd75a","features":{},"yanked":false,"rust_version":"1.58"}
 {"name":"xml-rs","vers":"0.8.20","deps":[],"cksum":"791978798f0597cfc70478424c2b4fdc2b7a8024aaff78497ef00f24ef674193","features":{},"yanked":false,"rust_version":"1.58"}
+{"name":"xml-rs","vers":"0.8.21","deps":[],"cksum":"539a77ee7c0de333dcc6da69b177380a0b81e0dacfa4f7344c465a36871ee601","features":{},"yanked":false,"rust_version":"1.59"}
