@@ -6,3 +6,4 @@
 {"name":"ape_ast","vers":"0.1.5","deps":[],"cksum":"b0d22766607c0ae876cfdae19b3d4dae04d50e34341491a37cb8fb1b9e3f7302","features":{},"yanked":false}
 {"name":"ape_ast","vers":"0.1.6","deps":[],"cksum":"1a2f72143b38ec3b90fc4c4677e8843b6fa4a6e8c192915f5ace3f94523df464","features":{},"yanked":false}
 {"name":"ape_ast","vers":"0.1.7","deps":[],"cksum":"d774b83ac39a6d384e7cd89a0551d40ab053c995331a4133bd98b7c806b6c659","features":{},"yanked":false}
+{"name":"ape_ast","vers":"0.1.9","deps":[{"name":"ape_env","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"ape_expr","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d2eda3484f7ab19af94424889b861653a6068f7bb803a7b7bd651340fbff2d72","features":{},"yanked":false}
