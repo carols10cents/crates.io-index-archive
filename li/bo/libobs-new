@@ -1,0 +1,1 @@
+{"name":"libobs-new","vers":"2.0.0","deps":[{"name":"bindgen","req":"^0.69.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"dcee82178189026a9e5795d5bbfde37369de62e226d02341a36e52cca8b1c7d5","features":{},"yanked":false}
