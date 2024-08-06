@@ -1,1 +1,2 @@
 {"name":"parsebin","vers":"0.1.0","deps":[{"name":"clap","req":"^4.5.13","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e073a189dae3cb9c9e2662272bdac7bef2f4746c6c56ef35f7a6453b1549e70b","features":{},"yanked":true}
+{"name":"parsebin","vers":"0.1.1","deps":[{"name":"clap","req":"^4.5.13","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"651f5d7d5c18d5dabf888ebaa4e17f15ee2496136d759541bcd4d24084aaa9ab","features":{},"yanked":false}
