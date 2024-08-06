@@ -1,0 +1,1 @@
+{"name":"swift-runtime-sys","vers":"0.0.1","deps":[{"name":"bindgen","req":"^0.69.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"build","package":"bindgen"}],"cksum":"97ae9ad8f08300cec20e7c49537e2b05f1a55b348a1940d500bfa1f4a6b44853","features":{},"yanked":false}
