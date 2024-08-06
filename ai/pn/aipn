@@ -1,0 +1,1 @@
+{"name":"aipn","vers":"0.1.0","deps":[{"name":"num_enum","req":"^0.7.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3bc40d05d30bd7a7bb0c2cfabb1272f35083d3b128012d9a3836c816b56060ca","features":{},"yanked":false}
