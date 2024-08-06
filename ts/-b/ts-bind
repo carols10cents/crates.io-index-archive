@@ -1,1 +1,2 @@
 {"name":"ts-bind","vers":"0.1.0","deps":[{"name":"ts-bind-macros","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2a4fdfb1fccccec44a489c05932bc22b02962a3dfdd5a5e4f3ea80abd4644a2a","features":{},"yanked":false}
+{"name":"ts-bind","vers":"0.1.1","deps":[{"name":"ts-bind-macros","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c0c1ed05a36108cb4fa5c2b6487fe825368f095084422f5b50d6c3a4768b2ed4","features":{},"yanked":false}
