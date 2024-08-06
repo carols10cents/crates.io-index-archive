@@ -1,0 +1,1 @@
+{"name":"i3m-scripts","vers":"1.0.0","deps":[{"name":"i3m","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"45620cef954c8a4f6c9c9ce5c62b0133ab12a5e7b0ef7293c26830a142ccaff0","features":{},"yanked":false,"rust_version":"1.72"}
