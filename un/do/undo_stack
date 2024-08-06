@@ -11,3 +11,4 @@
 {"name":"undo_stack","vers":"0.2.0","deps":[],"cksum":"aff573be1739cba29f5912b1bc1163cab6578b32402fa9fbb1a04be661e09432","features":{"std":[]},"yanked":false}
 {"name":"undo_stack","vers":"0.2.1","deps":[],"cksum":"19e945d873184e5529efe9eb8bcaad4cb6e0427e6ebdeada1bb8431819c57a7e","features":{"std":[]},"yanked":false}
 {"name":"undo_stack","vers":"0.2.2","deps":[],"cksum":"5bdbe988d9d18f7b8cc5d777654965f8ff4d90453be34f6961a4e1fa50d82497","features":{"default":[],"std":[]},"yanked":false}
+{"name":"undo_stack","vers":"0.2.3","deps":[],"cksum":"e52508cf591fbe83968b1a5922b35bf60a8d20ed2fd45f04b13333280ac85863","features":{"default":[],"std":[]},"yanked":false}
