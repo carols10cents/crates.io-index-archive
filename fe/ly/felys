@@ -5,3 +5,4 @@
 {"name":"felys","vers":"0.1.4","deps":[],"cksum":"b15e32c8a36e4ada265d90c1976bee646a1d6ec78e5dd976938bcf3ab6c745aa","features":{},"yanked":true}
 {"name":"felys","vers":"0.1.5","deps":[],"cksum":"6d0a0c100523da384eefe4e18600b68a50f8c2189a67296c06326ef559f72fa5","features":{},"yanked":true}
 {"name":"felys","vers":"0.1.6","deps":[],"cksum":"cbdafed42baba4139d05ef12e74a5d5e199ba591308cca2090eba68848fbe095","features":{},"yanked":false}
+{"name":"felys","vers":"0.1.7","deps":[],"cksum":"103b2209d3115657ac9ab1d27e49b4df3794b8525d5104e76735b8001f52aa58","features":{},"yanked":false}
