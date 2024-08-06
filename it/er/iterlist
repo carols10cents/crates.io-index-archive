@@ -1,2 +1,3 @@
 {"name":"iterlist","vers":"0.1.0","deps":[],"cksum":"68db26d47b9b01410797248859b1b652c7da8847a9bac12cc1df60fc0a636d8e","features":{},"yanked":false}
 {"name":"iterlist","vers":"0.2.0","deps":[],"cksum":"ac9748790739ee1664dc01bd23231b55cf7bb8008da19c9bc8270f1a73ad0c78","features":{},"yanked":false}
+{"name":"iterlist","vers":"0.2.1","deps":[],"cksum":"e566c304d1633fbc361dd3de25fa13e49952c04ffae8deab75d1292b20c2a562","features":{},"yanked":false}
