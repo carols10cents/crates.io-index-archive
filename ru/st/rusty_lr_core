@@ -1,3 +1,4 @@
 {"name":"rusty_lr_core","vers":"0.7.0","deps":[],"cksum":"329d7f4da793e422ee631f6a174a29697bc00ea7d57a0c3581e71466fad6ad0b","features":{},"yanked":false}
 {"name":"rusty_lr_core","vers":"0.7.2","deps":[],"cksum":"20f3af2e415daadf6fe145c5f720b1cfe2686c77fc4c607f3ba57264c4edd8a4","features":{},"yanked":false}
 {"name":"rusty_lr_core","vers":"0.8.0","deps":[],"cksum":"145f71b48b78fb329fc2c5c695ba74b5920403bbe8358fc6e08e9079fef7cfff","features":{},"yanked":false}
+{"name":"rusty_lr_core","vers":"0.9.0","deps":[],"cksum":"e4ea00dfc55548e0875400b8fa941787b01a1615fdd4611595e25b0c4478c0f8","features":{},"yanked":false}
