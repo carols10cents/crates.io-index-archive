@@ -1,2 +1,3 @@
 {"name":"fuzzy_prefix_search","vers":"0.1.0","deps":[],"cksum":"d0c3b5adb3a1530d1968d14d807014e36e5c2dacc16248a99af03d162203ed2b","features":{},"yanked":false}
 {"name":"fuzzy_prefix_search","vers":"0.1.1","deps":[],"cksum":"14fe70c98b5a4c1ccc784b57b44b6e95aed6b8849bb776a96552a59c24a8aa7b","features":{},"yanked":false}
+{"name":"fuzzy_prefix_search","vers":"0.1.2","deps":[],"cksum":"a24ce0f77cff083d05bf131c7b585ec413f5524321e3490d236beb1c1f57b808","features":{},"yanked":false}
