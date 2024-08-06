@@ -1,1 +1,2 @@
 {"name":"freesound-credits","vers":"0.2.0","deps":[{"name":"clap","req":"^4.5.13","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fca2e83f6885db2b1807c42273902282670bb2c3e448fe6a787874b9f0fe0003","features":{},"yanked":false}
+{"name":"freesound-credits","vers":"0.2.1","deps":[{"name":"clap","req":"^4.5.13","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"264b544962c7d391b99bd24e7a6d8cacc6d8d99d8305ee87e001a5a64a451a2c","features":{},"yanked":false}
