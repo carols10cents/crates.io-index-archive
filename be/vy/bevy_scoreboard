@@ -1,0 +1,1 @@
+{"name":"bevy_scoreboard","vers":"0.1.0","deps":[{"name":"bevy","req":"^0.14.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a8dcff68d8770f57d82b7b26677ce3d82659108054a8e2477dc37d96fa85d510","features":{},"yanked":false}
