@@ -1,2 +1,3 @@
 {"name":"naoki_test_publish","vers":"0.1.0","deps":[],"cksum":"b874ccf5a37cb906dc42421db6dcd0aba5490348ea4da2c08194407ebe0a92cb","features":{},"yanked":false}
 {"name":"naoki_test_publish","vers":"0.2.0","deps":[],"cksum":"4b7bb63aa349615888d027ee09bd503225b9fee36f0361c478773282cb5e03ba","features":{},"yanked":false}
+{"name":"naoki_test_publish","vers":"0.2.1","deps":[],"cksum":"65bd5e66f785e1eb8d8f9fad9bee1a956df1bca3987afe5f3a3f1ead83e7dd1b","features":{},"yanked":false}
