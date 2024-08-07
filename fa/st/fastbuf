@@ -1,3 +1,4 @@
 {"name":"fastbuf","vers":"0.1.0","deps":[],"cksum":"4ce7bc02f96faca1f12449f7313a89506bd7f74275456dad3a479cbfa2a9c8fb","features":{},"yanked":false}
 {"name":"fastbuf","vers":"0.2.0","deps":[],"cksum":"51ec74136d79ba713ad933491da33ad5a15e9bc278209782bc1521ac2145daaa","features":{},"yanked":false}
 {"name":"fastbuf","vers":"0.3.0","deps":[],"cksum":"0fffb6faa356d134bc54657bda5a82f8ff7b585362ee6cd01366b569bca777d4","features":{},"yanked":false}
+{"name":"fastbuf","vers":"0.4.0","deps":[{"name":"divan","req":"^0.1.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"a7edaef6861106263434f3c88d7079bbde09ec744ec2e787737682ec3322e7fd","features":{},"yanked":false}
