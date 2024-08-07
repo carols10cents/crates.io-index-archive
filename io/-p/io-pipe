@@ -1,0 +1,1 @@
+{"name":"io-pipe","vers":"0.1.0","deps":[{"name":"bytes","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ee05350b6e8b28172087d8292bd088ffdac36b00878cc71f8321110c20a38458","features":{},"yanked":false}
