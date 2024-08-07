@@ -3,3 +3,4 @@
 {"name":"fastbuf","vers":"0.3.0","deps":[],"cksum":"0fffb6faa356d134bc54657bda5a82f8ff7b585362ee6cd01366b569bca777d4","features":{},"yanked":false}
 {"name":"fastbuf","vers":"0.4.0","deps":[{"name":"divan","req":"^0.1.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"a7edaef6861106263434f3c88d7079bbde09ec744ec2e787737682ec3322e7fd","features":{},"yanked":false}
 {"name":"fastbuf","vers":"0.5.0","deps":[{"name":"divan","req":"^0.1.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"17fb9c6c597c640ca2ff25ce8f635b1ed2dd0a92ea36592b049cd16d886324e2","features":{},"yanked":false}
+{"name":"fastbuf","vers":"0.6.0","deps":[{"name":"divan","req":"^0.1.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"78324fd6de035a477fe1c1b08a505a65e830352a2f87b2559b70ad8d685a6be8","features":{},"yanked":false}
