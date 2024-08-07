@@ -1,3 +1,4 @@
 {"name":"clipanion-core","vers":"0.1.0","deps":[],"cksum":"2dde04f978783b9a66bb9530f61eee66685f63fb5604e0d2edcadad7d38c48d0","features":{},"yanked":false}
 {"name":"clipanion-core","vers":"0.2.0","deps":[],"cksum":"f5ad0ceb6e82ae84c04bd5b334a8e7f6644362385b6b0c129d02a0b1a6984763","features":{},"yanked":false}
 {"name":"clipanion-core","vers":"0.4.0","deps":[],"cksum":"8acca8c9752c873ce207e4941e0c23cf9e9e5e4a9a26845c7d127995c98442d8","features":{},"yanked":false}
+{"name":"clipanion-core","vers":"0.4.1","deps":[],"cksum":"ec918cd3535ec1f99d6a2284e7cace4832b310fc8573a4eab6bbcfbde5e0c192","features":{},"yanked":false}
