@@ -12,3 +12,4 @@
 {"name":"declarative_type_state","vers":"0.2.2","deps":[],"cksum":"bdc0dfd1f823a33826a33e2d4977d6c76e861fdc74137194402c40dcf1ca9cae","features":{},"yanked":false}
 {"name":"declarative_type_state","vers":"0.2.3","deps":[],"cksum":"5500cb7a10f1043b928f0eb4dba0aec77ff7015adc1b98a59d93518c8855b842","features":{},"yanked":false}
 {"name":"declarative_type_state","vers":"0.2.4","deps":[],"cksum":"a69be9bfc71474549eb3701021da159fd2d4c747faaf8525aa27cd21176b91fa","features":{},"yanked":false}
+{"name":"declarative_type_state","vers":"0.3.0","deps":[],"cksum":"e51600a995c79c8a8af43665ba6b16eb32c37394d50654269e5e1b23b1e19647","features":{},"yanked":false}
