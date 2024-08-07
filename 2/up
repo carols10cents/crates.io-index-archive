@@ -1,0 +1,1 @@
+{"name":"up","vers":"0.2.3","deps":[{"name":"colorize","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cf7d8b240abcdbe67fcfba0b0baab4e35546c4a67439acbf6af7c7953921b430","features":{},"yanked":false}
