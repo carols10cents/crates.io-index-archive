@@ -1,0 +1,1 @@
+{"name":"redb_model_trait","vers":"0.1.0","deps":[{"name":"redb","req":"^2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c08619d4120cf9ef068a8197eefbd48e3109c8879b5285cdd8f9e8e5993a76ce","features":{},"yanked":false}
