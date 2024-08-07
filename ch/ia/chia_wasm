@@ -1,0 +1,1 @@
+{"name":"chia_wasm","vers":"0.11.0","deps":[{"name":"wasm-bindgen","req":"^0.2.92","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"48ff8f7dbfed41f28266fab50c006259a73bea3c86c0f49466c112cd370b21b6","features":{},"yanked":false}
