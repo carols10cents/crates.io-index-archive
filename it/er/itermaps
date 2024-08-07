@@ -4,3 +4,4 @@
 {"name":"itermaps","vers":"0.2.1","deps":[],"cksum":"0f3ec1b61dd3370fb32eba81c1c9044ecb87a4a94c857f4d4e850935d75e41ce","features":{"default":[],"no_std":[]},"yanked":false}
 {"name":"itermaps","vers":"0.2.2","deps":[],"cksum":"2b79edf37502be0a4dbcb61dbe9676216526ee7b7b322cef9850d0896885380a","features":{"default":[],"no_std":[]},"yanked":false}
 {"name":"itermaps","vers":"0.2.4","deps":[],"cksum":"06c7c2f3689073393840b38521746c5044531640ab2c04c0d7e9d3e1e35aa6ef","features":{"default":[],"no_std":[]},"yanked":false}
+{"name":"itermaps","vers":"0.2.5","deps":[],"cksum":"0edd35b941d1fd50d6bcf9cd2d966bf3ae6c65d2267d50b09abd89aa8a757df4","features":{"default":[],"no_std":[]},"yanked":false}
