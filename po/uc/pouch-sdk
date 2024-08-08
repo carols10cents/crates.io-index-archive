@@ -1,2 +1,3 @@
 {"name":"pouch-sdk","vers":"0.1.0","deps":[],"cksum":"a347a3e5f9481f6b17ccb06b01fead3eb38521034d85ae4fdda604d6ad0ebc52","features":{},"yanked":false}
 {"name":"pouch-sdk","vers":"0.1.1","deps":[],"cksum":"6f3081c05682222f5cd7d0480b49414436153847f699b0fa34ccc12c13020efe","features":{},"yanked":false}
+{"name":"pouch-sdk","vers":"0.2.0","deps":[{"name":"serde","req":"^1.0.204","features":["derive","std"],"optional":false,"default_features":false,"target":null,"kind":"normal"},{"name":"serde_json","req":"^1.0.122","features":["alloc"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"d48e0806e28608dd197f38822bc6513162f862103c18b79b68355506042dfc66","features":{},"yanked":false}
