@@ -1,0 +1,1 @@
+{"name":"commonware-chat","vers":"0.0.3","deps":[{"name":"commonware-p2p","req":"^0.0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"324dbfca3ec0574576b538a450a75f9c475f2c67b50c96c052d645901a01e740","features":{},"yanked":false}
