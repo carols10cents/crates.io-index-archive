@@ -1,0 +1,1 @@
+{"name":"rspack_futures","vers":"0.1.0","deps":[{"name":"async-scoped","req":"^0.9.0","features":["use-tokio"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0b287aa487cd00ef2ef3d70876a300b2b0631837b614e72949a536a1e71f56ff","features":{},"yanked":false}
