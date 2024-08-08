@@ -1,2 +1,2 @@
-{"name":"kerml","vers":"0.0.1","deps":[],"cksum":"2524139d17826c04cd6adbd0c59e11b3882e307fb5061609234f06440865c51e","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.70"}
+{"name":"kerml","vers":"0.0.1","deps":[],"cksum":"2524139d17826c04cd6adbd0c59e11b3882e307fb5061609234f06440865c51e","features":{"default":["std"],"std":[]},"yanked":true,"rust_version":"1.70"}
 {"name":"kerml","vers":"0.1.0","deps":[],"cksum":"be5d22fb47b5010e179489ee1d9054cb2e1c71c3d203aec7f10911525cda066f","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.70"}
