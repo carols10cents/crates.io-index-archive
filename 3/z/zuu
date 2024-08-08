@@ -55,3 +55,4 @@
 {"name":"zuu","vers":"17.0.0","deps":[],"cksum":"4603bd0f87f62afef1cb223bb5930f21457115bc13a7bc169c62cc9d9eeec211","features":{},"yanked":false}
 {"name":"zuu","vers":"18.0.0","deps":[{"name":"indicatif","req":"^0.17.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1248e591affb8b4a74b9e9b56a205b0d2e637f826323dcc82158c63c61a32c5b","features":{},"yanked":false}
 {"name":"zuu","vers":"19.0.0","deps":[],"cksum":"c5c492b46406d502f8d421c80d6efbdc82212d206f35d4b01ab4a99d37da3677","features":{},"yanked":false}
+{"name":"zuu","vers":"19.0.1","deps":[],"cksum":"ea0e5450146d678174894f5002aef37683b5f5c3bbdc42745561ab4f31e7e2b8","features":{},"yanked":false}
