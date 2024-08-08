@@ -7,6 +7,6 @@
 {"name":"bzipper","vers":"0.4.1","deps":[],"cksum":"e8705236ccd29acfa53c50c1390c6932fc2cf90f3c8639016168513ad9d394c4","features":{},"yanked":false}
 {"name":"bzipper","vers":"0.4.2","deps":[],"cksum":"e89c92cc899ac5d9b8e8509209cfd8195d8689b4da32a34769c0ded28d09e34d","features":{},"yanked":false}
 {"name":"bzipper","vers":"0.4.3","deps":[],"cksum":"6e30474c8e186426a20be5b91418922ef00f1e0cf2c938d87a92af560ee06890","features":{},"yanked":false}
-{"name":"bzipper","vers":"0.4.5","deps":[],"cksum":"40c51024c176bf6b07519a17cfe17b391892fa03f36fbcfb5197087054f70a03","features":{},"yanked":false}
+{"name":"bzipper","vers":"0.4.5","deps":[],"cksum":"40c51024c176bf6b07519a17cfe17b391892fa03f36fbcfb5197087054f70a03","features":{},"yanked":true}
 {"name":"bzipper","vers":"0.4.6","deps":[],"cksum":"1124ff5521988eea2e084283f22c56f35199af46ece2c13d3d126e0bdb6aea04","features":{},"yanked":false}
 {"name":"bzipper","vers":"0.4.7","deps":[],"cksum":"38e256ac1bd1244948ce7866d90b07d7b9989f7ecf982e320e85e55d4dc37901","features":{},"yanked":false}
