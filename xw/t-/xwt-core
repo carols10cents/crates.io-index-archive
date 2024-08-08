@@ -6,3 +6,4 @@
 {"name":"xwt-core","vers":"0.4.0","deps":[],"cksum":"7fc6cfb9e839435187a71872c0bd836b52bb4e74709b5aecbdb3d2b859294b0c","features":{"alloc":[],"default":["std"],"error-in-core":[],"std":["alloc"]},"yanked":false}
 {"name":"xwt-core","vers":"0.4.1","deps":[],"cksum":"22f2710217cc1fe365a414d66bfada5a13f55e1bb808a10064a1a900436784b0","features":{"alloc":[],"default":["std"],"error-in-core":[],"std":["alloc"]},"yanked":false}
 {"name":"xwt-core","vers":"0.4.2","deps":[],"cksum":"c1f98acac2f9398db512d6cc2d1fd12ce5e896192e9c961a83dd48d32c7fed8c","features":{"alloc":[],"default":["std"],"error-in-core":[],"std":["alloc"]},"yanked":false}
+{"name":"xwt-core","vers":"0.5.0","deps":[],"cksum":"e003285401374e0eb07a563d78bc4d79402482df5228c304829c36888a54aaed","features":{"alloc":[],"default":["std"],"error-in-core":[],"std":["alloc"]},"yanked":false}
