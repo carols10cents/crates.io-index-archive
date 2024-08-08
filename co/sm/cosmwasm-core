@@ -2,3 +2,4 @@
 {"name":"cosmwasm-core","vers":"2.1.0-rc.1","deps":[],"cksum":"4f4285d62814c308d0baf78e633fb041b5c2a62a55547bd7286c7cfef5dfd009","features":{},"yanked":false}
 {"name":"cosmwasm-core","vers":"2.1.0","deps":[],"cksum":"8d075f6bb1483a6ce83b5cbc73a3a1207e0316ac1e34ed1f2a4d9fc3a0f07bf6","features":{},"yanked":false}
 {"name":"cosmwasm-core","vers":"2.1.1","deps":[],"cksum":"367fc87c43759098a476ef90f915aadc66c300480ad9c155b512081fbf327bc1","features":{},"yanked":false}
+{"name":"cosmwasm-core","vers":"2.1.2","deps":[],"cksum":"7db006abbd1cb36ac14b2f7b2bdd10f00a6a64bc0a803fe42ddd73d73b3b556c","features":{},"yanked":false}
