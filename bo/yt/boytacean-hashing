@@ -1,1 +1,2 @@
 {"name":"boytacean-hashing","vers":"0.10.5","deps":[],"cksum":"68b5afdd75db59b47252293406469424bb7fd9b0a63e06d2d02b56e56626a7b4","features":{"simd":[]},"yanked":false}
+{"name":"boytacean-hashing","vers":"0.10.7","deps":[],"cksum":"2a8caf68273f64e3e2630371ad7dcb050d4832a1155942f970ba10ed7a1064bd","features":{"simd":[]},"yanked":false}
