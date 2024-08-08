@@ -1,0 +1,1 @@
+{"name":"boytacean-common","vers":"0.10.5","deps":[{"name":"pyo3","req":"^0.20","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d8000627a7a1171c92d15b0e8144e566b8aa1bc67e2f4c16b87c23dc2d7449c3","features":{"python":["pyo3"]},"yanked":false}
