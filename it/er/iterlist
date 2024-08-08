@@ -2,3 +2,4 @@
 {"name":"iterlist","vers":"0.2.0","deps":[],"cksum":"ac9748790739ee1664dc01bd23231b55cf7bb8008da19c9bc8270f1a73ad0c78","features":{},"yanked":false}
 {"name":"iterlist","vers":"0.2.1","deps":[],"cksum":"e566c304d1633fbc361dd3de25fa13e49952c04ffae8deab75d1292b20c2a562","features":{},"yanked":false}
 {"name":"iterlist","vers":"0.3.1","deps":[],"cksum":"e3cbd3e9720c6161912a408960ff998260c450cb5f978a8537f9d65486071500","features":{},"yanked":false}
+{"name":"iterlist","vers":"0.3.2","deps":[],"cksum":"255100bf9571e98cf38227a9a7334099cafc8510480dd214b8353a5edd46bb0c","features":{},"yanked":false}
