@@ -6,3 +6,4 @@
 {"name":"micro_errors","vers":"0.2.4","deps":[],"cksum":"65ceeb3c029a0c83edee6afbbe4c07113a33b92bccf6764f5c300ba1a2c88d4b","features":{},"yanked":false}
 {"name":"micro_errors","vers":"0.3.0","deps":[],"cksum":"2dfca082afc3ee8d94d47806435b07830954f303303f7967bb9d03a79b54b0f0","features":{},"yanked":false}
 {"name":"micro_errors","vers":"0.4.0","deps":[],"cksum":"2eab530653b9e2c9fbd1ae58e4246ab70a335918af221d211f3d0e0a8d7481dd","features":{},"yanked":false}
+{"name":"micro_errors","vers":"0.5.0","deps":[],"cksum":"caa7687dab6f00248d497690934257d76aafecc919c85a5b015393acc9441d0c","features":{},"yanked":false}
