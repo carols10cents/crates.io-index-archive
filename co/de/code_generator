@@ -12,3 +12,4 @@
 {"name":"code_generator","vers":"0.1.11","deps":[],"cksum":"cf91ffa71613f5823fff11862e6926f961e5caf96b9b971ed0be3f4e2b3c938d","features":{},"yanked":false}
 {"name":"code_generator","vers":"0.1.12","deps":[],"cksum":"315e4e83c838428e20eff45e31caea6737e85f16fe610276e3c43ab2807171c6","features":{},"yanked":false}
 {"name":"code_generator","vers":"0.1.13","deps":[],"cksum":"22809851b35177e4641162435914b2f50b38a0f82a72c2d32e3afec12f21f60f","features":{},"yanked":false}
+{"name":"code_generator","vers":"0.1.14","deps":[],"cksum":"06ac248223a5bb20de9f0ef090698a4711be61ec719ead09943b52bcede245c6","features":{},"yanked":false}
