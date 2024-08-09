@@ -6,3 +6,4 @@
 {"name":"is_printable","vers":"0.0.6","deps":[],"cksum":"af09681db2f4502c236e127a93ec5e3778d32ec0396b9cb208960d219226f030","features":{},"yanked":false,"rust_version":"1.80.0"}
 {"name":"is_printable","vers":"0.0.7","deps":[],"cksum":"da715efe1420eee32d333249c760ad1055dbbd75903dba60a289015de41f8c90","features":{},"yanked":false,"rust_version":"1.80.0"}
 {"name":"is_printable","vers":"0.0.8","deps":[],"cksum":"3d79e97ea8e399a415c4406e1b928e257c950a84c460a8e09d15cdd878d5d76d","features":{},"yanked":false,"rust_version":"1.80.0"}
+{"name":"is_printable","vers":"0.0.9","deps":[],"cksum":"c4fb7d488bb7a599f7f73330d21bf806223f689904b800c27295a8565a285c14","features":{},"yanked":false,"rust_version":"1.80.0"}
