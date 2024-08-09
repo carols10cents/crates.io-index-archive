@@ -1,3 +1,4 @@
 {"name":"is_printable","vers":"0.0.1","deps":[],"cksum":"ed05372f00334d492e75b69450bd28b921771bffcf849a5c8b5d33a7f6318493","features":{},"yanked":false,"rust_version":"1.75.0"}
 {"name":"is_printable","vers":"0.0.2","deps":[],"cksum":"bb4ff2eff4cde904ef3c5a58e686114ec5bf50f409292fe2e9457ace82510d20","features":{},"yanked":false,"rust_version":"1.80.0"}
 {"name":"is_printable","vers":"0.0.3","deps":[],"cksum":"619f6e24ba7604e9baca145db008bd52b594f4982f7d33edabd37fd62222a6d3","features":{},"yanked":false,"rust_version":"1.80.0"}
+{"name":"is_printable","vers":"0.0.4","deps":[],"cksum":"55bdc44278805fe35ae39bc2c22d418985b9ea96d459efc7f9a9e9e5039b249e","features":{},"yanked":false,"rust_version":"1.80.0"}
