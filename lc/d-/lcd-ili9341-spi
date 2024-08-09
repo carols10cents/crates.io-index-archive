@@ -1,1 +1,2 @@
 {"name":"lcd-ili9341-spi","vers":"0.1.0","deps":[{"name":"embedded-hal","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2c7864fab60b2aa9894bf4ee25caa96a8103242d78c5d005fea387ac82a8ebab","features":{"text":[]},"yanked":false}
+{"name":"lcd-ili9341-spi","vers":"0.1.1","deps":[{"name":"embedded-hal","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"96ee6cc2ba4b933f04249f8c877cb72b88a3fb938622e46dd39b5b9993c4024f","features":{"text":[]},"yanked":false}
