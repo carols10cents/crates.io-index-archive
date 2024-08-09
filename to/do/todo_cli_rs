@@ -1,0 +1,1 @@
+{"name":"todo_cli_rs","vers":"0.1.0","deps":[{"name":"colored","req":"^2.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"82c873cf9dc20cfb8fb1560ab27b3e763b88eec46b81470cf04dd25538ca0d46","features":{},"yanked":false}
