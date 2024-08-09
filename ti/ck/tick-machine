@@ -1,1 +1,2 @@
 {"name":"tick-machine","vers":"0.1.0","deps":[],"cksum":"1e28318e411c6c56d9d8d71fa0ff77e48e2933bcabce47538e40d068e395cb4d","features":{},"yanked":false}
+{"name":"tick-machine","vers":"0.2.0","deps":[{"name":"divan","req":"^0.1.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"4bc866d49fd7ad0592e9fbbe0c1a52dd34cbec9fe186b0a670fd25a9476eaf59","features":{},"yanked":false}
