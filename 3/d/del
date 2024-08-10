@@ -1,0 +1,1 @@
+{"name":"del","vers":"0.2.6","deps":[{"name":"colorize","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"inquire","req":"^0.7.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2497eb05b74435ea269fe3b8f9fc8abaa6ae581e518f651e9ee6f7f8fb323473","features":{},"yanked":false}
