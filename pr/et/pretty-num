@@ -1,0 +1,1 @@
+{"name":"pretty-num","vers":"0.1.0","deps":[{"name":"rstest","req":"^0.22.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"c2bfff55c3353ff43605263111dcc4dee89b5e09fc8660f174c53e980d8db8cf","features":{},"yanked":false}
