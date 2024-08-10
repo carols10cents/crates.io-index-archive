@@ -2,3 +2,4 @@
 {"name":"eta-algorithms","vers":"1.0.1","deps":[],"cksum":"c01456e781c857d1d93464234a4b7555f3101f959a1b0e47332dee711f0fdd21","features":{},"yanked":false}
 {"name":"eta-algorithms","vers":"1.0.2","deps":[],"cksum":"a44c967338741729b3342ac3b2954d01549ab13fd58d65c1cee8090ff52972c4","features":{},"yanked":false}
 {"name":"eta-algorithms","vers":"1.0.3","deps":[],"cksum":"468ae1aafd1a2cc39ac3936aae6e9a43b7fbc3adce59fa81486190e9abca88b8","features":{},"yanked":false}
+{"name":"eta-algorithms","vers":"1.1.0","deps":[],"cksum":"8f7255cd487ea81c4cc6370958f269404fd4f3d2052318e31498cba27e2948d1","features":{},"yanked":false}
