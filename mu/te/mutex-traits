@@ -1,1 +1,2 @@
 {"name":"mutex-traits","vers":"0.999.0","deps":[],"cksum":"e4af10831cabbbb239cbf0cd35007311f62dc7ea3a3d351da55ce855e7f371a3","features":{},"yanked":false}
+{"name":"mutex-traits","vers":"1.0.0","deps":[],"cksum":"fd54cb762feb1788c74f5d3387983864d2365ca1819043d2addb76db80169102","features":{"std":[]},"yanked":false}
