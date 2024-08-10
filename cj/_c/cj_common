@@ -7,3 +7,4 @@
 {"name":"cj_common","vers":"0.2.5","deps":[],"cksum":"a94a038f257998a9ecfbb9826ed2297c21e401bc3993a6eafdee9a861b78594a","features":{},"yanked":false}
 {"name":"cj_common","vers":"1.0.0","deps":[],"cksum":"43ac510b39a10eb87e86c217179450103808916d85e8043da290a6aff989b4e9","features":{},"yanked":false}
 {"name":"cj_common","vers":"1.0.1","deps":[],"cksum":"71c9c015e40a3c9f667c484decb92cefb23f9a0e04a3c5b526ce3d20cfa1b39e","features":{},"yanked":false}
+{"name":"cj_common","vers":"1.0.2","deps":[],"cksum":"6e7f6d7a030a671c2b56425a66cbc8be2e45a3fe6d3140199e9d25acbaa63b83","features":{},"yanked":false}
