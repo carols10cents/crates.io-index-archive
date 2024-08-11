@@ -3,3 +3,4 @@
 {"name":"stack-db","vers":"0.3.0","deps":[],"cksum":"69311343606e4f42e6e12e68ad4cfcbd018f02fc0ad8c57c7c8022cc8dd55b91","features":{},"yanked":true}
 {"name":"stack-db","vers":"0.3.1","deps":[],"cksum":"7cf544dcecac5426af6084e1fa6066bc833f3b5cdcabc6e36fc171dd6b8b347e","features":{},"yanked":true}
 {"name":"stack-db","vers":"0.3.2","deps":[],"cksum":"af8c613f448ab87545ad414fac62229b2f6ab1af2e4057db512d4e4e85f5f900","features":{},"yanked":false}
+{"name":"stack-db","vers":"0.3.3","deps":[],"cksum":"ce855aa002fd469c2679fe415f8da4d59136a15c4b77af9b10bea5061b8318a1","features":{},"yanked":false}
