@@ -1,0 +1,1 @@
+{"name":"ancomplex","vers":"0.0.1","deps":[{"name":"num-traits","req":"^0.2.19","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2ffcae1b706070a2774879889383ad7eeb166ad1a8b0d58ba6760b59acc19818","features":{},"yanked":false,"rust_version":"1.64"}
