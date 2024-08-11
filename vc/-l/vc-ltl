@@ -31,3 +31,4 @@
 {"name":"vc-ltl","vers":"5.1.1-Beta2","deps":[],"cksum":"dffa99900e17dda1ae64d274b8c3d26c83549ee8f3914b60a132aceb43c2173f","features":{},"yanked":false}
 {"name":"vc-ltl","vers":"5.1.1-Beta3","deps":[],"cksum":"9578d1a66132c0b0fccbde74e980ed184e982e1a49216ce152aac538b1bdda20","features":{},"yanked":false}
 {"name":"vc-ltl","vers":"5.1.1-Beta4","deps":[],"cksum":"c0b997f02a0a5516474f8e5900024ac6a9b1a5debe218840f41ba0876ac72da9","features":{},"yanked":false}
+{"name":"vc-ltl","vers":"5.1.1","deps":[],"cksum":"04908d7cc87be06ead9048544f86c88d0806ef7f4ae6433884ed1405af866f93","features":{},"yanked":false}
