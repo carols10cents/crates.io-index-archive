@@ -1,0 +1,1 @@
+{"name":"rustato-macros","vers":"0.1.0","deps":[{"name":"rustato-core","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"89ce050184cf16771c03f199e70143a0c334996497dd92e828c99402516cfa24","features":{},"yanked":false}
