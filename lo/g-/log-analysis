@@ -2,3 +2,4 @@
 {"name":"log-analysis","vers":"0.1.1","deps":[],"cksum":"21161e45bb9b4e3d616c791970cdab1fb55e1f57e307b812b94c2a140ee95a99","features":{"default":["ip2location"],"ip2location":[]},"yanked":false}
 {"name":"log-analysis","vers":"0.1.2","deps":[],"cksum":"b3da7db2dac805dded74d775006f68ae44bb9422c0664e39791a1f0dd7f16b63","features":{"default":["ip2location"],"ip2location":[]},"yanked":false}
 {"name":"log-analysis","vers":"0.1.3","deps":[],"cksum":"fcf2879c9e659f91f96796cecb4aedd7df6c4b2e3f79c0edc9c68ce7ad3ba180","features":{"default":["ip2location"],"ip2location":[]},"yanked":false}
+{"name":"log-analysis","vers":"0.1.4","deps":[{"name":"derive_builder","req":"^0.20.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2ae0e26738b59bb366dab93f93cbb81938300237654a7664d5befdccbfe770d6","features":{"default":["ip2location"],"ip2location":[]},"yanked":false}
