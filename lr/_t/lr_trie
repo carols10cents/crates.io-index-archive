@@ -5,3 +5,4 @@
 {"name":"lr_trie","vers":"1.1.0","deps":[],"cksum":"fceda381d19da8c1eeb0f6818aea220f97a5fecdd65564df92b4cac2bf45bd6f","features":{},"yanked":false}
 {"name":"lr_trie","vers":"1.2.0","deps":[],"cksum":"6d8aaaa3b2d7fff8a86f94e8b54cbd50eb4ea053a87602323e593132c68b6d82","features":{},"yanked":false}
 {"name":"lr_trie","vers":"1.3.0","deps":[],"cksum":"810d14de83297eb936363ef395ec5a75fef44234e8afc7b23a22a46bfe393233","features":{},"yanked":false}
+{"name":"lr_trie","vers":"1.4.0-rc.1","deps":[],"cksum":"fcc7eaf3bfe22b9c3ad199fa0f563b6d8959a2b94c1a0819f041a6c097346703","features":{},"yanked":false}
