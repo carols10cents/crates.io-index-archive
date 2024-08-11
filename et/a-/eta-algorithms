@@ -6,3 +6,4 @@
 {"name":"eta-algorithms","vers":"1.2.0","deps":[],"cksum":"8d53376ef09a878d51d05b40537811232ae70a3d9c6d73cda30d963fd7f34b46","features":{},"yanked":false}
 {"name":"eta-algorithms","vers":"1.2.1","deps":[],"cksum":"16248b7aea1638c725be90171d2e0deb624693a4031d2347a63c371965124478","features":{},"yanked":false}
 {"name":"eta-algorithms","vers":"1.2.2","deps":[],"cksum":"26411a97ce682d02905d9b0d3a01d5844277dd7911a444f2dc94507367615fd5","features":{},"yanked":false}
+{"name":"eta-algorithms","vers":"1.3.2","deps":[],"cksum":"e631ad4f21001fe6fdf2611dcfbd0c8547ecdcf8e81312152266cc39883f17fc","features":{},"yanked":false}
