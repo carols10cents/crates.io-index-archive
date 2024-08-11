@@ -1,1 +1,2 @@
 {"name":"ls-enhanced","vers":"0.1.0","deps":[{"name":"colored","req":"^2.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c8c3fc7806685b630006b908603fceefe42f42f6497358ca05a62bc5b92eb7d6","features":{},"yanked":false}
+{"name":"ls-enhanced","vers":"0.1.1","deps":[{"name":"colored","req":"^2.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"48bd4a7735be5fe9fd7bb9b0c61c868a9b9c1679a1870c67fec50698bd19e9db","features":{},"yanked":false}
