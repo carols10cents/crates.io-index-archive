@@ -13,3 +13,4 @@
 {"name":"rpian-terminal","vers":"0.7.0","deps":[],"cksum":"ef73526e8fdc390c2ef78013e954babac6a08c39226c20ce5cb20a3f9fc7dd63","features":{},"yanked":false}
 {"name":"rpian-terminal","vers":"0.7.1","deps":[],"cksum":"1470db6e88c34d08dd6f550231eaea97143136d473792aaa65952246232f2762","features":{},"yanked":false}
 {"name":"rpian-terminal","vers":"0.8.0","deps":[],"cksum":"36eb89651320bc11f6c7ace474524c61734a962326a23f8d6af08d58ac52e54a","features":{},"yanked":false}
+{"name":"rpian-terminal","vers":"0.8.1","deps":[],"cksum":"d04cf6cf2ccb199401a04bc8c329dc9f2245be692c4e55eb06a7b12ba9df4f47","features":{},"yanked":false}
