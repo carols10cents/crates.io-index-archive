@@ -6,3 +6,4 @@
 {"name":"soulog","vers":"1.1.0","deps":[],"cksum":"9f8ccd6bfbb15590690737c6e31f49af518e3a6b2c03064dedc51bfbc48a384d","features":{},"yanked":false}
 {"name":"soulog","vers":"1.2.0","deps":[],"cksum":"dca652623f8210566ba4547288d0b01c9bcff21458f41d1fadb23ff8ef5e7f2e","features":{},"yanked":false}
 {"name":"soulog","vers":"1.2.1","deps":[],"cksum":"ca67715306df493896f7a8421c18a60fb3eaa95793754204185cab4fcd493bbf","features":{},"yanked":false}
+{"name":"soulog","vers":"1.2.2","deps":[],"cksum":"2f036f920d7d7089e9937a46b6ae5f36ce05b946d9511ebab242cea6085bfcd0","features":{},"yanked":false}
