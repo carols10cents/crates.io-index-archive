@@ -8,3 +8,4 @@
 {"name":"rusty_lr_core","vers":"1.0.0","deps":[],"cksum":"6561d667308ef256ae7a1f7feede082d08c2f9098bf0a01b6895e656c6bac1eb","features":{},"yanked":false}
 {"name":"rusty_lr_core","vers":"1.0.1","deps":[],"cksum":"891e1f4ee23cb76ae55dfb823d3b087e6ccc5926177c58c367306bf1d5a81b06","features":{},"yanked":false}
 {"name":"rusty_lr_core","vers":"1.1.0","deps":[],"cksum":"1d4282f1fafe0677bc3e4e04d9a77d01bc7d804f4a14234e08a5fe469437bf61","features":{},"yanked":false}
+{"name":"rusty_lr_core","vers":"1.2.0","deps":[{"name":"rustc-hash","req":"^2.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"144a8d4966b458863e25e44b45a645bede8a2e53c6c449f45a97ea022ec7a6f6","features":{"default":[]},"features2":{"fxhash":["dep:rustc-hash"]},"yanked":false,"v":2}
