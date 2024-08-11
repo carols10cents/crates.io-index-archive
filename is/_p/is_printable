@@ -8,3 +8,4 @@
 {"name":"is_printable","vers":"0.0.8","deps":[],"cksum":"3d79e97ea8e399a415c4406e1b928e257c950a84c460a8e09d15cdd878d5d76d","features":{},"yanked":false,"rust_version":"1.80.0"}
 {"name":"is_printable","vers":"0.0.9","deps":[],"cksum":"c4fb7d488bb7a599f7f73330d21bf806223f689904b800c27295a8565a285c14","features":{},"yanked":false,"rust_version":"1.80.0"}
 {"name":"is_printable","vers":"0.0.10","deps":[{"name":"colored","req":"^2.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"52c17df29ed0c6a1f1cf24d5e9e2b30417c3835dc33048123c825a9661e02450","features":{},"yanked":false,"rust_version":"1.80.0"}
+{"name":"is_printable","vers":"0.0.11","deps":[{"name":"colored","req":"^2.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"eeded2b5e41037cb61b6892cc427e008312ea622b27c2180485f57ca711c30e0","features":{},"yanked":false,"rust_version":"1.80.0"}
