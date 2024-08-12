@@ -1,0 +1,1 @@
+{"name":"argentum_game_coordinate_system","vers":"0.1.0","deps":[{"name":"quickcheck","req":"^1.0.3","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"75d95d854f1b289b91e473ab3ab17af500eee3a052a3b132ac811812fe226667","features":{},"yanked":false}
