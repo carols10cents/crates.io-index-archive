@@ -1,0 +1,1 @@
+{"name":"iced_on_focus_widget","vers":"0.1.0","deps":[{"name":"iced","req":"^0.12.1","features":["advanced","lazy"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"554f3ca9708bebb6c42674cff8cbf9f5cd83809d5a7dabd6bbf1d7953a380b5e","features":{},"yanked":false}
