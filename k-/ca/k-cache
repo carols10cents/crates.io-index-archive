@@ -1,0 +1,1 @@
+{"name":"k-cache","vers":"0.1.1","deps":[{"name":"k-lock","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"log","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"401359c3c17051ad53a33aa926ee75c2372e55c846ea506d24464597547a8844","features":{},"yanked":false}
