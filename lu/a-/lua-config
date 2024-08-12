@@ -1,1 +1,2 @@
 {"name":"lua-config","vers":"1.0.0","deps":[{"name":"rlua","req":"^0.20.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e12aa611f96f96086835b3105ec1005d50931183ca1c225128abbd587b72d4e3","features":{},"yanked":false}
+{"name":"lua-config","vers":"1.0.1","deps":[{"name":"rlua","req":"^0.20.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8a6b8bc6349a1a9410476f474ef9639e3882fa46402f3d27c4f5f91e7a4b117c","features":{},"yanked":false}
