@@ -1,0 +1,1 @@
+{"name":"incrstruct","vers":"0.1.0","deps":[{"name":"incrstruct_derive","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"715000706d2b578996297c83d260b1a472036f9bfb6ae459ca16325195822129","features":{},"yanked":false}
