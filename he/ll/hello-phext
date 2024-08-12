@@ -1,1 +1,2 @@
 {"name":"hello-phext","vers":"0.0.6","deps":[{"name":"impl_new","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c0200ad78f3fea99fe00ad5a0570856603490d9201063245af8dfde3e0b125e6","features":{},"yanked":false}
+{"name":"hello-phext","vers":"0.2.5","deps":[{"name":"rocket","req":"^0.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c4113b99f24f708c4124108a898da4210d3d5ab0e3d8da612e81cac1a57fa74c","features":{},"yanked":false}
