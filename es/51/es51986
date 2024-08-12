@@ -1,1 +1,2 @@
 {"name":"es51986","vers":"0.1.1-beta.1","deps":[{"name":"env_logger","req":"^0.11.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0795a6f66efad0d194b295d4294c99833ed4af08610cfe6ddaa6a5901da88e5c","features":{},"yanked":true}
+{"name":"es51986","vers":"0.1.2-beta.1","deps":[{"name":"env_logger","req":"^0.11.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"352ef59677310efad7fa79d241108a84057fef804e63e4f9f885a949e63e9146","features":{},"yanked":false}
