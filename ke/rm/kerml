@@ -2,3 +2,4 @@
 {"name":"kerml","vers":"0.1.0","deps":[],"cksum":"be5d22fb47b5010e179489ee1d9054cb2e1c71c3d203aec7f10911525cda066f","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.70"}
 {"name":"kerml","vers":"0.1.1","deps":[],"cksum":"645d9cd42081774ebfca86aa873e59905e4e76f550267daf964b77da8568658f","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.70"}
 {"name":"kerml","vers":"0.1.2","deps":[],"cksum":"49d6228643aca77bf1a7fb2d76c72ff12a31b169c794f26f35e8304e8c0353b6","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.70"}
+{"name":"kerml","vers":"0.2.0","deps":[],"cksum":"d53209e43a6cc230ac7df602fbdcd74c1a6b218a1da953170d93732989157e27","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.70"}
