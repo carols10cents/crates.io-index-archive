@@ -23,3 +23,4 @@
 {"name":"bfom-lib","vers":"0.1.49","deps":[],"cksum":"79e72ec93472e66a296ee1d3a169220379fb76a105b7259a7ff57cd97d8c70a9","features":{},"yanked":false}
 {"name":"bfom-lib","vers":"0.1.50","deps":[],"cksum":"af0935df0b56e3e66d3afcf44c1ec2e4006d0b275d04a184b433bf6edd804f46","features":{},"yanked":false}
 {"name":"bfom-lib","vers":"0.1.51","deps":[],"cksum":"efd41350013db5d258809935ccf5c700b5b2f2998e677d288b25b0e923466058","features":{},"yanked":false}
+{"name":"bfom-lib","vers":"0.1.52","deps":[],"cksum":"e9f0adc3de2a4b82b6df206af914ff336bb457f9b4ec782be1cb96318040a605","features":{},"yanked":false}
