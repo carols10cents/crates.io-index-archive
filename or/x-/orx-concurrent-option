@@ -1,0 +1,1 @@
+{"name":"orx-concurrent-option","vers":"1.0.0","deps":[{"name":"test-case","req":"^3.3.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"5fdeac3ef4600a3ff678d931dbe783e6715d53e70af121546de960895cf71239","features":{"default":[],"experimental":[]},"yanked":false}
