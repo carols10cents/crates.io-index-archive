@@ -1,2 +1,3 @@
 {"name":"fastvarint","vers":"0.1.0","deps":[],"cksum":"b006233b46fb9f34767166ce4f9c5985684daae013f4a460b8ae90c07d0ca06e","features":{},"yanked":false}
 {"name":"fastvarint","vers":"0.2.0","deps":[],"cksum":"b130cd976add02628f436855cdf4ed93b2b359af75c6f8bdf1e2d7ade1990d38","features":{},"yanked":false}
+{"name":"fastvarint","vers":"0.3.0","deps":[{"name":"fastbuf","req":"^0.20.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c3eab2cefe6b9771eabf36a47bb73639c46084e990d94c1c91716e0731ba6ec3","features":{},"yanked":false}
