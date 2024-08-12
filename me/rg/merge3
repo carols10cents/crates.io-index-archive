@@ -1,1 +1,2 @@
 {"name":"merge3","vers":"0.1.0","deps":[],"cksum":"0986f96edc16d673ed4f17593ea6054948081f82b334b687f929e0f1f8d9e290","features":{},"yanked":false}
+{"name":"merge3","vers":"0.1.1","deps":[{"name":"difflib","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"477611b23ae33ada1ca3bfa22f090ff8844edda91108b8f5ad1416e620f78d27","features":{},"yanked":false}
