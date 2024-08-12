@@ -1,0 +1,1 @@
+{"name":"morojenoye","vers":"0.0.0","deps":[{"name":"riscv-rt","req":"^0.12","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6263daca0afb9af086ff42e104f3b0833390e0374a28814e5bc868510eee1905","features":{},"yanked":false}
