@@ -1,2 +1,3 @@
 {"name":"tui-explorer","vers":"0.1.0","deps":[],"cksum":"74bd62d194d85c61cdedb579b9521e7b36679f4380db666065e7acdcc5f14ed3","features":{},"yanked":true}
 {"name":"tui-explorer","vers":"0.1.1","deps":[],"cksum":"08d74bbe9781a47a61b9a96fe58f6af3297e763759040d6e751bbdb6fc43c422","features":{},"yanked":false}
+{"name":"tui-explorer","vers":"0.2.0","deps":[{"name":"fluent-templates","req":"^0.9.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"unic-langid","req":"^0.9.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"253648edabadb5d862c405803417a95b0c124226f53867550e0e8eabf76d80e1","features":{},"yanked":false}
