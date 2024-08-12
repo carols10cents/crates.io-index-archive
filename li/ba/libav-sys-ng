@@ -1,0 +1,1 @@
+{"name":"libav-sys-ng","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.69.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"1dd25a3dfb428c8c4479d065f25aabf24e92e212d16597a12aa94108a3bd3701","features":{},"yanked":false}
