@@ -1,1 +1,2 @@
 {"name":"dmx512-rdm-protocol","vers":"0.1.0","deps":[],"cksum":"e45e8c3cbb0998ad57f59cde9609b4918eef06967889eb2e5f72071fd6428db3","features":{"default":["rdm"],"rdm":[]},"yanked":false,"rust_version":"1.65"}
+{"name":"dmx512-rdm-protocol","vers":"0.1.1","deps":[],"cksum":"8fa31e7397e7f453c2d1348838ec2571005b500cd9eaf561a8e479cae139e2d5","features":{"default":["rdm"],"rdm":[]},"yanked":false,"rust_version":"1.65"}
