@@ -6,3 +6,4 @@
 {"name":"cplit","vers":"0.3.0","deps":[],"cksum":"f3aa7a8694fa5c9ec5cd13bb270e6757b491fae589545847ec8e76bd8a6bad97","features":{},"yanked":false}
 {"name":"cplit","vers":"0.3.1","deps":[],"cksum":"eb60ae9c1b20dfe519856bb14c61fee999c5060c1ef082a4e41795034a98bd88","features":{},"yanked":false}
 {"name":"cplit","vers":"0.3.2","deps":[],"cksum":"1280f17ccd965988e737d94472427739d01770f8d246c747e58bfe2b017ddd23","features":{},"yanked":false}
+{"name":"cplit","vers":"0.3.3","deps":[],"cksum":"d7ab2ac6edbaa00431a54007da6495dc1981610147b1b58d90e00b18c28c58de","features":{},"yanked":false}
