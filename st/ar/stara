@@ -1,0 +1,1 @@
+{"name":"stara","vers":"0.0.1","deps":[{"name":"int_math","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5cadd577666e05f36cfe8612d0453d2f78820dcf0ced2cc3ce2d3a5aa6fecb38","features":{},"yanked":false}
