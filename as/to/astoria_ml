@@ -1,1 +1,2 @@
 {"name":"astoria_ml","vers":"0.1.1","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"21dbb7d636cbd60eaac5204fa9433d6f834e8380df8d8d954a1e5c3034c77120","features":{},"yanked":false,"rust_version":"1.80.1"}
+{"name":"astoria_ml","vers":"0.1.11","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"eeec9caeb9c3576cc4a34d8664bd384ac8d4e627506efa90eb7a9cab6037aa0f","features":{},"yanked":false,"rust_version":"1.80.1"}
