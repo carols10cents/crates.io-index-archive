@@ -1,2 +1,3 @@
 {"name":"parse_rc_ibus","vers":"0.1.0","deps":[],"cksum":"eff70fb83de450e68e84d99a757d9a0e26b88b3d95ea063df473c43c3a70b402","features":{},"yanked":false}
 {"name":"parse_rc_ibus","vers":"0.1.1","deps":[],"cksum":"3a144c64f35a30f69e70118352d28b24c4b271344752867017932f76956a1280","features":{},"yanked":false}
+{"name":"parse_rc_ibus","vers":"0.1.2","deps":[],"cksum":"3571886f94ce19e803499374c73292c6b8662d2fa075b45520a2ad0d9f2ab728","features":{},"yanked":false}
