@@ -1,0 +1,1 @@
+{"name":"figlet-comment","vers":"0.1.0","deps":[{"name":"figlet-rs","req":"^0.1.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7ae83d52a24f75197c324f62ef2572460e68d480b65c7a33a9eef7e5be32412f","features":{},"yanked":false}
