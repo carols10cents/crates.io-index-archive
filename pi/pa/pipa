@@ -1,2 +1,3 @@
 {"name":"pipa","vers":"0.0.0","deps":[],"cksum":"338715d39f9756dbbe26bfe6aef2f971514421d61cfdf462615fd18ecf3a173f","features":{},"yanked":false}
 {"name":"pipa","vers":"0.1.0","deps":[{"name":"tokio","req":"^1","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"5223d7fcbfea6ad0ea35ea25ecbd2b2d7829d54054ec9752b50140ac5f51ba78","features":{},"yanked":false}
+{"name":"pipa","vers":"0.1.1","deps":[{"name":"tokio","req":"^1","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"2f2fed5823ddf06b5fdfc1c14341f724c5fa571a3899851291bf1333d45a31c1","features":{},"yanked":false}
