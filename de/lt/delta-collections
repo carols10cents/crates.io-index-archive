@@ -1,1 +1,2 @@
 {"name":"delta-collections","vers":"0.0.1","deps":[],"cksum":"066d3b29f9a20b61ff421f5a91bd7f28088206031cbab67005d196781d41e705","features":{"default":["inline-more"],"inline-more":[]},"yanked":false}
+{"name":"delta-collections","vers":"0.0.2","deps":[],"cksum":"3be8e82b64caf5fee1a7c5742f5bacbce0cd9096d443ff133889f5188091e005","features":{"default":["inline-more"],"inline-more":[]},"yanked":false}
