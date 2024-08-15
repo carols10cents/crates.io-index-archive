@@ -1,0 +1,1 @@
+{"name":"core-math","vers":"0.1.0","deps":[{"name":"core-math-sys","req":"^0.1.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2bd79125f03cc2d5c5df8b437df6819e969e6ca69bef03bc7f309c3ea25ce69e","features":{},"yanked":false}
