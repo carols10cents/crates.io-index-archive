@@ -9,7 +9,7 @@
 {"name":"gcc","vers":"0.1.6","deps":[],"cksum":"4991d18441914778e4553b7e4df09c50dff51c23fe2146f60a6dac6283b93d52","features":{},"yanked":true}
 {"name":"gcc","vers":"0.1.7","deps":[],"cksum":"08fa0b80a2193b08b8d38acb18d0cdb9ff00a287389bb59e685d907d1b4bf072","features":{},"yanked":true}
 {"name":"gcc","vers":"0.2.0","deps":[],"cksum":"279fa6563df29f06f888124843181bb3c43ff2d6b0b7a30df1f456d6b824c583","features":{},"yanked":true}
-{"name":"gcc","vers":"0.2.1","deps":[],"cksum":"134834e2f589d7996aa737962d7079230d00f15ddee0722787581dc186afe4c3","features":{},"yanked":false}
+{"name":"gcc","vers":"0.2.1","deps":[],"cksum":"134834e2f589d7996aa737962d7079230d00f15ddee0722787581dc186afe4c3","features":{},"yanked":true}
 {"name":"gcc","vers":"0.3.0","deps":[],"cksum":"b77be93ea1c17c98001d9f3837c3034505ec875eb2e681968fa73cdfb98b93f6","features":{},"yanked":false}
 {"name":"gcc","vers":"0.3.1","deps":[],"cksum":"b9af73f774a4786b91250a4aa20d3fa150b0c6b3e0a3b6d3f08981eca19d1ec0","features":{},"yanked":false}
 {"name":"gcc","vers":"0.3.2","deps":[],"cksum":"f2aa547abfb44b66e4716aadde2c0266881679baf4cf12a8210a07153dc3aeca","features":{},"yanked":false}
