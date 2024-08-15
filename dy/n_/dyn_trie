@@ -1,3 +1,4 @@
 {"name":"dyn_trie","vers":"1.0.0","deps":[],"cksum":"96147dae76855c44a0717c1b9088fbbc4e65700be9e41aad5fc14028e8f2fe25","features":{},"yanked":true}
 {"name":"dyn_trie","vers":"1.0.1","deps":[],"cksum":"abb3f8eefb89c2b19d6f7ada061b65555e711cb91bcae52183eee1a78bb67330","features":{},"yanked":false}
 {"name":"dyn_trie","vers":"1.0.2","deps":[],"cksum":"64a5b3ca6e37b2ad33bad844ea8bdbffe51ca64b80346b3c2ded04892116add6","features":{},"yanked":false}
+{"name":"dyn_trie","vers":"1.0.3","deps":[],"cksum":"ec0db296bf59fbc61ed916be476dd40272fe062d9b57ebfe4be44c6641e9592e","features":{},"yanked":false}
