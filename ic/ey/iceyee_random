@@ -8,3 +8,4 @@
 {"name":"iceyee_random","vers":"4.0.0","deps":[],"cksum":"08c075564c46c3f9c5e9d9a413c1871f3d16fa4b0f5aaae61be65941182bb4ff","features":{},"yanked":false}
 {"name":"iceyee_random","vers":"6.0.0","deps":[],"cksum":"87a9e28242580910e345d1de0ca1cd0e2e36a75ca0572c2a914a8c1935a8fe7b","features":{},"yanked":false}
 {"name":"iceyee_random","vers":"7.0.0","deps":[],"cksum":"56acde03c52377a715aa8abf83c896a906d60e8f863178a92124621b5083588e","features":{},"yanked":false}
+{"name":"iceyee_random","vers":"8.0.0","deps":[],"cksum":"b5d269c026690aa443b29ba22b55d03aff6aaa5a11ef66399b6f9b9d36efcbfe","features":{},"yanked":false}
