@@ -1,0 +1,1 @@
+{"name":"fsst-rs","vers":"0.0.1","deps":[{"name":"criterion","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"639b4a601a8d2ae251c810c0a268eceaf78058ca84c4bff00d9a9ba3c632cda4","features":{},"yanked":false}
