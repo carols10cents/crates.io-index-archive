@@ -2,3 +2,4 @@
 {"name":"plain_trie","vers":"1.0.1","deps":[],"cksum":"d9277f2dd5ba7bdcda75bf2c1e9cc07bf99108ba176f172b7dcef21a03dce0ec","features":{},"yanked":false}
 {"name":"plain_trie","vers":"1.0.2","deps":[],"cksum":"9cd8c2f31e47d900f2990c9c8bbb71404b102c4c667c7f142f923034246bb08d","features":{},"yanked":false}
 {"name":"plain_trie","vers":"1.0.3","deps":[],"cksum":"074b1f0e8ce7c538cff2f9e74e311411e4e5cdc01b9b072d19824e9adfe64e34","features":{},"yanked":false}
+{"name":"plain_trie","vers":"1.0.4","deps":[],"cksum":"d43ac84b2c2a8d3bed7d2873bf7852ca85ea9923839db4585946010455a6890b","features":{},"yanked":false}
