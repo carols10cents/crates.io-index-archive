@@ -1,0 +1,1 @@
+{"name":"ragout_assistant","vers":"0.1.0","deps":[{"name":"crossterm","req":"^0.28.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a3198fa252bdb2304f6a989e85ecb305bdfc233907ca5b8f78fb01f3c70daec8","features":{"debug_logs":[],"default":[]},"yanked":false}
