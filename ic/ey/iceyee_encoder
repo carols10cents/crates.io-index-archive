@@ -13,3 +13,4 @@
 {"name":"iceyee_encoder","vers":"4.1.3","deps":[],"cksum":"aa61f89f09170531d63f2c4de8108180d3ef17ae595e9b96dea3744bde19ccc3","features":{},"yanked":false}
 {"name":"iceyee_encoder","vers":"6.0.0","deps":[],"cksum":"e8cc95c551f9b211cfd3b7941ad8da6d9107c84dc071b35e68832416c60eff95","features":{},"yanked":false}
 {"name":"iceyee_encoder","vers":"7.0.0","deps":[],"cksum":"e906899100ac06c8781087b27b49bb90d540caefa57f490bea4a450df0e421fe","features":{},"yanked":false}
+{"name":"iceyee_encoder","vers":"8.0.0","deps":[],"cksum":"39f2039dea709124b52109792bdbd28ef5750b53055bccb097d99c17a8edebf9","features":{},"yanked":false}
