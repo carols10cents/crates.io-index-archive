@@ -3,3 +3,4 @@
 {"name":"nonbox","vers":"0.1.2","deps":[],"cksum":"4ded4b9b75601ba51fa88e7f34d5e26925bb69f49091b7ee3fbfce80b37a2e83","features":{},"yanked":false}
 {"name":"nonbox","vers":"0.2.0","deps":[],"cksum":"ce7a83ce001940854a19cf3eba5a7e526b3e48388fa53c6e6a87b5b5dd966bf6","features":{},"yanked":false}
 {"name":"nonbox","vers":"0.2.1","deps":[],"cksum":"a29fedbf4a940ce50db7558d2a1b961974e98148003ce247e0a59478e4d35b02","features":{},"yanked":false}
+{"name":"nonbox","vers":"0.2.2","deps":[],"cksum":"e03b4c680d40ac694599b8d9bd432827378dad73db8fe5f36b40b59f173e75c4","features":{},"yanked":false}
