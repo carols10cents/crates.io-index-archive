@@ -8,3 +8,4 @@
 {"name":"cplit","vers":"0.3.2","deps":[],"cksum":"1280f17ccd965988e737d94472427739d01770f8d246c747e58bfe2b017ddd23","features":{},"yanked":false}
 {"name":"cplit","vers":"0.3.3","deps":[],"cksum":"d7ab2ac6edbaa00431a54007da6495dc1981610147b1b58d90e00b18c28c58de","features":{},"yanked":false}
 {"name":"cplit","vers":"0.3.4","deps":[],"cksum":"413ad137adbfaee1fa72081b1a1900e7433cc272144aa8480b79e0f214a8ddc9","features":{},"yanked":false}
+{"name":"cplit","vers":"0.4.0","deps":[],"cksum":"f9456acc08ea9a436d32eaf0bfc90a09bd2d0fe33a26531259a31719901c96e4","features":{},"yanked":false}
