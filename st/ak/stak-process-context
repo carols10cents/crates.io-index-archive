@@ -3,3 +3,4 @@
 {"name":"stak-process-context","vers":"0.2.1","deps":[{"name":"once_cell","req":"^1.19.0","features":[],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"c4c444628e61834c6dc7aac8ec732028333db4b590670e32dde7e7bfe4e1c09a","features":{"libc":[]},"features2":{"std":["dep:once_cell"]},"yanked":false,"v":2}
 {"name":"stak-process-context","vers":"0.2.2","deps":[],"cksum":"90921d43c5077f253b333e93ec934e9ec13b8bbfe385e9c0639ec9d6cbe022e9","features":{"libc":[],"std":[]},"yanked":false}
 {"name":"stak-process-context","vers":"0.2.3","deps":[],"cksum":"31f890e5f3fe3c10429a65a3818ed1982e1be3159a5afc018ebfc9b72d400b3b","features":{"libc":[],"std":[]},"yanked":false}
+{"name":"stak-process-context","vers":"0.2.4","deps":[],"cksum":"a2daa9eceab5e117d080ed101b6664c9cb9ff6c2e24f4bbaadf9ac5495755929","features":{"libc":[],"std":[]},"yanked":false}
