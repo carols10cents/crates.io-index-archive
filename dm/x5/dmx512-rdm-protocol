@@ -3,3 +3,4 @@
 {"name":"dmx512-rdm-protocol","vers":"0.2.0","deps":[],"cksum":"bf97ccc778f4f3eacb2c359d2851cf1045ca4f4e1caf0a1bb7c740ae8a9f7bc1","features":{"default":["rdm"],"rdm":[]},"yanked":false,"rust_version":"1.65"}
 {"name":"dmx512-rdm-protocol","vers":"0.2.1","deps":[],"cksum":"86246fc948aaa318964e060e07e8ca3527b050d34d4d83c3528f63c63355fb1f","features":{"default":["rdm"],"rdm":[]},"yanked":false,"rust_version":"1.65"}
 {"name":"dmx512-rdm-protocol","vers":"0.2.2","deps":[],"cksum":"063ad3abfac6ac0cbace944270188c3570ec346b9ed09dd80714b01ad2c714f1","features":{"default":["rdm"],"rdm":[]},"yanked":false,"rust_version":"1.65"}
+{"name":"dmx512-rdm-protocol","vers":"0.3.0","deps":[],"cksum":"8a5a4869b31c8e7f7e40111d56eafd460cc56767b82b97b939a52225dfac0d8b","features":{"default":["rdm"],"rdm":[]},"yanked":false,"rust_version":"1.65"}
