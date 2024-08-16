@@ -3,3 +3,4 @@
 {"name":"delta-collections","vers":"0.1.0","deps":[],"cksum":"a438b6c3f344512527acb9a3dd50da7593b84a6e8d5bce592de16c5f934a1b30","features":{"default":["inline-more"],"inline-more":[]},"yanked":false}
 {"name":"delta-collections","vers":"0.1.1","deps":[],"cksum":"9a9a50248d590f813102122d14aabfd18c3a4f923a2fbf254d366028cdb5fdd1","features":{"default":["inline-more"],"inline-more":[]},"yanked":false}
 {"name":"delta-collections","vers":"0.1.2","deps":[],"cksum":"0b333450f40f0c8496d9fabf33009353ad3ca61fba2de1b7d21a4ae7ca0c3d61","features":{"default":["inline-more"],"inline-more":[]},"yanked":false}
+{"name":"delta-collections","vers":"0.1.3","deps":[],"cksum":"4fc21cef7f31de325d7a43e2c2c816d287596d77bb8a2542b21dc4de3647b8f5","features":{"default":["inline-more"],"inline-more":[]},"yanked":false}
