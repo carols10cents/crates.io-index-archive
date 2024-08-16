@@ -1,0 +1,1 @@
+{"name":"hive-cli","vers":"0.1.0","deps":[{"name":"clap","req":"^3.0","features":["std","derive"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"ceca25f7361aaed30200c1b5af1e7ac0dc82ddea5bdbce66415aca26f4d6f782","features":{},"yanked":false}
