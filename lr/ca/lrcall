@@ -1,1 +1,2 @@
 {"name":"lrcall","vers":"0.1.0","deps":[],"cksum":"64c3290f36fcdfe12320e162df19a17cd3070046efb89c765330d0f3e877c621","features":{},"yanked":false,"rust_version":"1.80.1"}
+{"name":"lrcall","vers":"0.1.1","deps":[],"cksum":"f6d45e2177bd88945230b1c62698ade28d3bf4acdbb19e8e531108f48608256f","features":{},"yanked":false,"rust_version":"1.80.1"}
