@@ -7,3 +7,4 @@
 {"name":"arc-writer","vers":"0.2.0-alpha.9","deps":[],"cksum":"f6af5600382742c14dedc924e4fd2cc63dfaa84c47d0574dc31ba1e4e9fe7539","features":{},"yanked":false}
 {"name":"arc-writer","vers":"0.2.0-alpha.10","deps":[],"cksum":"9365402e81fda1d1d7fbb3033d7055de0abe2d36422c7730fc22b869a24fccfb","features":{},"yanked":false}
 {"name":"arc-writer","vers":"0.2.0-alpha.11","deps":[],"cksum":"89aa3bf2e11ad3d1d7df0f741c1cf67cc66910df975341a3ba6d9084e6d4d8d5","features":{},"yanked":false}
+{"name":"arc-writer","vers":"0.2.0-alpha.12","deps":[],"cksum":"e0e5497d2d0c7f0ced7419d5b29b299a5c86ddf75aa9a021c256067442d1cc2b","features":{},"yanked":false}
