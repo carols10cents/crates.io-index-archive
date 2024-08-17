@@ -1,0 +1,1 @@
+{"name":"gendelbrot","vers":"0.1.0","deps":[{"name":"clap","req":"^4.5.15","features":["cargo","derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"72b04ecb80b7b20493a7b1ccdc3f7edb045a4769d9656ef8a275e62f8dbcf99f","features":{},"yanked":false}
