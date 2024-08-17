@@ -1,0 +1,1 @@
+{"name":"s_text_input_f","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0.208","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b5d65c7d500458e2458595e67d2824ffdd395b05183760d3f2fb828b2be6e7c9","features":{},"yanked":false}
