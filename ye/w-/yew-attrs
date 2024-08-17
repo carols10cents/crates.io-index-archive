@@ -1,0 +1,1 @@
+{"name":"yew-attrs","vers":"0.1.0","deps":[{"name":"yew","req":"^0.21.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9332f96a4ac4a4672ef289819467145578fd211e0b43e9e430a55760fcf670d4","features":{},"yanked":false}
