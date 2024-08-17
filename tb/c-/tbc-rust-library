@@ -1,0 +1,1 @@
+{"name":"tbc-rust-library","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0.208","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"97f3e18ccf7c51e496e9b3155f49688694d70205f164f205d95a7e9018089494","features":{},"yanked":false}
