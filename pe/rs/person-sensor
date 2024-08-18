@@ -1,1 +1,2 @@
 {"name":"person-sensor","vers":"0.1.0","deps":[{"name":"embedded-hal-async","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"23885efc4c981db4ba876a6bab6041623c99735c1616366889c8f4d61d63d3b8","features":{},"yanked":false}
+{"name":"person-sensor","vers":"0.2.0","deps":[{"name":"embedded-hal-async","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a5aa4509416eaa07827f40d2383081dbfd470e326b8d0e115716eb2a8705b5ed","features":{},"yanked":false}
