@@ -1,0 +1,1 @@
+{"name":"cargo-uwu","vers":"0.1.0","deps":[{"name":"uwu-rs","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c01a74515378557849954bddf1b9a8a2ad9d0241866b1cd00363ffb82ba3c5e2","features":{},"yanked":false}
