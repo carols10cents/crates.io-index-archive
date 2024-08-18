@@ -1,0 +1,1 @@
+{"name":"easing-function","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0.208","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5699e572f2ece3d6ea49a528341097d26117751ea0a8ed3adab747bb6e96c480","features":{},"features2":{"serde":["dep:serde"]},"yanked":false,"rust_version":"1.65.0","v":2}
