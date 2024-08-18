@@ -1,0 +1,1 @@
+{"name":"traianus","vers":"0.0.1","deps":[{"name":"thiserror","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f767477407b89b100faf3b213719053ae0e9202aea2a7221c91f80da2b04527d","features":{},"yanked":false,"rust_version":"1.61.0"}
