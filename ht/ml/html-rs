@@ -1,1 +1,2 @@
 {"name":"html-rs","vers":"0.1.0","deps":[],"cksum":"7f2f011c8ba69edc1372d8f62fec3a609569b4298b3f0b6bfb8ea2aeb664b00e","features":{},"yanked":false,"rust_version":"1.80.1"}
+{"name":"html-rs","vers":"0.1.1","deps":[],"cksum":"817fae989f507bf405aa367f9bf9a3706dd5db6c3dd12cc45ea5ee01d5b67f55","features":{"debug":[],"default":[]},"yanked":false,"rust_version":"1.80.1"}
