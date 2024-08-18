@@ -12,3 +12,4 @@
 {"name":"cryptocol","vers":"0.7.6","deps":[],"cksum":"585c84287d8b32c10b23d08aaf8dcacfdc24b292ee294f7af0a82c15d187517e","features":{},"yanked":false}
 {"name":"cryptocol","vers":"0.8.0","deps":[],"cksum":"07ff293b379a6c8be74815b1d44e3c07c48e13d8e116bbdb71c93fea23b12363","features":{},"yanked":false}
 {"name":"cryptocol","vers":"0.8.1","deps":[],"cksum":"84e63c28b91fd19319ebb4b1edbb8c624a8f5d8749be6ee495ac212d3a19c254","features":{},"yanked":false}
+{"name":"cryptocol","vers":"0.8.3","deps":[],"cksum":"24ff9bb573ed0f80823994b760e2babe95680f0651e158419ed833e4669a2286","features":{},"yanked":false}
