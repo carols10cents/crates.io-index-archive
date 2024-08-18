@@ -1,0 +1,1 @@
+{"name":"build-bpf","vers":"0.1.0","deps":[{"name":"libbpf-cargo","req":"^0.23","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c18f73c838e6c874373154540989976ab1b04c82d10edf2f8ee917cda1c83f2c","features":{},"yanked":false}
