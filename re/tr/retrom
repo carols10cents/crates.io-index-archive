@@ -35,3 +35,4 @@
 {"name":"retrom","vers":"0.0.42","deps":[],"cksum":"20f56772db896808a576ef370efac5f38669465321d7c756961c7a082a7f6ea0","features":{},"yanked":false}
 {"name":"retrom","vers":"0.0.43","deps":[],"cksum":"4fcba6e581198296d815626b248bfa8418f8ce1fa3d08c3180d2065ec85469bc","features":{},"yanked":false}
 {"name":"retrom","vers":"0.0.44","deps":[],"cksum":"69e8ddadd5da06dc4a6b6017c3f9f01212cf65150c7f0d72f98316b05bca43d3","features":{},"yanked":false}
+{"name":"retrom","vers":"0.0.45","deps":[],"cksum":"b2e2704dfbd70e80141ac8d917d1318753c3322484dd742c853e426f6839db10","features":{},"yanked":false}
