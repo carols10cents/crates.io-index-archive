@@ -5,3 +5,4 @@
 {"name":"list_math","vers":"0.3.1","deps":[],"cksum":"1be56fb1923621f17f31531551d9b0e38a669b973adb93788e215ea6793e1c2b","features":{},"yanked":false}
 {"name":"list_math","vers":"0.3.2","deps":[],"cksum":"9f2d16e457805214112ec9748366eb2db9d1d49d7b83aa9e2c752d4bc3845759","features":{},"yanked":false}
 {"name":"list_math","vers":"0.3.3","deps":[],"cksum":"15b46745f6e86e92f80387fc94c1f2aa6010b49e2bc2e5bb2643eafddea34a16","features":{},"yanked":false}
+{"name":"list_math","vers":"0.3.4","deps":[],"cksum":"54c52253bbcc2f651f33c94bf92252706a42c8444d7af566406aae39ec193062","features":{},"yanked":false}
