@@ -16,3 +16,4 @@
 {"name":"near-stdx","vers":"0.23.0","deps":[],"cksum":"29e1897481272eb144328abd51ca9f59b5b558e7a6dc6e2177c8c9bb18fbd818","features":{},"yanked":false}
 {"name":"near-stdx","vers":"0.24.0","deps":[],"cksum":"9fec7302125b4a19e8c8486cbc78d19f92121e732f81cfdcb7a7e9bca2bf0cd0","features":{},"yanked":false}
 {"name":"near-stdx","vers":"0.24.1","deps":[],"cksum":"ac1c4937647390c254e530ba8d3e296c192e67ea0364e3d7d4aef64563ffcf6a","features":{},"yanked":false}
+{"name":"near-stdx","vers":"0.25.0","deps":[],"cksum":"999173ea1e88ca421ff10969273cc1ad42b291af3f5a25827be1ad080e24dd89","features":{},"yanked":false}
