@@ -1,0 +1,1 @@
+{"name":"etest-impl","vers":"0.0.0","deps":[{"name":"litrs","req":"^0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"1162b2ea1042a52c71213432f9a7af6514536a7a97531a099584bd7d468f16fa","features":{},"yanked":false}
