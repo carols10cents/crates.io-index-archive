@@ -1,0 +1,1 @@
+{"name":"novax-log","vers":"0.1.0","deps":[{"name":"log","req":"^0.4.22","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c5d014d89fb163251055d1dd7426a6bd06afcbc24051a289ece3301634341109","features":{},"yanked":false}
