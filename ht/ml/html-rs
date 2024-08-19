@@ -6,3 +6,4 @@
 {"name":"html-rs","vers":"0.1.5","deps":[],"cksum":"6a0bcd89c8d5a01af0fee129c55db7525ccbd0834acdb2c493d5254045f63bdd","features":{"debug":[],"default":[]},"yanked":false,"rust_version":"1.80.1"}
 {"name":"html-rs","vers":"0.1.6","deps":[],"cksum":"49472c1d64feb36a41f625af70bee92f8feb50174a61e5570e2d2e77db0e16a1","features":{"debug":[],"default":[]},"yanked":false,"rust_version":"1.80.1"}
 {"name":"html-rs","vers":"0.1.7","deps":[],"cksum":"ce1fc42545ba89c4256fe4d8fb38dc8cd9b52d6a89d45e9de51c254b92e2ac88","features":{"debug":[],"default":[]},"yanked":true,"rust_version":"1.80.1"}
+{"name":"html-rs","vers":"0.2.0","deps":[],"cksum":"cc6658e7e97f1dd6ef45591346220403b6dd26ea11379eb5d6df80b9340ae489","features":{"debug":[],"default":[]},"yanked":false,"rust_version":"1.80.1"}
