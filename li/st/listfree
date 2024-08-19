@@ -1,0 +1,1 @@
+{"name":"listfree","vers":"0.2.0","deps":[{"name":"guacamole","req":"^0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"884ff630b3ef753539ec2b7d3b705b68863586fb5a8edbda908e41f5ba5ec9e7","features":{},"yanked":false}
