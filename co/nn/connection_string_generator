@@ -1,0 +1,1 @@
+{"name":"connection_string_generator","vers":"0.1.0","deps":[],"cksum":"b986fb44637f5304fe0848ff280f82d9a5e609598e0f190942d759c622e91286","features":{"default":["full"],"full":["postgres"],"postgres":[]},"yanked":false}
