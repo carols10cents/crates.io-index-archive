@@ -1,3 +1,4 @@
 {"name":"ggus","vers":"0.0.0","deps":[{"name":"memmap2","req":"^0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5103320f7d09dd81702131aa0f4862921e32b148d8c6d87c75b0fdfaa238f9ff","features":{},"yanked":false}
 {"name":"ggus","vers":"0.1.0","deps":[],"cksum":"1a3c614354c2ea215277450158c4d614d9563111edaf043a562a18369e97a4e1","features":{},"yanked":false}
 {"name":"ggus","vers":"0.1.1","deps":[{"name":"indexmap","req":"^2.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1775c7693bcad9deed897b31a20612bdf4c94219f9f81156e8384ce1bc1d8254","features":{},"yanked":false}
+{"name":"ggus","vers":"0.2.0","deps":[{"name":"indexmap","req":"^2.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"06b70f82b62039f7f121a63bc965dc57af11dddfa690b3109566c56e22642281","features":{},"yanked":false}
