@@ -1,2 +1,3 @@
 {"name":"utf8path","vers":"0.1.0","deps":[],"cksum":"ec83ac80b44cdc9ffd0118e6f9b177a81f4cbe614301225c5ee8b4fa70b6c8e3","features":{},"yanked":false}
 {"name":"utf8path","vers":"0.2.0","deps":[],"cksum":"a655e5602091b2b1745fff5fad20e2fa20e0c40aa0202d4dfc781a044478bbbe","features":{},"yanked":false}
+{"name":"utf8path","vers":"0.3.0","deps":[],"cksum":"d49821586632df0ba4bcbae373aff1467dc9ce5bdbb966db3b4738739327192b","features":{},"yanked":false}
