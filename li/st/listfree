@@ -1,1 +1,2 @@
 {"name":"listfree","vers":"0.2.0","deps":[{"name":"guacamole","req":"^0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"884ff630b3ef753539ec2b7d3b705b68863586fb5a8edbda908e41f5ba5ec9e7","features":{},"yanked":false}
+{"name":"listfree","vers":"0.3.0","deps":[{"name":"guacamole","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"a30604a6ca55b2fccbe0c99ec15fa708c54c8e4c71db0bc99b2b480841cb27fe","features":{},"yanked":false}
