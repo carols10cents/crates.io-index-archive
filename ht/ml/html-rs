@@ -4,3 +4,4 @@
 {"name":"html-rs","vers":"0.1.3","deps":[],"cksum":"272b04d8b1c5310a2162eda3b99b2600bc371a442abc169767a566786ba7e8f5","features":{"debug":[],"default":[]},"yanked":false,"rust_version":"1.80.1"}
 {"name":"html-rs","vers":"0.1.4","deps":[],"cksum":"37f6ffffcef88b1255301a94c82f95e6cef63b04c521df24af54be1ea887f765","features":{"debug":[],"default":[]},"yanked":false,"rust_version":"1.80.1"}
 {"name":"html-rs","vers":"0.1.5","deps":[],"cksum":"6a0bcd89c8d5a01af0fee129c55db7525ccbd0834acdb2c493d5254045f63bdd","features":{"debug":[],"default":[]},"yanked":false,"rust_version":"1.80.1"}
+{"name":"html-rs","vers":"0.1.6","deps":[],"cksum":"49472c1d64feb36a41f625af70bee92f8feb50174a61e5570e2d2e77db0e16a1","features":{"debug":[],"default":[]},"yanked":false,"rust_version":"1.80.1"}
