@@ -1,0 +1,1 @@
+{"name":"etest-derive","vers":"0.0.0","deps":[{"name":"etest-impl","req":"^0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"364be9c74d45261efeac7d89dcb13b61877699fd1ce857970ce764fbddd20918","features":{},"yanked":false}
