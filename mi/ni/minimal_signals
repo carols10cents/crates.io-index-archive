@@ -1,1 +1,2 @@
 {"name":"minimal_signals","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2e283edb58f7cb035bf41fb3ab39d72215f2189e77777cc4dd9ede8ba3eb8722","features":{},"yanked":false}
+{"name":"minimal_signals","vers":"0.2.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ce4122b2c0b932464a2f4e4fe9f78673b10fea3ac5002b235f0ac1f59b1adae3","features":{},"yanked":false}
