@@ -21,3 +21,4 @@
 {"name":"pagetable","vers":"0.4.3","deps":[],"cksum":"b4afb7f4e2f378fdef9dce6f5a24c713e5e249372be01b842d0df34c1c9f2056","features":{},"yanked":false}
 {"name":"pagetable","vers":"0.4.4","deps":[],"cksum":"b8a7c95649381b97e7b4254b79c8a48b9c320d473422488ff881e1eb258ebd7f","features":{},"yanked":false}
 {"name":"pagetable","vers":"0.4.5","deps":[],"cksum":"92a516a35619e87f5c17e7a5dd0e0313aa01aecbd39b3c650b22a4500d74f6e0","features":{},"yanked":false}
+{"name":"pagetable","vers":"0.4.6","deps":[],"cksum":"69b57830c885fc057ecbf2f1f99f0427c3d102cf2ee5e80a52c09948d45a460e","features":{},"yanked":false}
