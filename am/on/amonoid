@@ -1,0 +1,1 @@
+{"name":"amonoid","vers":"0.1.0","deps":[{"name":"num-traits","req":"^0.2","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"65ac41175f069e482ade759d54588955c40e91d5a6fcfea452fd72b1e548eb69","features":{},"yanked":false}
