@@ -1,0 +1,1 @@
+{"name":"loadstar","vers":"0.0.1","deps":[{"name":"tiny_http","req":"^0.12.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"340f8bcdec0e1f7532c329be1df3880059a940df985fe83a6e395a487aa4f611","features":{},"yanked":false}
