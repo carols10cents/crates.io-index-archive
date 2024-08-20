@@ -1,0 +1,1 @@
+{"name":"simple-log-derive","vers":"1.7.0","deps":[{"name":"quote","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"syn","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d0ad077a6c6b0e64d093d417477f68078afac876715c46c338d5c2e3d62cf62f","features":{},"yanked":false}
