@@ -1,0 +1,1 @@
+{"name":"de_hypertext_core","vers":"0.1.0","deps":[{"name":"scraper","req":"^0.17.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"68c542d058bfbcbb59fd96e3eb4a5d96c6e1673f6e26b0ac79160ecca513a765","features":{},"yanked":false}
