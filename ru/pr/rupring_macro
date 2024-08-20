@@ -7,3 +7,4 @@
 {"name":"rupring_macro","vers":"0.6.0","deps":[],"cksum":"aa8e6eae78a7a5c6c229b4a598f082c6847332d7def65544da9afc170aa1275b","features":{},"yanked":false}
 {"name":"rupring_macro","vers":"0.7.0","deps":[],"cksum":"b2f100c0e629079ff69537b38881b21041e067b484b612e3d34efff07a48a447","features":{},"yanked":false}
 {"name":"rupring_macro","vers":"0.7.1","deps":[],"cksum":"bf14749f0ddb56c9a5faa76b2baee8c525c36170c0397e62972073cce95c39a1","features":{},"yanked":false}
+{"name":"rupring_macro","vers":"0.7.2","deps":[{"name":"quote","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"syn","req":"^2","features":["full","extra-traits"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c4df17f080f2691491e93d9df50e669af219207f2e31197037d4785f35564c6b","features":{},"yanked":false}
