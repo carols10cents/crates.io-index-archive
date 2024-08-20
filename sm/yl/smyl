@@ -1,0 +1,1 @@
+{"name":"smyl","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6106e2de8df1eadcf190c13af3b8b4624260db644cc2b2c8eae9a50e5c001cc2","features":{},"yanked":false}
