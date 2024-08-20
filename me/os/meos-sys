@@ -1,3 +1,4 @@
 {"name":"meos-sys","vers":"0.1.0","deps":[],"cksum":"268cae939e1cdc1a58c870bc209c37d9699c2d6e097277aaaf68a743430959f3","features":{},"yanked":false}
 {"name":"meos-sys","vers":"0.1.1","deps":[],"cksum":"3b8dd5128487c312ced8a58a9ed0f75c2bdeb2bec3924e49bc908da6485cdefd","features":{},"yanked":false,"links":"meos"}
 {"name":"meos-sys","vers":"0.1.2","deps":[],"cksum":"1625e4966b5a8f958f0344bd5241f0ca63ae3e440d6b51d4b95356c9777dde2a","features":{},"yanked":false,"links":"meos"}
+{"name":"meos-sys","vers":"0.1.3","deps":[],"cksum":"c7a5c75329f3d9b7e2cef482a9bfd2e383acf84ff8160cebfc8dbe77df3d9525","features":{},"yanked":false,"links":"meos"}
