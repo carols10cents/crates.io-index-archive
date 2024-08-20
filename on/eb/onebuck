@@ -1,2 +1,2 @@
-{"name":"onebuck","vers":"0.1.0","deps":[],"cksum":"6460d3b525cf0a276673e58e4cde44c4a6f2f1589e7dc7b98e639a2019306be9","features":{"default":["get"],"get":[]},"yanked":false}
+{"name":"onebuck","vers":"0.1.0","deps":[],"cksum":"6460d3b525cf0a276673e58e4cde44c4a6f2f1589e7dc7b98e639a2019306be9","features":{"default":["get"],"get":[]},"yanked":true}
 {"name":"onebuck","vers":"0.1.1","deps":[],"cksum":"52a8bec008fe3cbc215e7aa39f5f41b35f1928b4e73d56aa545dac300b4c7dba","features":{"default":["get"],"get":[]},"yanked":false}
