@@ -1,2 +1,3 @@
 {"name":"wasi-preview1-component-adapter-provider","vers":"23.0.1","deps":[],"cksum":"dba2aacb2ea1d483b13ae73bcdda9069dbf7424b20f72e0ad02d6988e4ec0bbb","features":{},"yanked":false}
 {"name":"wasi-preview1-component-adapter-provider","vers":"23.0.2","deps":[],"cksum":"f91d3d13afef569b9fc80cfbb807c87c16ef49bd3ac1a93285ea6a264b600d2d","features":{},"yanked":false}
+{"name":"wasi-preview1-component-adapter-provider","vers":"24.0.0","deps":[],"cksum":"36e6cadfa74538edd5409b6f8c79628436529138e9618b7373bec7aae7805835","features":{},"yanked":false}
