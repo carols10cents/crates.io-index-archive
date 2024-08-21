@@ -4,3 +4,4 @@
 {"name":"omango-util","vers":"0.1.3","deps":[],"cksum":"ee66fdc251615484de021aeea6ceb8d4cb3620db2ad82d0eb205c9c8d3e5c10a","features":{},"yanked":false}
 {"name":"omango-util","vers":"0.1.4","deps":[],"cksum":"d9c6eef3613638f9a13211ebc49e6570300452f8881731778ffdb44f9a89a927","features":{},"yanked":false}
 {"name":"omango-util","vers":"0.1.5","deps":[],"cksum":"4e757e07ecf7005513a554041587d1240ca9dad84047107463e2fff4554a8c0c","features":{},"yanked":false}
+{"name":"omango-util","vers":"0.1.6","deps":[],"cksum":"7290f6a61577c50e5cdb8548852c769ee4bf9d70851daeb9694a47f9fdfcd8f1","features":{},"yanked":false}
