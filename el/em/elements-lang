@@ -1,0 +1,1 @@
+{"name":"elements-lang","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e741087485f89c960a0c5c7537bc899816d39fbb8de43e32ffaa6cf5d28bd6f5","features":{},"yanked":false}
