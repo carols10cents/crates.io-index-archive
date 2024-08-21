@@ -1,2 +1,3 @@
 {"name":"cfg-exif","vers":"0.1.0","deps":[],"cksum":"13dcea2bfc529cf51d838ca14863c41ec6071deb8d70689ffbbb32d037a00ea4","features":{},"yanked":false}
 {"name":"cfg-exif","vers":"0.2.0","deps":[],"cksum":"1ff039a3dbaa7e4871b1b2e49e2e460371ea6a690fc9680e8c7fed5e68d4dddf","features":{},"yanked":false}
+{"name":"cfg-exif","vers":"0.3.0","deps":[],"cksum":"dcdfe3b5f3997edf006fb6d77713fc63d4c6789adc50a44e7bfd074e7e8337b1","features":{},"yanked":false}
