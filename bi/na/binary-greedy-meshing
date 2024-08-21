@@ -5,3 +5,4 @@
 {"name":"binary-greedy-meshing","vers":"0.1.4","deps":[],"cksum":"0cd0c3bb8d66a97e5ba177df2e3e5d8f816486fba59ea88e37bef8f74dc9b817","features":{},"yanked":false}
 {"name":"binary-greedy-meshing","vers":"0.1.5","deps":[],"cksum":"af408a527a1a529fa8af1f7774c3920a47b33667029b780bb75096f5bced14f7","features":{},"yanked":false}
 {"name":"binary-greedy-meshing","vers":"0.1.6","deps":[],"cksum":"163c8e7651e89996c9983909910874d8163992dbe1d8e72116d1172273c8bca8","features":{},"yanked":false}
+{"name":"binary-greedy-meshing","vers":"0.2.0","deps":[{"name":"bevy","req":"^0.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"818d46d63be16a4cd11fa70700c6eadb4cbe736193c72ee2723b0efb78f6cc23","features":{},"yanked":false}
