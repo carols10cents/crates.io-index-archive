@@ -1,1 +1,2 @@
 {"name":"ass_parser","vers":"0.1.0","deps":[{"name":"hex_color","req":"^3.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"53f8c8715e036957226b5e5dcebd78f9d49866be00f335b3cc2e50a1c65b566a","features":{},"yanked":true}
+{"name":"ass_parser","vers":"0.1.1","deps":[{"name":"hex_color","req":"^3.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7ac00f955e98d4daff50fa91d0dab2fef98bc96ea36aed25cfd519fce048bf4e","features":{},"yanked":false}
