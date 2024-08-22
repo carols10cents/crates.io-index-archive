@@ -1,1 +1,2 @@
 {"name":"figlet-comment","vers":"0.1.0","deps":[{"name":"figlet-rs","req":"^0.1.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7ae83d52a24f75197c324f62ef2572460e68d480b65c7a33a9eef7e5be32412f","features":{},"yanked":false}
+{"name":"figlet-comment","vers":"0.2.0","deps":[{"name":"figleter","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5f1564e72264694ebf94290038f984f3ad36b80717b83effe0d135edcdc0266c","features":{},"yanked":false}
