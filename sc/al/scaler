@@ -1,0 +1,1 @@
+{"name":"scaler","vers":"1.0.0","deps":[{"name":"log","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4b050d9a93772e8fce39e723fca5202a8e8b67a38ac840bfca1dcb870c89fb9a","features":{},"yanked":false}
