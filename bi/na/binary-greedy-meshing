@@ -6,3 +6,4 @@
 {"name":"binary-greedy-meshing","vers":"0.1.5","deps":[],"cksum":"af408a527a1a529fa8af1f7774c3920a47b33667029b780bb75096f5bced14f7","features":{},"yanked":false}
 {"name":"binary-greedy-meshing","vers":"0.1.6","deps":[],"cksum":"163c8e7651e89996c9983909910874d8163992dbe1d8e72116d1172273c8bca8","features":{},"yanked":false}
 {"name":"binary-greedy-meshing","vers":"0.2.0","deps":[{"name":"bevy","req":"^0.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"818d46d63be16a4cd11fa70700c6eadb4cbe736193c72ee2723b0efb78f6cc23","features":{},"yanked":false}
+{"name":"binary-greedy-meshing","vers":"0.3.0","deps":[{"name":"bevy","req":"^0.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"8de44f9cb6cc05eef72c7059c6717e1f6bee2f374aa68b838ba936a743a1bb55","features":{},"yanked":false}
