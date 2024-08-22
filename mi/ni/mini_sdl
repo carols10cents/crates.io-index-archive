@@ -1,0 +1,1 @@
+{"name":"mini_sdl","vers":"0.1.2","deps":[{"name":"sdl2","req":"^0.37.0","features":["unsafe_textures"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"e561189ed7053fde2f71f178d8ff99ea32942ebd6ec9954dc1358bf8a1fe6528","features":{},"yanked":false}
