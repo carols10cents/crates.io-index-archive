@@ -5,3 +5,4 @@
 {"name":"tiny-fn","vers":"0.1.4","deps":[],"cksum":"33a8cf299cb4cb5d9a4637499a6dc5956f1c745e0b0ad49d76035011b33768e5","features":{"example":[]},"yanked":false}
 {"name":"tiny-fn","vers":"0.1.5","deps":[],"cksum":"af7b2c33e09916c65a15c92c1e583946052527e06102689ed11c6125f64fa8ba","features":{"example":[]},"yanked":false}
 {"name":"tiny-fn","vers":"0.1.6","deps":[],"cksum":"219331d5e8cc8377a282141509c21457a8b87937230fa4b8152d8857bfee2942","features":{"example":[]},"yanked":false}
+{"name":"tiny-fn","vers":"0.1.7","deps":[],"cksum":"2fde9a76dac5751480f711f327371c809d7f8a9f036436e6237d67859adbf3bd","features":{"example":[]},"yanked":false}
