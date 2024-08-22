@@ -1,3 +1,4 @@
 {"name":"bp3d-debug","vers":"1.0.0-rc.1.0.0","deps":[{"name":"bp3d-logger","req":"^2.0.0-rc.2.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"semver","req":"^1.0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"2eb0956de980c4914b5a5e24896faa203bcc7060d2b90370dc24bd4ffe331ede","features":{},"yanked":false}
 {"name":"bp3d-debug","vers":"1.0.0-rc.2.0.0","deps":[],"cksum":"ce351cba1821e1918c69f9035bb45ffde4edd00846c87771ee21ca24c4845879","features":{},"yanked":false}
 {"name":"bp3d-debug","vers":"1.0.0-rc.2.1.0","deps":[],"cksum":"0c22fa2166ef845504f68be0e48dd2f087126ac3d760d8c475e106d412873e2e","features":{},"yanked":false}
+{"name":"bp3d-debug","vers":"1.0.0-rc.3.0.0","deps":[],"cksum":"6d115be65042b5974db5e4ce6216bde7d0f0ca1761d1b957e416569ab67400ed","features":{},"yanked":false}
