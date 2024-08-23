@@ -1,0 +1,1 @@
+{"name":"libdrugplotter","vers":"0.1.2","deps":[{"name":"bitcode","req":"^0.6.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9ba7db479b8d3ef790478b04e6753313086ccbe4b2b3502c33143af6d5cdfb55","features":{},"yanked":false}
