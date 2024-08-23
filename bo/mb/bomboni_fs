@@ -3,3 +3,4 @@
 {"name":"bomboni_fs","vers":"0.1.57","deps":[],"cksum":"e3b58cd201a60a337ad1ed6f2ac351ebd4c96540eaec9589fa5966a346b3ee2d","features":{},"yanked":false}
 {"name":"bomboni_fs","vers":"0.1.58","deps":[],"cksum":"08397a0b4477634821cf50821f81974b79a3c2c4ef730838f50df4c8c274bee6","features":{},"yanked":false}
 {"name":"bomboni_fs","vers":"0.1.59","deps":[],"cksum":"59121cc52bc4e966a0e8867e5d42876fd2d7b4b6b9d0879509f5a687c58f4e04","features":{},"yanked":false}
+{"name":"bomboni_fs","vers":"0.1.60","deps":[],"cksum":"ec6791fec0acfc3a37c833f0f195ad67d1fa0a41fa9d849bc2cc4be9aa73faf7","features":{},"yanked":false}
