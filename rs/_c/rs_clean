@@ -1,3 +1,3 @@
 {"name":"rs_clean","vers":"0.1.0","deps":[],"cksum":"600d306fa1f00e1590c5ff996e0116d5d3a08428cac872caa1e9066a9072b278","features":{},"yanked":false,"rust_version":"1.80"}
 {"name":"rs_clean","vers":"0.1.1","deps":[],"cksum":"9998494a93e4b017b64251b86804887caf25ec7051b8a61cc08f90ea232bcd58","features":{},"yanked":false,"rust_version":"1.80"}
-{"name":"rs_clean","vers":"0.1.2","deps":[],"cksum":"72c9c5134840b15529e78f0df5ce110d62cf592cb94f47b0c0211627a56ab2e3","features":{},"yanked":true,"rust_version":"1.80"}
+{"name":"rs_clean","vers":"0.1.2","deps":[],"cksum":"72c9c5134840b15529e78f0df5ce110d62cf592cb94f47b0c0211627a56ab2e3","features":{},"yanked":false,"rust_version":"1.80"}
