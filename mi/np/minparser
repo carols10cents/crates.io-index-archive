@@ -1,1 +1,2 @@
 {"name":"minparser","vers":"0.1.0","deps":[],"cksum":"71895a60621d032e82268e3d72058e6dac4e9d5052834871c64a7ad1853b478f","features":{"alloc":[]},"yanked":false}
+{"name":"minparser","vers":"0.2.0","deps":[],"cksum":"0f2a309dbda8a9d0f3a330da41c3991b7c083d3650baaa47bbf814f9c96d86e1","features":{"alloc":[]},"yanked":false}
