@@ -1,0 +1,1 @@
+{"name":"solana-jonc-program-counter-cli","vers":"0.1.0","deps":[{"name":"solana-jonc-program-counter-client","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9dd8750b8875a96e7aded0ea1f45bfd775a4b5c5a355839a13dae7972e1bebae","features":{},"yanked":false}
