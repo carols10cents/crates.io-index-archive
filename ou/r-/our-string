@@ -1,0 +1,1 @@
+{"name":"our-string","vers":"0.1.0","deps":[{"name":"proptest","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"85de7e773b2683cb9e28dcb363f8d283e46a26c79ef7ccd47165138f5ad990c9","features":{},"yanked":false}
