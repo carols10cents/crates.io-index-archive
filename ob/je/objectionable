@@ -3,3 +3,4 @@
 {"name":"objectionable","vers":"0.2.1","deps":[],"cksum":"5187a4a5936e05b2ab805b37fdc29bc19b536866af7605a4ba3bf59112fbe77e","features":{"default":[],"strict-provenance":[]},"yanked":false}
 {"name":"objectionable","vers":"0.2.2","deps":[],"cksum":"372d9a08d1a5cf8b4c3c2cf32efe8f73c80fd00e18b3c5e291bb8d2cf609f182","features":{"default":[],"strict-provenance":[]},"yanked":false}
 {"name":"objectionable","vers":"0.2.3","deps":[],"cksum":"5f69e6005653f91ea2ba33dcada7ef06259af1b85e74daa85b0fd2cd534e926f","features":{"default":[],"strict-provenance":[]},"yanked":false}
+{"name":"objectionable","vers":"0.2.4","deps":[],"cksum":"e74df900700036d5e509559d6d27ebf4790d2337cc0169388fcf6e9a41463c4d","features":{"alloc":[],"default":["alloc"],"strict-provenance":[]},"yanked":false}
