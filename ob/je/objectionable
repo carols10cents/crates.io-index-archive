@@ -5,3 +5,4 @@
 {"name":"objectionable","vers":"0.2.3","deps":[],"cksum":"5f69e6005653f91ea2ba33dcada7ef06259af1b85e74daa85b0fd2cd534e926f","features":{"default":[],"strict-provenance":[]},"yanked":false}
 {"name":"objectionable","vers":"0.2.4","deps":[],"cksum":"e74df900700036d5e509559d6d27ebf4790d2337cc0169388fcf6e9a41463c4d","features":{"alloc":[],"default":["alloc"],"strict-provenance":[]},"yanked":false}
 {"name":"objectionable","vers":"0.3.0","deps":[],"cksum":"220b524e7482edeb77d3bf60e0ce5dbc123dab3120981440faa207cce9569340","features":{"alloc":[],"default":["alloc"],"strict-provenance":[]},"yanked":false}
+{"name":"objectionable","vers":"0.3.1","deps":[{"name":"document-features","req":"^0.2.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5e196cc7fdbf407b5c0b9cd9cbe77d352bbf2b51cdd06977dea2a4d783166659","features":{"alloc":[],"default":["alloc"],"strict-provenance":[]},"yanked":false}
