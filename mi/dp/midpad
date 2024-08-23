@@ -1,0 +1,1 @@
+{"name":"midpad","vers":"1.0.0","deps":[{"name":"anyhow","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"clap","req":"^4","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6ca3a80d889789bc1ebcc926436aa79cf565f48a0129834586332c994f3b21ef","features":{},"yanked":false}
