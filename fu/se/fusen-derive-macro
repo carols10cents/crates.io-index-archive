@@ -1,2 +1,3 @@
 {"name":"fusen-derive-macro","vers":"0.6.4","deps":[],"cksum":"ee41aec794326eb02ed4b4864d4a6636e8ad532e3272000e5feccb22dd08f3ec","features":{},"yanked":false}
 {"name":"fusen-derive-macro","vers":"0.6.5","deps":[],"cksum":"e9163c2cb317b02d39a6033cf9124e15fefc8f622f9c8f55a44d5372ec1c1baa","features":{},"yanked":false}
+{"name":"fusen-derive-macro","vers":"0.6.6","deps":[],"cksum":"2e1b0225aeda5560e0e589e4f91a984f7679fa1f1685116c1c27f1109e5bfdf8","features":{},"yanked":false}
