@@ -1,1 +1,2 @@
 {"name":"svdpi","vers":"0.0.0","deps":[],"cksum":"18ecdae023f69ccc982009f3ec5e82b8371a038271cd9b5a316f6d405c045184","features":{},"yanked":false}
+{"name":"svdpi","vers":"0.0.1","deps":[],"cksum":"9248c35a9b58d508b60d40b6f5ab8173760b32445d055e90822f57f09b9d0f58","features":{"sv2023":[],"vpi":[]},"yanked":false}
