@@ -1,1 +1,2 @@
 {"name":"error-backtrace","vers":"0.0.1","deps":[],"cksum":"c331ed5bfdaa07478b22c61e552ce83bcbd1f8f95a1b0ea36ab49306ae118e68","features":{},"yanked":false}
+{"name":"error-backtrace","vers":"0.1.0","deps":[],"cksum":"17e3252dc3c27ebd042992f53266f39563d164e60ba62e43396dcebf705507ed","features":{"debug-only":[],"default":["debug-only"]},"yanked":false}
