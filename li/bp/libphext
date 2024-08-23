@@ -3,3 +3,4 @@
 {"name":"libphext","vers":"0.1.2","deps":[],"cksum":"19d037bdcc276e51bf26dc44daa336d35f5736efff4b9df6b5b24423cc105ddf","features":{},"yanked":false}
 {"name":"libphext","vers":"0.1.3","deps":[{"name":"xxhash-rust","req":"^0.8.5","features":["xxh3"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d7f3a8b8e9a2a211e396cf142562546f5093651592ee28fa40a87c86941f7151","features":{},"yanked":false}
 {"name":"libphext","vers":"0.1.4","deps":[{"name":"xxhash-rust","req":"^0.8.5","features":["xxh3"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fb8b533fb845ad2c49bc1bc5f161a9470df3936624c79f130935a654a78099f8","features":{},"yanked":false}
+{"name":"libphext","vers":"0.1.5","deps":[{"name":"xxhash-rust","req":"^0.8.5","features":["xxh3"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2d4bcb309111e2279eb6eef862a718bad86ed8e185420e23b1979e0963b3c636","features":{},"yanked":false}
