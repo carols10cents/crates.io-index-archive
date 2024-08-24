@@ -1,1 +1,1 @@
-{"name":"nvme","vers":"0.1.0","deps":[{"name":"log","req":"^0.4.22","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8779774ed019503a6bcbda92004aa826dfb420f3dabe0591e9035fec86869675","features":{},"yanked":false}
+{"name":"nvme","vers":"0.1.0","deps":[{"name":"log","req":"^0.4.22","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8779774ed019503a6bcbda92004aa826dfb420f3dabe0591e9035fec86869675","features":{},"yanked":true}
