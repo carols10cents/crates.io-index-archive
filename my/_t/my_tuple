@@ -1,1 +1,2 @@
 {"name":"my_tuple","vers":"0.1.0","deps":[{"name":"wacky_traits","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9dc055a55119d4bf77080408c97bda54bfb18e70996aba49880270db9839ac37","features":{},"yanked":true}
+{"name":"my_tuple","vers":"0.1.1","deps":[{"name":"wacky_traits","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"72b56ee2aef5c57a3c066cec6a84545ed3459ee4471566e4cf5c0331fa42b775","features":{},"yanked":false}
