@@ -1,0 +1,1 @@
+{"name":"arcstring","vers":"0.1.0","deps":[{"name":"static_assertions","req":"^1.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d4ce0188ce96e35b14552550f1c5555596d04a694c1f42e701dafff36a6466b9","features":{"usize":[]},"yanked":false}
