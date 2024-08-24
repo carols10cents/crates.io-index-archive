@@ -1,0 +1,1 @@
+{"name":"fuel-streams-macros","vers":"0.0.3","deps":[{"name":"subject-derive","req":"^0.0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c5943a2c5632c16b71cd080233dc58ceec12e08c052c41655001fc971ac47492","features":{},"yanked":false}
