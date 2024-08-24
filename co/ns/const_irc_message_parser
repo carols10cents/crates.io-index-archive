@@ -7,3 +7,4 @@
 {"name":"const_irc_message_parser","vers":"0.6.0","deps":[],"cksum":"3456007be64ab62b2f4b7b14d9dd85adfa00aeb3b5b10c785d59c1657063f8f8","features":{},"yanked":false,"rust_version":"1.71"}
 {"name":"const_irc_message_parser","vers":"0.7.0","deps":[],"cksum":"3e558780878a4d475934752fac1c4138698aed99f088291e7da8d9efb9ecbe2c","features":{},"yanked":false,"rust_version":"1.71"}
 {"name":"const_irc_message_parser","vers":"0.7.1","deps":[],"cksum":"47af8bbc9846c6c7bba8ae974808fc6684db124b47b80346184177b052b3240b","features":{},"yanked":false,"rust_version":"1.71"}
+{"name":"const_irc_message_parser","vers":"0.8.0","deps":[],"cksum":"6d20ee5ba5d48ed8963d2abf3a5c30a7cda24f1f52404c25c94740fc15a35d92","features":{},"yanked":false,"rust_version":"1.71"}
