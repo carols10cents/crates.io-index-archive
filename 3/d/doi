@@ -1,0 +1,1 @@
+{"name":"doi","vers":"0.1.0","deps":[{"name":"ureq","req":"^2.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c40f2ba2f92b2f65ecb7e88bac75ba23b3bbf46d5b6c7874a552333bb673fb80","features":{},"yanked":false}
