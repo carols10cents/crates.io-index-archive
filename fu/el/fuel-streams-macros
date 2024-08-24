@@ -1,1 +1,2 @@
 {"name":"fuel-streams-macros","vers":"0.0.3","deps":[{"name":"subject-derive","req":"^0.0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c5943a2c5632c16b71cd080233dc58ceec12e08c052c41655001fc971ac47492","features":{},"yanked":false}
+{"name":"fuel-streams-macros","vers":"0.0.4","deps":[{"name":"subject-derive","req":"^0.0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"35b044d1f691999c9abade44c96f7786555b304170e27ada03c3e197afa0dbea","features":{},"yanked":false}
