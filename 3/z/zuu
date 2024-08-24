@@ -57,3 +57,4 @@
 {"name":"zuu","vers":"19.0.0","deps":[],"cksum":"c5c492b46406d502f8d421c80d6efbdc82212d206f35d4b01ab4a99d37da3677","features":{},"yanked":false}
 {"name":"zuu","vers":"19.0.1","deps":[],"cksum":"ea0e5450146d678174894f5002aef37683b5f5c3bbdc42745561ab4f31e7e2b8","features":{},"yanked":false}
 {"name":"zuu","vers":"19.1.0","deps":[{"name":"indicatif","req":"^0.17.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"60d8c655f563111d1cd58a47d758c68b351d69aecf2fefdaa566094b552d6054","features":{},"yanked":false}
+{"name":"zuu","vers":"20.0.0","deps":[{"name":"clap","req":"^4.5.16","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1bae296df31570b5650385e277fc0c12123c8e5ebbe09b3fb73d2337b3660b38","features":{},"yanked":false}
