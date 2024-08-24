@@ -3,3 +3,4 @@
 {"name":"tiny-cli","vers":"0.1.2","deps":[{"name":"unix-print","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"b1711f7ff3ef45485fade5704186478eabf27cfe4bc7b250439857b862135c08","features":{},"yanked":false}
 {"name":"tiny-cli","vers":"0.2.0","deps":[],"cksum":"8d477940dd9c5cb928ebe4d072b54078e69437c4c89f9023bdec0079949d05e5","features":{},"yanked":false}
 {"name":"tiny-cli","vers":"0.2.1","deps":[{"name":"tiny-std","req":"^0.2.4","features":["alloc","cli"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"207482065611d87e72914213b2c543be93d28f152c67149ac5fc76ddfadef3f4","features":{},"yanked":false}
+{"name":"tiny-cli","vers":"0.3.0","deps":[],"cksum":"7c9c35a07a405cf871e2d04f7377d491ada52a4ac628c21d2e9e564042967cbb","features":{},"yanked":false}
