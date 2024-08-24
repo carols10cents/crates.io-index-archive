@@ -1,1 +1,2 @@
 {"name":"bmbp_util","vers":"0.0.0","deps":[],"cksum":"75c4fc8cd412d5dbfc1283cb7086df8370a794306cfbdaacb8bc4101029352c4","features":{},"yanked":false}
+{"name":"bmbp_util","vers":"0.0.1","deps":[{"name":"uuid","req":"^1.10.0","features":["serde","v4"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b4952a1afb2f52b511b8a7da889b01dd3343754c074c862d7cd89f9e841f2f9d","features":{},"yanked":false}
