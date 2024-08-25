@@ -1,0 +1,1 @@
+{"name":"horfimbor-time","vers":"0.1.0","deps":[{"name":"thiserror","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"70d54736d24ae94216e2e4aaae4c75fff7f0283eb808c43833fef5479b145bb5","features":{},"yanked":false}
