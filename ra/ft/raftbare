@@ -1,0 +1,1 @@
+{"name":"raftbare","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"e471c62a7a8e8a9e653df2c79e6ababf84ed26889c95b0ba81083add465a3f5f","features":{},"yanked":false}
