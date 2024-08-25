@@ -7,3 +7,4 @@
 {"name":"napi-build-ohos","vers":"1.0.0-beta.3","deps":[],"cksum":"0fa96262f626cacf4134b676419815bc1381b43ff5f7593b950cff626dc11bfb","features":{},"yanked":false,"rust_version":"1.65"}
 {"name":"napi-build-ohos","vers":"1.0.0-beta.4","deps":[],"cksum":"bb25df1b9678facd143cbed51bfaedeffbdfebc76121267be1ae76f4cf771f96","features":{},"yanked":false,"rust_version":"1.78"}
 {"name":"napi-build-ohos","vers":"1.0.0-beta.5","deps":[],"cksum":"0c8ecacd8d59ed73b300fe3fc17fe928fa69f7db6a27d40831b378c871c17190","features":{},"yanked":false,"rust_version":"1.78"}
+{"name":"napi-build-ohos","vers":"1.0.0-beta.6","deps":[],"cksum":"1ca379291624b619a4b80241d3a725e816af394e3ad61b17168e74a65b2581de","features":{},"yanked":false,"rust_version":"1.78"}
