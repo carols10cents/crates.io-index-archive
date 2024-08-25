@@ -1,1 +1,2 @@
 {"name":"maprc","vers":"0.1.0","deps":[],"cksum":"dec42b736b32fb95bf787f63038b89b267e4a26d77e8415a92e250b4ace3837e","features":{"arc":[],"default":["arc","rc"],"rc":[]},"yanked":false}
+{"name":"maprc","vers":"0.2.0","deps":[],"cksum":"51979c8f62c98f6d282fcc33f51760150ea0d411510ed9f5df7d124507b01a5a","features":{"arc":[],"default":["arc","rc"],"experimental_allocator_api":[],"rc":[]},"yanked":false}
