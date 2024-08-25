@@ -1,0 +1,1 @@
+{"name":"irange","vers":"1.0.0","deps":[{"name":"criterion","req":"^0.5","features":["html_reports"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"929d5aeadb3fd3cbbdf2cd77e05bac144d0830a8d5d5f3282a4156f6194df51b","features":{},"yanked":false}
