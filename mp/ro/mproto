@@ -1,0 +1,1 @@
+{"name":"mproto","vers":"0.1.0","deps":[{"name":"byteorder","req":"^1","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"165a094003f066643bbca27bfc6b52b4a7ae825d5a294175ea12304cecaa1426","features":{"alloc":[],"default":["std"],"std":[]},"yanked":false}
