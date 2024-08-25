@@ -1,0 +1,1 @@
+{"name":"terra-types","vers":"0.2.1","deps":[{"name":"bounded-integer","req":"^0.5.7","features":["types"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0693d3630410d7cfd3a88495fc712523564a8a90878c475392418b7c6eccae02","features":{},"yanked":false}
