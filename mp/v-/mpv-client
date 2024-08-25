@@ -14,5 +14,5 @@
 {"name":"mpv-client","vers":"0.6.0","deps":[],"cksum":"89f50611277706a6e6519b3c3cc2cee660315327fca87abc2f3c369a95e6bb8a","features":{},"yanked":false}
 {"name":"mpv-client","vers":"0.6.1","deps":[],"cksum":"49e08e16165208db0e40e0654d2399e44492a23532227053e632c1f50927ac99","features":{},"yanked":false}
 {"name":"mpv-client","vers":"0.6.2","deps":[],"cksum":"cc20002398cdc6bbc59d9e364513665ecdaa6f9a960578f8b26dcfbfcf1f7fef","features":{},"yanked":false}
-{"name":"mpv-client","vers":"1.0.0","deps":[{"name":"ffi","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"mpv-client-sys"}],"cksum":"c879dd13a54347867ae53600771513b99295ec3790613873b1c04dae2f4d0398","features":{},"yanked":false}
+{"name":"mpv-client","vers":"1.0.0","deps":[{"name":"ffi","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"mpv-client-sys"}],"cksum":"c879dd13a54347867ae53600771513b99295ec3790613873b1c04dae2f4d0398","features":{},"yanked":true}
 {"name":"mpv-client","vers":"1.0.1","deps":[{"name":"ffi","req":"^1.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"mpv-client-sys"}],"cksum":"60a131cb5edb5564cfb55a02f53f9a6a6ed3f5b28a4e13e682a74e1c47dd1c17","features":{},"yanked":false}
