@@ -1,0 +1,1 @@
+{"name":"sqler","vers":"0.0.1-alpha","deps":[{"name":"sqler_macros","req":"^0.0.1-alpha","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"db9d9b56a60bdef2db52d02235db818c521efd815e1152cda51f631c4196068f","features":{},"yanked":false}
