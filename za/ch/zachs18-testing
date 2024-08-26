@@ -4,3 +4,4 @@
 {"name":"zachs18-testing","vers":"0.4.0","deps":[],"cksum":"427b26ef49e9b012affbc80bfdcba7e1742ded64983372738aefdc97c3a66a2c","features":{},"yanked":false}
 {"name":"zachs18-testing","vers":"0.5.0","deps":[{"name":"bytemuck","req":"=1.16.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cf743b2388eb8cf62a6fe33f43ad6e80774717fe2ee5dc1837d018305be65810","features":{},"yanked":false}
 {"name":"zachs18-testing","vers":"0.6.0","deps":[],"cksum":"79f7ec9af2efe77a5c74c0d0b205896293d4801305d5bf844a7f3371befe0469","features":{},"yanked":false}
+{"name":"zachs18-testing","vers":"0.6.1","deps":[],"cksum":"3e306bb7e8df74bcb626cadbca8c051601dbe7d377c82e08c9f19a523a3ff37d","features":{},"yanked":false}
