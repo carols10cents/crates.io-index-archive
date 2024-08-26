@@ -4,3 +4,4 @@
 {"name":"rusty_math","vers":"0.2.0","deps":[],"cksum":"795e07002e948d5ff3dcb573cfc4c254e8d3e2316c5296847361e079371cdee3","features":{},"yanked":false}
 {"name":"rusty_math","vers":"0.2.1","deps":[],"cksum":"830a69958aed19ddf9b54d74b44e94ff2ba005f669ccbadb27087d6f10630020","features":{},"yanked":false}
 {"name":"rusty_math","vers":"0.3.0","deps":[],"cksum":"22bc42a74d3584216580180889fffb66fa26419418ef7f067507e4d2302ae3ed","features":{},"yanked":false}
+{"name":"rusty_math","vers":"0.3.1","deps":[],"cksum":"d1c9ab11b8cdf56d0d1db94738a7917bf3f83a399309f7db8b5d9c0a8e98297c","features":{},"yanked":false}
