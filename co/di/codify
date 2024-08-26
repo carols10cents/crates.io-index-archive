@@ -1,0 +1,1 @@
+{"name":"codify","vers":"0.0.0","deps":[],"cksum":"b2192c7d770966b1ffc0bede272e53f8b3843d4924690be2c88702a464687d16","features":{"all":[],"default":["all","std"],"std":[]},"yanked":false,"rust_version":"1.70"}
