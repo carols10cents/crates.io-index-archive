@@ -4,3 +4,4 @@
 {"name":"job-pool","vers":"0.1.3","deps":[],"cksum":"74e0484157ad7e08b24164527378de1013fbc2c75fc3a843e9422d01b6d70af0","features":{},"yanked":false}
 {"name":"job-pool","vers":"0.1.4","deps":[],"cksum":"b617fd5f7465aba4d135a98e78813f91ff7444cf5479e02f421d4264a6544bf5","features":{},"yanked":false}
 {"name":"job-pool","vers":"0.1.5","deps":[{"name":"builders","req":">=0.1.10","features":["builder"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"15733e7fbf9156902bd30eacbfe496110440e20fd62e43d8f6fbb1f2eecc79bd","features":{},"yanked":true}
+{"name":"job-pool","vers":"0.1.6","deps":[{"name":"builders","req":">=0.1.10","features":["builder"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ab3d3fbecc5e799a02185dfe714442b01a94f4f8baf2c231d94f94e930c0e064","features":{},"yanked":false}
