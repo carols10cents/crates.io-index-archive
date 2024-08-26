@@ -18,3 +18,4 @@
 {"name":"rrtk","vers":"0.4.0-alpha.3","deps":[],"cksum":"e799a0e1f3f1231973a3702e3d847e362cec8b7ad740de59978cc39f6423d356","features":{"default":["std"],"devices":[],"std":[]},"yanked":false}
 {"name":"rrtk","vers":"0.4.0-beta.1","deps":[],"cksum":"d317b9e9e82f2dc583b13fa8f678eb899331e4ebf275b0badcd9bb6b86008b3b","features":{"default":["std"],"devices":[],"std":[]},"yanked":false}
 {"name":"rrtk","vers":"0.4.0-beta.2","deps":[],"cksum":"48aa9f3f0aec6b4dc2bb6fec4e7f1a8053f71a47d75e4c28519d82c6f9a6a15b","features":{"default":["std"],"devices":[],"std":[]},"yanked":false}
+{"name":"rrtk","vers":"0.4.0","deps":[],"cksum":"5dc3dd62a4056f689f5ce98943b585d09fbf5d4c84ef25e176d4464fa821c540","features":{"default":["std"],"devices":[],"std":[]},"yanked":false}
