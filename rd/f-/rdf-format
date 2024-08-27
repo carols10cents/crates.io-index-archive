@@ -1,0 +1,1 @@
+{"name":"rdf-format","vers":"0.0.0","deps":[{"name":"rdf-model","req":"^0.0.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"1e9030be788cdcc4cf5b736c115ac8d8eb9d32cb3eb85b26a1548441c84bb8e1","features":{"all":[],"default":["all","std"],"std":["rdf-model/std"]},"yanked":false,"rust_version":"1.70"}
