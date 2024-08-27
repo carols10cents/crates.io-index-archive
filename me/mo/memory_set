@@ -1,1 +1,2 @@
 {"name":"memory_set","vers":"0.1.0","deps":[{"name":"memory_addr","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e46119df8fd48e57474c6db295a4b3068ed9fcbfd9c5467745880eb97cfc7808","features":{},"yanked":false}
+{"name":"memory_set","vers":"0.3.0","deps":[{"name":"memory_addr","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a8d6aa8d1b4cdd52ba05f6b6a04104b2a1e0754ccc598139931e21973b014960","features":{},"yanked":false}
