@@ -1,0 +1,1 @@
+{"name":"cargo-nl","vers":"0.0.1","deps":[{"name":"walkdir","req":"^2.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e83f7db2cb235ef2f3ce3be58660902a376dc6e1524f0fbf2dc09e4c65c9ba3e","features":{},"yanked":false}
