@@ -1,0 +1,1 @@
+{"name":"gxccd","vers":"0.1.1","deps":[{"name":"fitrs","req":"^0.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"libc","req":"^0.2.158","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ba8f96e11fd5e60227878cdea21ad914e1b9f4a7f8c8273c6bc318635642686d","features":{},"yanked":false}
