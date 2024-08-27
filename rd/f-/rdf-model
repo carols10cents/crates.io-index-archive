@@ -1,0 +1,1 @@
+{"name":"rdf-model","vers":"0.0.0","deps":[],"cksum":"c48f5c59333c505372434f8d2b8744dbef3e59cd1ae07e9da341c8c810d094a1","features":{"all":[],"default":["all","std"],"std":[]},"yanked":false,"rust_version":"1.70"}
