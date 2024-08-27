@@ -10,3 +10,4 @@
 {"name":"ego-tree","vers":"0.6.2","deps":[],"cksum":"3a68a4904193147e0a8dec3314640e6db742afd5f6e634f428a6af230d9b3591","features":{},"yanked":false}
 {"name":"ego-tree","vers":"0.6.3","deps":[],"cksum":"12a0bb14ac04a9fcf170d0bbbef949b44cc492f4452bd20c095636956f653642","features":{},"yanked":false}
 {"name":"ego-tree","vers":"0.7.0","deps":[],"cksum":"870d6b5641b5e3e9baf0f79d6d5ccb5b171ec31038dd74fc4c93662756a3d2b1","features":{},"yanked":false}
+{"name":"ego-tree","vers":"0.8.0","deps":[],"cksum":"c0a1c26db6cdc3076a84e511b708f85d5c7167a8c65c25fc2279a6315d34777c","features":{},"yanked":false}
