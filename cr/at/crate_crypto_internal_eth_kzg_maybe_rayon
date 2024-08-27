@@ -1,0 +1,1 @@
+{"name":"crate_crypto_internal_eth_kzg_maybe_rayon","vers":"0.5.1","deps":[{"name":"rayon","req":"^1.10.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"558f50324ff016e5fe93113c78a72776d790d52f244ae9602a8013a67a189b66","features":{"multithreaded":["rayon"]},"yanked":false,"rust_version":"1.70"}
