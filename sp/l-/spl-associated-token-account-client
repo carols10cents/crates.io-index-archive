@@ -1,0 +1,1 @@
+{"name":"spl-associated-token-account-client","vers":"1.0.0","deps":[{"name":"solana-program","req":"^2.0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0c5c1e2d53941ea7ebc4be3f86302a3c6c5178baa932bbc038468429e6900d36","features":{},"yanked":false}
