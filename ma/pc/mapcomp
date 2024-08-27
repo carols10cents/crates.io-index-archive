@@ -5,3 +5,4 @@
 {"name":"mapcomp","vers":"0.2.0","deps":[],"cksum":"6b9d3363d45feb174a5a50abb08e6ca39066e8cad33d411207695269288e5532","features":{},"yanked":false}
 {"name":"mapcomp","vers":"0.2.1","deps":[],"cksum":"268f90e237a6769d650101190950241fbdc73d83408d4e737fcd763134d8958a","features":{},"yanked":false}
 {"name":"mapcomp","vers":"0.2.2","deps":[],"cksum":"2d99cbd5ec6c1322ada0434d72ca1b81598ce6cd070f4880a1b91565d98cac2d","features":{},"yanked":false}
+{"name":"mapcomp","vers":"0.3.0","deps":[],"cksum":"e6a4b88a7e5ce80a3716480407e2c4f46dc640ea95907c30917043dc9aee8f60","features":{"coroutines":[]},"yanked":false}
