@@ -1,0 +1,1 @@
+{"name":"rdf-query","vers":"0.0.0","deps":[{"name":"rdf-model","req":"^0.0.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"8d5bf886d199e919271142a9de86cf696f7c06e0f2cfd0e7a1effea9026e364d","features":{"all":[],"default":["all","std"],"std":["rdf-model/std"]},"yanked":false,"rust_version":"1.70"}
