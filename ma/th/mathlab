@@ -37,3 +37,4 @@
 {"name":"mathlab","vers":"0.7.0","deps":[],"cksum":"20bb867cdb42d73d41ad1fec226232164d0e8fae3236f0bbb61f84d5790a5962","features":{},"yanked":false}
 {"name":"mathlab","vers":"0.7.1","deps":[],"cksum":"feca3aeadc96df2ad5f2be06ba63b5cef26afd08a23857b66f09e3aada2e0724","features":{},"yanked":false}
 {"name":"mathlab","vers":"0.7.2","deps":[],"cksum":"ff3497499154b7e06f3eee4ec5f82f9ea1aeb9b34f374199c4398fbd120d83f3","features":{},"yanked":false}
+{"name":"mathlab","vers":"0.8.0","deps":[],"cksum":"d2899780ce2c95f9932b662fa554db4eb529641bfb03a6f67ef2f500e91ae77e","features":{},"yanked":false}
