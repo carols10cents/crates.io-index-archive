@@ -1,0 +1,1 @@
+{"name":"slang_solidity_cli","vers":"0.17.0","deps":[{"name":"slang_solidity","req":"^0.17.0","features":["__private_cli_execution"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"95a70ca6f47f09f24aac6a3d80e0d1f5fe09e8d46f5e0bca3714f48b23595e8c","features":{},"yanked":false,"rust_version":"1.79.0"}
