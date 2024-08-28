@@ -43,3 +43,4 @@
 {"name":"communication-layer-request-reply","vers":"0.3.5-rc1","deps":[],"cksum":"cb783300360c112709487bc3b900e62faf6679fea758798e4bfa8f29bf673b08","features":{},"yanked":false}
 {"name":"communication-layer-request-reply","vers":"0.3.5","deps":[],"cksum":"13dc96d193b587735668656a3565d00a22b3225ed3293d28570f6a994b735d41","features":{},"yanked":false}
 {"name":"communication-layer-request-reply","vers":"0.3.6-rc0","deps":[],"cksum":"b7925404293f123ee9bb5158ea2e9f4015921f884be428e351ddeae4b5a457bd","features":{},"yanked":false}
+{"name":"communication-layer-request-reply","vers":"0.3.6","deps":[],"cksum":"45cb976ccf47af739dd7b54cfcc19a10a8d54b8e2b2ae82392e34093988e3066","features":{},"yanked":false}
