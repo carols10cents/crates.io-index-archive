@@ -1,0 +1,1 @@
+{"name":"mutex_trait2","vers":"0.2.1","deps":[],"cksum":"2d694b3b173cac1a71de7f285d7528f255d556cbd04d0d9860907a7001be7da2","features":{"alloc":[],"std":["alloc"]},"yanked":false}
