@@ -1,0 +1,1 @@
+{"name":"serde_molecule","vers":"1.0.0","deps":[{"name":"serde","req":"^1.0.208","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"a1b2391ef813f5a6caa30cdc8319bedf2bb45bbab98a2a970e0a4d6843e91ec0","features":{"alloc":["serde/alloc"],"default":["std"],"std":["serde/std"]},"yanked":false}
