@@ -1,0 +1,1 @@
+{"name":"gravatar_api","vers":"0.1.0","deps":[{"name":"sha2","req":"^0.9.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"url","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ee25c1490f4f25289a005bc152169e2463e99190e41bd23b6d045a34da09cdbb","features":{},"yanked":false}
