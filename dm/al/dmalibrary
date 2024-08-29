@@ -1,1 +1,1 @@
-{"name":"dmalibrary","vers":"0.1.0","deps":[{"name":"memprocfs","req":"^5.11.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"16d2e23e8973b898e7d5c937eddc5a1e8adb8c21679d3a2ed6b64d5afd617938","features":{},"yanked":false}
+{"name":"dmalibrary","vers":"0.1.0","deps":[{"name":"memprocfs","req":"^5.11.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"16d2e23e8973b898e7d5c937eddc5a1e8adb8c21679d3a2ed6b64d5afd617938","features":{},"yanked":true}
