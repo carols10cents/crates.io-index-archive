@@ -1,0 +1,1 @@
+{"name":"pocketpy-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.70","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"},{"name":"cmake","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"33f71a8426fa398cb08f97beee1e0ef6af4eda91b82a80635be9e9f41a8a5741","features":{},"yanked":false}
