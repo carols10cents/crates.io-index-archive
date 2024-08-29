@@ -1,0 +1,1 @@
+{"name":"weev","vers":"0.1.0","deps":[{"name":"embedded-io-async","req":"^0.6.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d969a6ed98554c931d530b1775f67a460b6e0e7f87069b8553d4293ce86f5779","features":{"alloc":["embedded-io-async/alloc"],"std":["alloc","embedded-io-async/std"]},"yanked":false}
