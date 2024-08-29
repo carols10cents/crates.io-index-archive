@@ -7,3 +7,4 @@
 {"name":"stupid_utils","vers":"0.2.5","deps":[],"cksum":"7a5e56caf28b6408c436feeb8f6ad4b9efc1872210e71480a6200f8a5bd52749","features":{},"yanked":false}
 {"name":"stupid_utils","vers":"0.2.6","deps":[],"cksum":"51ba2340bc077e73819dcb62eb07ca7a9fd26cef2784aa010ecc3cd94c40a477","features":{},"yanked":false}
 {"name":"stupid_utils","vers":"0.2.7","deps":[],"cksum":"7e558ed86836c082eeb4f004cd8c1d9f59a64e4d1f911b642c3cc8a414c29e70","features":{},"yanked":false}
+{"name":"stupid_utils","vers":"0.2.8","deps":[],"cksum":"2088c92f8368a8730f5872edc8c37aacd6f84a04bcbe74a4fe59cc45a50ec21e","features":{},"yanked":false}
