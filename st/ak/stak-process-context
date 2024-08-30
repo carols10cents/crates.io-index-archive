@@ -9,3 +9,4 @@
 {"name":"stak-process-context","vers":"0.2.7","deps":[],"cksum":"0021c11b23c5948f5aaaeadd6ea1142cf4d7ad195cc68b3bc20ba2153babf097","features":{"libc":[],"std":[]},"yanked":false}
 {"name":"stak-process-context","vers":"0.2.8","deps":[],"cksum":"07f73fbd1bb09a2908826fa0656d4d0ac0af2469615b50faf2fa51d1edba822d","features":{"libc":[],"std":[]},"yanked":false}
 {"name":"stak-process-context","vers":"0.2.9","deps":[],"cksum":"4097c674a18a6783242ae703cad7c53bbaeb769b9ada7d6b36f486c8c9924f0f","features":{"libc":[],"std":[]},"yanked":false}
+{"name":"stak-process-context","vers":"0.2.10","deps":[],"cksum":"1640b3c75b1e08ce47e12bf2607403779141f34aa78a3202e502c5d0c862ece2","features":{"libc":[],"std":[]},"yanked":false}
