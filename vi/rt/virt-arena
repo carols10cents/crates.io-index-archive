@@ -1,0 +1,1 @@
+{"name":"virt-arena","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2.158","features":[],"optional":false,"default_features":true,"target":"cfg(unix)","kind":"normal"}],"cksum":"a14c17a1c609a1ab8a247f12bc5e9cdfb4e0eb8b97d8c3f13ab8739f54828a44","features":{},"yanked":false}
