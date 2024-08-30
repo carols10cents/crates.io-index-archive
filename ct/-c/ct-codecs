@@ -3,3 +3,4 @@
 {"name":"ct-codecs","vers":"1.0.0","deps":[],"cksum":"273331a2ec35826f77a14bf3c7087cb21bb02338aab592dddc88e24f4b4c2356","features":{"default":["std"],"std":[]},"yanked":false}
 {"name":"ct-codecs","vers":"1.1.0","deps":[],"cksum":"f7be416cfe07f7c2e94fc38d59117ce78866dec7ac72945005f987ebb057e5e3","features":{"default":["std"],"std":[]},"yanked":false}
 {"name":"ct-codecs","vers":"1.1.1","deps":[],"cksum":"f3b7eb4404b8195a9abb6356f4ac07d8ba267045c8d6d220ac4dc992e6cc75df","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"ct-codecs","vers":"1.1.2","deps":[],"cksum":"026ac6ceace6298d2c557ef5ed798894962296469ec7842288ea64674201a2d1","features":{"default":["std"],"std":[]},"yanked":false}
