@@ -1,0 +1,1 @@
+{"name":"envman_test","vers":"0.3.2","deps":[{"name":"envman","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f7854dc59e5a3a3ccb72080c4597cec68bcf3e7c64c2a2ea2c66311bae72e6fb","features":{},"yanked":false,"rust_version":"1.80"}
