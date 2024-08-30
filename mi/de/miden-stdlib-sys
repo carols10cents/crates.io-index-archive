@@ -1,3 +1,4 @@
 {"name":"miden-stdlib-sys","vers":"0.0.0","deps":[],"cksum":"3bdabc951140a19c3df3656d299755c153f60e443478fa02b5d6468f206b417c","features":{},"yanked":false,"rust_version":"1.78"}
 {"name":"miden-stdlib-sys","vers":"0.0.1","deps":[],"cksum":"bcaaab4d646e156c595fbaa1cc566508a527fdd7c3f49810de514e4cd24493a9","features":{},"yanked":false,"rust_version":"1.78"}
 {"name":"miden-stdlib-sys","vers":"0.0.2","deps":[],"cksum":"752054b814b12683a2371abd898243fd2a271360a5c12de8f1a5d41a40a51b9a","features":{},"yanked":false,"rust_version":"1.78"}
+{"name":"miden-stdlib-sys","vers":"0.0.3","deps":[],"cksum":"d1e7acce54dc04dc62e567cd598c7139fd3acd580628494895d7574172ddb594","features":{},"yanked":false,"rust_version":"1.78"}
