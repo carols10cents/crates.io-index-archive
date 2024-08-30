@@ -1,1 +1,2 @@
 {"name":"datum","vers":"1.0.0","deps":[],"cksum":"1fedab9df1876848fca700cbbaad61fc7476d4e15234abe7ad869c579146accf","features":{"alloc":[],"default":["std","detailed_errors"],"detailed_errors":[],"std":["alloc"]},"yanked":false}
+{"name":"datum","vers":"1.0.1","deps":[],"cksum":"41d1e4c1083b0a260eff2d3a405e40c56c977757d85e437865497c24c235bfd8","features":{"alloc":[],"default":["std","detailed_errors"],"detailed_errors":[],"std":["alloc"]},"yanked":false}
