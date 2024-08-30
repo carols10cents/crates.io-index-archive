@@ -9,3 +9,4 @@
 {"name":"minisign-verify","vers":"0.1.8","deps":[],"cksum":"db0507fe8e3c68cd62961cf9f87f6c2b21d884d3515a7150a4a3fa9d014e5c12","features":{},"yanked":false}
 {"name":"minisign-verify","vers":"0.2.0","deps":[],"cksum":"95ccf091884470c4b3a80ad6daadbb2e7736611d631cbf0c9e603bb7dbcfdfd9","features":{},"yanked":false}
 {"name":"minisign-verify","vers":"0.2.1","deps":[],"cksum":"933dca44d65cdd53b355d0b73d380a2ff5da71f87f036053188bf1eab6a19881","features":{},"yanked":false}
+{"name":"minisign-verify","vers":"0.2.2","deps":[],"cksum":"a05b5d0594e0cb1ad8cee3373018d2b84e25905dc75b2468114cc9a8e86cfc20","features":{},"yanked":false}
