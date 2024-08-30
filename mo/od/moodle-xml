@@ -1,0 +1,1 @@
+{"name":"moodle-xml","vers":"0.1.0","deps":[{"name":"tempfile","req":"^3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"xml-rs","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"92d80dc39a54314445cc5f95520e8a155382ef10f3d24c77a99cd9585139219f","features":{},"yanked":false}
