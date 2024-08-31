@@ -5,3 +5,4 @@
 {"name":"rt_map","vers":"0.5.0","deps":[],"cksum":"d51366e353df551380c97a17e9f16954c235aae7f10e6a1101925b3ba31f5785","features":{},"yanked":false}
 {"name":"rt_map","vers":"0.5.1","deps":[],"cksum":"533a7f952f2c56f750bf252bcd204105e7e82ef711573e4ff9054d131c6ea7b7","features":{"default":[],"rt_vec":[]},"yanked":false}
 {"name":"rt_map","vers":"0.5.2","deps":[{"name":"rt_ref","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"548d599e97fae51cc56f005085e0b54d900fc23c5ddc152a1479b81c1bb9bb1b","features":{"unsafe_debug":["rt_ref/unsafe_debug"]},"yanked":false}
+{"name":"rt_map","vers":"0.5.3","deps":[{"name":"rt_ref","req":"^0.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bce6e14ca1de53a38777aeca8e282dc34a3986a698dad968bdba6d794657f29e","features":{"unsafe_debug":["rt_ref/unsafe_debug"]},"yanked":false}
