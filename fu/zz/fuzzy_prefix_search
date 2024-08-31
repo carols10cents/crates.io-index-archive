@@ -7,3 +7,4 @@
 {"name":"fuzzy_prefix_search","vers":"0.2.0","deps":[],"cksum":"a904d7ec1d39e73f21e8446175cfcd3d4265313919000044e300ecf8d9967dec","features":{},"yanked":false}
 {"name":"fuzzy_prefix_search","vers":"0.3.0","deps":[],"cksum":"8daf78e4df6bd5a1010c36f2aec99cd3d345c7a9cb991a483cc678fd555a99a5","features":{},"yanked":false}
 {"name":"fuzzy_prefix_search","vers":"0.3.1","deps":[],"cksum":"3ff2c136e1ea1878722395fb3c290e5153ba15637f19cf5a4ef1f819fbc10be4","features":{},"yanked":false}
+{"name":"fuzzy_prefix_search","vers":"0.3.2","deps":[],"cksum":"eeb1ba914d2d8ca3abf9dd0d002e30606aa1911998ac5f2d6ac36a370a3aa6ce","features":{},"yanked":false}
