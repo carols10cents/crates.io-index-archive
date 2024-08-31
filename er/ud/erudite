@@ -2,3 +2,4 @@
 {"name":"erudite","vers":"0.1.1","deps":[],"cksum":"62a816d7541c47b9f93ebbb8b6e7884942b6fadf2d28afab5563d252c9ec8e75","features":{},"yanked":true}
 {"name":"erudite","vers":"0.0.0","deps":[],"cksum":"962f67195a5d0dd01534584e9cedd0ed46be108d16018e5378ec3f36be8303b8","features":{},"yanked":true}
 {"name":"erudite","vers":"0.2.0","deps":[],"cksum":"362e2f34b169d6889a1ed704ad389bf16f8e728889dfd51565bac4add5512199","features":{},"yanked":true}
+{"name":"erudite","vers":"0.3.0","deps":[],"cksum":"17fc2da608177b907b306b32b8dddccacbdad46d714f04dde50374eb67f8ad09","features":{},"yanked":false}
