@@ -1,1 +1,2 @@
 {"name":"imf","vers":"0.1.0","deps":[{"name":"fancy-regex","req":"^0.13.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"707dfbeef841667d06ff144695fc51049e3d9fc363a0765197b313a0e7a8e8bb","features":{},"yanked":false}
+{"name":"imf","vers":"0.2.0","deps":[{"name":"fancy-regex","req":"^0.13.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9b78f65ebb7b3d071c85a3d85ab470176609648a3344236033e3c130428281e2","features":{},"yanked":false}
