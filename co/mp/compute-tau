@@ -1,1 +1,2 @@
 {"name":"compute-tau","vers":"0.1.0","deps":[{"name":"rug","req":"^1.25","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fd2c262674bc08671c653fe91ac65f4567c9156cf53974ca5608b42431a77cb9","features":{},"yanked":false}
+{"name":"compute-tau","vers":"0.2.0","deps":[{"name":"rug","req":"^1.25","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"21aefd6194390cad34a222617f20d22a22b59faae6cea4d718e035e048a2b1e1","features":{},"yanked":false}
