@@ -1,1 +1,2 @@
 {"name":"petri-nets","vers":"0.1.0","deps":[{"name":"pns","req":"^0.16.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7dde5f38660701ad8287c074c9d9d2959a8784888a9ab7a1f2e3030be3d59c8f","features":{},"yanked":false}
+{"name":"petri-nets","vers":"0.2.0","deps":[{"name":"pns","req":"^0.16.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"41344d7ac7921681351447b281e3ae8e724b9bc6598df6475f36ff61d18dbed2","features":{},"yanked":false}
