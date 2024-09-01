@@ -1,0 +1,1 @@
+{"name":"kaptn-cli","vers":"0.1.0","deps":[{"name":"clap","req":"^4.5.16","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"87c6713a9c7d02630d3b25216978521944e5d87274f9ac1b03f3621f98c3338e","features":{},"yanked":false}
