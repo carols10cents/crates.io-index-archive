@@ -1,1 +1,2 @@
 {"name":"chur","vers":"0.1.0","deps":[],"cksum":"1fc8757b31a49d1789f3a0fa59e1056e30bf20ed7d687961a9c3484397cabd87","features":{},"yanked":false}
+{"name":"chur","vers":"0.2.0","deps":[{"name":"chur-macros","req":"^0.2","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"544d327aaf7f81f5104388b4c312acfed9cdec6bd2ae4d573629567ad38405f1","features":{"default":["macros"]},"features2":{"macros":["dep:chur-macros"]},"yanked":false,"v":2}
