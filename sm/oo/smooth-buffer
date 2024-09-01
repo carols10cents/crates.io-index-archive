@@ -1,0 +1,1 @@
+{"name":"smooth-buffer","vers":"0.1.1","deps":[{"name":"libm","req":"^0.2.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d0c3c11e269d1d5bc28cbf79fc7e24f8c280844e972b07831c1b79100f20c2fd","features":{},"yanked":false}
