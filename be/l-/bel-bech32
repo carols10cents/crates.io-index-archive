@@ -1,0 +1,1 @@
+{"name":"bel-bech32","vers":"0.11.0","deps":[],"cksum":"03edcb4f3840921d3f5b8457a7ba904eaa89610b852144103e623cc566589a58","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false}
