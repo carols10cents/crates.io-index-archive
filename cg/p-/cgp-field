@@ -1,0 +1,1 @@
+{"name":"cgp-field","vers":"0.1.0","deps":[{"name":"cgp-field-macro","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ea5c75d9db95765005f357690a589c357debb95b6a3233737e095560c5e273cb","features":{},"yanked":false,"rust_version":"1.79"}
