@@ -1,0 +1,1 @@
+{"name":"parcelona","vers":"0.1.0","deps":[{"name":"atoi","req":"^2.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"28522823b90693d7fa3f60e91a6f02c7a4fa5782c67f92cec76eadf679021d27","features":{},"yanked":false}
