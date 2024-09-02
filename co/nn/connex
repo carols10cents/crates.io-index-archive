@@ -1,1 +1,2 @@
 {"name":"connex","vers":"0.1.0","deps":[],"cksum":"77cac9566b53f9b2958aca341954aaba834b271a7deccb3ecf1b4014fe9c11f8","features":{},"yanked":false}
+{"name":"connex","vers":"0.1.1","deps":[{"name":"snafu","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a3b3bbc685aa098ceee4c52b62d6e599ae1b565721899a9d70e49ea109fbd821","features":{"client":[],"default":["client","server"],"full":["client","server"],"server":[]},"yanked":false}
