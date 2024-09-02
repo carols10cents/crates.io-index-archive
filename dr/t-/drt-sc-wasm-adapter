@@ -1,1 +1,2 @@
 {"name":"drt-sc-wasm-adapter","vers":"0.0.1","deps":[{"name":"drt-sc","req":"=0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9fea2f4fb7d03df549f3df4e741c517a38c76e24ef0d4fd7106e45573ed8b61f","features":{},"yanked":false}
+{"name":"drt-sc-wasm-adapter","vers":"0.0.2","deps":[{"name":"drt-sc","req":"=0.0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"51c8aff6340e4cfe0b32c46f305c0d970c34f92cc84a30c41c6d406bc2e2e2a1","features":{},"yanked":false}
