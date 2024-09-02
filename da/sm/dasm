@@ -1,0 +1,1 @@
+{"name":"dasm","vers":"0.1.0","deps":[{"name":"indoc","req":"^2.0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"0da50e0bbc7e9dc94bd6bc8bee4a55d038b1e430884048e6cefa68d8e6120c0b","features":{"default":["std","mmap"],"mmap":[],"std":[]},"yanked":false}
