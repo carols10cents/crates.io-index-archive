@@ -1,0 +1,1 @@
+{"name":"cgp-async","vers":"0.1.0","deps":[{"name":"cgp-async-macro","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d071d4e97afc6ce344786d52f513204e271032e1dc51e59408b6ea545fd270b7","features":{},"yanked":false,"rust_version":"1.79"}
