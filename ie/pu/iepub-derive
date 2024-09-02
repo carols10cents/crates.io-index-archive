@@ -2,3 +2,4 @@
 {"name":"iepub-derive","vers":"0.1.1","deps":[],"cksum":"3f01e266f7ebfefe87c51d0c42d744bea6fbf9440fc8226615a82aa229f6a249","features":{},"yanked":false}
 {"name":"iepub-derive","vers":"0.1.2","deps":[],"cksum":"b315ffb319e0f6584af372d00c7e4410c0e9b62b7c42a40caef9ab76503db5ad","features":{},"yanked":false}
 {"name":"iepub-derive","vers":"0.2.0","deps":[],"cksum":"24cb479aaed431bb207da0d84742d5a06141abf2d0d3f1651885e199fa6237eb","features":{},"yanked":false}
+{"name":"iepub-derive","vers":"0.3.0","deps":[],"cksum":"21fec0ff4bc1fdf6cd46e74aee19469d9475172c8dbcd8e066c569b3e56c589b","features":{},"yanked":false}
