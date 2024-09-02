@@ -9,3 +9,4 @@
 {"name":"fuzzy_prefix_search","vers":"0.3.1","deps":[],"cksum":"3ff2c136e1ea1878722395fb3c290e5153ba15637f19cf5a4ef1f819fbc10be4","features":{},"yanked":false}
 {"name":"fuzzy_prefix_search","vers":"0.3.2","deps":[],"cksum":"eeb1ba914d2d8ca3abf9dd0d002e30606aa1911998ac5f2d6ac36a370a3aa6ce","features":{},"yanked":false}
 {"name":"fuzzy_prefix_search","vers":"0.3.3","deps":[],"cksum":"31ac501b9aab999a8387dc363dabaaedf05c4f8c14905ddf6000aaf86932eea0","features":{},"yanked":false}
+{"name":"fuzzy_prefix_search","vers":"0.3.4","deps":[],"cksum":"693d1f4128695385de10a6e6b9a04a4f29f22683ed8a5fffcbeefd3dda77c716","features":{},"yanked":false}
