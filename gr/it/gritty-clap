@@ -1,0 +1,1 @@
+{"name":"gritty-clap","vers":"1.0.1","deps":[{"name":"clap","req":"^4.5.8","features":["derive","deprecated","color","cargo"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2e40f29ae48d245fb2b24f86b4c437bc056c14d8adb96006e879c835bfb07466","features":{},"yanked":false}
