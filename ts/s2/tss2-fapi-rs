@@ -1,2 +1,3 @@
 {"name":"tss2-fapi-rs","vers":"0.1.0","deps":[],"cksum":"c65d4c4fe84f5f9515e9bb596db9b0ae040c8535e8fdcda2841c298a69ea096b","features":{},"yanked":false}
 {"name":"tss2-fapi-rs","vers":"0.1.1","deps":[],"cksum":"c7c24e276e28f386aee0cf546ad07226a7f6c18e973daf98cd9bf26a5a71b769","features":{},"yanked":false}
+{"name":"tss2-fapi-rs","vers":"0.1.2","deps":[],"cksum":"5e4a1a4b6521e778dbfb4baacf54dc8f57f0b874e72cf1d2b50aca7a1184f897","features":{},"yanked":false}
