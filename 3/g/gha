@@ -5,3 +5,4 @@
 {"name":"gha","vers":"0.1.4","deps":[],"cksum":"b356ff2ec4d88fee27908100dcb58a97e643a71cee06a04a94cdb3f01873ecea","features":{},"yanked":true,"rust_version":"1.70"}
 {"name":"gha","vers":"0.1.5","deps":[],"cksum":"7cd1b738e7d3406f22906e1e217a778abd793bc5c040ce8d97f3421f52f1459f","features":{},"yanked":false,"rust_version":"1.70"}
 {"name":"gha","vers":"0.1.6","deps":[],"cksum":"287843485dddb37b192ad8423d122d4f97130df484a77ffec1350fa1ab6cab40","features":{},"yanked":false,"rust_version":"1.70"}
+{"name":"gha","vers":"0.1.7","deps":[],"cksum":"82d6ed51b0f05a389e22a3af0cd5e99aea91b76ace4997696bc584fc7fac8717","features":{},"yanked":false,"rust_version":"1.70"}
