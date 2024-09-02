@@ -4,3 +4,4 @@
 {"name":"rsciter_ext","vers":"0.0.4","deps":[],"cksum":"17ef720bbc166fcc9353f2ce133280336fca9f3040f272d78d9d25c189391b40","features":{},"yanked":false}
 {"name":"rsciter_ext","vers":"0.0.5","deps":[],"cksum":"4244700699494e7a03f08b5956ad3cee86cf553ac89d121de9821018da41bd20","features":{},"yanked":false}
 {"name":"rsciter_ext","vers":"0.0.6","deps":[],"cksum":"a0374defd8197ea803a046d2554bfc04aab76fed2686817855522fb35fd14170","features":{},"yanked":false}
+{"name":"rsciter_ext","vers":"0.0.10","deps":[],"cksum":"dd310b4062877908a3f88a1e2a910c5f029b8d53fed91e7625a3f2a99a8a275a","features":{},"yanked":false}
