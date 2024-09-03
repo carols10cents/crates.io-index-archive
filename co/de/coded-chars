@@ -9,3 +9,4 @@
 {"name":"coded-chars","vers":"1.0.0","deps":[],"cksum":"de0d54b50ae5d5408b3c7aded33e3f2e44d6a9062fe853937fbf2799656f6264","features":{},"yanked":false}
 {"name":"coded-chars","vers":"1.0.1","deps":[],"cksum":"9147970136a47a5d33c22d937d4b44d7c95777ccbec049863c6d989763994bef","features":{},"yanked":false}
 {"name":"coded-chars","vers":"2.0.0","deps":[],"cksum":"0627579cfff911ab5ced9c5c78e301292adaefd2ff77afd1fbc31d2caa67bc72","features":{},"yanked":false}
+{"name":"coded-chars","vers":"3.0.0","deps":[],"cksum":"64b7584ddc7b5ab1d321f33184c54bc8a8e919247046eb62360ed99afd51563b","features":{},"yanked":false}
