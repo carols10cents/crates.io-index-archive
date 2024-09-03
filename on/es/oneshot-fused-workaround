@@ -1,0 +1,1 @@
+{"name":"oneshot-fused-workaround","vers":"0.1.0","deps":[{"name":"futures","req":"^0.3.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3f7728ac6298f91a8a364fc9b33b3cfb8bb58c4ef134193dad6e5240739ffe26","features":{"full":[]},"yanked":false,"rust_version":"1.70"}
