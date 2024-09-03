@@ -1,1 +1,2 @@
 {"name":"factori-imp","vers":"0.9.0","deps":[{"name":"factori-imp-impl","req":"^0.9.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"66976c2dcd416633e4a82b14b5240bcd6411e836dcbfa0e88c7461ea1e627bd5","features":{},"yanked":false}
+{"name":"factori-imp","vers":"0.9.1","deps":[{"name":"factori-imp-impl","req":"^0.9.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"06db78b35636bf50154333f71a74ef489b7e5650e8daca62eeaa5904579460c1","features":{},"yanked":false}
