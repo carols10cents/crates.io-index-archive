@@ -1,3 +1,4 @@
 {"name":"andes-riscv","vers":"0.0.0","deps":[],"cksum":"dfd7073b912ed5ccfe4ddf96d7d90e1deb219ff509854c8740b9b8e21e3ee89c","features":{},"yanked":false}
 {"name":"andes-riscv","vers":"0.0.1","deps":[],"cksum":"dc74c5ce2ea17cb1b5a851ecbb752fe85e9a0bb54e566403826be373eb856b4f","features":{},"yanked":false}
 {"name":"andes-riscv","vers":"0.0.2","deps":[{"name":"riscv","req":"^0.11.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"32ea86ea1f712f7a415f6b5f814f7fe730c635ebd6c3dc7f633a042b6a5e6710","features":{},"yanked":false}
+{"name":"andes-riscv","vers":"0.0.3","deps":[{"name":"riscv","req":"^0.11.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"21c73856e43a7f9cafc24bdc7eb15d9ed7a7eaa9205e5c9ff472b51106bfea62","features":{},"yanked":false}
