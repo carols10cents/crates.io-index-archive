@@ -6,3 +6,4 @@
 {"name":"coded-chars","vers":"0.1.5","deps":[],"cksum":"d6fb03dc82d0e18a177d58e3ce9158f8e3af28a042f0bfcb9591bffa201b8719","features":{},"yanked":false}
 {"name":"coded-chars","vers":"0.1.6","deps":[],"cksum":"60e48fa9c254e2fea4f1db92e1c8008c07ec0f3cdb83c16a377d708714bdfaa7","features":{},"yanked":false}
 {"name":"coded-chars","vers":"0.1.7","deps":[],"cksum":"48c1f0ba616abd7a53b568463489983e24d6bd21f00185858b7244a36422c370","features":{},"yanked":false}
+{"name":"coded-chars","vers":"1.0.0","deps":[],"cksum":"de0d54b50ae5d5408b3c7aded33e3f2e44d6a9062fe853937fbf2799656f6264","features":{},"yanked":false}
