@@ -1,0 +1,1 @@
+{"name":"cgp-extra","vers":"0.1.0","deps":[{"name":"cgp-run","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"704f0d30d3235cb181cc83146f3c9d42999435ff9236743be71aaf182e758ba9","features":{},"yanked":false,"rust_version":"1.79"}
