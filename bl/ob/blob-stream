@@ -1,0 +1,1 @@
+{"name":"blob-stream","vers":"0.0.1","deps":[{"name":"bit-array-rs","req":"^0.0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f009022bd874f89bbd59b865e6a2e4c04212bc488797679f99bd9e21561e40ad","features":{},"yanked":false}
