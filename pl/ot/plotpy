@@ -31,3 +31,4 @@
 {"name":"plotpy","vers":"1.6.0","deps":[],"cksum":"27dfe8bbc056a8b0f5c4394d09c5e27f6686353ef1dca002ef1a83cff603e93d","features":{},"yanked":false}
 {"name":"plotpy","vers":"1.6.1","deps":[],"cksum":"1211eacfc6dd86f659152b385c1a00f126368e88f76ec5e98cb55e7278081833","features":{},"yanked":false}
 {"name":"plotpy","vers":"1.7.0","deps":[],"cksum":"9c25604ce8ef3007c608162872cad4b7a8d20e1539afa7c338e3d01d39513777","features":{},"yanked":false}
+{"name":"plotpy","vers":"1.7.1","deps":[],"cksum":"450b9d85a5d129972fb6c46a7820a1dcf2b361a7db66de310ad61bbfa5c17b35","features":{},"yanked":false}
