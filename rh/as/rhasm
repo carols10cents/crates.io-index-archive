@@ -1,0 +1,1 @@
+{"name":"rhasm","vers":"0.1.0","deps":[{"name":"lazy_static","req":"^1.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"regex","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f4abe21f603e764fab96243ac1a6abdf50c4e395dba4e8d5e0924114be686806","features":{},"yanked":false}
