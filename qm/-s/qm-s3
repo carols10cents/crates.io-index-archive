@@ -25,3 +25,4 @@
 {"name":"qm-s3","vers":"0.0.25","deps":[],"cksum":"fbe825bfa1ead5295540cb632e1fb9c27d8cc2c85723ae403ef3e88852ca1868","features":{},"yanked":false,"rust_version":"1.75.0"}
 {"name":"qm-s3","vers":"0.0.26","deps":[],"cksum":"57d69e3c4768ebbcd572c79eb34bbffe2abc2cde5ccbbda1b53224b478f2f429","features":{},"yanked":false,"rust_version":"1.75.0"}
 {"name":"qm-s3","vers":"0.0.28","deps":[],"cksum":"d9b1ca7d6226d127f318ff9ba9905633c14dfc6f60da3e9b85b5230923ccd6ef","features":{},"yanked":false,"rust_version":"1.75.0"}
+{"name":"qm-s3","vers":"0.0.29","deps":[],"cksum":"aa5f02e89e3a3ceed047b7b22c8c6f68899e25a2ee0a0bd941cb1a7d99ec65db","features":{},"yanked":false,"rust_version":"1.75.0"}
