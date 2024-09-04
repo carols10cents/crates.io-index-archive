@@ -1,0 +1,1 @@
+{"name":"sextant","vers":"0.1.0","deps":[{"name":"chrono","req":"^0.4.38","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7bb3af1ba718a744f215d818bdd188fcb3cee8ca19791ad7701334ca724642e6","features":{},"yanked":false}
