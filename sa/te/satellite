@@ -1,1 +1,2 @@
 {"name":"satellite","vers":"0.1.0","deps":[],"cksum":"6180b73f69c38e829ed17a9edc58710a597fe3d309281f6e9db115e5d39e62ea","features":{},"yanked":false}
+{"name":"satellite","vers":"0.1.1","deps":[{"name":"chrono","req":"^0.4.38","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"965a19c824067bacaf8a350cb687e7ca36e7be8aa6380492dcc96e1f78ee41d4","features":{},"yanked":false}
