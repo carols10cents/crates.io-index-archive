@@ -6,3 +6,4 @@
 {"name":"raki","vers":"1.0.0-beta.1","deps":[],"cksum":"16daabfb09b613bf93c5230818a99b4557e25342fcaf8284cb30137efa993e2a","features":{},"yanked":false}
 {"name":"raki","vers":"1.0.0-beta.2","deps":[],"cksum":"0d619be8ad9a6e303699ed9bcef0a94eb4bc27851bb34d9011e31fd8ec5b46ec","features":{},"yanked":true}
 {"name":"raki","vers":"1.0.0-beta.3","deps":[],"cksum":"4e9d8369a133fc855b4f4cd7b4b99062fd0c82b4ef5214ac223a13adc4366ae2","features":{},"yanked":false}
+{"name":"raki","vers":"1.0.0","deps":[],"cksum":"2b29d39ff6f10a488b202b2bdfe9c1072a51159fda9207dcb883d97302f22a56","features":{},"yanked":false}
