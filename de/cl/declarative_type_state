@@ -16,3 +16,4 @@
 {"name":"declarative_type_state","vers":"0.3.1","deps":[],"cksum":"7a77b6b974a2979dca4b384d9a2c6aaf0819f4a47c58ff2b5bc4b79a78357f75","features":{},"yanked":false}
 {"name":"declarative_type_state","vers":"0.4.0","deps":[],"cksum":"7121c33e4e4fc97eb10d13a15267b2cd268f01e1d361f93ccb99d1b273a9ecd7","features":{},"yanked":false}
 {"name":"declarative_type_state","vers":"0.4.1","deps":[],"cksum":"e03d2516b2a24a8834177211c388b8354b5722ccd3f09719529277f615117e5e","features":{},"yanked":false}
+{"name":"declarative_type_state","vers":"0.4.2","deps":[],"cksum":"5d98941b72d45695d649ffdb125cdec0fc33e94dcaf4fc7946767d38192f764f","features":{},"yanked":false}
