@@ -2,3 +2,4 @@
 {"name":"utf8path","vers":"0.2.0","deps":[],"cksum":"a655e5602091b2b1745fff5fad20e2fa20e0c40aa0202d4dfc781a044478bbbe","features":{},"yanked":false}
 {"name":"utf8path","vers":"0.3.0","deps":[],"cksum":"d49821586632df0ba4bcbae373aff1467dc9ce5bdbb966db3b4738739327192b","features":{},"yanked":false}
 {"name":"utf8path","vers":"0.4.0","deps":[],"cksum":"b5c34fca88747463c1f7309f3e0020deb31e22737ffcd80ab6260153c6fabc26","features":{},"yanked":false}
+{"name":"utf8path","vers":"0.5.0","deps":[],"cksum":"0b1f74da7c5437b59f8dea3151efffcd02ae3bcb9018395274056dcd6d981bf8","features":{},"yanked":false}
