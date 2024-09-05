@@ -7,3 +7,4 @@
 {"name":"not-found-error","vers":"0.1.6","deps":[],"cksum":"48ae3e84edbf05d95ac67317f9dde754729989121bc0334ee0cfa5c2b53e4775","features":{},"yanked":false}
 {"name":"not-found-error","vers":"0.2.0","deps":[],"cksum":"6529b368d723c5858d703aaddc38312af38a17f6ff45184108a150310b00dae3","features":{},"yanked":false}
 {"name":"not-found-error","vers":"0.2.1","deps":[],"cksum":"87d75cb313e9a18d12a11e72a27884a47419c622fec63d61b0828c669aa1e71f","features":{},"yanked":false}
+{"name":"not-found-error","vers":"0.2.2","deps":[],"cksum":"3d097cdab91b70bdae410482fca37e73221b476771b4656e61c272ab31cfc8cf","features":{},"yanked":false}
