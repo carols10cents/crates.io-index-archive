@@ -1,1 +1,2 @@
 {"name":"abootimg-oxide","vers":"0.1.0","deps":[{"name":"binrw","req":"^0.14.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f7481bb17a62e318d1fa4e1d4a298b98548a4b2764101694b66d8391c0fc771a","features":{},"yanked":false}
+{"name":"abootimg-oxide","vers":"0.1.1","deps":[{"name":"binrw","req":"^0.14.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"157f52fac974b386e7a9d9c526fc764ad95297a7693f20e9a5e8754db2c2b1eb","features":{},"yanked":false}
