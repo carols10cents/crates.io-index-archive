@@ -1,0 +1,1 @@
+{"name":"f7-cts-backend","vers":"0.1.0","deps":[{"name":"actix-web","req":"^4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6b83526e2d14e673669063c898ac329b2741b10f66bb50e032043b87a0fafc89","features":{},"yanked":false}
