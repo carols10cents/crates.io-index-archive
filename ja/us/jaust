@@ -1,0 +1,1 @@
+{"name":"jaust","vers":"0.1.0","deps":[{"name":"anyhow","req":"^1.0.86","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"782ca1684b539a9776de5691a375cd08e223b61b757f6624c29d46649e8ddc81","features":{},"yanked":false}
