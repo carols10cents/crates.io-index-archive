@@ -1,0 +1,1 @@
+{"name":"traitreg","vers":"0.1.0","deps":[{"name":"traitreg-macros","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"501e62c1ff9e8bb5bbcae95f3774d18a7ca84fe13cbff1bd62adb4dae81bf9db","features":{},"yanked":false}
