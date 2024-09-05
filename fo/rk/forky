@@ -48,3 +48,4 @@
 {"name":"forky","vers":"0.1.49","deps":[],"cksum":"6016e6163c6edd41c53ffcb3ca78c770081eb774b33dd639bc2fb9ead5b01a46","features":{},"yanked":false}
 {"name":"forky","vers":"0.1.50","deps":[],"cksum":"77ea0fcc4f2dd3026ec97aa1774781c232ced269ad01c08b307c0144062ccdda","features":{},"yanked":false}
 {"name":"forky","vers":"0.1.51","deps":[],"cksum":"ef0a0d175144bed7c4bd7735ee187449da33339be0adf76379fa12d504bae700","features":{},"yanked":false}
+{"name":"forky","vers":"0.2.0-rc.1","deps":[],"cksum":"5a1af0f6d41d48dbc21d1782097f370fc029cd8b04981a678e9c447c839b13df","features":{},"yanked":false}
