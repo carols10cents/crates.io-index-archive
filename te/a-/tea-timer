@@ -1,0 +1,1 @@
+{"name":"tea-timer","vers":"0.1.0","deps":[{"name":"log","req":"^0.4","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4ffbcbfb578fd2991923c8a3a628fd2f5057751431544e92050c78e9e36ddbb1","features":{"default":["log"]},"features2":{"log":["dep:log"]},"yanked":false,"v":2}
