@@ -1,1 +1,2 @@
 {"name":"spawn-wasm-erc721","vers":"0.1.0","deps":[{"name":"wasm-bindgen","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0359ca9c8c8943576254ad69f0380a91c162203441ea549e84826d5834aa0843","features":{},"yanked":false}
+{"name":"spawn-wasm-erc721","vers":"0.1.1","deps":[{"name":"wasm-bindgen","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9ec15776a105babdb1227ee0edf65a97eff009e1b951d5cb8de28a58345e7a61","features":{},"yanked":false}
