@@ -1,0 +1,1 @@
+{"name":"soundchip","vers":"0.1.0","deps":[{"name":"libm","req":"^0.2.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4b1956bfe2bc388677a82fcdf620c06abd4d3319dadf42443321cbe5432eeb9c","features":{},"yanked":false}
