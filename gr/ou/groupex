@@ -1,0 +1,1 @@
+{"name":"groupex","vers":"0.1.0","deps":[{"name":"parking_lot_core","req":"^0.9.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b996cd222dde6b3b2ca23e876845ecfa87e66baf38f039187beb289e3b86d0bc","features":{},"yanked":false}
