@@ -1,0 +1,1 @@
+{"name":"aarch64-dit","vers":"0.0.1-alpha","deps":[{"name":"cpufeatures","req":"^0.2.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"6f75a5c0f1250ee5deb9fbcc5b3f62c8dc925492166688d6c8cd785584dd05fe","features":{},"yanked":false,"rust_version":"1.61"}
