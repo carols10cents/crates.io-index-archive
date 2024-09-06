@@ -1,0 +1,1 @@
+{"name":"shalloc","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.69.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"},{"name":"cc","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"cf0fb16961819faa0b43290d72c55db2be6c0d0a9e606eb88d8feb13c039ed3e","features":{},"yanked":false}
