@@ -1,0 +1,1 @@
+{"name":"lambda-types","vers":"0.1.0","deps":[{"name":"paste","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2cbbb6ff0b86c68811d646f60b324b9d7c2fd32e5c07c5319d11ca753e034d9c","features":{"const-numeral":[],"default":[]},"yanked":false}
