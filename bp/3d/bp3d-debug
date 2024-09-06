@@ -6,3 +6,4 @@
 {"name":"bp3d-debug","vers":"1.0.0-rc.3.2.0","deps":[],"cksum":"e46731b5688332bf42d4a632d37dc0731381f3d4e6a5fbc9ce1e914f9f689b53","features":{},"yanked":false}
 {"name":"bp3d-debug","vers":"1.0.0-rc.3.3.0","deps":[],"cksum":"ef1e45509240b118ec0153411357052c676c1733e6b3bc35d8529b5cd7f73d2a","features":{},"yanked":false}
 {"name":"bp3d-debug","vers":"1.0.0-rc.5.0.0","deps":[],"cksum":"675a1aa41855e6aedc27189a0265015653306e405ca20a728b93c43a2862f661","features":{},"yanked":false}
+{"name":"bp3d-debug","vers":"1.0.0-rc.6.0.0","deps":[],"cksum":"0faecc0c2a3af7e770608f01c16e37fc6703a05813564ad9e3cf2d4e9d58d3c0","features":{},"yanked":false}
