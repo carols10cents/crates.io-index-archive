@@ -1,0 +1,1 @@
+{"name":"ohos-ime-sys","vers":"0.1.0","deps":[{"name":"document-features","req":"^0.2","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4ef57f09d4cd143097407dc0318908a44cd0cef66b986dce204bb46019f8facd","features":{"api-12":[],"default":[]},"features2":{"document-features":["dep:document-features"]},"yanked":false,"v":2}
