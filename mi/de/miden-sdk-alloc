@@ -1,3 +1,4 @@
 {"name":"miden-sdk-alloc","vers":"0.0.0","deps":[],"cksum":"04a5f5dc638198ad1791583f1bbdc2a96f6825b9a40c93b3e070dcb9d3a3b451","features":{},"yanked":false,"rust_version":"1.78"}
 {"name":"miden-sdk-alloc","vers":"0.0.1","deps":[],"cksum":"b772d4a4646c65e89e1f15d1a3bc64adf5d995618d5fd40642b8b04ca268f8f0","features":{},"yanked":false,"rust_version":"1.78"}
 {"name":"miden-sdk-alloc","vers":"0.0.5","deps":[],"cksum":"9c1b8f8a80deb1ddc0d68358e96497e34052bbd01d4ec82855571f8728bc2efd","features":{},"yanked":false,"rust_version":"1.78"}
+{"name":"miden-sdk-alloc","vers":"0.0.6","deps":[],"cksum":"90248ad9c727b5a2b4c1be4410df4a61a8847cbde24566d7c1852bbdee76f267","features":{},"yanked":false,"rust_version":"1.80"}
