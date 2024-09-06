@@ -1,1 +1,2 @@
 {"name":"rp_sandbox_b","vers":"0.1.0","deps":[],"cksum":"595fa1122247d4af0a237b8ca49e672c3642c3ef88815abe2889a07beed36c1d","features":{},"yanked":false}
+{"name":"rp_sandbox_b","vers":"0.2.0","deps":[{"name":"rp_sandbox_a","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"01b7a4dbd5823cc09f9c18ae6522856b673051e6a019958b447ec2f69df9afff","features":{},"yanked":false}
