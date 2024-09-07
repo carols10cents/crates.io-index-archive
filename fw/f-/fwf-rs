@@ -1,0 +1,1 @@
+{"name":"fwf-rs","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"thiserror","req":"~1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"36de2cd1349e7a0d5252ae50b25a3f0a8c95f604cb2230c2fdbdc0512d9deedb","features":{},"yanked":false}
