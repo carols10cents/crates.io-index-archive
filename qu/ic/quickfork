@@ -1,1 +1,2 @@
 {"name":"quickfork","vers":"0.1.0","deps":[{"name":"libphext","req":"^0.1.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fe3d4cb7ce8c6da56540649b4bc421562b852518c1f29174c980895bd2732b5b","features":{},"yanked":false}
+{"name":"quickfork","vers":"0.1.1","deps":[{"name":"libphext","req":"^0.1.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c5578f646de9e62a9219aa71dff82d93a5a3b35e169b763c2eab07de551accc0","features":{},"yanked":false}
