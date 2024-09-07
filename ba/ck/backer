@@ -1,0 +1,1 @@
+{"name":"backer","vers":"0.1.0","deps":[{"name":"macroquad","req":"^0.4.13","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"3545096519fabbef8341cd5c9ae4ba93ef31928eca4b9d434782c4b82202c45d","features":{},"yanked":false}
