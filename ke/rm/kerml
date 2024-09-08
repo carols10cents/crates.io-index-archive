@@ -4,3 +4,4 @@
 {"name":"kerml","vers":"0.1.2","deps":[],"cksum":"49d6228643aca77bf1a7fb2d76c72ff12a31b169c794f26f35e8304e8c0353b6","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.70"}
 {"name":"kerml","vers":"0.2.0","deps":[],"cksum":"d53209e43a6cc230ac7df602fbdcd74c1a6b218a1da953170d93732989157e27","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.70"}
 {"name":"kerml","vers":"0.2.1","deps":[],"cksum":"1a92651bc51bc8b95df31af255aa04c95aea3d5da87e4bb8e4a4196c63a3323c","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.70"}
+{"name":"kerml","vers":"0.2.2","deps":[{"name":"dogma","req":"^0.1","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"d2b17478b0827719c0c2c3ef946247e148814824580b81ee66f8a07067318d00","features":{"all":[],"default":["all","std"],"std":[],"unstable":[]},"yanked":false,"rust_version":"1.70"}
