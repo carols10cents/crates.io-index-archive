@@ -1,0 +1,1 @@
+{"name":"access-unit","vers":"0.0.1","deps":[{"name":"bytes","req":"^1.7.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ed2380788add37377e245a2d57b38f199132b0ab1a517f499fa46433b8c7a736","features":{},"yanked":false}
