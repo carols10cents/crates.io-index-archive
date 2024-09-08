@@ -5,3 +5,4 @@
 {"name":"tailvec","vers":"0.2.0","deps":[],"cksum":"3fa10cb63b7e1ab58629ac018b7098dba87b3b9853fd8773b61d6a46b75513fa","features":{},"yanked":false}
 {"name":"tailvec","vers":"0.2.1","deps":[],"cksum":"67532ffcbdbec758cb4e49ad874e8af50d124449b4574dccd74b344c971edc19","features":{},"yanked":false}
 {"name":"tailvec","vers":"0.2.2","deps":[],"cksum":"2c6ce27a63690bb05135626da6baf21ff95a3724b7f22677f2552b1ccbb9c492","features":{},"yanked":false}
+{"name":"tailvec","vers":"0.2.3","deps":[],"cksum":"c71ea3fcf2b4d77d48fbd84e89e7f5c83093bee10d73cdff829039ae8f793b50","features":{},"yanked":false}
