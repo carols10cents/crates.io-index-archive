@@ -1,0 +1,1 @@
+{"name":"tacit","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":["derive","rc"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"59f051e1ac33afe024eb9c9f097a650889f960603605799c0ca1d2a50c646b7d","features":{},"yanked":false}
