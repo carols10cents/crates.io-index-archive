@@ -1,0 +1,1 @@
+{"name":"twitter_snowflake","vers":"1.0.0","deps":[{"name":"thiserror","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e3dd586bb825802a340ea994d39710af4e4010b47541204417a28a1aeb6504fd","features":{},"yanked":false}
