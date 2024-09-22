@@ -7,3 +7,4 @@
 {"name":"jotdown","vers":"0.4.0","deps":[],"cksum":"dc48414793f0d595fb9ae4af25145ec3f30a4eee0750537c86a6ec8f6b1ffc03","features":{"default":["html"],"deterministic":[],"html":[]},"yanked":false,"rust_version":"1.56"}
 {"name":"jotdown","vers":"0.4.1","deps":[],"cksum":"b87ebc8a1c0fdfdedb65abbffb023e45ebbbfe089625f93f6f5acc56685c0abf","features":{"default":["html"],"deterministic":[],"html":[]},"yanked":false,"rust_version":"1.56"}
 {"name":"jotdown","vers":"0.5.0","deps":[],"cksum":"3fff02adc563a0901266af314a47aa676f950a2f328a60b20691fdba0946fd98","features":{"default":["html"],"deterministic":[],"html":[]},"yanked":false,"rust_version":"1.56"}
+{"name":"jotdown","vers":"0.6.0","deps":[],"cksum":"19fa1db3b285830176c8a940d4e3376679772bee9f58a83dd9285a4a54e30f6e","features":{"default":["html"],"deterministic":[],"html":[]},"yanked":false,"rust_version":"1.56"}
