@@ -7,5 +7,5 @@
 {"name":"rfinancial","vers":"0.1.6","deps":[],"cksum":"b12bc06181cddee37b576e671587b751d073503d3c1ef8ccd429072a5eb54506","features":{},"yanked":true}
 {"name":"rfinancial","vers":"0.1.7","deps":[],"cksum":"3c72172c2656d678e6f2d67a49adc0cae0bd886caa51b5d80270ce385feb2c3a","features":{},"yanked":true}
 {"name":"rfinancial","vers":"0.1.8","deps":[],"cksum":"50452e59a4666ad5a82938de6b9cdff383abeb5675d62cee637d6ef86bcaea99","features":{},"yanked":true}
-{"name":"rfinancial","vers":"0.1.9","deps":[],"cksum":"687dcf4a56766a8b5f97f29477e1c899596c080cdb28ae04a0164bcf4dd83309","features":{},"yanked":false,"rust_version":"1.81"}
+{"name":"rfinancial","vers":"0.1.9","deps":[],"cksum":"687dcf4a56766a8b5f97f29477e1c899596c080cdb28ae04a0164bcf4dd83309","features":{},"yanked":true,"rust_version":"1.81"}
 {"name":"rfinancial","vers":"0.1.10","deps":[],"cksum":"d28fc1131afccf37a7e7379fc35e3ed28f25d58da53529ae22265cac8fe9a02f","features":{},"yanked":false,"rust_version":"1.81"}
