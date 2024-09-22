@@ -1,1 +1,2 @@
 {"name":"local_lru","vers":"0.2.0","deps":[{"name":"bytes","req":"^1.7.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9a301412211561364eb902c97a6918550d970a7f622f9fec0e7449588212248e","features":{},"yanked":false}
+{"name":"local_lru","vers":"0.2.1","deps":[{"name":"bytes","req":"^1.7.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"65aca72badf2725935f68d37ed51ed1c7130657cfe170d1fb7776eaed8664b1c","features":{},"yanked":false}
