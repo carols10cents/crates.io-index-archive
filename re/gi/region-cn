@@ -1,1 +1,2 @@
 {"name":"region-cn","vers":"0.1.0","deps":[{"name":"anyhow","req":"^1.0.89","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5eb3a5958bbe4e8b69ab6a6d6c01085eaa5d884b764f578f8fef43d638270218","features":{},"yanked":false}
+{"name":"region-cn","vers":"0.1.1","deps":[{"name":"anyhow","req":"^1.0.89","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5f8f5d42901285d0f82f081c8bd1846fc72cd28aa3c8a643a7c4c6255cee0c7e","features":{},"yanked":false}
