@@ -1,0 +1,1 @@
+{"name":"emclicker","vers":"0.1.0","deps":[{"name":"enigo","req":"^0.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rdev","req":"^0.5.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8a1d6a07b6366a11e552e48cbd7d1c6f3af59e3854b8f705bf0ff66dd387d5e7","features":{},"yanked":false}
