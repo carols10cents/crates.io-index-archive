@@ -1,0 +1,1 @@
+{"name":"wasi-passthrough-logging","vers":"0.1.0","deps":[{"name":"wit-bindgen","req":"^0.32","features":["realloc","macros"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"e8e1fddb1f87b3f8f60be7602da9a60e4718379448ab8e029882a63411cb720f","features":{},"yanked":false}
