@@ -44,3 +44,4 @@
 {"name":"mathlab","vers":"0.9.1","deps":[],"cksum":"15eb39d46db17887331556b26c15ce2490543b157604c4396bebc4c448f92817","features":{},"yanked":false}
 {"name":"mathlab","vers":"0.9.2","deps":[],"cksum":"97131ef0aa15889f30ba81e529a9aba70958741900056b57692f78ee89e3ae70","features":{},"yanked":false}
 {"name":"mathlab","vers":"0.9.3","deps":[],"cksum":"d4572e6c1cfd565344365e02bdf67cd817b89d2fc26b346b7afa31f9869dd761","features":{},"yanked":false}
+{"name":"mathlab","vers":"0.9.4","deps":[],"cksum":"09b0fb82f414f8e78527430a2432ff3f7ab05f19e43d82e9abfca5d0be3f5288","features":{},"yanked":false}
