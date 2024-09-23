@@ -1,0 +1,1 @@
+{"name":"pit-rust-externref","vers":"0.1.1","deps":[{"name":"externref","req":"^0.2.0","features":["processor"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"03e9975198213360f7b7e8b4f2f8c46e4424fb50109f8d8bb236138e6733cd98","features":{},"yanked":false}
