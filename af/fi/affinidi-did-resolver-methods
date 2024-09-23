@@ -3,3 +3,4 @@
 {"name":"affinidi-did-resolver-methods","vers":"0.1.7","deps":[],"cksum":"b70f18f6bed6008e53f82c93aeb8c412e5498100a70974b94e056c98444c4093","features":{},"yanked":false}
 {"name":"affinidi-did-resolver-methods","vers":"0.1.9","deps":[],"cksum":"05a6ebb1d7c0ee4c30029fa359bd80137f46aa0e02b85f237c59813a214e4f8d","features":{},"yanked":false}
 {"name":"affinidi-did-resolver-methods","vers":"0.1.10","deps":[],"cksum":"56581d03ba677552ae612be9682a8e478ef322783083acbebeda83749808317a","features":{},"yanked":false}
+{"name":"affinidi-did-resolver-methods","vers":"0.1.11","deps":[],"cksum":"7a3894c28f7b7e2bd076904975da106e80adcc715ef33ac582db4b928762394d","features":{},"yanked":false}
