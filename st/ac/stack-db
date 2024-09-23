@@ -5,3 +5,4 @@
 {"name":"stack-db","vers":"0.3.2","deps":[],"cksum":"af8c613f448ab87545ad414fac62229b2f6ab1af2e4057db512d4e4e85f5f900","features":{},"yanked":false}
 {"name":"stack-db","vers":"0.3.3","deps":[],"cksum":"ce855aa002fd469c2679fe415f8da4d59136a15c4b77af9b10bea5061b8318a1","features":{},"yanked":false}
 {"name":"stack-db","vers":"0.3.4","deps":[],"cksum":"c7e20091cfad85301d644194309475cf702fa93c62fe117854dfccd9f8a59125","features":{},"yanked":false}
+{"name":"stack-db","vers":"0.3.5","deps":[],"cksum":"c698e68209ae574abb5549896fcff9fc6265ce264d018d34ad9c23fa39ca0d94","features":{},"yanked":false}
