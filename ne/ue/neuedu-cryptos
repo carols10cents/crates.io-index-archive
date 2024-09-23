@@ -14,5 +14,5 @@
 {"name":"neuedu-cryptos","vers":"0.5.1","deps":[],"cksum":"887c0fd8d6409f0a92c45858ec2260b9c7f94fd046336cc823d2a0bff669cf1e","features":{},"yanked":true}
 {"name":"neuedu-cryptos","vers":"0.5.2","deps":[],"cksum":"9ca0a49e93816638c6bb9f12acf71261d8b4b622766500d69e407ddd176f5da2","features":{},"yanked":true}
 {"name":"neuedu-cryptos","vers":"0.5.3","deps":[],"cksum":"89afaf3d6520768b1271cbc5a3663c15970baab43659852a48752127e1807e93","features":{},"yanked":false}
-{"name":"neuedu-cryptos","vers":"0.6.0","deps":[],"cksum":"e0a317cba48c41f575397bebf6cca5dec8ae35e5c7f124e131c932e4d4855043","features":{"block":[],"hash":[],"hmac":["mac"],"insecure_md5":["hash"],"insecure_sha1":["hash"],"mac":["hash"],"sha2":["hash"],"sm3":["hash"],"sm4":["block"]},"yanked":false}
+{"name":"neuedu-cryptos","vers":"0.6.0","deps":[],"cksum":"e0a317cba48c41f575397bebf6cca5dec8ae35e5c7f124e131c932e4d4855043","features":{"block":[],"hash":[],"hmac":["mac"],"insecure_md5":["hash"],"insecure_sha1":["hash"],"mac":["hash"],"sha2":["hash"],"sm3":["hash"],"sm4":["block"]},"yanked":true}
 {"name":"neuedu-cryptos","vers":"0.6.1","deps":[],"cksum":"bab9a62ffa5e90aefdfb9dd112b40eca7ba5cbf4e328b54c3a506c16848ee010","features":{"block":[],"hash":[],"hmac":["mac"],"insecure_md5":["hash"],"insecure_sha1":["hash"],"mac":["hash"],"sha2":["hash"],"sm3":["hash"],"sm4":["block"]},"yanked":false}
