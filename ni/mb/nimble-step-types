@@ -1,1 +1,2 @@
 {"name":"nimble-step-types","vers":"0.0.1","deps":[{"name":"nimble-participant","req":"^0.0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2fdc45cdaefb4cf5da62432fdaea22edc57925a911c6b7a9434cc2ba5f3943d9","features":{},"yanked":false}
+{"name":"nimble-step-types","vers":"0.0.2","deps":[{"name":"nimble-participant","req":"^0.0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f76a1314e3e9327c114966857f74c4e0e6badf11ebd9e20da6b56d81416bef3d","features":{},"yanked":false}
