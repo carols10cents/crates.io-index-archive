@@ -1,0 +1,1 @@
+{"name":"region-cn","vers":"0.1.0","deps":[{"name":"anyhow","req":"^1.0.89","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5eb3a5958bbe4e8b69ab6a6d6c01085eaa5d884b764f578f8fef43d638270218","features":{},"yanked":false}
