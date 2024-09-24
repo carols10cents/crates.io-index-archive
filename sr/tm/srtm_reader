@@ -1,0 +1,1 @@
+{"name":"srtm_reader","vers":"0.3.0","deps":[{"name":"byteorder","req":"^1.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b90a09f8594160c513e05622a8d339c3fbe1a7cf9f35b78498566b6893f445ec","features":{},"yanked":false}
