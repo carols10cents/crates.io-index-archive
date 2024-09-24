@@ -1,1 +1,2 @@
 {"name":"egui-theme-lerp","vers":"0.1.0","deps":[{"name":"egui","req":"^0.28.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"391367ee9b404ef6ad4b58fe4c00cdd82db2080f8bc922bbb48de12253d1b1ee","features":{},"yanked":false}
+{"name":"egui-theme-lerp","vers":"0.1.1","deps":[{"name":"egui","req":"^0.28.1","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"281ee4731f5c4813791d0d870c793635b273787d693a3f02ccc87f2e8c8e0084","features":{},"yanked":false}
