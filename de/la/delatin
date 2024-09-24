@@ -1,0 +1,1 @@
+{"name":"delatin","vers":"0.1.0","deps":[{"name":"rustc-hash","req":"^2.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"08ca7b5da2c3359284dff4d9132f7e42fb2c29ee3e2dc4965f2103c9dd24f46b","features":{},"yanked":false}
