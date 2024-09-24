@@ -1,0 +1,1 @@
+{"name":"sudoservice","vers":"0.1.0","deps":[{"name":"which","req":"^6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5142c951f4d552ec55b431366c1e0fb1cfc289451b449afae117b96c0aaab252","features":{},"yanked":false}
