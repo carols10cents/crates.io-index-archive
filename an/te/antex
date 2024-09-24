@@ -2,3 +2,4 @@
 {"name":"antex","vers":"0.0.1","deps":[{"name":"atty","req":"^0.2.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8abbda95c2b376bc5e5095501ff38ed70106ea909037d62888244b9ecbfde045","features":{},"yanked":false}
 {"name":"antex","vers":"0.0.2","deps":[],"cksum":"99f832a2625efba2171229296110290e1974a8b2c97608d358639edd97788bc6","features":{},"yanked":false}
 {"name":"antex","vers":"0.0.3","deps":[],"cksum":"9a2313e6b2e40c75c50e49177a38bfa5aabe6d59ab7f20ec531bc094aff425c6","features":{},"yanked":false}
+{"name":"antex","vers":"0.0.4","deps":[],"cksum":"7771dcd4611c12a710e61e06c05b2cf7a988e34c4b7d174e0c287b89c8b859c8","features":{},"yanked":false}
