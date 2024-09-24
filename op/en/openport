@@ -1,0 +1,1 @@
+{"name":"openport","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"23b45081b7272a990be686d583bdd5bfc0e621d9a4a1b87e4e2017a12bf8cbfd","features":{"default":[],"fail-on-warnings":[]},"features2":{"rand":["dep:rand"]},"yanked":false,"v":2}
