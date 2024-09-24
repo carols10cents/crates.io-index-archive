@@ -1,2 +1,3 @@
 {"name":"affinidi-messaging-processor","vers":"0.7.2","deps":[],"cksum":"b7f495900f3f306ea240cbeba1ac6dbea7ccbbb8e006d1f7e5236da21571bae7","features":{},"yanked":false}
 {"name":"affinidi-messaging-processor","vers":"0.7.3","deps":[],"cksum":"1197ce9e28ad694be690961b69455fa510ef7567c2738c3b7b8258ebc33bd26d","features":{},"yanked":false}
+{"name":"affinidi-messaging-processor","vers":"0.7.5","deps":[],"cksum":"92217afe9331b9ec4900088f0a684c543d2d179fdae8acb7bcad615bbb0b55ee","features":{},"yanked":false}
