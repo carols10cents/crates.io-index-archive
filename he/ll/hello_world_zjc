@@ -1,0 +1,1 @@
+{"name":"hello_world_zjc","vers":"2.0.0-release.2","deps":[{"name":"time","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f87dd7a850a032688d50efa8f136a3cccb1bfbb463b2fe01b12c3d290188444f","features":{},"yanked":false}
