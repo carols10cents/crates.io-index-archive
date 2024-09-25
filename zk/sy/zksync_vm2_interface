@@ -1,0 +1,1 @@
+{"name":"zksync_vm2_interface","vers":"0.2.1","deps":[{"name":"primitive-types","req":"^0.12.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4a250659ecced386e1160bb37d085702dbd1d84049e9e7046161f27ab40c218f","features":{},"yanked":false}
