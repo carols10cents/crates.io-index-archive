@@ -1,4 +1,4 @@
-{"name":"asimov-sys","vers":"24.0.0-dev.0","deps":[],"cksum":"cbfc350787a2eea894339e48bfce2d4193898ab31a9e5a082e5076b2e5b43d19","features":{"default":[]},"yanked":false,"rust_version":"1.70"}
+{"name":"asimov-sys","vers":"24.0.0-dev.0","deps":[],"cksum":"cbfc350787a2eea894339e48bfce2d4193898ab31a9e5a082e5076b2e5b43d19","features":{"default":[]},"yanked":true,"rust_version":"1.70"}
 {"name":"asimov-sys","vers":"24.0.0-dev.1","deps":[],"cksum":"6768cc9c744ca87ab88c35e17e10d7a58bd3ed763cb09f9b9fd2f7ad9d95ef6f","features":{"default":[]},"yanked":false,"rust_version":"1.70"}
 {"name":"asimov-sys","vers":"24.0.0-dev.2","deps":[],"cksum":"835d70770aa3c052dfc1e35eb11f29284ed27657e683e74d5205dbe11d4d6f95","features":{"default":[]},"yanked":false,"rust_version":"1.70"}
 {"name":"asimov-sys","vers":"24.0.0-dev.3","deps":[],"cksum":"2b3e686a4ca13137b2ab490102aecd0675a2a164238866c6761175a785c9bebe","features":{"default":[]},"yanked":false,"rust_version":"1.70"}
