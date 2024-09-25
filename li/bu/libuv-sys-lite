@@ -1,0 +1,1 @@
+{"name":"libuv-sys-lite","vers":"1.48.0","deps":[{"name":"bindgen","req":"^0.70.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"e1dc55d0b43c6f4c0081954b65cf898ee49bb33ad2a338db867edaf5a8a53b9f","features":{},"yanked":false}
