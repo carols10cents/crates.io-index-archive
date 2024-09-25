@@ -8,3 +8,4 @@
 {"name":"unicode_titlecase","vers":"2.2.0","deps":[],"cksum":"5772bd17ce2f74819892fc061ef6f0522a14a70bfc1e6a33f3ca2e2f46a50be9","features":{},"yanked":false}
 {"name":"unicode_titlecase","vers":"2.2.1","deps":[],"cksum":"d9e9403fceac1c65b106517e31879d52ee5a041bda19efa63d4881369a8ba36b","features":{},"yanked":false}
 {"name":"unicode_titlecase","vers":"2.3.0","deps":[],"cksum":"c9f865ed539c93628813817ee7076cc4d636081e35c2a9ef70626c1ef853df34","features":{},"yanked":false}
+{"name":"unicode_titlecase","vers":"2.4.0","deps":[],"cksum":"8f38c16011df3a49175fa6d2aba98ce0de46dc8fbad136a4e34ab02d8613f844","features":{},"yanked":false}
