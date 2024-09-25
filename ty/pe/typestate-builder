@@ -1,0 +1,1 @@
+{"name":"typestate-builder","vers":"0.1.1","deps":[{"name":"typestate-builder-macro","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d25980bd249debb8f9df178469255c77eff1ec94a7a233cb1fd5b981d326ec02","features":{},"yanked":false}
