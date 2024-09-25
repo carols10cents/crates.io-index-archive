@@ -1,0 +1,1 @@
+{"name":"always-on-top-windows","vers":"0.1.0","deps":[{"name":"winapi","req":"^0.3","features":["winuser"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"40db355c09dc6d270827c6dc3b736c19f971b0bee05afd395bd6239de4583ebf","features":{},"yanked":false}
