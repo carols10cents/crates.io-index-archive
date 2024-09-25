@@ -1,0 +1,1 @@
+{"name":"skiplist-rust","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"39dc965f8c4bbf025b2ded56fd990f5571ccd0a7ce658587afd5dee2d8d1fe6c","features":{},"yanked":false}
