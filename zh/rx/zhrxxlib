@@ -3,8 +3,8 @@
 {"name":"ZHRXXLib","vers":"0.1.2","deps":[],"cksum":"f4628db020806259719542f84945be9deb767edd7764ba08ac00eec98d5c82ad","features":{},"yanked":true}
 {"name":"ZHRXXLib","vers":"0.1.3","deps":[],"cksum":"d7221d0d37c3928979b8804fc0ab0c82ffe9caef45f2ad23e74667a6965e38cb","features":{},"yanked":true}
 {"name":"ZHRXXLib","vers":"0.1.4","deps":[],"cksum":"3f85d80fc18b97a2027efda223b8d3fd7917ae8f102d226e2e31d09c4a13d287","features":{},"yanked":true}
-{"name":"ZHRXXLib","vers":"0.1.5","deps":[],"cksum":"e2d15c9645510e5b1d7800e08b90358f3c8cf3f15e471ed1afeb2b74ee6f4a56","features":{},"yanked":false}
-{"name":"ZHRXXLib","vers":"0.1.7","deps":[],"cksum":"85b9bb088f0d7bc235b4d0ff77246377502b9437bd76e80b65bd41662aab37fe","features":{},"yanked":false}
+{"name":"ZHRXXLib","vers":"0.1.5","deps":[],"cksum":"e2d15c9645510e5b1d7800e08b90358f3c8cf3f15e471ed1afeb2b74ee6f4a56","features":{},"yanked":true}
+{"name":"ZHRXXLib","vers":"0.1.7","deps":[],"cksum":"85b9bb088f0d7bc235b4d0ff77246377502b9437bd76e80b65bd41662aab37fe","features":{},"yanked":true}
 {"name":"ZHRXXLib","vers":"0.1.8","deps":[],"cksum":"8c20dbb90efeda3a5052dcc0aeff57a7a82db56308589fc640c47f4509bcccd3","features":{},"yanked":false}
 {"name":"ZHRXXLib","vers":"0.1.9","deps":[],"cksum":"cf1223571a45a090fd3432586df2f2535e961e7bf736985e69fa14f55009c93d","features":{},"yanked":false}
 {"name":"ZHRXXLib","vers":"0.2.0","deps":[],"cksum":"ebb797c0cacb73ddec905e48572df27ac78cbc025312be586148d9581721818c","features":{},"yanked":false}
