@@ -14,3 +14,4 @@
 {"name":"iceyee_encoder","vers":"6.0.0","deps":[],"cksum":"e8cc95c551f9b211cfd3b7941ad8da6d9107c84dc071b35e68832416c60eff95","features":{},"yanked":false}
 {"name":"iceyee_encoder","vers":"7.0.0","deps":[],"cksum":"e906899100ac06c8781087b27b49bb90d540caefa57f490bea4a450df0e421fe","features":{},"yanked":false}
 {"name":"iceyee_encoder","vers":"8.0.0","deps":[],"cksum":"39f2039dea709124b52109792bdbd28ef5750b53055bccb097d99c17a8edebf9","features":{},"yanked":false}
+{"name":"iceyee_encoder","vers":"10.0.0","deps":[{"name":"iceyee_error","req":"^10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"73660fd63b5336efe35d50355fdab75503989a5f519cd1d697ae06523856bbbb","features":{},"yanked":false}
