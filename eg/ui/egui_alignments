@@ -1,0 +1,1 @@
+{"name":"egui_alignments","vers":"0.1.0","deps":[{"name":"egui","req":"^0.28.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e7a53dd646fa405b121ce6fee52cf7ff36063a46caa9a5e632a90176098dde32","features":{},"yanked":false}
