@@ -3,3 +3,4 @@
 {"name":"palin","vers":"0.3.0","deps":[],"cksum":"b08b08d532d5ae6e81f024362e252ec866b9d948424f75706212786483a67bbc","features":{},"yanked":false}
 {"name":"palin","vers":"0.4.0","deps":[],"cksum":"4f0f65d29a75f7c61d7f07ec3eac992e9903c03c1fef894588e4a51fc2f710d4","features":{},"yanked":false}
 {"name":"palin","vers":"0.5.0","deps":[],"cksum":"504da1d59e87de8821bce60af8dd67ab65dab594b7bb70d7786e14c2355975c7","features":{},"yanked":false}
+{"name":"palin","vers":"0.6.0","deps":[],"cksum":"1cb95ec4d4e4756e60793687fbf10b6e986ded9f177dacc658cda4039bd127ad","features":{},"yanked":false}
