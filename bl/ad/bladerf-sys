@@ -1,0 +1,1 @@
+{"name":"bladerf-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.70.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"2af2abdd01ee8202207214809eeabd9fb984b5277c5aff6c3bdb409f52c83e43","features":{},"yanked":false}
