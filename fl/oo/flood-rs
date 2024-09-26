@@ -8,3 +8,4 @@
 {"name":"flood-rs","vers":"0.0.8","deps":[],"cksum":"bb1f3c51d7676e056df03255118e07bbc56d50123fdbe36f4c2246f8b66804e1","features":{},"yanked":false}
 {"name":"flood-rs","vers":"0.0.9","deps":[],"cksum":"0843d3920d32e6e9574cdbe592bd23422a0b5df2313afdcff8ef278d303828a5","features":{},"yanked":false}
 {"name":"flood-rs","vers":"0.0.10","deps":[],"cksum":"31ce05737613500af8c87c4446a620dd58c6b265e81c9128ac5b942069a0772b","features":{},"yanked":false}
+{"name":"flood-rs","vers":"0.0.11","deps":[],"cksum":"b1303d0cb2ce648a9c1c987950d40cfad997cfa20fcd53fb76d6917eddf4d27d","features":{},"yanked":false}
