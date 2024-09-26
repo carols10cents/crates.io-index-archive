@@ -6,3 +6,4 @@
 {"name":"antex","vers":"0.0.5","deps":[],"cksum":"237b4c7ec736a0fbc75bfeea525ea4220bacfb5da426dd69790d53e639b1574b","features":{},"yanked":false}
 {"name":"antex","vers":"0.0.6","deps":[],"cksum":"9c55a86df392ab545dc57b116424d4862d209a5fddcfc3306b617a556b87d509","features":{},"yanked":false}
 {"name":"antex","vers":"0.0.7","deps":[],"cksum":"cc09a75836d577a2e48cf7157a246f84be6d04d796e56b1e3dd8f8dfa618c7e4","features":{},"yanked":false}
+{"name":"antex","vers":"0.0.8","deps":[],"cksum":"57faad97edd36653b69c9cdab776883a3dd9051720572dc9f7cf6de550008d37","features":{},"yanked":false}
