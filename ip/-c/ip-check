@@ -1,0 +1,1 @@
+{"name":"ip-check","vers":"0.1.0","deps":[{"name":"csv","req":"^1.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f03914a1f97ecfaa47573aed5b53cb7b262ec6fe68d5b5f811b7d2f16ae2c549","features":{},"yanked":false}
