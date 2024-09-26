@@ -1,0 +1,1 @@
+{"name":"keybac","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2.159","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8f4d3ce65588f7aff845485118278cb0107ecc9a8d0a693e051dbe9654103b30","features":{},"yanked":false}
