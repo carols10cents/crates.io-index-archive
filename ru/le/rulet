@@ -1,0 +1,1 @@
+{"name":"rulet","vers":"1.0.0","deps":[{"name":"figfont","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"aba2125dfc187261e7b154c102a4b9979681166bddb8e2f55fc1fddc334b743b","features":{"zip":["figfont/zip"]},"yanked":false}
