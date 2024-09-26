@@ -1,0 +1,1 @@
+{"name":"esync","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bd3aa33ac5dfa22b51edd0b2bbfa924973a4cbfe36588bc3c7a1bda3972a2d1b","features":{},"yanked":false,"rust_version":"1.63"}
