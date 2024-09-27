@@ -49,3 +49,4 @@
 {"name":"svg","vers":"0.15.1","deps":[],"cksum":"683eed9bd9a2b078f92f87d166db38292e8114ab16d4cf23787ad4eecd1bb6e5","features":{},"yanked":false}
 {"name":"svg","vers":"0.16.0","deps":[],"cksum":"583e1c5c326fd6fede8797006de3b95ad6bcd60a592952952c5ba7ddd7e84c83","features":{},"yanked":false}
 {"name":"svg","vers":"0.17.0","deps":[],"cksum":"700efb40f3f559c23c18b446e8ed62b08b56b2bb3197b36d57e0470b4102779e","features":{},"yanked":false}
+{"name":"svg","vers":"0.18.0","deps":[],"cksum":"94afda9cd163c04f6bee8b4bf2501c91548deae308373c436f36aeff3cf3c4a3","features":{},"yanked":false}
