@@ -1,0 +1,1 @@
+{"name":"geo-aid-plaintext","vers":"0.6.0","deps":[{"name":"geo-aid-figure","req":"^0.6.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b3c4e5200db5a0cc4497d4a34e7ee91594fee7d7e44c13df1d9f4e1ddf6e0c25","features":{},"yanked":false}
