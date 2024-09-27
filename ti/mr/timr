@@ -1,0 +1,1 @@
+{"name":"timr","vers":"0.1.0","deps":[{"name":"termsize","req":"^0.1.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1e1165ea1e5f2c5ee7280779d19f15c23ca9297e8d4f3fb7ccb43bc3f2ea3f84","features":{},"yanked":false}
