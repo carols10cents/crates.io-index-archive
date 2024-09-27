@@ -4,3 +4,4 @@
 {"name":"nbf","vers":"0.2.2","deps":[],"cksum":"9084a694a01ed19a06f255763f2aacaf4e578862facdc692d11afcf92f465428","features":{},"yanked":false}
 {"name":"nbf","vers":"0.2.3","deps":[],"cksum":"31790dbbebb07d2caff95ef0a6e207e8d0be9e433a7e8ecf099f2c4b39b57db4","features":{},"yanked":false}
 {"name":"nbf","vers":"0.4.0","deps":[],"cksum":"fbe542b407265e1176fc8c794a70e9f66ffc89506de4f138f10670eccea6c6b0","features":{},"yanked":false}
+{"name":"nbf","vers":"1.0.0","deps":[],"cksum":"4021d791b962af06f57af55b9d0c1ba467e795fb193faf0116bdd9b0188b8ed1","features":{},"yanked":false}
