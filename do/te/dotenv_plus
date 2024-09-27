@@ -1,0 +1,1 @@
+{"name":"dotenv_plus","vers":"0.1.0","deps":[{"name":"dotenvy","req":"^0.15.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6383b9351404b606bfdc1dc7282de46e76377e187d8863e259bfa0355eea9bd7","features":{},"yanked":false}
