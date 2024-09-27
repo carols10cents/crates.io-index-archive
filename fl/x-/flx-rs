@@ -6,3 +6,4 @@
 {"name":"flx-rs","vers":"0.1.5","deps":[],"cksum":"9b0343f5d0d99dae17633f67a362f6c454c24421dda43aa06941da31eab5302d","features":{},"yanked":false}
 {"name":"flx-rs","vers":"0.1.6","deps":[],"cksum":"3ea0a1e8199aed60d2735e757efa4b00a7e0617a3f5aae66193186eefaf9bcc7","features":{},"yanked":false}
 {"name":"flx-rs","vers":"0.2.0","deps":[],"cksum":"2106244006c931c0387a8ef2945da0e07bc885036a4dde009f9913a242ac4f8e","features":{},"yanked":false}
+{"name":"flx-rs","vers":"0.2.1","deps":[],"cksum":"527875f91e79acaf55e15dde02dd58f30168a93587b24cfe33219e8123366d31","features":{},"yanked":false}
