@@ -1,0 +1,1 @@
+{"name":"env-type","vers":"0.1.0","deps":[{"name":"strum","req":"^0.26.3","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"20600c9ee5e81bde12c3e538f8020c3831c24798c9d39650a7d7f48faf190ccd","features":{},"yanked":false}
