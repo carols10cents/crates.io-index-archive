@@ -1,1 +1,2 @@
 {"name":"fancy-table","vers":"0.1.0","deps":[{"name":"termion","req":"^4.0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"400123fcaff802d9a468e1ddcb3aa7beb12630a76688b1cba3986f34e3bb2f33","features":{},"yanked":false}
+{"name":"fancy-table","vers":"0.2.0","deps":[{"name":"termion","req":"^4.0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e598a7087d94ee4afe739ca4a1ffd10e172d74ee7507e2facbcd2b9f5affdb39","features":{},"yanked":false}
