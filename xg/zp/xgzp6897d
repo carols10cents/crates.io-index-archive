@@ -1,0 +1,1 @@
+{"name":"xgzp6897d","vers":"0.1.0","deps":[{"name":"embedded-hal","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8b21055683a7fe82805847efd88601bd93c37364d1555fc492cadf9ac074891c","features":{"default":["sync"],"sync":[]},"yanked":false}
