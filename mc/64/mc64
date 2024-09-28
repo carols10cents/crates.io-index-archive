@@ -1,0 +1,1 @@
+{"name":"mc64","vers":"0.1.0","deps":[{"name":"num-traits","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7213f4dfd156492a5ae90d0aa664a2ccd7fd4636f319a5a5a3c986122f1727a1","features":{},"yanked":false}
