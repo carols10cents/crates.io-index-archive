@@ -17,3 +17,4 @@
 {"name":"stak-process-context","vers":"0.2.15","deps":[],"cksum":"a6a16c6e4e8a1964ded73ac01a5b79ea8709a4786993d5acd376cc72a5819a7e","features":{"libc":[],"std":[]},"yanked":false}
 {"name":"stak-process-context","vers":"0.2.16","deps":[],"cksum":"9840d37275f69dee8579f0b41aa6ad884b2ed6724ff523fab7c91746dfc397b8","features":{"libc":[],"std":[]},"yanked":false}
 {"name":"stak-process-context","vers":"0.2.17","deps":[{"name":"stak-vm","req":"^0.5.17","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f6c945b7e1ce131a0fc22e3db1b9b9d07330b4122b875b6c9ce29c70283842d8","features":{"libc":[],"std":[]},"yanked":false}
+{"name":"stak-process-context","vers":"0.2.18","deps":[{"name":"stak-vm","req":"^0.5.18","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8d17138fa38d240c8fa4b0f440953fc6a4ddc8a59537f5185a2ca1c38671a093","features":{"libc":[],"std":[]},"yanked":false}
