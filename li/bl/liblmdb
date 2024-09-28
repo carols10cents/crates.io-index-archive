@@ -1,1 +1,2 @@
 {"name":"liblmdb","vers":"0.0.0","deps":[{"name":"cc","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"fd13e26c54e011e97da383811872b1f216a936627af5cb7526fb2eb5c599d89a","features":{},"yanked":false}
+{"name":"liblmdb","vers":"0.9.70","deps":[{"name":"cc","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"7fc3ce6e16e4f8d24892634ad66b6b0eb0dee063c5d42f8f40920c8225824984","features":{},"yanked":false}
