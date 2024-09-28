@@ -1,0 +1,1 @@
+{"name":"liblmdb","vers":"0.0.0","deps":[{"name":"cc","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"fd13e26c54e011e97da383811872b1f216a936627af5cb7526fb2eb5c599d89a","features":{},"yanked":false}
