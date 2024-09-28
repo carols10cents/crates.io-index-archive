@@ -4,3 +4,4 @@
 {"name":"fastpeek","vers":"0.2.2","deps":[],"cksum":"4ca4eacf6cfb699a29045b9353e005092f44d1ea43be48226dd46c51036e46e2","features":{},"yanked":false}
 {"name":"fastpeek","vers":"0.2.3","deps":[],"cksum":"3eba74f3e1664d450a68543b42e48e72ac4a49a8eed3f9a1bfbf7f7f1f6e047b","features":{},"yanked":false}
 {"name":"fastpeek","vers":"0.2.4","deps":[],"cksum":"7adfc9cfb4d9592f2ca0b6b902ff4dc8adc3702d1ae9be8e05df234d46b7fea9","features":{},"yanked":false}
+{"name":"fastpeek","vers":"0.2.5","deps":[],"cksum":"15a44e71fd35f206f87d2e02bb92433555be237c3d169c6fddf857e2ef43d5ab","features":{},"yanked":false}
