@@ -4,3 +4,4 @@
 {"name":"intfinity","vers":"0.3.0","deps":[],"cksum":"bb0fa05e9d8fed2d7308aecda3ce4233ba6b1c377c617d5316630a73e7b18a1b","features":{},"yanked":false}
 {"name":"intfinity","vers":"0.3.1","deps":[],"cksum":"5f6925874793bba3bd6094c32f7cabad6dc8318c6cb8007f3b2572c7da8cea10","features":{},"yanked":false}
 {"name":"intfinity","vers":"0.3.2","deps":[],"cksum":"8b14330cda5fb81669a7fc3a9acca3df86eff4eb586958c34a35e0deb8755ef3","features":{},"yanked":false}
+{"name":"intfinity","vers":"0.3.3","deps":[],"cksum":"2e8b3898c027ba1443b84281f3263a80d946b2252c7424cce17b56d0790565dc","features":{},"yanked":false}
