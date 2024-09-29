@@ -78,3 +78,4 @@
 {"name":"rand_simple","vers":"0.2.29","deps":[],"cksum":"048b2d30f0580f3ff9137904e3df067c34f9b8b586bd3ca1b6409c153e35856c","features":{},"yanked":false}
 {"name":"rand_simple","vers":"0.2.30","deps":[],"cksum":"e99cacc23ef63cfeeae78ad7a5b0813b6c694997c287a57314a99d49390b7ee2","features":{},"yanked":false}
 {"name":"rand_simple","vers":"0.2.31","deps":[],"cksum":"a9defcdfff61d2b1025cb782930230e3d005773a9ff0826c67830567934924e1","features":{},"yanked":false}
+{"name":"rand_simple","vers":"0.2.32","deps":[],"cksum":"2af6591fc0036bce080920ca904b0134d164f4a03ef8a4adf3dfec4880d53547","features":{},"yanked":false}
