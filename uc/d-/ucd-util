@@ -11,3 +11,4 @@
 {"name":"ucd-util","vers":"0.1.10","deps":[],"cksum":"abd2fc5d32b590614af8b0a20d837f32eca055edd0bbead59a9cfe80858be003","features":{},"yanked":false}
 {"name":"ucd-util","vers":"0.2.0","deps":[],"cksum":"86527ef6379fb2ac643d7ade260afd9d7d72bb80623734e9fc1e4256cae07fc3","features":{},"yanked":false}
 {"name":"ucd-util","vers":"0.2.1","deps":[],"cksum":"5e07a3533f39a990cb8b96b700a0fbfba6ca76d63e4e0dd3deeb1aa8de261983","features":{},"yanked":false}
+{"name":"ucd-util","vers":"0.2.2","deps":[],"cksum":"2caf4f84f786842656b86795021de668c7f1c5bc76ed0398fcc1218996727b9b","features":{},"yanked":false}
