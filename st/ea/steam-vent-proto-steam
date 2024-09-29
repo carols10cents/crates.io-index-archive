@@ -1,0 +1,1 @@
+{"name":"steam-vent-proto-steam","vers":"0.5.0","deps":[{"name":"steam-vent-proto-common","req":"^0.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ec1fb6035fba0f9d7e7ac9131db141836df69404968bf9e1c379e7dd20084fcc","features":{},"yanked":false,"rust_version":"1.75.0"}
