@@ -3,3 +3,4 @@
 {"name":"argsyn","vers":"0.1.2","deps":[],"cksum":"e457d9208578cca6f89a977b1c5419de4a75d93b9f21d14a0929081edce80544","features":{},"yanked":false}
 {"name":"argsyn","vers":"0.2.0","deps":[],"cksum":"a3fe0ce6c779beb29bb7c18850dfe43a90334296f13c3f70f803097640deb56c","features":{},"yanked":false}
 {"name":"argsyn","vers":"0.2.1","deps":[],"cksum":"7cbf4e7cae48a6035a90b2b1d8c568b6f32b7f3de11e69e0ba3cade315d3ecd2","features":{},"yanked":false}
+{"name":"argsyn","vers":"0.3.0","deps":[],"cksum":"f0b0706c9f869d612ff65ae35880f8c277320efaebd9052e48226720c3eec665","features":{},"yanked":false}
