@@ -1,0 +1,1 @@
+{"name":"steam-vent-proto-csgo","vers":"0.5.0","deps":[{"name":"steam-vent-proto-common","req":"^0.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"391e907d8a4356416b07a7651045858123913e0ebf4fb06377d1f29a3ae6dda6","features":{},"yanked":false,"rust_version":"1.75.0"}
