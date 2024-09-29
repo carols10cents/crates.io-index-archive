@@ -1,1 +1,2 @@
 {"name":"rustint","vers":"0.1.0","deps":[],"cksum":"94aecd41d924d2a1fc838de41671d135e6f532fb871dd635a6297a743b79b327","features":{},"yanked":false}
+{"name":"rustint","vers":"0.1.1","deps":[{"name":"thiserror","req":"^1.0.64","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1e89c648550609ede4225cb4a895889e344cf80ed45257635dc51f565c87a6ac","features":{},"yanked":false}
