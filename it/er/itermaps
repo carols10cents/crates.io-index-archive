@@ -7,3 +7,4 @@
 {"name":"itermaps","vers":"0.2.5","deps":[],"cksum":"0edd35b941d1fd50d6bcf9cd2d966bf3ae6c65d2267d50b09abd89aa8a757df4","features":{"default":[],"no_std":[]},"yanked":false}
 {"name":"itermaps","vers":"0.2.8","deps":[],"cksum":"cb8d95feba9d17d04af7e885aa60ee9721bcd3c770f287dbd4ff494b720e2c5a","features":{"default":[],"no_std":[]},"yanked":false}
 {"name":"itermaps","vers":"0.2.9","deps":[],"cksum":"17cdf86289840ba93956edc0569d1a77c40a2b0fb01f765924651e5b22608bff","features":{"default":[],"no_std":[]},"yanked":false}
+{"name":"itermaps","vers":"0.2.10","deps":[],"cksum":"2f5cbb695aa2a11f8e32a97fc3955767c1b49f7c22bbe4fe26301f0097a9735f","features":{"default":[],"no_std":[]},"yanked":false}
