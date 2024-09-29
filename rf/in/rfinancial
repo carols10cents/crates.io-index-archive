@@ -9,3 +9,4 @@
 {"name":"rfinancial","vers":"0.1.8","deps":[],"cksum":"50452e59a4666ad5a82938de6b9cdff383abeb5675d62cee637d6ef86bcaea99","features":{},"yanked":true}
 {"name":"rfinancial","vers":"0.1.9","deps":[],"cksum":"687dcf4a56766a8b5f97f29477e1c899596c080cdb28ae04a0164bcf4dd83309","features":{},"yanked":true,"rust_version":"1.81"}
 {"name":"rfinancial","vers":"0.1.10","deps":[],"cksum":"d28fc1131afccf37a7e7379fc35e3ed28f25d58da53529ae22265cac8fe9a02f","features":{},"yanked":false,"rust_version":"1.81"}
+{"name":"rfinancial","vers":"0.1.11","deps":[],"cksum":"7cdea65914823c70bf019e52d5c411a095b5df2ea294e59a6bdf4a345deef7c7","features":{},"yanked":false,"rust_version":"1.81"}
