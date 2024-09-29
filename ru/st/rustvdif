@@ -1,0 +1,1 @@
+{"name":"rustvdif","vers":"0.1.0","deps":[{"name":"time","req":"^0.3.36","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4c8119ae8368c76dc9202f1612eb09fe416a8cb24fc0a9f51a219cbb8e38f76e","features":{},"yanked":false}
