@@ -1,0 +1,1 @@
+{"name":"cargo-diagram-printers","vers":"0.1.0","deps":[{"name":"cargo-diagram-visitors","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9310424df373954d15c3263d9eee876fb271d2a1e94112aa05d105b439e0ee42","features":{},"yanked":false}
