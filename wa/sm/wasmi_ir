@@ -1,0 +1,1 @@
+{"name":"wasmi_ir","vers":"0.37.0","deps":[{"name":"wasmi_core","req":"^0.37.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"ff0090886d8be1981308226bd0911181f17949840897cdd6d2b19c97bcd8d23a","features":{"default":["std"],"std":["wasmi_core/std"]},"yanked":false,"rust_version":"1.79"}
