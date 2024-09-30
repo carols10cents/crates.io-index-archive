@@ -3,3 +3,4 @@
 {"name":"iter-scanb","vers":"0.1.2","deps":[],"cksum":"e7df452ecb53d9670048c9e55f57aedbb09bef14b1afb7ca8ab1590c1a16a6a7","features":{},"yanked":false}
 {"name":"iter-scanb","vers":"0.1.3","deps":[],"cksum":"d70bd2c036461a0748a5c09c62dba1f6daa2d9d2c54e373e3a6dfb585bbb2165","features":{},"yanked":false}
 {"name":"iter-scanb","vers":"0.1.4","deps":[],"cksum":"028b143422014bfb9b58e119ab6e50d64b0d2a3210ff0f38321553294f0c4659","features":{},"yanked":false}
+{"name":"iter-scanb","vers":"0.2.0","deps":[],"cksum":"187f88ea7d2921ab17ba76b20cf4666b338ea2b9968cb1c21ca61fa14f343771","features":{"default":["std"],"std":[]},"yanked":false}
