@@ -5,4 +5,4 @@
 {"name":"next_tuple","vers":"0.1.0-beta4","deps":[],"cksum":"66dadf287063ab08b1247d1be56e9656b272b10423896fb60d49881f69b2b266","features":{},"yanked":false,"rust_version":"1.76"}
 {"name":"next_tuple","vers":"0.1.0-beta5","deps":[],"cksum":"bf84e075aa6ad90a5868f864c36ba983b2ffc52d1f584899398ae248fd77b414","features":{},"yanked":false,"rust_version":"1.76"}
 {"name":"next_tuple","vers":"0.1.0-beta6","deps":[],"cksum":"04cacfe8c787c6beb1ccc7c9a301dd97ba6db1c03df16f7d2988380e12ef174a","features":{},"yanked":true,"rust_version":"1.76"}
-{"name":"next_tuple","vers":"0.1.0-beta7","deps":[],"cksum":"574c2339747c1d45c5b36b2e180646a3938cb0eb8b9648f7ebc0f0232c8f414c","features":{},"yanked":false,"rust_version":"1.76"}
+{"name":"next_tuple","vers":"0.1.0-beta7","deps":[],"cksum":"574c2339747c1d45c5b36b2e180646a3938cb0eb8b9648f7ebc0f0232c8f414c","features":{},"yanked":true,"rust_version":"1.76"}
