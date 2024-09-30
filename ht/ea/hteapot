@@ -2,3 +2,4 @@
 {"name":"hteapot","vers":"0.2.0","deps":[],"cksum":"7db35e41cc84f89857c5bb9c4c0ce3d9c04eff552bdebd427ebd0d76c63efd95","features":{},"yanked":false}
 {"name":"hteapot","vers":"0.2.1","deps":[],"cksum":"62e80f4b30895d714a47adecb424f8be8460296a62cef86af1a54b32bba803bf","features":{},"yanked":false}
 {"name":"hteapot","vers":"0.2.5","deps":[],"cksum":"31bd443606244879d3c447196f540fbeef0d505274ac36bd015b07b627b82c68","features":{},"yanked":false}
+{"name":"hteapot","vers":"0.2.6","deps":[],"cksum":"a6711bac1589f1fb8dfda22ea8a4fb64c409cdabe9bc26e0b2bd1e9810a3ecdd","features":{},"yanked":false}
