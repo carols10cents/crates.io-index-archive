@@ -1,1 +1,2 @@
 {"name":"husky-rs","vers":"0.0.1","deps":[{"name":"thiserror","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"534cab1ebdb55e6d20a31af1613749a5cf252518b3621596f1d86944cd331729","features":{},"yanked":false}
+{"name":"husky-rs","vers":"0.1.0","deps":[],"cksum":"99a3b537b1aa0bef63682e491b6cbe901b7f65ad963260767fbf98add8137a25","features":{},"yanked":false}
