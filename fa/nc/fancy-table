@@ -1,3 +1,4 @@
 {"name":"fancy-table","vers":"0.1.0","deps":[{"name":"termion","req":"^4.0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"400123fcaff802d9a468e1ddcb3aa7beb12630a76688b1cba3986f34e3bb2f33","features":{},"yanked":false}
 {"name":"fancy-table","vers":"0.2.0","deps":[{"name":"termion","req":"^4.0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e598a7087d94ee4afe739ca4a1ffd10e172d74ee7507e2facbcd2b9f5affdb39","features":{},"yanked":false}
 {"name":"fancy-table","vers":"0.3.0","deps":[{"name":"termion","req":"^4.0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3914ef17a47f031cd477fc7edfc63a29bee0997ccbffe250b9e2a604c8ccb6aa","features":{},"yanked":false}
+{"name":"fancy-table","vers":"0.3.1","deps":[],"cksum":"2ba057a42668cf1087a3280091ec0826f92bcfd5caeee77d568596626fc7fd88","features":{},"yanked":false}
