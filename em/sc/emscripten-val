@@ -1,0 +1,1 @@
+{"name":"emscripten-val","vers":"0.1.0","deps":[{"name":"emscripten-val-sys","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"543d157929cc66fa6c2026014913238921b3b10d46ca5ca1de564f9392ae20ef","features":{},"yanked":false}
