@@ -1,0 +1,1 @@
+{"name":"zung_mini","vers":"0.1.0","deps":[{"name":"clap","req":"^4.5.18","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"56e9cb5154a9e64e9e53db93bec82ace663f0849ea2134d5942c3dc286b26602","features":{},"yanked":false}
