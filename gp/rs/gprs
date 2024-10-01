@@ -1,0 +1,1 @@
+{"name":"gprs","vers":"0.0.0","deps":[{"name":"tokio","req":"^1.40.0","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"75aaf43a10f26a93925538c6f58cc6278c8ec12062aa527d81d9b5de39fced52","features":{},"yanked":false}
