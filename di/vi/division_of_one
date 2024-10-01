@@ -1,1 +1,2 @@
 {"name":"division_of_one","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cb188e613f4b45053fa5a9c97ad448208f1953190dbf2a7f5ffd5acf53b35c65","features":{},"yanked":false}
+{"name":"division_of_one","vers":"0.1.1","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c9c2bbd12fa10b281fa45c3a31299b7519473aa3c29d673b949565b101fb983c","features":{},"yanked":false}
