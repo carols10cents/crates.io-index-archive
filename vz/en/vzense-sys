@@ -1,0 +1,1 @@
+{"name":"vzense-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.70.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"b927cad231264b9322b295368a565e99ef218fe4b6761096df84028678906a8f","features":{},"yanked":false}
