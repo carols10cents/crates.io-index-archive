@@ -4,3 +4,4 @@
 {"name":"service-layer-rs","vers":"0.1.3","deps":[],"cksum":"beee84ca07dd4ceb49b12a730868765f37a0e0a0cb4ff8375688f699a94bb4a4","features":{},"yanked":false}
 {"name":"service-layer-rs","vers":"0.2.0","deps":[],"cksum":"44a5d5a6251f395f577215bd6b4ef6e63ee36ad3ca07aa8e6a155068b97f4b38","features":{},"yanked":false}
 {"name":"service-layer-rs","vers":"0.2.1","deps":[],"cksum":"1e31ec97e7af14e618ba5a25379161c701588338e16cb63a01364b3780e47363","features":{},"yanked":false}
+{"name":"service-layer-rs","vers":"0.2.2","deps":[],"cksum":"c522d4db7ad7737d9b4345d2969896eb1439b9bcc1a3a50b0b0353b976bfa05d","features":{},"yanked":false}
