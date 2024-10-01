@@ -1,1 +1,2 @@
 {"name":"emscripten-val-sys","vers":"0.1.0","deps":[{"name":"cc","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"a06645f846c4ca421bb8ef60b571ea54eaf143ce3f15d2c6de4f1a64deecba5c","features":{},"yanked":false}
+{"name":"emscripten-val-sys","vers":"0.1.1","deps":[{"name":"cc","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"59ec1b8dce5b5104a6b13746e07999c5fd2c4bd65bf5cf7d9a1ba297910dc637","features":{},"yanked":false}
