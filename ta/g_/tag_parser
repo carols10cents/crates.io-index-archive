@@ -1,0 +1,1 @@
+{"name":"tag_parser","vers":"0.1.0","deps":[{"name":"parcelona","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f62b37ff20ca919cfbaca3854545d17ef2cb3d8a910fc2f1527751cdcfe5058f","features":{},"yanked":false}
