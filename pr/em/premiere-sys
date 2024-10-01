@@ -1,0 +1,1 @@
+{"name":"premiere-sys","vers":"0.2.0","deps":[{"name":"bindgen","req":"^0.70","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"d8ae99d2dfce79106960d5be8aeb01c041ed4a228ac297a25ef2b5660064997e","features":{},"yanked":false}
