@@ -1,1 +1,2 @@
 {"name":"epaint_default_fonts","vers":"0.29.0","deps":[],"cksum":"5202b64bef2b2c42a7f6e2e5b40fa83dd04aa61fdb08bfd116553adc149fe47a","features":{},"yanked":false,"rust_version":"1.76"}
+{"name":"epaint_default_fonts","vers":"0.29.1","deps":[],"cksum":"483440db0b7993cf77a20314f08311dbe95675092405518c0677aa08c151a3ea","features":{},"yanked":false,"rust_version":"1.76"}
