@@ -19,3 +19,4 @@
 {"name":"rrtk","vers":"0.4.0-beta.1","deps":[],"cksum":"d317b9e9e82f2dc583b13fa8f678eb899331e4ebf275b0badcd9bb6b86008b3b","features":{"default":["std"],"devices":[],"std":[]},"yanked":false}
 {"name":"rrtk","vers":"0.4.0-beta.2","deps":[],"cksum":"48aa9f3f0aec6b4dc2bb6fec4e7f1a8053f71a47d75e4c28519d82c6f9a6a15b","features":{"default":["std"],"devices":[],"std":[]},"yanked":false}
 {"name":"rrtk","vers":"0.4.0","deps":[],"cksum":"5dc3dd62a4056f689f5ce98943b585d09fbf5d4c84ef25e176d4464fa821c540","features":{"default":["std"],"devices":[],"std":[]},"yanked":false}
+{"name":"rrtk","vers":"0.5.0-alpha.1","deps":[],"cksum":"4345e431a57f602d993d899e1d20dffe6a54de72930ffce6cf40edd41540b0cb","features":{"alloc":[],"default":["std"],"devices":[],"std":["alloc"]},"yanked":false}
