@@ -1,1 +1,2 @@
 {"name":"nobug","vers":"0.1.0","deps":[],"cksum":"88475fe41aaae63af14ef62ebb076c8a5c0666ed8240cd3b13f24f086cf0ea07","features":{"abort_on_fail":[],"default":["abort_on_fail"]},"yanked":false,"rust_version":"1.56.1"}
+{"name":"nobug","vers":"0.1.1","deps":[],"cksum":"4b82f83d43e042cc15dfa6fec617a54fefeca0b44ec4c2d07fe655fda3724a7f","features":{"abort_on_fail":[],"default":["abort_on_fail"]},"yanked":false,"rust_version":"1.56.1"}
