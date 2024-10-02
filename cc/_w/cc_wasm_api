@@ -1,1 +1,2 @@
 {"name":"cc_wasm_api","vers":"0.1.0","deps":[],"cksum":"445cb233ddb6b4f707d87608da0ad02af433b9f8f891f50ea053c5f6f0c21f56","features":{},"yanked":false}
+{"name":"cc_wasm_api","vers":"0.2.0","deps":[],"cksum":"6e70ce2a128264783dc9d7daa33bf1f6ba533b9fadd05bae444df32709abada7","features":{"coroutine":[],"default":["coroutine"]},"yanked":false}
