@@ -2,3 +2,4 @@
 {"name":"binout","vers":"0.1.1","deps":[],"cksum":"5d50b13022904a1343a445b397f99ea3b1256299585ac99ba374e7021c794744","features":{},"yanked":false}
 {"name":"binout","vers":"0.2.0","deps":[],"cksum":"288c7b1c00556959bb7dc822d8adad4a30edd0d3a1fcc6839515792b8f300e5f","features":{},"yanked":false}
 {"name":"binout","vers":"0.2.1","deps":[],"cksum":"b60b1af88a588fca5fe424ae7d735bc52814f80ff57614f57043cc4e2024f2ea","features":{},"yanked":false}
+{"name":"binout","vers":"0.3.0","deps":[],"cksum":"581d67184175e0c94926cb5e82df97bb6e0d8261d27a88a6ead80994ee73a4ac","features":{},"yanked":false}
