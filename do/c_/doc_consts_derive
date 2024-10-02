@@ -1,1 +1,2 @@
 {"name":"doc_consts_derive","vers":"0.1.0","deps":[{"name":"syn","req":"^2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"191b1f7eb4ddd32d7d59d1c4059445c832c4964abf6a0f5b75b25dc3d2422571","features":{},"yanked":false}
+{"name":"doc_consts_derive","vers":"0.1.1","deps":[{"name":"syn","req":"^2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fce5f898dfc584c932433123e68d5f9bd59c2d1b29d0a6c4f7e4905da3ba8ca1","features":{},"yanked":false}
