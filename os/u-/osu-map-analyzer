@@ -1,0 +1,1 @@
+{"name":"osu-map-analyzer","vers":"0.1.0","deps":[{"name":"rosu-map","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ad055c482b157583854fe87c304c954c9241ebd071678ee84f8ac5358a5f1455","features":{},"yanked":false}
