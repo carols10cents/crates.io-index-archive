@@ -2,3 +2,4 @@
 {"name":"bind-args","vers":"0.2.0","deps":[],"cksum":"09eee983804943aa246989dabd2a61a906691197b1cf2984b7e5dc4dea4dbfe2","features":{},"yanked":false}
 {"name":"bind-args","vers":"0.3.0","deps":[{"name":"thiserror","req":"^1.0.61","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"eff23f9459b2bd7f459ad815bab52b88c961bf5dff6af8012d7d867e6466835d","features":{},"yanked":false}
 {"name":"bind-args","vers":"0.4.0","deps":[{"name":"anyhow","req":"^1.0.89","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"51fc8126841cefab84c8613c5606115fc99a974aad6055cb946c84254dcfe1f6","features":{},"yanked":false}
+{"name":"bind-args","vers":"0.5.0","deps":[{"name":"anyhow","req":"^1.0.89","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"ff66199748868a4df29c63da956c401c9a37fce6fbede5638843f4399bdf5cbf","features":{},"yanked":false}
