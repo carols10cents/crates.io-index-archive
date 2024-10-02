@@ -5,5 +5,5 @@
 {"name":"datas","vers":"0.1.4","deps":[],"cksum":"3f654f20c12134531083af5a84cdb03afd8cded4ae79ad1c0962d823497e47df","features":{},"yanked":true}
 {"name":"datas","vers":"0.1.5","deps":[],"cksum":"0a611f4b558c853a99961b292ba21df0b22d6098e6bd62a677152a68960056ce","features":{},"yanked":true}
 {"name":"datas","vers":"0.1.6","deps":[],"cksum":"bf038f17a32fa072518e123c927a48f9763270caac253a9fb311af265ad4f54a","features":{},"yanked":true}
-{"name":"datas","vers":"0.1.7","deps":[],"cksum":"d173ea290bee7fd2f87399982ed8f938c7a9815cfe55699201d1df0251d87d5f","features":{},"yanked":false}
+{"name":"datas","vers":"0.1.7","deps":[],"cksum":"d173ea290bee7fd2f87399982ed8f938c7a9815cfe55699201d1df0251d87d5f","features":{},"yanked":true}
 {"name":"datas","vers":"0.1.8","deps":[],"cksum":"16d56c4e6aac6f6f9eb8806719ef5bd0bfb6a63e92f4cd3654cc1e89692dfcb8","features":{},"yanked":false}
