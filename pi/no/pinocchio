@@ -1,2 +1,3 @@
 {"name":"pinocchio","vers":"0.0.0","deps":[],"cksum":"548a990cdb81472e9dfebed40ad5ed6d4a6bc2c643bcc2bda14f394f8248fc98","features":{},"yanked":false}
 {"name":"pinocchio","vers":"0.1.0","deps":[],"cksum":"799f082a41784b8d1b7f767ccd142b6f48d3c8338b98a6960bc46f3c4dd2c2e6","features":{},"yanked":false}
+{"name":"pinocchio","vers":"0.2.0","deps":[],"cksum":"087bd14844ee3f8d3b6bfd516c6ede3e76df018bb4879768978ba9648440b15b","features":{},"yanked":false}
