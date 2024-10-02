@@ -5,3 +5,4 @@
 {"name":"log_x","vers":"0.1.4","deps":[],"cksum":"0377fd71e6192c9d3143d6a183d340ee323f19ecb6f82d26c5a0285fbfb6180a","features":{},"yanked":false}
 {"name":"log_x","vers":"0.1.5","deps":[],"cksum":"4e577219fedbc1e6ab50288234dd93871dcdcc1b7b5213b1f816cef4c734e3f2","features":{},"yanked":false}
 {"name":"log_x","vers":"0.1.6","deps":[],"cksum":"c410700d04a43b9c58d092ecaf99084c165ce99c005b17d9c84298e11cd1764f","features":{},"yanked":false}
+{"name":"log_x","vers":"0.1.7","deps":[],"cksum":"b047997a7e7b6340e436d05fc504ce6d59aa04d66cce228065d692ea2a407bea","features":{},"yanked":false}
