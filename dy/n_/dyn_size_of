@@ -7,3 +7,4 @@
 {"name":"dyn_size_of","vers":"0.4.0","deps":[],"cksum":"2b8b8aeb5763fce4ccb8916a3c111f4b004d2de4d74b21da803f5671446cf519","features":{},"yanked":false}
 {"name":"dyn_size_of","vers":"0.4.1","deps":[],"cksum":"6c8adcce29eef18ae1369bbd268fd56bf98144e80281315e9d4a82e34df001c7","features":{},"yanked":false}
 {"name":"dyn_size_of","vers":"0.4.2","deps":[{"name":"aligned-vec","req":"^0.5","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"33d4f78a40b1ec35bf8cafdaaf607ba2f773c366b0b3bda48937cacd7a8d5134","features":{},"yanked":false}
+{"name":"dyn_size_of","vers":"0.4.3","deps":[{"name":"aligned-vec","req":">=0.5","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fdbac012a81cc46ca554aceae23c52f4f55adb343f2f32ca99bb4e5ef868cee2","features":{},"yanked":false}
