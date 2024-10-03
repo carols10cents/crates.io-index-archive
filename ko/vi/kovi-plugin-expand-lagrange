@@ -1,1 +1,2 @@
 {"name":"kovi-plugin-expand-lagrange","vers":"0.1.0","deps":[{"name":"kovi","req":">=0.8.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e0d457e300c6ac8022f001a941da85a465f96b88dc67a676af433e62000e24dc","features":{},"yanked":false}
+{"name":"kovi-plugin-expand-lagrange","vers":"0.1.1","deps":[{"name":"kovi","req":">=0.8.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4885bf08e857bee8208e5969a9f6c63187f87d1159a1e65a28d161a4895fd218","features":{},"yanked":false}
