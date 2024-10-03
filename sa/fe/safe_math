@@ -5,3 +5,4 @@
 {"name":"safe_math","vers":"0.2.2","deps":[],"cksum":"f4460ce9b89966b0bc650968aab6c0534c015f2ef02e967ea007e41a8457a187","features":{},"yanked":false}
 {"name":"safe_math","vers":"1.0.0","deps":[],"cksum":"c712bd31421eaa9aa8c73c139820ebde2ded80182465a70ece8b2f077f58650c","features":{},"yanked":true}
 {"name":"safe_math","vers":"1.0.1","deps":[],"cksum":"246ab022be5ce2528db3bbaa5c0deb55864f74f46186e7ae729c8da8060a6686","features":{},"yanked":false}
+{"name":"safe_math","vers":"1.0.2","deps":[],"cksum":"f18d77d7ed5bcafa767cfd7c95b30428d623389e26e06b3ba58682ec3df424a6","features":{},"yanked":false}
