@@ -3,3 +3,4 @@
 {"name":"MIPS_disassembly","vers":"0.1.2","deps":[],"cksum":"aaee454b1510311c56d5a21938080d093f0579f1691deea6a0861154e8811329","features":{},"yanked":false}
 {"name":"MIPS_disassembly","vers":"0.1.3","deps":[],"cksum":"3f2b22897cc4c5fc1e5c9ceef79b45cf38204aeb1d3e7b73c069929746ad9a47","features":{},"yanked":false}
 {"name":"MIPS_disassembly","vers":"0.1.4","deps":[],"cksum":"0a61136bb49bdb94cf9fdd136e9d9c9b853779654bb26c94028833047cad6444","features":{},"yanked":false}
+{"name":"MIPS_disassembly","vers":"0.1.5","deps":[],"cksum":"989b55ced987987ccd06a3aaabe8ac86a665e89a30d55ea9e547050bb0adc4f6","features":{},"yanked":false}
