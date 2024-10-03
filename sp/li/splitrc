@@ -10,3 +10,4 @@
 {"name":"splitrc","vers":"0.1.9","deps":[],"cksum":"aae3c5ba2fe370dc29cdcbb09b9c735c68847d51fb40dbdecf2e3860a68767ca","features":{},"yanked":false,"rust_version":"1.56.1"}
 {"name":"splitrc","vers":"0.1.10","deps":[],"cksum":"eb06140afd3c53fda01c2239614212eaa55b183d854a4183697516aa0b4e0d82","features":{},"yanked":false,"rust_version":"1.56.1"}
 {"name":"splitrc","vers":"0.1.11","deps":[{"name":"loom","req":"^0.7.2","features":[],"optional":false,"default_features":true,"target":"cfg(loom)","kind":"normal"}],"cksum":"47b79ee2c54233ac5daac7d10591811ca6b2d4de567e025ae593f2b8265fbda2","features":{},"yanked":false,"rust_version":"1.56.1"}
+{"name":"splitrc","vers":"0.1.12","deps":[{"name":"loom","req":"^0.7.2","features":[],"optional":false,"default_features":true,"target":"cfg(loom)","kind":"normal"}],"cksum":"4a2ce692d1bbd1cbda76240618a3a521d2306df6970be32fed03f8d9ac21c9a2","features":{},"yanked":false,"rust_version":"1.56.1"}
