@@ -7,3 +7,4 @@
 {"name":"log_x","vers":"0.1.6","deps":[],"cksum":"c410700d04a43b9c58d092ecaf99084c165ce99c005b17d9c84298e11cd1764f","features":{},"yanked":false}
 {"name":"log_x","vers":"0.1.7","deps":[],"cksum":"b047997a7e7b6340e436d05fc504ce6d59aa04d66cce228065d692ea2a407bea","features":{},"yanked":false}
 {"name":"log_x","vers":"0.1.8","deps":[],"cksum":"a52d7f592effd1f679c7304e664b725043171dc4a768b90b9a1b41f1bf6dfc25","features":{},"yanked":false}
+{"name":"log_x","vers":"0.1.9","deps":[],"cksum":"ffca0bdc614644e35416f8724921184323e0e43cb7560f27a6eef80c0fb9c8ec","features":{},"yanked":false}
