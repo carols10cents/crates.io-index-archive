@@ -1,1 +1,2 @@
 {"name":"morse_rs","vers":"0.1.0","deps":[{"name":"hound","req":"^3.5.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f040e13ed30fb1e3878d4fffcf91f48f34a38dc946bb6274e18bb1f8b9ff4b46","features":{},"yanked":false}
+{"name":"morse_rs","vers":"0.1.1","deps":[{"name":"hound","req":"^3.5.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7eb514f09a9f071493a1b91a57bc8f2de44713b920c664bf1b308ce49f6ccf63","features":{},"yanked":false}
