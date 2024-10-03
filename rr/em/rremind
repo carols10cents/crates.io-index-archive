@@ -1,0 +1,1 @@
+{"name":"rremind","vers":"0.0.1","deps":[{"name":"chrono","req":"^0.4.38","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"24a6e6a0a0e5ae9d23a366eda26e04e30113eb1970b01e37a18429e2b344fffe","features":{},"yanked":false}
