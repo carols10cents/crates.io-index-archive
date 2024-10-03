@@ -23,3 +23,4 @@
 {"name":"hill_vacuum_shared","vers":"0.7.0","deps":[],"cksum":"c2699922b0e8f270b7a549597607b49a7dfcd25ce384c3a5eca449c100350503","features":{},"yanked":false}
 {"name":"hill_vacuum_shared","vers":"0.7.1","deps":[],"cksum":"e9c1228135cb31614bcc883c382369eb4bfcd8423b2e5d0f5d382e9e76fa75fd","features":{},"yanked":false}
 {"name":"hill_vacuum_shared","vers":"0.7.2","deps":[],"cksum":"562cf9c05ee56a43876a60cfd3dee85049384e2a6f82fce3996a7fa7da2fa403","features":{},"yanked":false}
+{"name":"hill_vacuum_shared","vers":"0.8.0","deps":[],"cksum":"fc3a3001993f7a4d95566dbe9af311f9078a8eccf8e902b9363913a74ac1a8ea","features":{},"yanked":false}
