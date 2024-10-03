@@ -5,3 +5,4 @@
 {"name":"edtui-jagged","vers":"0.1.4","deps":[],"cksum":"b0e8447b1e3e75b9e078d9717f89f409198a51f2e5bddf87bd350ce6fe04a92e","features":{},"yanked":false}
 {"name":"edtui-jagged","vers":"0.1.5","deps":[],"cksum":"3a02f7b3f54b11bc0191d2481280d93019c2b313cb3be7061f30705fa000ec1f","features":{},"yanked":false}
 {"name":"edtui-jagged","vers":"0.1.6","deps":[],"cksum":"e034671eafe4bbdea219971116f8377caa354d389f562bb04a3b80d88c990f15","features":{},"yanked":false}
+{"name":"edtui-jagged","vers":"0.1.7","deps":[],"cksum":"7756b389bc324975dbbbc177e687090d711571aaaad71e8f2208a3e37ad64f5e","features":{},"yanked":false}
