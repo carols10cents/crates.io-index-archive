@@ -5,3 +5,4 @@
 {"name":"cosmwasm-core","vers":"2.1.2","deps":[],"cksum":"7db006abbd1cb36ac14b2f7b2bdd10f00a6a64bc0a803fe42ddd73d73b3b556c","features":{},"yanked":false}
 {"name":"cosmwasm-core","vers":"2.1.3","deps":[],"cksum":"d905990ef3afb5753bb709dc7de88e9e370aa32bcc2f31731d4b533b63e82490","features":{},"yanked":false}
 {"name":"cosmwasm-core","vers":"2.1.4","deps":[],"cksum":"5f6ceb8624260d0d3a67c4e1a1d43fc7e9406720afbcb124521501dd138f90aa","features":{},"yanked":false}
+{"name":"cosmwasm-core","vers":"2.2.0-rc.1","deps":[],"cksum":"1476670cf15c3965268756391a3e573ad954e11fbdc670ae58410888c0d61048","features":{},"yanked":false}
