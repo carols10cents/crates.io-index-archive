@@ -1,0 +1,1 @@
+{"name":"oxc_data_structures","vers":"0.30.5","deps":[{"name":"assert-unchecked","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2797d0a42660c9b02d6a8aa9f146bf88c9449a833aa2fb446368e6697efad67b","features":{},"yanked":false,"rust_version":"1.76"}
