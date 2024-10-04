@@ -7,5 +7,5 @@
 {"name":"service-layer-rs","vers":"0.2.2","deps":[],"cksum":"c522d4db7ad7737d9b4345d2969896eb1439b9bcc1a3a50b0b0353b976bfa05d","features":{},"yanked":false}
 {"name":"service-layer-rs","vers":"0.2.3","deps":[],"cksum":"83ae2bbf63bfd9e9c6ae76bff6282dbcf935fc2413109ca9fdbe73cceb82a973","features":{},"yanked":true}
 {"name":"service-layer-rs","vers":"0.3.0","deps":[],"cksum":"f445000714581335d4907e8412c57beac0a453ae389e4b05032f169bcbb55e3a","features":{},"yanked":true}
-{"name":"service-layer-rs","vers":"0.3.1","deps":[],"cksum":"a008cb4661f97d6d74a246f5ae2629a1d1d78de55c3ae4a0b591c15e2fbe1161","features":{},"yanked":false}
+{"name":"service-layer-rs","vers":"0.3.1","deps":[],"cksum":"a008cb4661f97d6d74a246f5ae2629a1d1d78de55c3ae4a0b591c15e2fbe1161","features":{},"yanked":true}
 {"name":"service-layer-rs","vers":"0.3.2","deps":[],"cksum":"3ce82e8ae4d43deb3a61e653b64522048cd20b1e23eefce626801b19cbb10951","features":{},"yanked":false}
