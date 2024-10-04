@@ -11,3 +11,4 @@
 {"name":"dev_utils","vers":"0.0.11","deps":[{"name":"log","req":"0.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d1745619d33b46dc0055f5219ad71d441cd9d6e4013de927291563df7e8bf445","features":{},"yanked":false}
 {"name":"dev_utils","vers":"0.0.12","deps":[{"name":"log","req":"0.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"22b88f005e8e3c7021f0d69c5ac0a1d947cbaa1faa44c36199f8f081c2455c32","features":{},"yanked":true}
 {"name":"dev_utils","vers":"0.0.13","deps":[{"name":"log","req":"0.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9e714be89f5eda7c4bd35c014690e107608862d8b03b2d7379fcb8aae11e8794","features":{},"yanked":false}
+{"name":"dev_utils","vers":"0.0.14","deps":[],"cksum":"8cacb46a754a21d19e72cc79a9ee993248b79427b0cb6f873a4b6d88124ab890","features":{},"yanked":false}
