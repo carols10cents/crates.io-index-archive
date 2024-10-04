@@ -1,0 +1,1 @@
+{"name":"moosicbox_env_utils","vers":"0.1.0","deps":[{"name":"thiserror","req":"^1.0.64","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8daee946ea795e157c3227e1b835e856064b1c06fe0504c49b8c5f5815029af2","features":{"fail-on-warnings":[]},"yanked":false}
