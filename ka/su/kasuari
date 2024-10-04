@@ -1,0 +1,1 @@
+{"name":"kasuari","vers":"0.0.0","deps":[{"name":"thiserror","req":"^1.0.64","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6d9e85836cfea1d8659427bb8ad3d4e23a126081638042b5bc3122db7c5ef946","features":{},"yanked":false}
