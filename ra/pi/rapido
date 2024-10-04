@@ -1,1 +1,2 @@
 {"name":"rapido","vers":"0.0.0","deps":[],"cksum":"03e0fab398f34cc643d8b294eebb583d0ada4e7faee553659b6ca1da43694236","features":{},"yanked":false}
+{"name":"rapido","vers":"0.0.1","deps":[{"name":"rapido-core","req":"^0.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4377f2143780aaa483cf3ac5c067832072390e77031b90d32a44eccbbba83d21","features":{},"yanked":false}
