@@ -1,0 +1,1 @@
+{"name":"rs_isl","vers":"0.1.0","deps":[{"name":"parking_lot","req":"^0.12.3","features":["hardware-lock-elision"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cbf8e62d59e8c219441d82b200f834f1f1c01ca6dd41551c92113ad20c85cac7","features":{},"yanked":false}
