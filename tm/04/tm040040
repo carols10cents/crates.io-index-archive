@@ -1,0 +1,1 @@
+{"name":"tm040040","vers":"0.1.0","deps":[{"name":"embedded-hal","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ccd0176e6f68368b6429910a2f56c2bd5945be50f29707a8f687efef8d161c0d","features":{},"yanked":false}
