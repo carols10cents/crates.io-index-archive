@@ -1,1 +1,2 @@
 {"name":"natural-sort-rs","vers":"0.1.0","deps":[],"cksum":"3548beba71f6e97dd3a14f4dcb370af54e67c28fe94c8fe77dd7d5d9e8daf83f","features":{"alloc":[],"default":["alloc"]},"yanked":false}
+{"name":"natural-sort-rs","vers":"0.1.1","deps":[],"cksum":"a82894acea12c9929f17bc395fc17ed1d23b4caec2812a275711ad6d3adcf757","features":{"alloc":[],"default":["alloc"]},"yanked":false}
