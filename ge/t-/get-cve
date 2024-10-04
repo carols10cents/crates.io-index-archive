@@ -1,1 +1,2 @@
 {"name":"get-cve","vers":"0.0.0","deps":[{"name":"regex","req":"^1.11.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5bd7195e2e1a5c2a0443610e3f21e04f59243d1d0a6b6e8311fa3257382ce380","features":{},"yanked":false}
+{"name":"get-cve","vers":"0.0.1","deps":[{"name":"regex","req":"^1.11.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6ca2ebb4efcbea5629f95d99a4a4729a810921f8929b83dd8a92cc64c8f3d67b","features":{},"yanked":false}
