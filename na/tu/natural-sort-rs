@@ -1,0 +1,1 @@
+{"name":"natural-sort-rs","vers":"0.1.0","deps":[],"cksum":"3548beba71f6e97dd3a14f4dcb370af54e67c28fe94c8fe77dd7d5d9e8daf83f","features":{"alloc":[],"default":["alloc"]},"yanked":false}
