@@ -22,3 +22,4 @@
 {"name":"tinymist-assets","vers":"0.11.23","deps":[],"cksum":"4de212436ee9bd3d704e6287abfd25843b5b6f388bc33eb8c53a8d0d72321468","features":{"typst-preview":[]},"yanked":false}
 {"name":"tinymist-assets","vers":"0.11.24-rc1","deps":[],"cksum":"4906ee79291373cdbed9aa3d172a6e15b6b0b496ad8c213796b0bf9df7baf983","features":{"typst-preview":[]},"yanked":false}
 {"name":"tinymist-assets","vers":"0.11.28","deps":[],"cksum":"a08ac1383bf5177ca572a0f88fb2175373ebe591d0c1bde0b85d6e0fa25d2f6b","features":{"typst-preview":[]},"yanked":false}
+{"name":"tinymist-assets","vers":"0.11.29-rc1","deps":[],"cksum":"29fc8b5bdee3573da3a2a9fa9dbbac1820492998edbadb8f4aa2a54823b2a5f2","features":{"typst-preview":[]},"yanked":false}
