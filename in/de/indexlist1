@@ -1,0 +1,1 @@
+{"name":"indexlist1","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.5.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"rand","req":"^0.5.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"b0b247cc596d78217520a4047c293f69538844787759e4f16b36d734d3e3cb8f","features":{},"yanked":false}
