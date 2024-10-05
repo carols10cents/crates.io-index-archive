@@ -1,0 +1,1 @@
+{"name":"amber_dchat_rpc_utils","vers":"0.0.1","deps":[{"name":"tokio","req":"^1","features":["net"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"19e5f413ce5d211e020d02b94e816257b88bf59c993202d722445678e82c520d","features":{},"yanked":false}
