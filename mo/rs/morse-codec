@@ -1,0 +1,1 @@
+{"name":"morse-codec","vers":"0.1.0","deps":[{"name":"keyboard_query","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"0242faa97469c834eaca44fa99739fc4d4e5bad916a5b227b72f39beb45548f5","features":{"decoder":[],"default":["decoder","encoder"],"encoder":[]},"yanked":false}
