@@ -34,3 +34,4 @@
 {"name":"futures-io","vers":"0.3.28","deps":[],"cksum":"4fff74096e71ed47f8e023204cfd0aa1289cd54ae5430a9523be060cdb849964","features":{"default":["std"],"std":[],"unstable":[]},"yanked":false,"rust_version":"1.36"}
 {"name":"futures-io","vers":"0.3.29","deps":[],"cksum":"8bf34a163b5c4c52d0478a4d757da8fb65cabef42ba90515efee0f6f9fa45aaa","features":{"default":["std"],"std":[],"unstable":[]},"yanked":false,"rust_version":"1.36"}
 {"name":"futures-io","vers":"0.3.30","deps":[],"cksum":"a44623e20b9681a318efdd71c299b6b222ed6f231972bfe2f224ebad6311f0c1","features":{"default":["std"],"std":[],"unstable":[]},"yanked":false,"rust_version":"1.36"}
+{"name":"futures-io","vers":"0.3.31","deps":[],"cksum":"9e5c1b78ca4aae1ac06c48a526a655760685149f0d465d21f37abfe57ce075c6","features":{"default":["std"],"std":[],"unstable":[]},"yanked":false,"rust_version":"1.36"}
