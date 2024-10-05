@@ -1,0 +1,1 @@
+{"name":"mockpipe","vers":"0.1.1","deps":[{"name":"criterion","req":"^0.5.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"4caadf15dd1509f53d9454765cf21f0116992b552bf41722c5804e44862d14d4","features":{},"yanked":false,"rust_version":"1.59.0"}
