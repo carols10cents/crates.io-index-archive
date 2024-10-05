@@ -6,3 +6,4 @@
 {"name":"cronrunner","vers":"2.6.0","deps":[],"cksum":"9651c23662e70bdd2e3bcf90a05ce3d02990ab811c961b5b02d4fc4a13539f87","features":{},"yanked":false}
 {"name":"cronrunner","vers":"2.7.0","deps":[],"cksum":"dbdebb0f8eed418fd23bbf96367a7acce14677f2980956908830a1edbfd56d02","features":{},"yanked":false}
 {"name":"cronrunner","vers":"2.8.0","deps":[],"cksum":"5cfcac64323a5153911f9ae03919330ae1e69544b3f29f9d6d627dd41db53e8a","features":{},"yanked":false}
+{"name":"cronrunner","vers":"2.9.0","deps":[],"cksum":"daf42dbe22e5c04e42d3377450e7de0fb627fe09bb9c2b58fe52b12c1b5f9ba8","features":{},"yanked":false}
