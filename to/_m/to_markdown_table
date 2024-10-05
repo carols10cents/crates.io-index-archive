@@ -1,1 +1,2 @@
 {"name":"to_markdown_table","vers":"0.1.1","deps":[{"name":"thiserror","req":"^1.0.58","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"41179bb6a05f932be920dad7281545cca24b179fa92bf94d58d1d2cd958aaf54","features":{},"yanked":false}
+{"name":"to_markdown_table","vers":"0.1.2","deps":[{"name":"thiserror","req":"^1.0.58","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b49fcc6b3545f538d1ca6799a2607c81625e508a8ba29bdb389bfbfc0e76c965","features":{},"yanked":false}
