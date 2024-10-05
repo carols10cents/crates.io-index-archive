@@ -1,0 +1,1 @@
+{"name":"ulmus","vers":"0.1.0","deps":[{"name":"crossterm","req":"^0.28.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"walkdir","req":"^2.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"0e37b72e9c636f50668f73854cf9f07033b249679af3c407c3aa139577621c5e","features":{},"yanked":false}
