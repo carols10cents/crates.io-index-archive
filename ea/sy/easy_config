@@ -1,2 +1,3 @@
 {"name":"easy_config","vers":"0.1.1","deps":[],"cksum":"95353efbd242be587efd706a31810d469f9c1a56fea38d2d4fe0fbba3f19990a","features":{},"yanked":false}
 {"name":"easy_config","vers":"0.1.2","deps":[],"cksum":"e4e2aa989b367288dfd36f04bf337ce7e87136249cd82b06e4d72c19fa953f50","features":{},"yanked":false}
+{"name":"easy_config","vers":"0.2.0","deps":[{"name":"easy_config_core","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"easy_config_derive","req":"^0.1.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c3f42c8e1aef9347480b283a8d0c4078252aa2056961d930601e3f6b481553b6","features":{},"features2":{"derive":["dep:easy_config_derive"]},"yanked":false,"v":2}
