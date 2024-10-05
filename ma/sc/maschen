@@ -1,0 +1,1 @@
+{"name":"maschen","vers":"0.1.0","deps":[{"name":"thiserror","req":"^1.0.64","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"57483ed5f0eb2db9e745c0b910ae586613320a9acce4e2ce6a4c62c6acaa60ad","features":{"default":["std"],"std":[]},"yanked":false}
