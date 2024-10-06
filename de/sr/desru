@@ -7,3 +7,4 @@
 {"name":"desru","vers":"0.1.6","deps":[],"cksum":"5a5a232439aacacd9a57b07d412e97204a6b2ed2476a785ecd4c71683442e29d","features":{},"yanked":false}
 {"name":"desru","vers":"0.1.7","deps":[],"cksum":"28ba2c711e45428d096566cd7b9d3c0ed158cc83081a736ff131534280b0344e","features":{},"yanked":false}
 {"name":"desru","vers":"0.1.8","deps":[{"name":"simple-mermaid","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f56e312021fffb85a61245f2c9e0d1562466606790a650783b6133e35713d2c0","features":{},"yanked":false}
+{"name":"desru","vers":"0.1.9","deps":[{"name":"simple-mermaid","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7ae4bf045d65e195df161142bf3f7600494d4e2919cf0e3c0fbb5a98a3925d08","features":{},"yanked":false}
