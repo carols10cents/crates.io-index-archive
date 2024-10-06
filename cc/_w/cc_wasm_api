@@ -2,3 +2,4 @@
 {"name":"cc_wasm_api","vers":"0.2.0","deps":[],"cksum":"6e70ce2a128264783dc9d7daa33bf1f6ba533b9fadd05bae444df32709abada7","features":{"coroutine":[],"default":["coroutine"]},"yanked":false}
 {"name":"cc_wasm_api","vers":"0.2.1","deps":[],"cksum":"881d93900204e6a104e77739bbb90a8d986514bcb5160f3fc7116d14a810cdc7","features":{"coroutine":[],"default":["coroutine"]},"yanked":false}
 {"name":"cc_wasm_api","vers":"0.2.2","deps":[],"cksum":"df3434924d5d80b9b972e6cf62b945896c79631c9f6ef65db5f951376768f8b0","features":{"coroutine":[],"default":["coroutine"]},"yanked":false}
+{"name":"cc_wasm_api","vers":"0.3.0","deps":[],"cksum":"4de428c06c727fd4342c8cd9603a9677dbb82ad596c3398bd8d52ab50bbeb091","features":{"coroutine":[],"default":["coroutine","eval"],"eval":[]},"yanked":false}
