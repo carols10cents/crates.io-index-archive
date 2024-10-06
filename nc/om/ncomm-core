@@ -3,3 +3,4 @@
 {"name":"ncomm-core","vers":"1.1.1","deps":[],"cksum":"e16866774e82acd27c0501a86251a71a1431978da93740c6fc301e3f3ffebd9e","features":{"alloc":["nostd"],"default":["std"],"nostd":[],"std":[]},"yanked":true}
 {"name":"ncomm-core","vers":"1.1.2","deps":[],"cksum":"051e7f7d62a64bcb23c64c45277be96f88482ed5189c75e583c59b9ec3b717da","features":{"alloc":["nostd"],"default":["std"],"nostd":[],"std":[]},"yanked":false}
 {"name":"ncomm-core","vers":"1.1.3","deps":[],"cksum":"83585742454bc87061b8d8bf3da9af789d7fc8fd0a500734932f6c5b0384e90f","features":{"alloc":["nostd"],"default":["std"],"nostd":[],"std":[]},"yanked":false}
+{"name":"ncomm-core","vers":"1.1.4","deps":[],"cksum":"e7189196e124a56b8fe8010c6c89c5ab39228c5969a18cab7a3f346627548817","features":{"alloc":["nostd"],"default":["std"],"nostd":[],"std":[]},"yanked":false}
