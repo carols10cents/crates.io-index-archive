@@ -1,2 +1,3 @@
 {"name":"slice_map","vers":"0.1.0","deps":[],"cksum":"0836376fd58ea728cca2420c68e8462606b740655e9b2029414451dbb824152c","features":{"array":[],"vec":[]},"yanked":false}
 {"name":"slice_map","vers":"0.1.1","deps":[],"cksum":"102ebe48f1647338a2014c09d2211bfeaed5b61b34359b2daa283b0d0bb11028","features":{"array":[],"vec":[]},"yanked":false}
+{"name":"slice_map","vers":"0.1.2","deps":[],"cksum":"b85fc3c6c46cb4af633cde72661bce018311b4008060699e5c13ef9bb200b34a","features":{"array":[],"vec":[]},"yanked":false}
