@@ -1,3 +1,4 @@
 {"name":"http-scrap","vers":"0.1.0","deps":[],"cksum":"024402c805d130c73bb26d27f3a02c0ee7b5bd95d0a6da843d27303cf6e28666","features":{},"yanked":false}
 {"name":"http-scrap","vers":"0.1.1","deps":[],"cksum":"72c6d571fedcb916a01e92831d03ce7fef80f79aa5e303ad7316effb43f1cb16","features":{},"yanked":false}
 {"name":"http-scrap","vers":"0.1.11","deps":[],"cksum":"b5d819cbef226fcbbca071bbc2c22a35be5adc21bb9f13f8a78c2b765abb40da","features":{},"yanked":false}
+{"name":"http-scrap","vers":"0.1.110","deps":[],"cksum":"59eb53eedfdbbf32cfac9e87cbd5425d73f9e7c69231a1e4bb4cec716458d5a1","features":{},"yanked":false}
