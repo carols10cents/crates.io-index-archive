@@ -7,3 +7,4 @@
 {"name":"mutcursor","vers":"0.1.6","deps":[],"cksum":"ecd0ce5d44d496916fc7693fbfc27a9b88d71235672b1a675a01205472bb0446","features":{"no_std":[]},"yanked":false}
 {"name":"mutcursor","vers":"0.1.7","deps":[],"cksum":"c0b042f3fd2755aa4c757a1782437d969f8fd01e6bc8936e0126322bef99b109","features":{"no_std":[]},"yanked":false}
 {"name":"mutcursor","vers":"0.1.8","deps":[],"cksum":"e93a7b023307a63f34f76ed2d0cf8f1d9988971999f980b290d12fda68f561d7","features":{"no_std":[]},"yanked":false}
+{"name":"mutcursor","vers":"0.1.9","deps":[],"cksum":"26192faf4984dc2598e08d0f49f7f62a536264922a60922688deaa8241e5e539","features":{"no_std":[]},"yanked":false}
