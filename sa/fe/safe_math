@@ -7,3 +7,4 @@
 {"name":"safe_math","vers":"1.0.1","deps":[],"cksum":"246ab022be5ce2528db3bbaa5c0deb55864f74f46186e7ae729c8da8060a6686","features":{},"yanked":false}
 {"name":"safe_math","vers":"1.0.2","deps":[],"cksum":"f18d77d7ed5bcafa767cfd7c95b30428d623389e26e06b3ba58682ec3df424a6","features":{},"yanked":false}
 {"name":"safe_math","vers":"1.0.3","deps":[],"cksum":"d59c10cd073f598355f8420c2f0a164d9a3c96e67fc8956f08d48a3821bdb92e","features":{},"yanked":false}
+{"name":"safe_math","vers":"1.1.0","deps":[],"cksum":"a21b1bb4ef0a011fc98ad79a4a4f12163ba6f680b736c54d65f1c7d6bf13c025","features":{},"yanked":false}
