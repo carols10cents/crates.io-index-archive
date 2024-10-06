@@ -1,0 +1,1 @@
+{"name":"ac-qu-ai-nt-gui-eframe","vers":"0.0.1","deps":[{"name":"tracing","req":"^0.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"209ed4a8a4b06005271e1bcd7cdf32e41d529e23946c45442e70a78951bf9dac","features":{},"features2":{"default":["tracing"],"tracing":["dep:tracing"]},"yanked":false,"rust_version":"1.76","v":2}
