@@ -1,1 +1,2 @@
 {"name":"dotenv_plus","vers":"0.1.0","deps":[{"name":"dotenvy","req":"^0.15.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6383b9351404b606bfdc1dc7282de46e76377e187d8863e259bfa0355eea9bd7","features":{},"yanked":false}
+{"name":"dotenv_plus","vers":"0.2.0","deps":[{"name":"dotenvy","req":"~0.15.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e13d459876d6d0b8b495481a7ed022ae7a1a42b0e0cb1c3173dd3dafe58ffcca","features":{},"yanked":false}
