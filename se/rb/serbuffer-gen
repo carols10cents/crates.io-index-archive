@@ -12,3 +12,4 @@
 {"name":"serbuffer-gen","vers":"1.2.6","deps":[],"cksum":"cf0e98934d124fbb07544756ce3c4d76ce833401b8c3c20004fb92e8bac7ce85","features":{},"yanked":false}
 {"name":"serbuffer-gen","vers":"1.3.0","deps":[],"cksum":"6960bb1a2b1067121c0f1615b8c5c543bac4cba9f1bae4b9811458b96062a980","features":{},"yanked":false}
 {"name":"serbuffer-gen","vers":"1.3.1","deps":[],"cksum":"894915bc43d510961576116f6fcdf08e63d11b4f28306c73db2aef01b9b35a81","features":{},"yanked":false}
+{"name":"serbuffer-gen","vers":"1.3.2","deps":[],"cksum":"b8f680d08cffdd5915dca2c389537be451292ef28e2e9b45f9156c5f612850cb","features":{},"yanked":false}
