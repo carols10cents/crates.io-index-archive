@@ -1,1 +1,2 @@
 {"name":"vtable-rs","vers":"0.1.0","deps":[{"name":"vtable-rs-proc-macros","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9360c7947af80e0dc4974dc8136e6045642af28fe9915b55fe38c51c3b231dc6","features":{},"yanked":false}
+{"name":"vtable-rs","vers":"0.1.1","deps":[{"name":"vtable-rs-proc-macros","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ac36bfaa846fe21ee9cbc6338319736d79250d2cc9924001831f135a4c73cf5b","features":{},"yanked":false}
