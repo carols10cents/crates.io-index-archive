@@ -1,1 +1,2 @@
 {"name":"uast","vers":"1.0.0","deps":[],"cksum":"d7a62a00ca257cb71767920e8d6738f17f34fe35dde58149f55b6a3595cdc242","features":{},"yanked":false,"rust_version":"1.80.0"}
+{"name":"uast","vers":"1.1.0","deps":[],"cksum":"dbde537da636d5af56b71c3d923f1ddedd9e3ac5b6c7bf595749993e74a29557","features":{},"yanked":false,"rust_version":"1.80.0"}
