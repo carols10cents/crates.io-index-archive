@@ -1,1 +1,2 @@
 {"name":"htmlm","vers":"0.1.0","deps":[],"cksum":"6f75b54ee126ddd9f1eeb1bae0a7a331f29f14fbe925b73db031cc7d02e4d977","features":{},"yanked":false}
+{"name":"htmlm","vers":"0.2.0","deps":[{"name":"htmlm-macro","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"25f277cb60e78d7ec6e1decae102551e53fe2a670fbb226467cbf38c4aa07175","features":{},"yanked":false}
