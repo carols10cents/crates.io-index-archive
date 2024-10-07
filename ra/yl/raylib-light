@@ -1,1 +1,2 @@
 {"name":"raylib-light","vers":"0.0.1","deps":[],"cksum":"06ca5e931b19f683b762ebf5190e7ef139bb8de85e98593cd8bd89ad233f4fc4","features":{},"yanked":false}
+{"name":"raylib-light","vers":"0.0.2","deps":[],"cksum":"9a690a23933cd33ba3e54b69b9ba36d78bf796af2e630613a4be2c1ce11c0b0c","features":{"native":[],"web":[]},"yanked":false}
