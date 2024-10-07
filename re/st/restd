@@ -2,3 +2,4 @@
 {"name":"restd","vers":"0.1.1","deps":[],"cksum":"7d18f7aeff38a14353218118a40cf259ff221abc3dcfb9d102e43d55ae5b5475","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false}
 {"name":"restd","vers":"0.1.2","deps":[],"cksum":"35820f078e8b6594ef9b4f0d2cb76dd5c13c6bab5eff2f8ef175be251dea496b","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false}
 {"name":"restd","vers":"0.1.3","deps":[],"cksum":"6ddf0999a32c9abe49645f959ab27783bed9dbb483bfc6c86bed7dbe9883eff8","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false}
+{"name":"restd","vers":"0.2.0","deps":[],"cksum":"b98052925ad8f30d7c50f1d08c4fca4809c51033274e5c8462896e39063784c4","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false}
