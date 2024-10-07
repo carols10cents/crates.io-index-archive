@@ -2,3 +2,4 @@
 {"name":"via-router","vers":"0.1.0","deps":[],"cksum":"50526ca754e8eedccf2259f66e79161cf21601b87e520a10babad3e62261da36","features":{},"yanked":false}
 {"name":"via-router","vers":"1.0.0","deps":[],"cksum":"811b85debb2704b6816002aa810ea3d32587d4d63533a753213f7f3000381d52","features":{},"yanked":false}
 {"name":"via-router","vers":"1.0.1","deps":[],"cksum":"4b7969604c4f8d7ac38dba45f258d03a1daaddb3aa53761b8b0778d02e01d093","features":{},"yanked":false}
+{"name":"via-router","vers":"2.0.0","deps":[],"cksum":"2e9394ef726d767313a10052a8278bc15d6b33ce64e079574b9475cc26b2a398","features":{},"yanked":false}
