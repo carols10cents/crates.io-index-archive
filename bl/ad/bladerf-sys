@@ -1,1 +1,2 @@
 {"name":"bladerf-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.70.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"2af2abdd01ee8202207214809eeabd9fb984b5277c5aff6c3bdb409f52c83e43","features":{},"yanked":false}
+{"name":"bladerf-sys","vers":"0.1.1","deps":[{"name":"bindgen","req":"^0.70.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"fa37b2dda40b0dcaebd56328fe55ab11dfd3c8054d1080c6c88962f109996bce","features":{},"yanked":false}
