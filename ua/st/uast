@@ -2,3 +2,4 @@
 {"name":"uast","vers":"1.1.0","deps":[],"cksum":"dbde537da636d5af56b71c3d923f1ddedd9e3ac5b6c7bf595749993e74a29557","features":{},"yanked":false,"rust_version":"1.80.0"}
 {"name":"uast","vers":"1.2.0","deps":[],"cksum":"193b08d49c56c5499e67451543a4d45255a1dc5c08f3e73b8c3a6f15bdd74e8c","features":{},"yanked":false,"rust_version":"1.80.0"}
 {"name":"uast","vers":"1.3.1","deps":[],"cksum":"7c35752d9cae86bd1c879c79edbd5766c8f30de2dae08b0a377df90687f25dbe","features":{},"yanked":false,"rust_version":"1.80.0"}
+{"name":"uast","vers":"1.4.0","deps":[],"cksum":"ebe78c034802124b28d76d1b521479a9566dadffa32900e43e8f8e3cdfee52fa","features":{},"yanked":false,"rust_version":"1.80.0"}
