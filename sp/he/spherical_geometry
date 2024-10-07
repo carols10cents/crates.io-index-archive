@@ -1,1 +1,2 @@
 {"name":"spherical_geometry","vers":"0.1.0","deps":[{"name":"nalgebra","req":"^0.33.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"93952f6f83f6bfb2761af91790db351598b834961a6273d8abcd866629c6d364","features":{},"yanked":false}
+{"name":"spherical_geometry","vers":"0.2.0","deps":[{"name":"nalgebra","req":"^0.33.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c876f146a78b3327eeccecb04e8332a23de8f789090f90443499d5a7567897cf","features":{},"yanked":false}
