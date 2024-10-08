@@ -1,1 +1,2 @@
 {"name":"cratemorelikebox","vers":"1.0.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"05480920e206a89672981fc77613122b55749d5c733a9ee56816fb4ab6e7bad2","features":{},"yanked":false}
+{"name":"cratemorelikebox","vers":"1.1.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bcb2ace515b3241113da0381a10b18c1e40f1366fd02f8550300cc34a406f23b","features":{},"yanked":false}
