@@ -4,3 +4,4 @@
 {"name":"cc_wasm_api","vers":"0.2.2","deps":[],"cksum":"df3434924d5d80b9b972e6cf62b945896c79631c9f6ef65db5f951376768f8b0","features":{"coroutine":[],"default":["coroutine"]},"yanked":false}
 {"name":"cc_wasm_api","vers":"0.3.0","deps":[],"cksum":"4de428c06c727fd4342c8cd9603a9677dbb82ad596c3398bd8d52ab50bbeb091","features":{"coroutine":[],"default":["coroutine","eval"],"eval":[]},"yanked":false}
 {"name":"cc_wasm_api","vers":"0.3.1","deps":[],"cksum":"4ba42f6a36f35d4038c3bc44935b09d7d93d18012ccc7881a3a36422808188df","features":{"coroutine":[],"default":["coroutine","eval"],"eval":[]},"yanked":false}
+{"name":"cc_wasm_api","vers":"0.4.1","deps":[],"cksum":"59ec114e772958caa225297d2e0e653348d710e58531dde92057343859aa966d","features":{"coroutine":[],"default":["coroutine","eval"],"eval":[]},"yanked":false}
