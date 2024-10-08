@@ -1,1 +1,2 @@
 {"name":"linelint","vers":"0.0.1","deps":[{"name":"ignore","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"58bfe8f01f480cb8f11836c8de35d4c6401b4be0bfcc1df49bbd32cd883673a3","features":{},"yanked":false}
+{"name":"linelint","vers":"0.0.2","deps":[{"name":"ignore","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e028c68e65e00cc3c569c6d07968133c02c5a7b71abd826eb67b611529f91532","features":{},"yanked":false}
