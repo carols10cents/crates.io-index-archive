@@ -1,0 +1,1 @@
+{"name":"random-picker","vers":"0.2.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"74fc916edbff2cf65947b97e0d676d381fe0c679c8810c03882234508304f673","features":{},"yanked":false}
