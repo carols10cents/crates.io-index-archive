@@ -1,0 +1,1 @@
+{"name":"casespaetzle","vers":"0.1.0","deps":[{"name":"casespaetzle-macro","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"32c284d214bbbf71e19cf3dba2e73fd008f85b6a5eb4a9882eeb86d91fa96eda","features":{},"yanked":false}
