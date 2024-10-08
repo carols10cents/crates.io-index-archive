@@ -9,3 +9,4 @@
 {"name":"uast","vers":"1.4.4","deps":[],"cksum":"4af691c131b2e9723782c8e0f9aac7370b93cf77bf9f6918c5e8eac466303583","features":{},"yanked":false}
 {"name":"uast","vers":"1.4.5","deps":[],"cksum":"170feb9b2c4c9d4bb27f3559441de355a9574aea21cb0497173e035859cfcf0e","features":{},"yanked":false}
 {"name":"uast","vers":"2.0.0","deps":[],"cksum":"293c17f4d58839d08f59a872c11af8e0ac9260016ceb46d640899213cd4dd5e7","features":{},"yanked":false}
+{"name":"uast","vers":"3.0.0","deps":[],"cksum":"0bcbb543ecacc4d55ce2a857f3e3fd6b8b9fa9cb1dcb49de36ce30b2088bf048","features":{},"yanked":false}
