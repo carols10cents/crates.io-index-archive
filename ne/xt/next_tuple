@@ -7,3 +7,4 @@
 {"name":"next_tuple","vers":"0.1.0-beta6","deps":[],"cksum":"04cacfe8c787c6beb1ccc7c9a301dd97ba6db1c03df16f7d2988380e12ef174a","features":{},"yanked":true,"rust_version":"1.76"}
 {"name":"next_tuple","vers":"0.1.0-beta7","deps":[],"cksum":"574c2339747c1d45c5b36b2e180646a3938cb0eb8b9648f7ebc0f0232c8f414c","features":{},"yanked":false,"rust_version":"1.76"}
 {"name":"next_tuple","vers":"0.1.0-gamma","deps":[],"cksum":"753d52344289079cbb9bf3dcc1e9d8acbd45ad02c1ba5e2f0aad4b416644d94e","features":{},"yanked":false,"rust_version":"1.76"}
+{"name":"next_tuple","vers":"0.1.0-gamma2","deps":[],"cksum":"550cf708f0dd373c47d2d6092fc3c38826147afa57cf2f646ed7306b6b2a7f62","features":{},"yanked":false,"rust_version":"1.76"}
