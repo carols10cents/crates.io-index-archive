@@ -5,3 +5,4 @@
 {"name":"zerror","vers":"0.4.0","deps":[],"cksum":"c0425ed5c8505b6941d415a9b57ab47e710f17e2b0a967f6129ac7e65be1587e","features":{},"yanked":false}
 {"name":"zerror","vers":"0.5.0","deps":[],"cksum":"4161a24886e073c958ea79f1b6bad3f0a6b8329be8054b4acdfc59799c4eaec5","features":{},"yanked":false}
 {"name":"zerror","vers":"0.6.0","deps":[],"cksum":"a297c8dce1db7ec705ac689dbeffe41b2aa8ab628c94bcfd2a5e7c43452e25bb","features":{},"yanked":false}
+{"name":"zerror","vers":"0.7.0","deps":[],"cksum":"4335261cbb6af66e8188d32bd22fe9434fba06b2b03cbe1d4dc49820efb749e3","features":{},"yanked":false}
