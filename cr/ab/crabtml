@@ -1,1 +1,2 @@
 {"name":"crabtml","vers":"0.1.0","deps":[{"name":"nom","req":"^7.1.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7857c3cac3d55ba3c29899503228726b11cf663e9a21a03171e4b0b620bd3a1f","features":{},"yanked":false}
+{"name":"crabtml","vers":"0.1.1","deps":[{"name":"nom","req":"^7.1.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"399d6e8770ff123aa0d9d0c161c18b75d656b30f1f9c4b293f1289ebdb027434","features":{},"yanked":false}
