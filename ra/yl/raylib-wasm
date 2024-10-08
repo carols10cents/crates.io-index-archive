@@ -2,3 +2,4 @@
 {"name":"raylib-wasm","vers":"0.0.6","deps":[],"cksum":"05a35aa59d81b59d718192f970f9b5df2db695cdd130551b8bd3ca3a5d7096d5","features":{"native":[],"web":[]},"yanked":false}
 {"name":"raylib-wasm","vers":"0.0.8","deps":[],"cksum":"498abc45dcb6c2d3f4fd4478d0e1dedb0d215a9bf9ff1eb678f0b68ec11e7634","features":{"native":[],"web":[]},"yanked":false}
 {"name":"raylib-wasm","vers":"0.0.9","deps":[],"cksum":"8c80498557c718f1538f5ec6221897cddf8c2bd1256efc9e539a3e04f314a347","features":{"native":[],"web":[]},"yanked":false}
+{"name":"raylib-wasm","vers":"0.0.10","deps":[],"cksum":"e359ea9150a92df52d79b86dc6f3fc7e38e887b652ee924a6ccefe7c1f2c2a06","features":{"native":[],"web":[]},"yanked":false}
