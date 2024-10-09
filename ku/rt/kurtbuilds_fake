@@ -1,0 +1,1 @@
+{"name":"kurtbuilds_fake","vers":"0.1.0","deps":[{"name":"fake","req":"^2.10.0","features":["derive","chrono","uuid"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"eab8b1a028a46bb1c76b7f99231ed6fadd05c0d64ce4d96a615255c3a0fb8982","features":{"chrono":["fake/chrono"],"derive":["fake/derive"],"uuid":["fake/uuid"]},"yanked":false}
