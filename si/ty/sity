@@ -1,0 +1,1 @@
+{"name":"sity","vers":"0.2.0","deps":[{"name":"sealed","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3c747b91243af6246001085e8ed7d950c231c327a05358cb3bcb41e6afa165a5","features":{},"yanked":false}
