@@ -1,0 +1,1 @@
+{"name":"libxdc-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.70.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"b11603f29886a10c0ce1b12973127bb1e44b40d2578e2f74b6feef1c0b68823b","features":{},"yanked":false,"links":"capstone"}
