@@ -1,2 +1,3 @@
 {"name":"stack_frame_allocators","vers":"0.1.0","deps":[],"cksum":"c75996dbae685dc0be023008dd7f0b87c4f54f57218dde320ad2fed2164e03de","features":{},"yanked":false}
 {"name":"stack_frame_allocators","vers":"1.0.0","deps":[],"cksum":"30a7175fc17b5a8e4c61f28289cd8f8efcefa420b02d491646eee26c240c6917","features":{},"yanked":false}
+{"name":"stack_frame_allocators","vers":"1.1.0","deps":[],"cksum":"d081a93b291ecaae27a9dd98def5167bf3aabbf12971791f8de992947c572e08","features":{},"yanked":false}
