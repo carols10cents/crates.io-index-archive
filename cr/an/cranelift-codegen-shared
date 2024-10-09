@@ -126,3 +126,4 @@
 {"name":"cranelift-codegen-shared","vers":"0.112.2","deps":[],"cksum":"0f72016ac35579051913f4f07f6b36c509ed69412d852fd44c8e1d7b7fa6d92a","features":{},"yanked":false,"rust_version":"1.78.0"}
 {"name":"cranelift-codegen-shared","vers":"0.109.1","deps":[],"cksum":"315a326e9f63b996f55e93b73a9a239b55f2de1211fcfbcc99d9423f44dc6ded","features":{},"yanked":false}
 {"name":"cranelift-codegen-shared","vers":"0.110.3","deps":[],"cksum":"efcff860573cf3db9ae98fbd949240d78b319df686cc306872e7fab60e9c84d7","features":{},"yanked":false}
+{"name":"cranelift-codegen-shared","vers":"0.108.2","deps":[],"cksum":"ab78a22ec023f93fd580080a95342470b575228b019f5f13b76536703d337383","features":{},"yanked":false}
