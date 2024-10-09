@@ -1,0 +1,1 @@
+{"name":"commonware-utils","vers":"0.0.1","deps":[{"name":"bytes","req":"^1.7.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2206709c3da89308aa5bd1e09a3341d9c89c21c503e22ca9b45a48bf0e3bbc27","features":{},"yanked":false}
