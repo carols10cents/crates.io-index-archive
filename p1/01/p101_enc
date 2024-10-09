@@ -1,0 +1,1 @@
+{"name":"p101_enc","vers":"0.9.0","deps":[{"name":"p101_is","req":"0.9.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d0b0e854878e96e446ee881c7982d3135d52174b90bc3d854405e6d8c969a9ba","features":{},"yanked":false}
