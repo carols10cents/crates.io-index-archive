@@ -32,3 +32,4 @@
 {"name":"wasmtime-wmemcheck","vers":"24.0.0","deps":[],"cksum":"8c99a2680d7ff4fa07cd3c26968275581497c212ea40a556ea69b9436f6f6392","features":{},"yanked":false}
 {"name":"wasmtime-wmemcheck","vers":"25.0.0","deps":[],"cksum":"d901f9f52267430c0d5e2267f2543d8c464485bfe98d27100c5a6c52ba80b070","features":{},"yanked":false,"rust_version":"1.78.0"}
 {"name":"wasmtime-wmemcheck","vers":"25.0.1","deps":[],"cksum":"7cdc6247af943c3891d4cb2a24b7bca5678df5d2a0c81e9c7f3a22f9af668121","features":{},"yanked":false,"rust_version":"1.78.0"}
+{"name":"wasmtime-wmemcheck","vers":"25.0.2","deps":[],"cksum":"2d4c166ba18cc9471b153fdd1e20e370a4fb2d9f5264d7a0a744b998f0f0a335","features":{},"yanked":false,"rust_version":"1.78.0"}
