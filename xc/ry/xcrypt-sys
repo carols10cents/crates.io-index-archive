@@ -1,0 +1,1 @@
+{"name":"xcrypt-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.70.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"70a680fd3038d10ef74bbd3e67c184ae4d51d043250723fae415a21a49b96e75","features":{},"yanked":false}
