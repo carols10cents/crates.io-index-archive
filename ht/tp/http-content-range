@@ -2,3 +2,4 @@
 {"name":"http-content-range","vers":"0.1.1","deps":[],"cksum":"e5ddd8af5a27fc79e5fdd87420e8d2f2433f599d6e6299a2585c908a78b3db30","features":{},"yanked":false}
 {"name":"http-content-range","vers":"0.1.2","deps":[],"cksum":"9f0d1a8ef218a86416107794b34cc446958d9203556c312bb41eab4c924c1d2e","features":{},"yanked":false}
 {"name":"http-content-range","vers":"0.1.3","deps":[],"cksum":"162948b27201b0f0eb2691726b03694ecab6d670916949796f9e6cb3637c4e7c","features":{},"yanked":false,"rust_version":"1.58.1"}
+{"name":"http-content-range","vers":"0.1.4","deps":[],"cksum":"aa7929c876417cd3ece616950474c7dff5b0150a2b53bd7e7fda55afa086c22b","features":{},"yanked":false,"rust_version":"1.58.1"}
