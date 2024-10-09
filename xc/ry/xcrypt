@@ -1,0 +1,1 @@
+{"name":"xcrypt","vers":"0.1.0","deps":[{"name":"xcrypt-sys","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4834a40c0ea1b4f0b49d6740c0ca83056e8789ca0870d1b4d384392b7a8c5963","features":{},"yanked":false}
