@@ -1,2 +1,3 @@
 {"name":"get_dir","vers":"0.1.0","deps":[],"cksum":"d25d9f4a1bfb39534231464112394ff014d435370037b99679c8ce0600eb9b1b","features":{},"yanked":false}
 {"name":"get_dir","vers":"0.1.1","deps":[],"cksum":"6544b902eb47dfd1dea2aa2b2e22cd8a05f8f60eee1365b0f9b4b035f9008fec","features":{},"yanked":false}
+{"name":"get_dir","vers":"0.2.0","deps":[],"cksum":"637ddf0c274bdf2365d5c48b15d322177f8c0d9a8e2e15aec78ad18f30e29055","features":{},"yanked":false}
