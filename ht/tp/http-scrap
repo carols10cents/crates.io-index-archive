@@ -8,3 +8,4 @@
 {"name":"http-scrap","vers":"0.1.1122","deps":[],"cksum":"2418ed06a1aeccf4525e5020ad15cd228711f8b7cbebe07d4269c7d4e4f91a34","features":{},"yanked":false}
 {"name":"http-scrap","vers":"0.1.1123","deps":[],"cksum":"3b02b068fe0ff4755a63137c8411af9ed1759b6aeb48bb78ffa352f111d2fe02","features":{},"yanked":false}
 {"name":"http-scrap","vers":"0.1.1124","deps":[],"cksum":"571e89b5d321607839f43c1ea5de8cc931556a4a7e2a261cfe250b4dbb607456","features":{},"yanked":false}
+{"name":"http-scrap","vers":"0.1.1125","deps":[],"cksum":"56d651891459605cdc40849bbb244d64a9aa15744ceafb15b710ff47abb5b2f2","features":{},"yanked":false}
