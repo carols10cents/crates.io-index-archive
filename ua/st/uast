@@ -12,3 +12,4 @@
 {"name":"uast","vers":"3.0.0","deps":[],"cksum":"0bcbb543ecacc4d55ce2a857f3e3fd6b8b9fa9cb1dcb49de36ce30b2088bf048","features":{},"yanked":false}
 {"name":"uast","vers":"3.0.1","deps":[],"cksum":"b0b8e0554148eed4dfebe910b525b562f932d5446fd37553453a5cddedac6bfe","features":{},"yanked":false}
 {"name":"uast","vers":"3.0.2","deps":[],"cksum":"ea8a4aa06d54af1dd7fafb708f2944edd286e17ca91ec14b2a679eed75465bc6","features":{},"yanked":false}
+{"name":"uast","vers":"3.0.3","deps":[],"cksum":"adaeb8a2105c932b12a32c623e13a1a6e80ecdd305e1c99da3db82b158f10081","features":{},"yanked":false}
