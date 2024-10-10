@@ -1,1 +1,1 @@
-{"name":"polite-programming","vers":"0.1.0","deps":[{"name":"regex","req":"^1.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7152d497a21b9e22f675c7910f35329eb5845f745b11c57ea1e2d2e7f05c5783","features":{},"yanked":false}
+{"name":"polite-programming","vers":"0.1.0","deps":[{"name":"regex","req":"^1.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7152d497a21b9e22f675c7910f35329eb5845f745b11c57ea1e2d2e7f05c5783","features":{},"yanked":true}
