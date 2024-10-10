@@ -28,3 +28,4 @@
 {"name":"eclectica","vers":"0.8.4","deps":[],"cksum":"57e64ca839d6fe291ff354e85af1add34002725b817fe307e346b13fb2235482","features":{},"yanked":false}
 {"name":"eclectica","vers":"0.8.5","deps":[],"cksum":"0a221ed58bf3684be38aaa6513e4b967f34d4f4f31bb49ce47f1a1b1c5dc173f","features":{},"yanked":false}
 {"name":"eclectica","vers":"0.8.6","deps":[],"cksum":"b034ae6ae0ba56646bd17ef8bf3c4ffe23664c824920eaa492696dd4fe120364","features":{},"yanked":false}
+{"name":"eclectica","vers":"0.9.0","deps":[],"cksum":"eeada0260fec9ce10e736c05efcf36d8b174798e373cdf18591d58bfac0c1a27","features":{},"yanked":false}
