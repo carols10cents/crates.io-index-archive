@@ -1,2 +1,3 @@
 {"name":"welly-parser","vers":"0.1.0","deps":[],"cksum":"cb4aa244eb9f4255c13c0ffde97cc6cc739286e29943eed249820fa1f6af35fa","features":{},"yanked":false,"rust_version":"1.63"}
 {"name":"welly-parser","vers":"0.1.1","deps":[],"cksum":"a2f6c0e052e5101d6b3a072d5106e68b37a59b4c3a3b2e5fca57332c3b7a8994","features":{},"yanked":false,"rust_version":"1.63"}
+{"name":"welly-parser","vers":"0.1.2","deps":[],"cksum":"a9a83d0179a989572fd8a582232e3b05c149c326e3db05d127cb8d6be87af97b","features":{},"yanked":false,"rust_version":"1.63"}
