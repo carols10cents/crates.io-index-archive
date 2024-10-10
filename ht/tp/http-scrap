@@ -2,7 +2,7 @@
 {"name":"http-scrap","vers":"0.1.1","deps":[],"cksum":"72c6d571fedcb916a01e92831d03ce7fef80f79aa5e303ad7316effb43f1cb16","features":{},"yanked":true}
 {"name":"http-scrap","vers":"0.1.11","deps":[],"cksum":"b5d819cbef226fcbbca071bbc2c22a35be5adc21bb9f13f8a78c2b765abb40da","features":{},"yanked":true}
 {"name":"http-scrap","vers":"0.1.110","deps":[],"cksum":"59eb53eedfdbbf32cfac9e87cbd5425d73f9e7c69231a1e4bb4cec716458d5a1","features":{},"yanked":true}
-{"name":"http-scrap","vers":"0.1.111","deps":[],"cksum":"fbae75b7f06ad03196df809f31a8e87cb804f46fc1cbcdf39c913e845743d44e","features":{},"yanked":false}
+{"name":"http-scrap","vers":"0.1.111","deps":[],"cksum":"fbae75b7f06ad03196df809f31a8e87cb804f46fc1cbcdf39c913e845743d44e","features":{},"yanked":true}
 {"name":"http-scrap","vers":"0.1.112","deps":[],"cksum":"f94a641ae6df58d75b263a83cea2f0a34e116831ca8fef49fd7d25dd93347114","features":{},"yanked":false}
 {"name":"http-scrap","vers":"0.1.1121","deps":[],"cksum":"cf9ee48ca9481fec34f77e352de722846021a49b38d096de36aa858b2db355be","features":{},"yanked":false}
 {"name":"http-scrap","vers":"0.1.1122","deps":[],"cksum":"2418ed06a1aeccf4525e5020ad15cd228711f8b7cbebe07d4269c7d4e4f91a34","features":{},"yanked":false}
