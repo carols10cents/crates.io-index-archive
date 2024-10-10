@@ -1,0 +1,1 @@
+{"name":"yt-sub","vers":"0.0.1","deps":[{"name":"tokio","req":"^1.40","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b631556d00604a234d70f4fe5a19d09a57d293e059e0cf8c97959177f14f0174","features":{},"yanked":false}
