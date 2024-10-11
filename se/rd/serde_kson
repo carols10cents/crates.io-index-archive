@@ -1,0 +1,1 @@
+{"name":"serde_kson","vers":"0.1.0","deps":[{"name":"serde_json","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a14d73e512c6029cfe639890a273ae6f6201d19b5dddd09103d5f6a33efe1374","features":{},"yanked":false}
