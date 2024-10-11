@@ -1,0 +1,1 @@
+{"name":"bevy_fly_cam","vers":"0.1.0","deps":[{"name":"bevy","req":"^0.14","features":["bevy_core_pipeline"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"6ee12759d1cc8175d20304ff904c99b7b54ce872960951bafae8c09ed270c078","features":{},"yanked":false}
