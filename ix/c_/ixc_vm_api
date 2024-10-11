@@ -1,0 +1,1 @@
+{"name":"ixc_vm_api","vers":"0.0.1","deps":[{"name":"ixc_message_api","req":"^0.0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"381165a12ea5c552b94aa34d21c5d7297924ea676985823fcd9965c761a318c2","features":{},"yanked":false}
