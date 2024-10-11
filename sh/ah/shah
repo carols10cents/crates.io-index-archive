@@ -1,0 +1,1 @@
+{"name":"shah","vers":"0.0.1","deps":[{"name":"log","req":"^0.4.22","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"shah-macros","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d15508fb1da042970ca308eca3e2330dbcd541d72c40b25ed35e736bbb7d7231","features":{},"yanked":false}
