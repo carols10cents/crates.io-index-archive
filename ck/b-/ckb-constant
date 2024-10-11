@@ -79,3 +79,4 @@
 {"name":"ckb-constant","vers":"0.118.0-rc1","deps":[],"cksum":"fa8366502d3bcde002fee339e2381880ddb10d749a1292f9007eaaecd08ddda9","features":{},"yanked":false}
 {"name":"ckb-constant","vers":"0.118.0-rc2","deps":[],"cksum":"926a309f1bd3a135d32b0bc3cb7d270410d94417cbb09bc69299d1bc705eaebe","features":{},"yanked":false}
 {"name":"ckb-constant","vers":"0.118.0","deps":[],"cksum":"fce0d46bfe7d555b60e7e1b589643bcd2d6a40e4cc0a04c5e9412dbb30c1f206","features":{},"yanked":false}
+{"name":"ckb-constant","vers":"0.119.0-rc1","deps":[],"cksum":"2f1d1d4969e707421246acac22873145e89549faca505f156b78c749dab2b47d","features":{},"yanked":false}
