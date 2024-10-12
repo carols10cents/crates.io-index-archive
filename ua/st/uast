@@ -17,3 +17,4 @@
 {"name":"uast","vers":"3.0.5","deps":[],"cksum":"59b2b257a64f1204f86b84df6be34facc2ffd88541af096a45c8a0ce0044de5c","features":{},"yanked":false}
 {"name":"uast","vers":"3.0.6","deps":[],"cksum":"17925409ea9d331d55aea9f6c48f0cc8ae7d90bfb6678147cab59335233afaef","features":{},"yanked":false}
 {"name":"uast","vers":"3.0.7","deps":[],"cksum":"83b196183db2bc54649ece0689c2a440dbc569766e84c5b020de3b823aa96c0a","features":{},"yanked":false}
+{"name":"uast","vers":"3.0.8","deps":[],"cksum":"dc3b308dba06156c74b8bc1dd63dd88b75398c55787c399bb05d0b1077b00ab2","features":{},"yanked":false}
