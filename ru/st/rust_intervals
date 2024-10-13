@@ -1,0 +1,1 @@
+{"name":"rust_intervals","vers":"0.1.0","deps":[{"name":"chrono","req":"^0.4.24","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"274f7afbdbe3b6e071a3e68767c770b865ba5396522cdd699aff58dd9c56bf49","features":{},"yanked":false}
