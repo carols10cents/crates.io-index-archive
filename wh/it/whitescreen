@@ -1,0 +1,1 @@
+{"name":"whitescreen","vers":"1.0.0","deps":[{"name":"bevy","req":"^0.14.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"46c58f04fefbb216c53272eab36e24b8e2395adaad5462ea11f57436c6ba7e21","features":{},"yanked":false}
