@@ -1,1 +1,2 @@
 {"name":"ad_event","vers":"0.1.0","deps":[{"name":"simple_test_case","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"83db0f68f28196cc8ee78e4a0c0e6c44e19f8e64dc68e2d7ea8f0bc93ccd5bfd","features":{},"yanked":false}
+{"name":"ad_event","vers":"0.1.1","deps":[{"name":"simple_test_case","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"dcb5aecb01599ac5690b9d0c24c75b061658c4910b39b845cb56cb95e5379902","features":{},"yanked":false}
