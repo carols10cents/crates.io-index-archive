@@ -1,0 +1,1 @@
+{"name":"libsml-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.69.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"d042654000156cc6db8ddb7c055b273854fb4b3b926451b9861cc590a17c9fe6","features":{},"yanked":false,"links":"sml"}
