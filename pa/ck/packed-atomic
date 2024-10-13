@@ -1,0 +1,1 @@
+{"name":"packed-atomic","vers":"1.0.0","deps":[{"name":"cfg-if","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"794f0960d8eb58e07a68db7240b3f2f4b9939025eb372be3d3a62e0d99dc5422","features":{"std":[]},"yanked":false}
