@@ -1,0 +1,1 @@
+{"name":"bulletin-board-common","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0.209","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"00674ed4602d15e44b258a08da6e014b6abb37c971e91c51571d4d3bdc856b36","features":{},"yanked":false}
