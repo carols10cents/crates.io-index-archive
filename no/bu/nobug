@@ -4,3 +4,4 @@
 {"name":"nobug","vers":"0.1.3","deps":[],"cksum":"cb64eb05ae9eec5011625f9a2afef7a7112a6d09c2715364de3c44522f462251","features":{"abort_on_fail":[],"default":["abort_on_fail"]},"yanked":false,"rust_version":"1.56.1"}
 {"name":"nobug","vers":"0.1.4","deps":[],"cksum":"1f82703c3af12fbc681268d3784020fe8b2c3de7dfb432114a2e929cedac75da","features":{"abort_on_fail":[],"default":["abort_on_fail"]},"yanked":false,"rust_version":"1.79.0"}
 {"name":"nobug","vers":"0.1.5","deps":[],"cksum":"5878edec71219e872f565aa6b3329ab71a63001c337e0f65453e7d082fa9b4f6","features":{"abort_on_fail":[],"default":["abort_on_fail"]},"yanked":false,"rust_version":"1.79.0"}
+{"name":"nobug","vers":"0.1.6","deps":[],"cksum":"3e6514954ada7e6f7f77ffc82663ce6792aa3d3673b2fe86f3c150ecb6f78ea3","features":{"abort_on_fail":[],"default":["abort_on_fail"]},"yanked":false,"rust_version":"1.79.0"}
