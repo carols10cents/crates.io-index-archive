@@ -1,0 +1,1 @@
+{"name":"dupnamegen","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0.210","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"27598498f4eb110233b0fcfca0bd23e520877dfe4ecb654f9be9b6b8be3960b9","features":{},"features2":{"serde":["dep:serde"]},"yanked":false,"rust_version":"1.56","v":2}
