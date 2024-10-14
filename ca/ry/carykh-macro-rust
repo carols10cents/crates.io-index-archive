@@ -1,0 +1,1 @@
+{"name":"carykh-macro-rust","vers":"0.1.0","deps":[{"name":"english-numbers","req":"^0.3.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ee02f21171dc5d9a4bd95d06e596b2e4f0f50309b0e21f53e6e944e366a9b269","features":{},"yanked":false}
