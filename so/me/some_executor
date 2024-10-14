@@ -1,0 +1,1 @@
+{"name":"some_executor","vers":"0.1.0","deps":[{"name":"priority","req":"~0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f6e6150820f615eb115ea0b7fd16563daec88ff54240df9a280726b6cceca4dd","features":{},"yanked":false,"rust_version":"1.75.0"}
