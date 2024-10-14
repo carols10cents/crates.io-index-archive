@@ -8,3 +8,4 @@
 {"name":"next_tuple","vers":"0.1.0-beta7","deps":[],"cksum":"574c2339747c1d45c5b36b2e180646a3938cb0eb8b9648f7ebc0f0232c8f414c","features":{},"yanked":false,"rust_version":"1.76"}
 {"name":"next_tuple","vers":"0.1.0-gamma","deps":[],"cksum":"753d52344289079cbb9bf3dcc1e9d8acbd45ad02c1ba5e2f0aad4b416644d94e","features":{},"yanked":false,"rust_version":"1.76"}
 {"name":"next_tuple","vers":"0.1.0-gamma2","deps":[],"cksum":"550cf708f0dd373c47d2d6092fc3c38826147afa57cf2f646ed7306b6b2a7f62","features":{},"yanked":false,"rust_version":"1.76"}
+{"name":"next_tuple","vers":"0.1.0-gamma3","deps":[],"cksum":"3269cf6f446d3606787952f4ba564ababaf1b1d9513ccde8baeb160829e63281","features":{},"yanked":false,"rust_version":"1.76"}
