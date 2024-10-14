@@ -6,3 +6,4 @@
 {"name":"smolmatrix","vers":"0.1.5","deps":[],"cksum":"49a5446102fe646e091960215c978e82cb68870e9bbda0742290982d71b7f32b","features":{"default":["std"],"std":[]},"yanked":false}
 {"name":"smolmatrix","vers":"0.1.6","deps":[],"cksum":"ca13231e6362142b043eed0fe07c7ce90b53403f81df8bbd16743b07cb390278","features":{"default":["std"],"std":[]},"yanked":false}
 {"name":"smolmatrix","vers":"0.1.7","deps":[],"cksum":"d9c31b1f787497f3b2e2560cf6aecf043fe7a5d44d939499d4d8c2a73c24b38f","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"smolmatrix","vers":"0.1.8","deps":[],"cksum":"aa96646b53f128a0d093b853b5f3ee5401774a4bdc32fd06b43233b5740a0a8c","features":{"default":["std"],"std":[]},"yanked":false}
