@@ -3,3 +3,4 @@
 {"name":"json_proc_trait","vers":"0.1.3","deps":[],"cksum":"b21dae91702a508c5fb268c61bdb1c1abeaf29079ac6ddce2f5af22b17612901","features":{},"yanked":false}
 {"name":"json_proc_trait","vers":"0.1.4","deps":[],"cksum":"57e1bb3f90269f969721cc4751251de04fbdcac27a23bcd5b0117c1c45f2e1f6","features":{},"yanked":false}
 {"name":"json_proc_trait","vers":"0.1.5","deps":[],"cksum":"b1232c62b6ec3edc72e75ec93081f175ddb59b54f3f10732b66c005106845cf1","features":{},"yanked":false}
+{"name":"json_proc_trait","vers":"0.1.6","deps":[],"cksum":"a7417d3e01121f5276898b489a32b33c78daff981184561e1f3eca439d0f3574","features":{},"yanked":false}
