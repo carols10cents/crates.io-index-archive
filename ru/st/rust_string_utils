@@ -5,3 +5,4 @@
 {"name":"rust_string_utils","vers":"0.1.5","deps":[],"cksum":"ebe91877b2ac7d6679e14116140566546727e805eb34d75bdc1efe524cf46dff","features":{},"yanked":true}
 {"name":"rust_string_utils","vers":"0.1.6","deps":[],"cksum":"59636490ab0b37966ed8ff47a35abb10f761c1c637c0d48eeab951b8ccf7cb6e","features":{},"yanked":true}
 {"name":"rust_string_utils","vers":"0.1.7","deps":[],"cksum":"500ab14bc02de8e7c119ca0ce104fafb9e685bf4cbe512264d66bc620bd72ea6","features":{},"yanked":false}
+{"name":"rust_string_utils","vers":"0.1.8","deps":[],"cksum":"db0ea984903765560184f43db7a496519aea1e4001b15190abb2e13a694edf46","features":{},"yanked":false}
