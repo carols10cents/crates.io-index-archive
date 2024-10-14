@@ -1,3 +1,4 @@
 {"name":"spirv_combimgsampsplitter","vers":"0.1.0","deps":[],"cksum":"0e0b8f004362868692a5b95bb8c919c74926ccb61a19e08ee8007a453d4d5ba9","features":{},"yanked":false}
 {"name":"spirv_combimgsampsplitter","vers":"0.1.1","deps":[],"cksum":"5a205584c7fd4f9ed7eed42365e49197797fc6dff30a5fcd0c44dda91ef5bcc6","features":{},"yanked":false}
 {"name":"spirv_combimgsampsplitter","vers":"0.2.0","deps":[],"cksum":"555d5b166521cb2ed0dd7efc8664ac3ba3ad07b0c9a15c7efa1ed8b4c23731f9","features":{},"yanked":false}
+{"name":"spirv_combimgsampsplitter","vers":"0.2.1","deps":[],"cksum":"7e8f4de8618e1157ab44b9e5febad935fdb133bb416b884d57171603cb0cc115","features":{},"yanked":false}
