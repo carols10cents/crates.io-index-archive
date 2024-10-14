@@ -1,3 +1,4 @@
 {"name":"fmt-interspersed","vers":"0.1.0","deps":[],"cksum":"4679f13c0eed032b2818ebc16aa05aae41044a8cff681e7502a2ceb2937e26b9","features":{},"yanked":false,"rust_version":"1.56"}
 {"name":"fmt-interspersed","vers":"0.1.1","deps":[],"cksum":"c95b1d7ae3a2b7bf5705e19d3655637643d035cd3c14b0a167724788afe3c997","features":{},"yanked":false,"rust_version":"1.56"}
 {"name":"fmt-interspersed","vers":"0.1.2","deps":[],"cksum":"3f770c62d57218b800c68c486ce189b0ed439795b7d7819f7a3675f55041b431","features":{},"yanked":false,"rust_version":"1.56"}
+{"name":"fmt-interspersed","vers":"0.2.0","deps":[],"cksum":"fddc25de6dda9f8129cc3f42e013089f477b119ce243885341d1a1a45aafb45a","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false,"rust_version":"1.56"}
