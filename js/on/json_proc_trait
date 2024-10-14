@@ -5,3 +5,4 @@
 {"name":"json_proc_trait","vers":"0.1.5","deps":[],"cksum":"b1232c62b6ec3edc72e75ec93081f175ddb59b54f3f10732b66c005106845cf1","features":{},"yanked":false}
 {"name":"json_proc_trait","vers":"0.1.6","deps":[],"cksum":"a7417d3e01121f5276898b489a32b33c78daff981184561e1f3eca439d0f3574","features":{},"yanked":false}
 {"name":"json_proc_trait","vers":"0.2.0","deps":[],"cksum":"5b33ce700e42ed2c43adefc6e66ed8d3db15cdd92de603da485e39e01533509e","features":{},"yanked":false}
+{"name":"json_proc_trait","vers":"0.2.1","deps":[],"cksum":"1e659374548222a9b034d901be1c81c191458ff8fde73f6d2b9ae1c896a69fbd","features":{},"yanked":false}
