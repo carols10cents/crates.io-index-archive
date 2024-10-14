@@ -1,1 +1,2 @@
 {"name":"asciidork-meta","vers":"0.5.1","deps":[{"name":"lazy_static","req":"^1.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"57bd36a199a805b2875d52dfc1c59893231144cfa1dfadebe28f3ec623c9d79b","features":{},"yanked":false}
+{"name":"asciidork-meta","vers":"0.7.0","deps":[{"name":"lazy_static","req":"^1.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"426685ea592bc8729d8baed94b126cc4477d6066e7edc373a23f216cd10046c3","features":{},"yanked":false}
