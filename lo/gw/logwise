@@ -1,0 +1,1 @@
+{"name":"logwise","vers":"0.1.0","deps":[{"name":"logwise_proc","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9d92a379b8ed1e9b8add23f1cd2cff27471a6c416c1f2bffe2352f0e819169db","features":{},"yanked":false}
