@@ -1,1 +1,2 @@
 {"name":"huski-lib-core","vers":"1.0.0","deps":[{"name":"huski-auxies","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"9e5443796700063d1e2ffecc5271febb2af2771cc402978a91474911d5c36a1e","features":{},"yanked":false}
+{"name":"huski-lib-core","vers":"1.0.1","deps":[{"name":"huski-auxies","req":"^1.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"599ad313dd9f482f5e471bce20aa29832890abc0beb2f19d7ca7794c9b23a06d","features":{},"yanked":false}
