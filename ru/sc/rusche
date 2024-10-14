@@ -1,0 +1,1 @@
+{"name":"rusche","vers":"0.1.0","deps":[{"name":"rustyline","req":"^14.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"bbfa477e6b6a121aef0d703b8f8482b6bee9b820abb96fda8bd11ad5f02b91d9","features":{"callstack_trace":[]},"yanked":false}
