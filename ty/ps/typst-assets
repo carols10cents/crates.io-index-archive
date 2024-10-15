@@ -3,3 +3,4 @@
 {"name":"typst-assets","vers":"0.11.0","deps":[],"cksum":"f13f85360328da54847dd7fefaf272dfa5b6d1fdeb53f32938924c39bf5b2c6c","features":{"fonts":[]},"yanked":false}
 {"name":"typst-assets","vers":"0.11.1","deps":[],"cksum":"2b3061f8d268e8eec7481c9ab24540455cb4912983c49aae38fa6e8bf8ef4d9c","features":{"fonts":[]},"yanked":false}
 {"name":"typst-assets","vers":"0.12.0-rc1","deps":[],"cksum":"71c698edbfa8c49019246abe01c692d92f3d47e0b600da1ab4dbf1e8f3a7e53f","features":{"fonts":[]},"yanked":false}
+{"name":"typst-assets","vers":"0.12.0-rc2","deps":[],"cksum":"b8112b7077e3f045a18a17e6aeafafe9b101bc8d6c8e4c9e5f538cf4cb5ce79b","features":{"fonts":[]},"yanked":false}
