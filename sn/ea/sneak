@@ -1,0 +1,1 @@
+{"name":"sneak","vers":"0.1.0-rc1","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"462f7bbecf55da1009bec28e451f70d9f82f4a764f53816782c5f57524f16b84","features":{},"yanked":false,"rust_version":"1.72.1"}
