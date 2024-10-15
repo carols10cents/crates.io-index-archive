@@ -9,3 +9,4 @@
 {"name":"pometry-storage","vers":"0.11.3","deps":[],"cksum":"3c346f34c42124a0468d524e86dd9ea5901c18014666020c4cf565ac3e6db6d0","features":{},"yanked":false,"rust_version":"1.80.0"}
 {"name":"pometry-storage","vers":"0.12.0","deps":[],"cksum":"98e36117165dab0901286b65ee5c475192b84226d0f7cdb7cc6f8094f4ea4699","features":{},"yanked":false,"rust_version":"1.80.0"}
 {"name":"pometry-storage","vers":"0.12.1","deps":[],"cksum":"0397888fd94584ef62d68b8917c4177d5b0477a91091cf178080101d5db0c077","features":{},"yanked":false,"rust_version":"1.80.0"}
+{"name":"pometry-storage","vers":"0.13.0","deps":[],"cksum":"d642d4607578abfe935cab491326c548be535fd6305e9c825984ab21e316e68e","features":{},"yanked":false,"rust_version":"1.80.0"}
