@@ -1,0 +1,1 @@
+{"name":"strunemix","vers":"0.2.0","deps":[{"name":"strunemix_macros","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b0b96f76296d21e7aa55ddcf2767db7bcf93cff8ece6b4319fbb3208cf39c0f4","features":{},"yanked":false}
