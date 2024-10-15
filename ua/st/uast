@@ -18,3 +18,4 @@
 {"name":"uast","vers":"3.0.6","deps":[],"cksum":"17925409ea9d331d55aea9f6c48f0cc8ae7d90bfb6678147cab59335233afaef","features":{},"yanked":false}
 {"name":"uast","vers":"3.0.7","deps":[],"cksum":"83b196183db2bc54649ece0689c2a440dbc569766e84c5b020de3b823aa96c0a","features":{},"yanked":false}
 {"name":"uast","vers":"3.0.8","deps":[],"cksum":"dc3b308dba06156c74b8bc1dd63dd88b75398c55787c399bb05d0b1077b00ab2","features":{},"yanked":false}
+{"name":"uast","vers":"3.0.9","deps":[],"cksum":"826cb90034f14a9a669d2d0285b58124f788d991c411b26b0524c846eb1f21bb","features":{},"yanked":false}
