@@ -49,3 +49,4 @@
 {"name":"marco-test-one","vers":"0.3.20","deps":[],"cksum":"7d4de4a2cc9c5b6190a6383d141be3e55c77595bd91c1fd29961f18af0192f75","features":{},"yanked":false}
 {"name":"marco-test-one","vers":"0.3.21","deps":[],"cksum":"82be83e908f18442544863c054cf0c8a22659b70796ff1789fb342a443e07e4e","features":{},"yanked":false}
 {"name":"marco-test-one","vers":"0.3.22","deps":[],"cksum":"abf21e0d79964fafa6c82f63cb7bacb19f9edd666c9031358cf8a063aa18cc91","features":{},"yanked":false}
+{"name":"marco-test-one","vers":"0.3.23","deps":[],"cksum":"e32706833dde436b7f2e24caf4b12d19129981249981da7976c3de62573a01d1","features":{},"yanked":false}
