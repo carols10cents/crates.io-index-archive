@@ -9,3 +9,4 @@
 {"name":"cc_wasm_api","vers":"0.4.3","deps":[],"cksum":"7d935bc96d481aaef23c6854ef5530ad5133ddb30489904298d732bd551aaa17","features":{"coroutine":[],"default":["coroutine","eval"],"eval":[]},"yanked":false}
 {"name":"cc_wasm_api","vers":"0.4.4","deps":[],"cksum":"687ac2efb9d200423b950d6a134b26d623d2f5bd0c52048104eaab71a6f31a69","features":{"coroutine":[],"default":["coroutine","eval"],"eval":[]},"yanked":false}
 {"name":"cc_wasm_api","vers":"0.4.5","deps":[],"cksum":"945b28e21ffd7b2d39f9090c8e62388b2a41850c4e3453dd33422454dc146091","features":{"addon":["coroutine","eval"],"coroutine":[],"default":["coroutine","eval","addon"],"eval":[]},"yanked":false}
+{"name":"cc_wasm_api","vers":"0.4.6","deps":[],"cksum":"8266a4350c04911154d4957f933603829635c721ef52c7f55061f0320df85014","features":{"addon":["coroutine","eval"],"coroutine":[],"debug":[],"default":["coroutine","eval","addon"],"eval":[]},"yanked":false}
