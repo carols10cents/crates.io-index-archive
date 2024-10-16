@@ -9,3 +9,4 @@
 {"name":"iterlist","vers":"0.4.0","deps":[],"cksum":"0d047b17cbeef190040c844e76be67ea3fa3fa18eed9bee90b1423f3834a2516","features":{"atomic":[]},"yanked":false}
 {"name":"iterlist","vers":"0.4.1","deps":[],"cksum":"c4ecb5c0ad27beab9c3495bb2930d4124eb5062d82653a163baf90c0906e9774","features":{"atomic":[]},"yanked":false}
 {"name":"iterlist","vers":"0.4.3","deps":[],"cksum":"063136ed5dc9e6679e547ce393b5d330d7c648f9bac24d06ef4afbaa0bbd7b17","features":{"atomic":[]},"yanked":false}
+{"name":"iterlist","vers":"0.4.4","deps":[],"cksum":"d0d411dee2c5579a1f7e2b0a03acdd515fba234009e31de14b35ebbe5f8b41ee","features":{"atomic":[]},"yanked":false}
