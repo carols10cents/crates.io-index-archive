@@ -1,1 +1,2 @@
 {"name":"raw_struct","vers":"0.1.0","deps":[{"name":"raw_struct_derive","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"877cf5c58174d1364620a3e9c985a7b5241527539c92c8ea6b44580fcbe2509c","features":{"no_std":[]},"yanked":false}
+{"name":"raw_struct","vers":"0.1.2","deps":[{"name":"raw_struct_derive","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"94bd85863de423767e738e2931ce51147fe9c7ede9637b64fc8236cd135a4966","features":{"no_std":[]},"yanked":false}
