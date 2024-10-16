@@ -1,0 +1,1 @@
+{"name":"nimble-wrapped-step","vers":"0.0.14-dev","deps":[{"name":"flood-rs","req":"^0.0.12","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b366254f0395771a6c2d43ecdcfea481f3e4dddee470740bfe4d8a9c7ef72b7c","features":{},"yanked":false}
