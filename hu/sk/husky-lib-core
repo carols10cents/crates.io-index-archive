@@ -1,1 +1,0 @@
-{"name":"husky-lib-core","vers":"1.0.0","deps":[{"name":"husky-auxies","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"c40636d985453601ed82c725b751f78af21c33af47b136bbf107bafacdc9e39b","features":{},"yanked":true}
