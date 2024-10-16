@@ -1,0 +1,1 @@
+{"name":"quartz-tcbinfo-msgs","vers":"0.1.0","deps":[{"name":"cosmwasm-schema","req":"^2.1.1","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"addfd5be75e367b1e2a1da5dd9c2ee7b75527ccc02e29ce3df701f54387f8732","features":{},"yanked":false,"rust_version":"1.75.0"}
