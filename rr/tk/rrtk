@@ -21,3 +21,4 @@
 {"name":"rrtk","vers":"0.4.0","deps":[],"cksum":"5dc3dd62a4056f689f5ce98943b585d09fbf5d4c84ef25e176d4464fa821c540","features":{"default":["std"],"devices":[],"std":[]},"yanked":false}
 {"name":"rrtk","vers":"0.5.0-alpha.1","deps":[],"cksum":"4345e431a57f602d993d899e1d20dffe6a54de72930ffce6cf40edd41540b0cb","features":{"alloc":[],"default":["std"],"devices":[],"std":["alloc"]},"yanked":false}
 {"name":"rrtk","vers":"0.5.0-alpha.2","deps":[],"cksum":"bc92f39a278f816d6d835ba35b9506c32073edb7e3f0f4712f55d3f977349021","features":{"alloc":[],"default":["std"],"devices":[],"std":["alloc"]},"yanked":false}
+{"name":"rrtk","vers":"0.5.0-beta.1","deps":[],"cksum":"764ef9d9e45c007d216071ca64a6a4ee9dfa71a88000b817f0f3a5c3208acda6","features":{"alloc":[],"default":["std"],"devices":[],"std":["alloc"]},"yanked":false}
