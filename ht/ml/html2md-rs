@@ -21,3 +21,4 @@
 {"name":"html2md-rs","vers":"0.9.0","deps":[],"cksum":"6ab776cd5b637f5dc94d2a0fa6d98929abf8b6506bc1243f52c0fdd6e14aa052","features":{},"yanked":false}
 {"name":"html2md-rs","vers":"0.9.1","deps":[],"cksum":"1b71be6f34f63b0f5a8ebfecd249389770ebc8df482581a5ae3c700c47f100d8","features":{},"yanked":false}
 {"name":"html2md-rs","vers":"0.9.2","deps":[],"cksum":"34529402c531e3681a0738809540b395e3fecd8abb846371f89b230fa37dd514","features":{},"yanked":false}
+{"name":"html2md-rs","vers":"0.10.0","deps":[],"cksum":"b2535f510e784fd2296b467cfa83dac629e71fe99d439a540ec4e854054035c3","features":{},"yanked":false}
