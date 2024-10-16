@@ -7,3 +7,4 @@
 {"name":"rust_string_utils","vers":"0.1.7","deps":[],"cksum":"500ab14bc02de8e7c119ca0ce104fafb9e685bf4cbe512264d66bc620bd72ea6","features":{},"yanked":true}
 {"name":"rust_string_utils","vers":"0.1.8","deps":[],"cksum":"db0ea984903765560184f43db7a496519aea1e4001b15190abb2e13a694edf46","features":{},"yanked":true}
 {"name":"rust_string_utils","vers":"0.1.9","deps":[{"name":"chrono","req":"^0.4.38","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a3ac661c5aa419851eee0e78aac2019b64f8f5cd261fb6d6304457d6b699c9a3","features":{},"yanked":false}
+{"name":"rust_string_utils","vers":"0.1.10","deps":[{"name":"chrono","req":"^0.4.38","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5c3912dc3cef372c40807cd7cc83a015e6a7c921344e5db38fef033015a1517b","features":{},"yanked":false}
