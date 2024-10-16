@@ -1,0 +1,1 @@
+{"name":"aranya-policy-ast","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0.210","features":["derive","alloc"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"52c253270189e1179c074576b26b4b0f4ea7f0591a60159f9770aa516708de7b","features":{"default":[],"std":[]},"yanked":false,"rust_version":"1.81.0"}
