@@ -1,1 +1,2 @@
 {"name":"linux-boot-params","vers":"0.1.0","deps":[],"cksum":"c366bde75fcd966295f8849d0af792ffb38a4569e192a755ae7ba98e3f82cba0","features":{},"yanked":false}
+{"name":"linux-boot-params","vers":"0.9.3","deps":[],"cksum":"2b9f3c0ae6a28c55f4a49b920385ae9a70e8a7d3f06b01102fa9a3564178d5da","features":{},"yanked":false}
