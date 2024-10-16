@@ -8,3 +8,4 @@
 {"name":"iterlist","vers":"0.3.5","deps":[],"cksum":"97a3b6c326e16d8bd326abeade55d78a05c44f5946caee161b51b80830bbaafe","features":{},"yanked":false}
 {"name":"iterlist","vers":"0.4.0","deps":[],"cksum":"0d047b17cbeef190040c844e76be67ea3fa3fa18eed9bee90b1423f3834a2516","features":{"atomic":[]},"yanked":false}
 {"name":"iterlist","vers":"0.4.1","deps":[],"cksum":"c4ecb5c0ad27beab9c3495bb2930d4124eb5062d82653a163baf90c0906e9774","features":{"atomic":[]},"yanked":false}
+{"name":"iterlist","vers":"0.4.3","deps":[],"cksum":"063136ed5dc9e6679e547ce393b5d330d7c648f9bac24d06ef4afbaa0bbd7b17","features":{"atomic":[]},"yanked":false}
