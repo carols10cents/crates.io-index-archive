@@ -1,0 +1,1 @@
+{"name":"onceinit","vers":"0.0.1","deps":[{"name":"thiserror","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"db7441da36b2ac65e88a220ee9b5e1229bf6c1bc078f72466d0293f00441df13","features":{},"yanked":false}
