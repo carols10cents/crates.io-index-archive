@@ -15,3 +15,4 @@
 {"name":"nuts-backend","vers":"0.7.0","deps":[],"cksum":"09bac2a4f4bafeb2919bbe11634191487ca361d67abc6634d4c4115cf871a993","features":{},"yanked":false}
 {"name":"nuts-backend","vers":"0.7.1","deps":[],"cksum":"24c1883c9b2bfe5e162ac7249f29bf919c534812592d36b19415be2b47a5202e","features":{},"yanked":false}
 {"name":"nuts-backend","vers":"0.7.2","deps":[],"cksum":"bb126b4e02f65039351839d6b85e9d79f69d6909338d98691027c90069cf8596","features":{},"yanked":false}
+{"name":"nuts-backend","vers":"0.7.3","deps":[],"cksum":"f5bd8b94161b3ffcc125e58bb68e277803cbe868a43cade8514499c9d85d7a5d","features":{},"yanked":false}
