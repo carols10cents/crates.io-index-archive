@@ -3,3 +3,4 @@
 {"name":"anpa","vers":"0.4.0","deps":[],"cksum":"7df460c6d45ea57cc9373b00c07c8673c6198927cec785b94e863ec147b63b18","features":{},"yanked":false,"rust_version":"1.75.0"}
 {"name":"anpa","vers":"0.4.1","deps":[],"cksum":"e425fd88754e5349bc82785f4fb9fcc782b4ed75adbe13eca2052d3037116464","features":{},"yanked":false,"rust_version":"1.75.0"}
 {"name":"anpa","vers":"0.5.0","deps":[],"cksum":"1f7dfd1f7d454c9e1e4f3594547f194165a621f795bdb5512d6e0339f329040c","features":{},"yanked":false,"rust_version":"1.75.0"}
+{"name":"anpa","vers":"0.6.0","deps":[],"cksum":"95c74561f3ef0e0c7456472255b13f8e527292d27a65014800e74622635bcb1c","features":{"build_bench":["json","semver"],"default":["std"],"json":["std"],"semver":[],"std":[]},"yanked":false,"rust_version":"1.80.0"}
