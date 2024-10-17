@@ -1,1 +1,2 @@
 {"name":"my_parser_kma_Zaporozhets","vers":"0.1.0","deps":[{"name":"peg","req":"^0.8.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3a019e92f3ee23f4e282f50800a2120e687fc5f5242f27b50fddd8aa02ec2432","features":{},"yanked":false}
+{"name":"my_parser_kma_Zaporozhets","vers":"0.1.1","deps":[{"name":"peg","req":"^0.8.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b04af6325b5ea893bb6e6e311f7d80405883c5cca723923684e53593dd69a298","features":{},"yanked":false}
