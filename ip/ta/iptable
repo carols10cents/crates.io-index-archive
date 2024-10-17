@@ -1,0 +1,1 @@
+{"name":"iptable","vers":"0.1.0","deps":[{"name":"ipnetwork","req":"^0.20.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"43130e2042595e4e2b9575ef5cfd7821e88544ea4ef517807fca34f656eff304","features":{},"yanked":false}
