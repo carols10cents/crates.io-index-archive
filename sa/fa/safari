@@ -1,2 +1,2 @@
-{"name":"safari","vers":"0.1.0","deps":[],"cksum":"6f823b67de3358aa11491929c8bc06732e073b253dcfd8d2764b3ab83ae28641","features":{},"yanked":true}
+{"name":"safari","vers":"0.1.0","deps":[],"cksum":"6f823b67de3358aa11491929c8bc06732e073b253dcfd8d2764b3ab83ae28641","features":{},"yanked":false}
 {"name":"safari","vers":"0.9.0","deps":[{"name":"regex","req":"^1.11.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"serde_json","req":"^1.0.129","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ca3110501945a46d27ac307956058f1374ca08770f87904b3b13e5fe3e34effc","features":{},"yanked":false}
