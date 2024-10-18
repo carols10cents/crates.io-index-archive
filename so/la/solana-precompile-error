@@ -1,1 +1,2 @@
 {"name":"solana-precompile-error","vers":"0.0.1","deps":[],"cksum":"127514cda1add6318ebe5940de2df5795fcec34b0b3099c525259bcec67eb1bd","features":{},"yanked":false}
+{"name":"solana-precompile-error","vers":"0.0.2","deps":[{"name":"num-traits","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"solana-decode-error","req":"=0.0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f523eb829590fa291f5e247f19368b7e403d3d176ef2c8a1cbc81ebe4943975e","features":{},"yanked":false}
