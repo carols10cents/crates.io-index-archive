@@ -1,0 +1,1 @@
+{"name":"bytesbox","vers":"0.1.0","deps":[{"name":"bytescolor","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"397733022b2a86e997272d098d97b821976f7a508d803ceff659e5bb8840bd3e","features":{},"yanked":false,"rust_version":"1.70"}
