@@ -1,0 +1,1 @@
+{"name":"fdt-parser","vers":"0.1.0","deps":[{"name":"env_logger","req":"^0.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"log","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"feb8987d46e914182dfa424a2b8425e0e780e754f281c6ead013b12f6cfd2d98","features":{},"yanked":false}
