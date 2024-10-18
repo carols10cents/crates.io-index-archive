@@ -1,0 +1,1 @@
+{"name":"panic-log","vers":"0.3.0","deps":[{"name":"log","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e6ffeb71b53ccf3ca04074943602f68e7616fe70e497ed481a43d49e5ae75909","features":{},"yanked":false}
