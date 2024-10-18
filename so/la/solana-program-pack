@@ -1,1 +1,2 @@
 {"name":"solana-program-pack","vers":"0.0.1","deps":[],"cksum":"a317eff167c1bbf697e154020ad2c0c412a2366a0c9011a0a932bca7d7b1357f","features":{},"yanked":false}
+{"name":"solana-program-pack","vers":"0.0.2","deps":[{"name":"solana-program-error","req":"=0.0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"839328bb065873c780f0c0075356912a47a219d739ad4c899b9373836c08e2e7","features":{},"yanked":false}
