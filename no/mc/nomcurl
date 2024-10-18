@@ -1,0 +1,1 @@
+{"name":"nomcurl","vers":"0.1.8","deps":[{"name":"nom","req":"^7.1.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"48f102e0a486b3e0586d9c09cc700730572a58c8ddd683a6105cac3be27ace6a","features":{"debug-print":[]},"yanked":false}
