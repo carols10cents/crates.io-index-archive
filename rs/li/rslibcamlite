@@ -1,0 +1,1 @@
+{"name":"rslibcamlite","vers":"0.1.0","deps":[{"name":"cxx","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"cxx-build","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"6dcc92974381d7cd2de85adde438ea865bda190471cba5b6c0c54e4c5f721ed6","features":{},"yanked":false}
