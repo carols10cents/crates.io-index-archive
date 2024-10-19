@@ -1,0 +1,1 @@
+{"name":"cargo_ci_template_core","vers":"1.0.1","deps":[{"name":"crossterm","req":"^0.28","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e829ad43c2380af651c94e31cb09bb9c267ba3496289727d4789a69244db8ce5","features":{},"yanked":false,"rust_version":"1.74.0"}
