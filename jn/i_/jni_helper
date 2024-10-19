@@ -1,0 +1,1 @@
+{"name":"jni_helper","vers":"0.1.0","deps":[{"name":"regex","req":"^1.11.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a1af6bdd99a05baccf92e1194435924362a838a685f69c70f66261378eb0819d","features":{},"yanked":false}
