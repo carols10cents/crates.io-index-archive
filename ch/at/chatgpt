@@ -1,0 +1,1 @@
+{"name":"chatgpt","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"361bbc8e7a438ec3423a4da34765c16ab4164ad0b20952e74c459c1fdf5a2b47","features":{},"yanked":false}
