@@ -1,1 +1,2 @@
 {"name":"jni_helper","vers":"0.1.0","deps":[{"name":"regex","req":"^1.11.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a1af6bdd99a05baccf92e1194435924362a838a685f69c70f66261378eb0819d","features":{},"yanked":false}
+{"name":"jni_helper","vers":"0.1.1","deps":[{"name":"regex","req":"^1.11.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dc129ef81f8d0d1a51872b960e81d99ea06d57f7bef805a26f1b4f98c3bd13a7","features":{},"yanked":false}
