@@ -1,0 +1,1 @@
+{"name":"meos-src","vers":"0.1.0","deps":[{"name":"cmake","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"96b10be50122af8ea5e53a637ea814f2677c9b1f3c75c60ddebf9db7973beb72","features":{},"yanked":false}
