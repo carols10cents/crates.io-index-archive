@@ -1,2 +1,3 @@
 {"name":"timelog","vers":"1.0.0","deps":[],"cksum":"4530a491c96001bfe7f048dda38e2a3357f8cf460b179519e2ae54d25378bd0f","features":{},"yanked":false}
 {"name":"timelog","vers":"1.0.1","deps":[],"cksum":"0dc0d7dc4323996b84383897267432dc55353a69f64794ef5528534f5e5970a5","features":{},"yanked":false}
+{"name":"timelog","vers":"1.0.2","deps":[],"cksum":"03a60779a9c591757974626f710aa00df569cd09f123bc2d3dfbf00cd0004f73","features":{},"yanked":false}
