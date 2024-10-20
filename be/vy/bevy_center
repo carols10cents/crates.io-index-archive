@@ -1,0 +1,1 @@
+{"name":"bevy_center","vers":"0.1.0","deps":[{"name":"bevy","req":"^0.14.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"aa36850a48f5b91ca46d0387e26ce38f5100f875b663cee42aecb9a930e80996","features":{},"yanked":false}
