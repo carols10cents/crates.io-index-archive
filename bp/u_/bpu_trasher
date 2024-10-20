@@ -1,0 +1,1 @@
+{"name":"bpu_trasher","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b12b1a01c908052583934ce0bdcd738a394a11df7c41d8fd042a588a4231725a","features":{},"yanked":false}
