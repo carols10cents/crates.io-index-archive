@@ -1,4 +1,4 @@
 {"name":"ltpp-output","vers":"0.1.0","deps":[],"cksum":"8093803bb9ca36233c7dd88bd5ae650ece03af68b6fc0e70a2b118738ff053d6","features":{},"yanked":false}
 {"name":"ltpp-output","vers":"0.1.1","deps":[],"cksum":"ddae270f71d5771b1d27979200c58b7a5ead288140227416d6abfe4778926092","features":{},"yanked":false}
 {"name":"ltpp-output","vers":"0.1.2","deps":[],"cksum":"00083d425977afcc022553e240aaec50aa674c70a875f786246aba4e7fd37513","features":{},"yanked":false}
-{"name":"ltpp-output","vers":"0.1.3","deps":[],"cksum":"d9a11f3fb8206dd81aeb7b5ee2952d8bb9bcaeb9977f40d94b93f940b26c4cfc","features":{},"yanked":true}
+{"name":"ltpp-output","vers":"0.1.3","deps":[],"cksum":"d9a11f3fb8206dd81aeb7b5ee2952d8bb9bcaeb9977f40d94b93f940b26c4cfc","features":{},"yanked":false}
