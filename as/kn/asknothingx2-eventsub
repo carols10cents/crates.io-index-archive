@@ -1,1 +1,2 @@
 {"name":"asknothingx2-eventsub","vers":"0.0.1","deps":[],"cksum":"d7bcb74d768f7d84e684cce74e026b5c6135ab64e557e16bd8bdacdb5c030e2e","features":{},"yanked":false}
+{"name":"asknothingx2-eventsub","vers":"0.0.2","deps":[{"name":"serde","req":"^1.0.210","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"serde_json","req":"^1.0.132","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"542d24c19de9def1f6c3f6110be8a76c84a58576aa88c77eb7fe8f69efe8da9f","features":{},"yanked":false}
