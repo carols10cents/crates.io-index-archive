@@ -1,0 +1,1 @@
+{"name":"steepen","vers":"0.1.0","deps":[{"name":"quickcheck","req":"^1.0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"d7692b61d7ab6e0613ba699e824b4cc1a3496e5a9ad97407377f49822a7ddd72","features":{},"yanked":false}
