@@ -9,3 +9,4 @@
 {"name":"lr_trie","vers":"1.4.0","deps":[],"cksum":"cebf5d0707a79c762c3e1b1400ff4b7192a11032c010c4ec34739c90d7679754","features":{},"yanked":false}
 {"name":"lr_trie","vers":"1.4.1","deps":[],"cksum":"9fab3609d7a54c7fad6551707411d4a25f4710363f56abf78db66e03bef641e9","features":{},"yanked":false}
 {"name":"lr_trie","vers":"1.4.2","deps":[],"cksum":"f260a6033a027fc09759ae43284e3fd1d18eb1ef3fa540309f2ab4575ee74bf9","features":{},"yanked":false}
+{"name":"lr_trie","vers":"1.4.3","deps":[],"cksum":"6b049e73d1743a69e962835633c0d30733fc3b6945e6c026bd9d49e6129fde52","features":{},"yanked":false}
