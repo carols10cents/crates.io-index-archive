@@ -1,1 +1,2 @@
 {"name":"unsafe-fields","vers":"0.1.0","deps":[],"cksum":"61f22b5ad5104af3ca7e8962c10492654c4363329a2065be8f985b7935411228","features":{},"yanked":false,"rust_version":"1.65.0"}
+{"name":"unsafe-fields","vers":"0.2.0","deps":[{"name":"zerocopy_0_8","req":"^0.8.7","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal","package":"zerocopy"}],"cksum":"a3c8bbc60e9692a11dbbcd614a92e7e178bbe6d9ea0015ed538bef939b47c825","features":{},"yanked":false,"rust_version":"1.65.0"}
