@@ -1,0 +1,1 @@
+{"name":"satif","vers":"0.1.0","deps":[{"name":"logic-form","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"60f45568553cc9cb0fec9571cd36d7c9e131d759b68809b81711d34739059bf9","features":{},"yanked":false}
