@@ -1,1 +1,2 @@
 {"name":"steepen","vers":"0.1.0","deps":[{"name":"quickcheck","req":"^1.0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"d7692b61d7ab6e0613ba699e824b4cc1a3496e5a9ad97407377f49822a7ddd72","features":{},"yanked":false}
+{"name":"steepen","vers":"0.1.1","deps":[{"name":"quickcheck","req":"^1.0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"ffd5f1b6ecc89d6f09ba2b15079b0068f7047d9077941edf5e01425f0edb1a84","features":{},"yanked":false}
