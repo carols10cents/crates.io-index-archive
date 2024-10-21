@@ -2,3 +2,4 @@
 {"name":"dyn_trie","vers":"1.0.1","deps":[],"cksum":"abb3f8eefb89c2b19d6f7ada061b65555e711cb91bcae52183eee1a78bb67330","features":{},"yanked":false}
 {"name":"dyn_trie","vers":"1.0.2","deps":[],"cksum":"64a5b3ca6e37b2ad33bad844ea8bdbffe51ca64b80346b3c2ded04892116add6","features":{},"yanked":false}
 {"name":"dyn_trie","vers":"1.0.3","deps":[],"cksum":"ec0db296bf59fbc61ed916be476dd40272fe062d9b57ebfe4be44c6641e9592e","features":{},"yanked":false}
+{"name":"dyn_trie","vers":"1.0.4","deps":[],"cksum":"590e249418ded4dfd0116a1d567660985b37c3af56a88980c8b615ffe13ed991","features":{},"yanked":false}
