@@ -1,0 +1,1 @@
+{"name":"lin-ldf","vers":"0.0.1","deps":[{"name":"nom","req":"^7.1.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"49149f7d5daad0198495c79887246749788d0cb6dabcc2d877b9956980393565","features":{},"yanked":false}
