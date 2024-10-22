@@ -22,3 +22,4 @@
 {"name":"bittle","vers":"0.5.5","deps":[],"cksum":"d5d9873d7918e6799a615d5f6648cc084f1bb386894ea13751d4e85b5e412706","features":{},"yanked":false,"rust_version":"1.65"}
 {"name":"bittle","vers":"0.5.6","deps":[],"cksum":"14173f083171cee3f00fbbfa3d3d2492401c25c015874aad543bbf829d6389f8","features":{},"yanked":false,"rust_version":"1.65"}
 {"name":"bittle","vers":"0.5.7","deps":[],"cksum":"4650bc513f4078b7ad8dfbbca0455a1ee6cc1325dc21b5995340a7ab3d80ac5b","features":{},"yanked":false,"rust_version":"1.65"}
+{"name":"bittle","vers":"0.6.0","deps":[],"cksum":"e6ed4940d50ad35b979a4f2119316e5c9033589ba2c34b4949264b6f74ca54de","features":{},"yanked":false,"rust_version":"1.65"}
