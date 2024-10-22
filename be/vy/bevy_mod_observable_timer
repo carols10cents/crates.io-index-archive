@@ -1,0 +1,1 @@
+{"name":"bevy_mod_observable_timer","vers":"0.1.0","deps":[{"name":"bevy","req":"^0.14","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"7573bb41d07c1cb4217f4062179834b2860beff097b66ab624e3d6461028a279","features":{},"yanked":false}
