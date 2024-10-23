@@ -1,0 +1,1 @@
+{"name":"cinputs","vers":"0.2.0","deps":[{"name":"lazy_static","req":"^1.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cd7792b2ef19a5675715b8297ceeacbac7d3de7b5fbc828443150104b48da444","features":{},"yanked":false}
