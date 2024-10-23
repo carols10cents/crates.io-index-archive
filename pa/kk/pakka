@@ -1,0 +1,1 @@
+{"name":"pakka","vers":"0.0.0","deps":[{"name":"chrono","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"clap","req":"^4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"04d90fb1696045852dd388e8af3094420146f88d23b64a78eb200c9e4bedbb4f","features":{},"yanked":false}
