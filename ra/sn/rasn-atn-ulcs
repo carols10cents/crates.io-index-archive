@@ -1,0 +1,1 @@
+{"name":"rasn-atn-ulcs","vers":"0.20.2","deps":[{"name":"rasn","req":"^0.20","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"701e9d27416fd5f6edfe33e0cd2fa6312dc6e91ea9663de57b1aa4d0cc9cb5c6","features":{},"yanked":false}
