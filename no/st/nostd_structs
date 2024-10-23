@@ -7,3 +7,4 @@
 {"name":"nostd_structs","vers":"0.1.5","deps":[],"cksum":"a0cf55edea82badfce3382f2a475273c49600f653ae63f0bcec99183727a4881","features":{},"yanked":false}
 {"name":"nostd_structs","vers":"0.1.6","deps":[],"cksum":"a57688d7f8d0c480037a617801f0cd45979178427865edc5d280f1a033ccf72f","features":{},"yanked":false}
 {"name":"nostd_structs","vers":"0.3.0","deps":[{"name":"arrayvec","req":"^0.7.6","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"8b334e108f85ca5eb9f0d0a231b649766fee73c9ada48997c333525803846c77","features":{},"yanked":false}
+{"name":"nostd_structs","vers":"0.3.1","deps":[{"name":"arrayvec","req":"^0.7.6","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"22abbe9af7aa935d8b439ecaaefcccd98173e67e3e89026c9f128713bf8e1223","features":{},"yanked":false}
