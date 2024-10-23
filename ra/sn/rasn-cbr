@@ -1,0 +1,1 @@
+{"name":"rasn-cbr","vers":"0.20.2","deps":[{"name":"rasn","req":"^0.20","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7f84ad24836e5fcf2fe1ce381dbbbba181afcd696d7e37237fdbf5937c4967ca","features":{},"yanked":false}
