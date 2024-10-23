@@ -2,3 +2,4 @@
 {"name":"cryptos","vers":"0.0.1-alpha.2","deps":[],"cksum":"aa6e72627de0488026eee8e745debe6cafeb5c8a0873c2b43cbf903f727b77f4","features":{},"yanked":true}
 {"name":"cryptos","vers":"0.0.1-alpha.2-patch.1","deps":[],"cksum":"f032e351f7a888666c0ab1179ddedd65a8eeea8f709fa853726017bfaf3f8768","features":{},"yanked":true}
 {"name":"cryptos","vers":"0.0.1-alpha.3","deps":[],"cksum":"7c656027f68de84ffbbec33f312b11940c1f9c5fbe14aba27c86773893e30f7c","features":{},"yanked":false}
+{"name":"cryptos","vers":"0.0.1-alpha.4","deps":[],"cksum":"c09fee11ae5b3492354e626acf95fa00566352f7d9d76fdf6a582428597c96e9","features":{},"yanked":false}
