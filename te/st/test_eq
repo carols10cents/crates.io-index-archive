@@ -1,0 +1,1 @@
+{"name":"test_eq","vers":"0.1.0","deps":[],"cksum":"9b44a3b423140eb512ebf619004074cb963df11b8f268ab2511fd733cdf9e779","features":{"default":["line-info"],"line-info":[]},"yanked":false,"rust_version":"1.58.1"}
