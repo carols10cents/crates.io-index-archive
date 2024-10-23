@@ -1,0 +1,1 @@
+{"name":"emmylua_parser","vers":"0.1.0","deps":[{"name":"rowan","req":"^0.15.16","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c849e74d0de02aaca9f3e0c6d4ce8ad1522e621d4d056acd7c46581276902185","features":{},"yanked":false}
