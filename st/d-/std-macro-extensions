@@ -1,2 +1,3 @@
 {"name":"std-macro-extensions","vers":"0.0.1","deps":[],"cksum":"3d16b168a5e885690f341032e50458c85c66e0b7b1077884ecec958b075d1181","features":{},"yanked":false}
 {"name":"std-macro-extensions","vers":"0.0.2","deps":[],"cksum":"a92fb65845ad301d999b314a0365fdff993db468669ce196bd8f71b43b1eaced","features":{},"yanked":false}
+{"name":"std-macro-extensions","vers":"0.0.3","deps":[],"cksum":"d77b556561ae26f7c952f247a3f5736c38528fece4b849c0f70140abb05bea58","features":{},"yanked":false}
