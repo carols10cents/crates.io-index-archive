@@ -1,0 +1,1 @@
+{"name":"my_parser_striletska","vers":"0.1.0","deps":[{"name":"peg","req":"^0.8.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bc0409b5276a1d7c5a791851f47727350b9b57498c465969ac9725f22662a7bb","features":{},"yanked":false}
