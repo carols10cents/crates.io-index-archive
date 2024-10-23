@@ -1,0 +1,1 @@
+{"name":"annoying","vers":"1.0.0","deps":[{"name":"ctrlc","req":"^3.4.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"820f23126f8c891671f6b3c1f2e3b54958fa69786cf9db94e20b0a552ffbe88a","features":{},"yanked":false}
