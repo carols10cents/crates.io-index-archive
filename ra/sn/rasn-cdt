@@ -1,0 +1,1 @@
+{"name":"rasn-cdt","vers":"0.20.2","deps":[{"name":"rasn","req":"^0.20","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"348aec1962dc02b19bc357ae94b2536e858f18f5a19323729d6f209cbe048c07","features":{},"yanked":false}
