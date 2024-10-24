@@ -23,3 +23,4 @@
 {"name":"yaxi","vers":"0.1.27","deps":[],"cksum":"ecaf79b30970dc8715ce8337f0e80c3c1375c8137da5554e4b26305b6ad3c962","features":{},"yanked":false}
 {"name":"yaxi","vers":"0.1.28","deps":[],"cksum":"36cc8909f0ffa35961229e15a2af5f91ccf12d4f4edb4c2237b0f1d3ae6ed5d4","features":{},"yanked":false}
 {"name":"yaxi","vers":"0.1.29","deps":[],"cksum":"14ec3920a199c22aa1e7fb6cb1530838f6a9cf8415fda7c57981a15adfbb30cc","features":{},"yanked":false}
+{"name":"yaxi","vers":"0.1.30","deps":[],"cksum":"ad14892211726e0faeff8578b7283d8533c8eb137720d15acb41ac6f60921ae8","features":{"xinerama":[]},"yanked":false}
