@@ -2,3 +2,4 @@
 {"name":"falco_plugin_api","vers":"0.1.1","deps":[],"cksum":"6d332c4144764aafa8d754b0e71b098a0843888e9f7c35432b24789250b6bdd9","features":{},"yanked":false}
 {"name":"falco_plugin_api","vers":"0.1.2","deps":[],"cksum":"ba461203b51af10e581d59326ae1fe8f5c509fe7fe0a725941fab9c007078695","features":{},"yanked":false}
 {"name":"falco_plugin_api","vers":"0.2.0","deps":[],"cksum":"4ba51a417e419c70fa7fafd050385a475dba844ae56aeba6efd31e5031734413","features":{},"yanked":false}
+{"name":"falco_plugin_api","vers":"0.4.0","deps":[],"cksum":"1c7041fb0cb88a210986c841bf4e520cc355dd9937fbe0fb52bd5b9955684e75","features":{},"yanked":false}
