@@ -1,0 +1,1 @@
+{"name":"second_crate","vers":"0.1.0","deps":[{"name":"docify_clone","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ad83cbad8cace25f38babc09a77a05e5e6b18d35d08e3117b9fc7e0d43cce551","features":{},"yanked":false}
