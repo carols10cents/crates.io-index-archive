@@ -10,3 +10,4 @@
 {"name":"cc_wasm_api","vers":"0.4.4","deps":[],"cksum":"687ac2efb9d200423b950d6a134b26d623d2f5bd0c52048104eaab71a6f31a69","features":{"coroutine":[],"default":["coroutine","eval"],"eval":[]},"yanked":false}
 {"name":"cc_wasm_api","vers":"0.4.5","deps":[],"cksum":"945b28e21ffd7b2d39f9090c8e62388b2a41850c4e3453dd33422454dc146091","features":{"addon":["coroutine","eval"],"coroutine":[],"default":["coroutine","eval","addon"],"eval":[]},"yanked":false}
 {"name":"cc_wasm_api","vers":"0.4.6","deps":[],"cksum":"8266a4350c04911154d4957f933603829635c721ef52c7f55061f0320df85014","features":{"addon":["coroutine","eval"],"coroutine":[],"debug":[],"default":["coroutine","eval","addon"],"eval":[]},"yanked":false}
+{"name":"cc_wasm_api","vers":"0.4.7","deps":[],"cksum":"ccd9caf50e95317674c5ac3a5fa674f007c3b7d73500bb7f6628b523086ad0a3","features":{"addon":["coroutine","eval"],"coroutine":[],"debug":[],"default":["coroutine","eval","addon"],"eval":[]},"yanked":false}
