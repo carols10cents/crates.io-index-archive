@@ -15,3 +15,4 @@
 {"name":"std-macro-extensions","vers":"0.11.0","deps":[],"cksum":"63ecc22b509da95d1986db8ca9c54db291d7bb6ced44935096a1f8c363a357b0","features":{},"yanked":false}
 {"name":"std-macro-extensions","vers":"0.12.0","deps":[],"cksum":"58a240aed1d93f37222e7367dffc96d118ed610007bf4b143ce2a3dec43d28c8","features":{},"yanked":false}
 {"name":"std-macro-extensions","vers":"0.14.0","deps":[],"cksum":"be53b87734be99bb55aab1f28be7a56c3a0705a35a39043bded70e751f14f575","features":{},"yanked":false}
+{"name":"std-macro-extensions","vers":"0.15.0","deps":[],"cksum":"a0a538cb65a909a70de0dcc2ad5f9be97d84c2de9613fe4bc41719cecbca0e70","features":{},"yanked":false}
