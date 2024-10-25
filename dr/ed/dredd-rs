@@ -1,5 +1,5 @@
 {"name":"dredd-rs","vers":"0.0.1","deps":[],"cksum":"da2db029f94a626e94592edc562565edd88243b55cd3e20dfb08fb5f56b17de7","features":{},"yanked":true}
-{"name":"dredd-rs","vers":"0.0.2","deps":[],"cksum":"19e3346f90b2a4b0aa7b6af48e1afbcbeb674b6ada8854339f517350c8f1cb98","features":{},"yanked":false}
-{"name":"dredd-rs","vers":"0.0.3","deps":[],"cksum":"2b92d3e7da605b028fab072cab73cfa97e31eafea49c9a07479fe5f7f414f8d4","features":{},"yanked":false}
-{"name":"dredd-rs","vers":"0.0.4","deps":[],"cksum":"184ab1c82da4a1e439c18160070d191ff4a4220b916980a8c704f0b0f4a9740f","features":{},"yanked":false}
+{"name":"dredd-rs","vers":"0.0.2","deps":[],"cksum":"19e3346f90b2a4b0aa7b6af48e1afbcbeb674b6ada8854339f517350c8f1cb98","features":{},"yanked":true}
+{"name":"dredd-rs","vers":"0.0.3","deps":[],"cksum":"2b92d3e7da605b028fab072cab73cfa97e31eafea49c9a07479fe5f7f414f8d4","features":{},"yanked":true}
+{"name":"dredd-rs","vers":"0.0.4","deps":[],"cksum":"184ab1c82da4a1e439c18160070d191ff4a4220b916980a8c704f0b0f4a9740f","features":{},"yanked":true}
 {"name":"dredd-rs","vers":"0.0.5","deps":[],"cksum":"0597711df8242ce8d54eee55da3d1ed67df02adcbed3986734d9129c28d2f9e1","features":{},"yanked":false}
