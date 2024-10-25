@@ -1,0 +1,1 @@
+{"name":"fenir","vers":"0.1.0","deps":[{"name":"regex","req":"^1.11.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8768f9da2e5233aee0e215c035458b6260170c87583149f256e40f526af4cad5","features":{},"yanked":false}
