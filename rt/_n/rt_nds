@@ -1,0 +1,1 @@
+{"name":"rt_nds","vers":"0.1.0","deps":[{"name":"crc32fast","req":"^1.4.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"62149926e240d03ddb56a60ea3360ffd1da78d5b5e4a942e09e0e1a91fd732ae","features":{},"yanked":false}
