@@ -7,3 +7,4 @@
 {"name":"ostd-test","vers":"0.9.1","deps":[],"cksum":"f40e62be5ffd1958c68b6c5cc30f45c704238a8427b463da7fce9fd84fcd5d64","features":{},"yanked":false}
 {"name":"ostd-test","vers":"0.9.2","deps":[],"cksum":"1ce9275c921e67a6a9b97c421fb2f6451b8a1ff9f3d477ce547d308b67139d19","features":{},"yanked":false}
 {"name":"ostd-test","vers":"0.9.3","deps":[],"cksum":"50a46248b5282b55fd83654fa12e746c7bf24f24220f50b95bbffc9f3ed793f5","features":{},"yanked":false}
+{"name":"ostd-test","vers":"0.9.4","deps":[],"cksum":"424d4901827223020b27d1c864f4098c0097ff3acf72ba78f848e4c4dcbf755b","features":{},"yanked":false}
