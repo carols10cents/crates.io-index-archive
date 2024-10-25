@@ -1,0 +1,1 @@
+{"name":"bevy_query_macros","vers":"0.1.0","deps":[{"name":"bevy","req":"^0.14","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"1de88ddc223ecca80f7559d12bb4b6f19406303e54894232fbf2670991d44dc6","features":{},"yanked":false}
