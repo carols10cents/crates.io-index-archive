@@ -1,0 +1,1 @@
+{"name":"pico-xs","vers":"0.1.0","deps":[{"name":"cc","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"a0a1cce99228ec284c1180e49b32e56ead0fc15de79f0d46b225555b9958e416","features":{},"yanked":false}
