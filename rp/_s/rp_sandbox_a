@@ -3,3 +3,4 @@
 {"name":"rp_sandbox_a","vers":"0.3.0","deps":[],"cksum":"ca718b80dbb20a1e901dea21110ded0b607123adbf4124122fbbed203e7da24a","features":{},"yanked":false}
 {"name":"rp_sandbox_a","vers":"0.4.0","deps":[],"cksum":"6f5215ded9c0806a53ecc2888b733e5e4e4bf614557fc5f684e779a48fe9a4f5","features":{},"yanked":false}
 {"name":"rp_sandbox_a","vers":"0.5.0","deps":[],"cksum":"9d7ab44d0306d2d2d6c4f87b72c40ea0c58e4c22b8a8fdd6d58a5beb7140a685","features":{},"yanked":false}
+{"name":"rp_sandbox_a","vers":"0.6.0","deps":[],"cksum":"63e0d87d560db9be0678dcef58b51ed2e0e0b4c5b98542373b4e51ec75c9b1b3","features":{},"yanked":false}
