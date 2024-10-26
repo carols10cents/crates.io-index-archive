@@ -1,0 +1,1 @@
+{"name":"rp-postgrest-error","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"976fa31c531647d030850b6e095ae6514de0104fe3535c828422666fa6e35555","features":{},"yanked":false}
