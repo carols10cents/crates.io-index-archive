@@ -1,0 +1,1 @@
+{"name":"imxrt1180evk-fcb","vers":"0.1.0","deps":[{"name":"imxrt-boot-gen","req":"^0.3.3","features":["imxrt1180"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"220a7ff56c056578713068ab8fb02682e8507a56ee59fcbc4af9ed008e7b878e","features":{},"yanked":false}
