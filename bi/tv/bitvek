@@ -2,3 +2,4 @@
 {"name":"bitvek","vers":"0.2.0","deps":[],"cksum":"0bb1aa325062bba025137730de7b5685eaad79069512a99832588a19898152b1","features":{},"yanked":false}
 {"name":"bitvek","vers":"0.2.1","deps":[],"cksum":"ffda2b9c4a0a7f0a711777423efb126bd6036afef29fc5c9ca32684bef24296b","features":{},"yanked":false}
 {"name":"bitvek","vers":"0.2.2","deps":[],"cksum":"bae3d0a6fbd2b46f9839268f1845599b78cfbaf5348fe1de038759cbceecf827","features":{},"yanked":false}
+{"name":"bitvek","vers":"0.2.3","deps":[],"cksum":"1c270b910c54acb2b9fc5a64bffbab6679abc4b9a52a7ddf6849c17a3a41ab55","features":{},"yanked":false}
