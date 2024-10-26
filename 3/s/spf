@@ -1,1 +1,2 @@
 {"name":"spf","vers":"0.0.1","deps":[],"cksum":"c09501d8b84b970518130df8ad5892c08ebc079b0765136d20b67e0264e82b39","features":{},"yanked":false}
+{"name":"spf","vers":"0.0.2","deps":[],"cksum":"99821e7ffb9d4ed42d17e01b1719dc84afece9ddbd8148df692a2d309d6cf7aa","features":{"cache":[],"default":["cache"]},"yanked":false}
