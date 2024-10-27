@@ -1,0 +1,1 @@
+{"name":"maidenx_cuda_core","vers":"0.0.3","deps":[{"name":"maidenx_cuda_sys","req":"^0.0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d5bd3d51871786f3ef873d640fd109141d648d3a043e2103e8d3ed428eae7265","features":{},"yanked":false}
