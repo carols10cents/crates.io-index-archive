@@ -1,0 +1,1 @@
+{"name":"randstruct","vers":"1.0.0","deps":[{"name":"bindgen","req":"^0.70.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"bca8968632c4e0313c47e6215c8d4336677300e2a2edd7ff651e1c797266365c","features":{},"yanked":true}
