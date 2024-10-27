@@ -2,3 +2,4 @@
 {"name":"std-traits","vers":"0.1.1","deps":[],"cksum":"cb6770cbdc62b7ee5bbbf6e60d2d9fbc7e106b8a8a558f30d7731bc4283f6679","features":{},"yanked":false,"rust_version":"1.59"}
 {"name":"std-traits","vers":"0.1.2","deps":[],"cksum":"7c0dd21acea9cddcbff983b49feb1de3015e38cf3992544004b525620b72b444","features":{},"yanked":false,"rust_version":"1.59"}
 {"name":"std-traits","vers":"0.1.3","deps":[],"cksum":"ac00c011deb28b324265402c1fb93356a22b2936a50691c1990124400a0e13bd","features":{},"yanked":false,"rust_version":"1.59"}
+{"name":"std-traits","vers":"0.2.0","deps":[],"cksum":"1cf3cbcdce2b3f3ad4ff761e92529e37b9e620cad89bb17e22234813781590e0","features":{"alloc":[],"default":["alloc"]},"yanked":false,"rust_version":"1.77"}
