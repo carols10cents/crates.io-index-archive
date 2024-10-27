@@ -20,3 +20,4 @@
 {"name":"skeid","vers":"0.20.0","deps":[],"cksum":"3b422446c8d16a59b4c6d74920c457eb4bb4d432ffc8803528169dad2e66b58c","features":{},"yanked":false}
 {"name":"skeid","vers":"0.20.1","deps":[],"cksum":"a69893c424e1957f6e1329a5a57cf19cadb6ffaf9e43060635ff0057bd4da546","features":{},"yanked":false}
 {"name":"skeid","vers":"0.20.2","deps":[],"cksum":"f45508e1b4b4f9a3a8de75f3224ea4b79b552605552021c5062a57edc6e93638","features":{},"yanked":false}
+{"name":"skeid","vers":"0.21.0","deps":[],"cksum":"fae1a25110bd7f36f60a86745ed09080c027a196070d9a36400a68a36f30d448","features":{},"yanked":false}
