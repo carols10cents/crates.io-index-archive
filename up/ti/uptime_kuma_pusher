@@ -1,0 +1,1 @@
+{"name":"uptime_kuma_pusher","vers":"0.1.0","deps":[{"name":"url","req":"^2.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e07c6bd5e45a7e601671d7c15cfe10a9652722b34a94d896be69da190da91bd7","features":{},"yanked":false}
