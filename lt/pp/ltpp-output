@@ -14,3 +14,4 @@
 {"name":"ltpp-output","vers":"1.0.6","deps":[],"cksum":"150f2364b9965df13b16b42504310385ec08a57ca04932f5daca1e4b71502eef","features":{},"yanked":false}
 {"name":"ltpp-output","vers":"1.0.7","deps":[],"cksum":"60b7e760200d0b34265f5fd3120e29ac215888913ae4a0c22e90844c886a3bc9","features":{},"yanked":false}
 {"name":"ltpp-output","vers":"1.0.8","deps":[],"cksum":"b2dff87f1d887a9601fa2cfdae977f7af41b688b2cd12a48b9a9bc5baf098c11","features":{},"yanked":false}
+{"name":"ltpp-output","vers":"1.1.0","deps":[],"cksum":"cea85daa0ef571c4fa163cbb6215fe80f1a04ede23bb1091eeeec2bc186e18a2","features":{},"yanked":false}
