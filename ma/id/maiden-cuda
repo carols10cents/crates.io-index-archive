@@ -1,2 +1,0 @@
-{"name":"maiden-cuda","vers":"0.0.1","deps":[{"name":"maiden_internal","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"074a716af3578ca08f1ee1655085039272726b5bd2b7b1190704d9c78dea200f","features":{},"yanked":false}
-{"name":"maiden-cuda","vers":"0.0.2","deps":[{"name":"maiden_internal","req":"^0.0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"06c98066e70022e14529ac665388022c5e1ccab797b229affa95f1f6e60eaed7","features":{},"yanked":false}
