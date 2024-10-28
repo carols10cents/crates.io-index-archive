@@ -1,0 +1,1 @@
+{"name":"RustQuant_trading","vers":"0.2.11","deps":[{"name":"time","req":"^0.3.34","features":["macros"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4d9b6775740ff64192c9d769606fb9c81b33b9e032681905c2a77d4bbbd74b61","features":{},"yanked":false}
