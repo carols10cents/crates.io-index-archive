@@ -1,1 +1,2 @@
 {"name":"maidenx_cuda_core","vers":"0.0.3","deps":[{"name":"maidenx_cuda_sys","req":"^0.0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d5bd3d51871786f3ef873d640fd109141d648d3a043e2103e8d3ed428eae7265","features":{},"yanked":false}
+{"name":"maidenx_cuda_core","vers":"0.0.4","deps":[{"name":"maidenx_cuda_sys","req":"^0.0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"957cd332183a0b9eee2c05a1937065167f2d11fd9a3ab78e6e024a3c34f70a60","features":{},"yanked":false}
