@@ -1,2 +1,0 @@
-{"name":"maiden_cuda-sys","vers":"0.0.1","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9309ad6168763f68bea85c6b222c70f3bf565f1188698bd86177fd66350bf2ef","features":{},"yanked":false}
-{"name":"maiden_cuda-sys","vers":"0.0.2","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c9382ad89d99e461ded13c4d2fbdca97b373c137cdedb0f17908b29146c83e1b","features":{},"yanked":false}
