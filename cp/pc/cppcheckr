@@ -1,0 +1,1 @@
+{"name":"cppcheckr","vers":"1.0.0","deps":[{"name":"clap-v3","req":"^3.0.0-beta.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"85fc4ef5a40ab9aeb4ac5d8a9749ff25758589f61bd2e7631fb6cfebc3ebdcf1","features":{},"yanked":false}
