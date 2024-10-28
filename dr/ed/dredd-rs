@@ -6,3 +6,4 @@
 {"name":"dredd-rs","vers":"0.0.6","deps":[],"cksum":"b045bc55e400e78151515dba19542982961fed0c6509f2d60a1c0e8fe9be7dab","features":{},"yanked":true}
 {"name":"dredd-rs","vers":"0.0.7","deps":[],"cksum":"19207019b5085fb95b8781b0c2db1afb20f9b59beb51564346292b7b7b5b0f73","features":{},"yanked":true}
 {"name":"dredd-rs","vers":"0.0.8","deps":[],"cksum":"704936d032a5c3a20e0a962a49f3b1dd55f91ac116ca5c4819b651591d8afe9a","features":{},"yanked":false}
+{"name":"dredd-rs","vers":"0.1.8","deps":[],"cksum":"530e1af5999221432e245016be19f6ad2edf152f1f756b5d41929930f6299af1","features":{},"yanked":false}
