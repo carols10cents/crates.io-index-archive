@@ -1,1 +1,2 @@
 {"name":"RustQuant_utils","vers":"0.2.10","deps":[{"name":"plotters","req":"^0.3.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fb8bff27bdad7fb1d74dd1efd1b8cb81ac2ec7d2ecb3154fc645f1014f7ce7a0","features":{},"yanked":false}
+{"name":"RustQuant_utils","vers":"0.2.11","deps":[{"name":"plotters","req":"^0.3.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"24111d6fc0c17c1a1178bb4c186b5864280fd4a31274e1260ff967792c7ac8b5","features":{},"yanked":false}
