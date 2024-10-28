@@ -3,3 +3,4 @@
 {"name":"qbe","vers":"1.0.0","deps":[],"cksum":"cabfa894f01e4f42783b3104110c0739c4f06a3a1b7fd5808ed51a71895047df","features":{},"yanked":false}
 {"name":"qbe","vers":"2.0.0","deps":[],"cksum":"ed71945fb9a7d03a91e43ec860ff4c2bcc4d1b6b33ea51733de9230c3a71b394","features":{},"yanked":false}
 {"name":"qbe","vers":"2.1.0","deps":[],"cksum":"4c3efb76986096e19177e4e4a1c0c0aa6c313439286ebf3762dcc1526522f2a1","features":{},"yanked":false}
+{"name":"qbe","vers":"2.2.0","deps":[],"cksum":"7f3dac1ea3aea4a125cacec9a02a6d7f3cfcff5a5691ef65cd79481b934b8607","features":{},"yanked":false}
