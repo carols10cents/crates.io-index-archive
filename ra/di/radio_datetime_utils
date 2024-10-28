@@ -7,3 +7,4 @@
 {"name":"radio_datetime_utils","vers":"0.4.2","deps":[],"cksum":"7b97b1d5411bc28bbaa1848797d912cc1de368f9baf23a6babd86e7acbc392d6","features":{},"yanked":false}
 {"name":"radio_datetime_utils","vers":"0.5.0","deps":[],"cksum":"95cdd3b90edcd89072979b07d58b98573e6042d7d79f9b3c43aa14ceea645d6e","features":{},"yanked":false}
 {"name":"radio_datetime_utils","vers":"1.0.0","deps":[],"cksum":"dda05ab6a452c4c6fe045f5284bfd3924755523ddc64cfae1e4b3583d1b2b8ff","features":{},"yanked":false}
+{"name":"radio_datetime_utils","vers":"1.0.1","deps":[],"cksum":"b6adf180733d18c7635a44289696841325d25f57b03948c7025eec7eeb4593b5","features":{},"yanked":false}
