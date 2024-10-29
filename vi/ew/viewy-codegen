@@ -40,3 +40,4 @@
 {"name":"viewy-codegen","vers":"1.12.8-alpha.1","deps":[],"cksum":"7fb361b154d20838fd6422bbf648b0cf982edbd7f86ce07b84ccf311c48db309","features":{},"yanked":false}
 {"name":"viewy-codegen","vers":"1.12.8-alpha.2","deps":[],"cksum":"b10692ae3942adebb6cd4788416a22aa9d335e06e8665458ba11bab37fb1866f","features":{},"yanked":false}
 {"name":"viewy-codegen","vers":"1.13.0","deps":[],"cksum":"fab8ef70fa66384dfc76e6b02d9f8d6c6b5f4100af285e4630a0df89d8a47409","features":{},"yanked":false}
+{"name":"viewy-codegen","vers":"1.13.1","deps":[],"cksum":"a9716df04151ff6296e2423bc8488a12309caeeb2fc1202c92719b1f5e410ecc","features":{},"yanked":false}
