@@ -1,1 +1,2 @@
 {"name":"solana-fee","vers":"0.0.0","deps":[],"cksum":"41ccb384f2c5aad4b41694999179112e5b57e495ae2122b352ac4cfa155a41b1","features":{},"yanked":false}
+{"name":"solana-fee","vers":"2.1.0","deps":[{"name":"solana-sdk","req":"=2.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"solana-svm-transaction","req":"=2.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"833e9a34c8cb1271e360b240dce43065cc4419ad74fc7e807c4e30cf06ebca80","features":{},"yanked":false}
