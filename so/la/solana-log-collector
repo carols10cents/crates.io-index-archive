@@ -1,2 +1,3 @@
 {"name":"solana-log-collector","vers":"0.0.1","deps":[],"cksum":"f87fbd31b9fb74ebc6d17cb61a2488ede6b4ee441758abec2905cabf14f1c2a6","features":{},"yanked":false}
 {"name":"solana-log-collector","vers":"0.0.2","deps":[{"name":"log","req":"^0.4.22","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a1b9e843f634d3c55245c09cff6ea845a6d8cbf17947ae30970adb1256f2c98c","features":{},"yanked":false}
+{"name":"solana-log-collector","vers":"2.1.0","deps":[{"name":"log","req":"^0.4.22","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b529f5736a6c0794a885dac2e091138d3db6d924335906f117a62b58b0d3b5dc","features":{},"yanked":false}
