@@ -5,3 +5,4 @@
 {"name":"dh","vers":"0.5.0","deps":[{"name":"fs4","req":"^0.10.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6878ba57b44c6b66bbdc3c627dee31c56b197c347cf609f21bb27b23138238a4","features":{},"yanked":false}
 {"name":"dh","vers":"0.6.0","deps":[{"name":"fs4","req":"^0.10.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e6bc04c578d43913b7e60b8180d73550222fb6597c2b7921d3bb2a75c57d1779","features":{},"yanked":false}
 {"name":"dh","vers":"0.6.1","deps":[{"name":"fs4","req":"^0.10.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e5b57c39302f810b98e019a30ea8f51af7d4b6460cf889113fc555eccca174b2","features":{},"yanked":false}
+{"name":"dh","vers":"0.7.0","deps":[],"cksum":"95eefa5665fe7a75af2d22b96848996239011e298afad042523c5dc4ea76f168","features":{},"yanked":false}
