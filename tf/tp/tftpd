@@ -20,3 +20,4 @@
 {"name":"tftpd","vers":"0.2.13","deps":[],"cksum":"013d946f97bd1e1348efc744f37383b95acf06ff686456138dfc434c7168d6e7","features":{"integration":[]},"yanked":false}
 {"name":"tftpd","vers":"0.3.0","deps":[],"cksum":"4eb8145307dd1bc950e0a3dba17c1e231baef09a505317638b9529487e24ce66","features":{"client":[],"integration":[]},"yanked":false}
 {"name":"tftpd","vers":"0.3.1","deps":[],"cksum":"ed9022b8871cfc4c5aa3ac9219ba0e4533e272d60e3b9bf5fa33bf1545431c6a","features":{"client":[],"integration":[]},"yanked":false}
+{"name":"tftpd","vers":"0.3.2","deps":[],"cksum":"342a9556dbe691825155d0daa3db73ff2a48a87c6219068bcae12976464b975c","features":{"client":[],"integration":[]},"yanked":false}
