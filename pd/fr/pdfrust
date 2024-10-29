@@ -1,0 +1,1 @@
+{"name":"pdfrust","vers":"0.1.0","deps":[{"name":"flate2","req":"^1.0.17","features":["zlib-ng"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"16260603592e84177bf2f43d44194c411bc2f055604040154b274572f5a4e5f1","features":{},"yanked":false}
