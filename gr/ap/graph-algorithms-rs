@@ -1,3 +1,4 @@
 {"name":"graph-algorithms-rs","vers":"0.1.1","deps":[],"cksum":"0df7313f389c568f00d340f77b56daf56373c53305dae1033d5028cb0a76a64c","features":{},"yanked":false}
 {"name":"graph-algorithms-rs","vers":"0.1.2","deps":[],"cksum":"3bed8c712f53d84178362d752aaaab38f74dcbb6028b918fdfc4f72bbdc98699","features":{},"yanked":false}
 {"name":"graph-algorithms-rs","vers":"0.1.3","deps":[],"cksum":"661783ea4bbffb8b1c43ef00a4155e945db7dde6f74bc15d97685ab480914c1e","features":{},"yanked":false}
+{"name":"graph-algorithms-rs","vers":"0.1.4","deps":[],"cksum":"55aaa6762084f157d42a216bf0073a2ee35333813e58be172853c0b06e8d6ed1","features":{},"yanked":false}
