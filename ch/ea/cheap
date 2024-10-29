@@ -1,0 +1,1 @@
+{"name":"cheap","vers":"1.0.0","deps":[{"name":"libc","req":"^0.2.161","features":["align"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b9b6431c94ab39c62903684f94d8dbd5194cf486e09540aa163e0d084e132653","features":{},"yanked":false}
