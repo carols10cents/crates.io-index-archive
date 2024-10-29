@@ -1,1 +1,2 @@
 {"name":"pollable-map","vers":"0.1.0-alpha","deps":[{"name":"futures","req":"^0.3.30","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1fd72e3de13f84c361bcfc905e3fd0dcfbbc68a983a4bcb7382805ada3ab1779","features":{},"yanked":false}
+{"name":"pollable-map","vers":"0.1.0-alpha.1","deps":[{"name":"futures","req":"^0.3.31","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"725f80d816cdea0b38b748783af2e978e42174c506c7e4ae19ede0d937032c60","features":{},"yanked":false}
