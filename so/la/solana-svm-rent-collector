@@ -1,1 +1,2 @@
 {"name":"solana-svm-rent-collector","vers":"0.0.0","deps":[],"cksum":"e4209395e0ae50d16b05cb27fc32ba78fa1e8cfdadb48ff6bbebe7492023dfe3","features":{},"yanked":false}
+{"name":"solana-svm-rent-collector","vers":"2.1.0","deps":[{"name":"solana-sdk","req":"=2.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"32e7068d6cc69c730190c96b87b106afd42cde203cf56164106792778cd0aaeb","features":{},"yanked":false}
