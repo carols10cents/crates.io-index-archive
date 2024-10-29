@@ -1,2 +1,3 @@
 {"name":"solana-msg","vers":"0.0.1","deps":[],"cksum":"510571bcbc5932e940a016685e8327370c9f6456e2fefe6fcaeb8326edc88fdd","features":{},"yanked":false}
 {"name":"solana-msg","vers":"0.0.2","deps":[{"name":"solana-define-syscall","req":"=0.0.2","features":[],"optional":false,"default_features":true,"target":"cfg(target_os = \"solana\")","kind":"normal"}],"cksum":"5cb4446085dcffc193c70385f5d1a911f06fb9e43784754046121c8c55e14fac","features":{},"yanked":false}
+{"name":"solana-msg","vers":"2.1.0","deps":[{"name":"solana-define-syscall","req":"=2.1.0","features":[],"optional":false,"default_features":true,"target":"cfg(target_os = \"solana\")","kind":"normal"}],"cksum":"1f7551f85064bc7299d56dbd7126258b084a2d78d0325b1579324f818b405123","features":{},"yanked":false}
