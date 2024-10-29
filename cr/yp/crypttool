@@ -1,1 +1,2 @@
 {"name":"CryptTool","vers":"0.1.1","deps":[],"cksum":"271d5afdba5ee40d7375b02848a90b96c18634fbbc528f2ee943048249782653","features":{},"yanked":false}
+{"name":"CryptTool","vers":"0.1.2","deps":[{"name":"criterion","req":"^0.5.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"rand","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"42e0e383a0a0b3c971cdb49b6355e440aaa905201ad0cce57fbe0da4cd16a7a1","features":{},"yanked":false}
