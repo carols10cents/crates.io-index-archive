@@ -1,1 +1,2 @@
 {"name":"idna_adapter","vers":"0.0.0","deps":[],"cksum":"b940b008127d663d4af7746e58dab84bdcf41ffc7db19b510dba84b3dfe451d2","features":{},"yanked":false}
+{"name":"idna_adapter","vers":"1.0.0","deps":[],"cksum":"cfdf4f5d937a025381f5ab13624b1c5f51414bfe5c9885663226eae8d6d39560","features":{"compiled_data":[]},"yanked":false,"rust_version":"1.57"}
