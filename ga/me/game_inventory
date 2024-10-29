@@ -7,3 +7,4 @@
 {"name":"game_inventory","vers":"1.0.1","deps":[],"cksum":"2c8d172277269d137f77e41ec92b7c4cbaa45f3c52de6dceb4b09119c4b40a4d","features":{},"yanked":false}
 {"name":"game_inventory","vers":"1.0.2","deps":[],"cksum":"548f8c53ae5404cf3632693151376e8b80881aa5c15edc78f0720c0d2d0aff5e","features":{},"yanked":false}
 {"name":"game_inventory","vers":"2.0.0","deps":[{"name":"lazy_static","req":"^1.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"224423791377c7df673d01ecb4000fc9bd16ffdc1bfe1288e1d1dc3329b8edda","features":{},"yanked":false}
+{"name":"game_inventory","vers":"2.1.0","deps":[{"name":"lazy_static","req":"^1.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"529e8bfc4f1820ea8dce696effe35c83a2795869fda0893b6b45c503531a735c","features":{},"yanked":false}
