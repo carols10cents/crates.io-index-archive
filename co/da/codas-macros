@@ -1,0 +1,1 @@
+{"name":"codas-macros","vers":"0.4.0","deps":[{"name":"codas","req":"^0.4.0","features":["parse","langs-rust"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4b32db7192ac846ba8976760ce47ebdd8c0607ecf115309fbff470b31d595cb9","features":{},"yanked":false}
