@@ -1,1 +1,2 @@
 {"name":"solana-sysvar-id","vers":"0.0.1","deps":[],"cksum":"411992cad55592a27784ebc944dedf4482eeecdcb8bf60d98b5aa6678db2111a","features":{},"yanked":false}
+{"name":"solana-sysvar-id","vers":"0.0.2","deps":[{"name":"solana-pubkey","req":"^2.1.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"1887e77713b3d7a72b37e5d0b7328037fbc6728a178c37d81e898902dfe003f2","features":{},"yanked":false}
