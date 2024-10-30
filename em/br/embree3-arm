@@ -1,0 +1,1 @@
+{"name":"embree3-arm","vers":"0.3.8","deps":[{"name":"cgmath","req":"^0.18","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0f157190d585013db7ec13ae56a071d78e8f007b5d9ada158ba879eee874f62f","features":{},"yanked":false}
