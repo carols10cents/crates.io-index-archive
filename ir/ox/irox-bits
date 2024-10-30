@@ -5,3 +5,4 @@
 {"name":"irox-bits","vers":"0.1.4","deps":[],"cksum":"a1d093d3d299b2be0ceaf4b6c23a5d753747f8846695cccf1b622530a965b5d8","features":{"alloc":[],"default":[],"std":["alloc"]},"yanked":false}
 {"name":"irox-bits","vers":"0.1.5","deps":[],"cksum":"fc9d53cd30285210f40a44c867d6326234355560aff3982bf2ca0b99e08dbb77","features":{"alloc":[],"default":[],"std":["alloc"]},"yanked":false}
 {"name":"irox-bits","vers":"0.2.0","deps":[],"cksum":"a85af00971b9a2c60519f07517a01240594f23ab443bc9e0f09cd7b333dc4fa1","features":{"alloc":[],"default":[],"std":["alloc"]},"yanked":false}
+{"name":"irox-bits","vers":"0.2.1","deps":[],"cksum":"8c86282ca3c0b4a247831b3cd23863fdf6d05da590cd4ddd0d9065e4e545dd82","features":{"alloc":[],"default":[],"std":["alloc"]},"yanked":false}
