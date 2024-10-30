@@ -1,0 +1,1 @@
+{"name":"sabry_procmacro","vers":"0.0.1-alpha.1","deps":[{"name":"sabry_procmacro_impl","req":"^0.0.1-alpha.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3a1c2592b99bca59daa072c3320da1da4653c0b433d1889043b903bd63f847d1","features":{},"yanked":false,"rust_version":"1.82"}
