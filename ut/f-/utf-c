@@ -1,0 +1,1 @@
+{"name":"utf-c","vers":"0.1.0","deps":[],"cksum":"d9bfe54a400bbefbbc570a1406f286a3a50878e966fa80d01b31f4238e22fe92","features":{"default":["simd"],"simd":[]},"yanked":false}
