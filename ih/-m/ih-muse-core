@@ -1,2 +1,3 @@
 {"name":"ih-muse-core","vers":"0.0.1","deps":[],"cksum":"a01b0b1e40b473c738f52bc5fc277173d7e8fac939dc63ac36185e99a2ca8e01","features":{"python":[]},"yanked":false,"rust_version":"1.80"}
 {"name":"ih-muse-core","vers":"0.0.2","deps":[],"cksum":"8ca7c66308628e5000dba49232631ab18ab1273a620e641ed075dac7237d1e47","features":{"python":[]},"yanked":false,"rust_version":"1.80"}
+{"name":"ih-muse-core","vers":"0.0.3","deps":[],"cksum":"078ab4039e29b95ca8110f79f647828d45bd04d159d5576bc4cad6857a6d5c60","features":{"python":[]},"yanked":false,"rust_version":"1.80"}
