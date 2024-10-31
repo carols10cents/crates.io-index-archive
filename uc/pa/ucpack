@@ -1,0 +1,1 @@
+{"name":"ucpack","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0.214","features":["derive"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"fe00ee1e3013d484c4a8548a65447f99d4e496eed4d8e878fdece0a4df2b04dc","features":{"default":["strict","std"],"std":[],"strict":[]},"yanked":false}
