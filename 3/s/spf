@@ -1,3 +1,4 @@
 {"name":"spf","vers":"0.0.1","deps":[],"cksum":"c09501d8b84b970518130df8ad5892c08ebc079b0765136d20b67e0264e82b39","features":{},"yanked":false}
 {"name":"spf","vers":"0.0.2","deps":[],"cksum":"99821e7ffb9d4ed42d17e01b1719dc84afece9ddbd8148df692a2d309d6cf7aa","features":{"cache":[],"default":["cache"]},"yanked":false}
 {"name":"spf","vers":"0.1.0","deps":[],"cksum":"f9c12fd298fda66f299b7b2a831f7c222db4e12d313f145e51effcafcb5fda81","features":{"cache":[],"default":["printer"],"printer":["cache"]},"yanked":false}
+{"name":"spf","vers":"0.2.0","deps":[],"cksum":"ae49f7e683cbdf6e21bed84d5151497a62c59dcface0268b7bece2477dfc8d9e","features":{"cache":[],"default":["printer"],"printer":["cache"]},"yanked":false}
