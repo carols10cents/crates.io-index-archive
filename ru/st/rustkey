@@ -4,3 +4,4 @@
 {"name":"rustkey","vers":"0.3.1","deps":[],"cksum":"5a4d886f1fd6c55b0b842b608de46bba8e2f21d18f9ca45e862e732631de2a28","features":{},"yanked":false}
 {"name":"rustkey","vers":"0.4.0","deps":[],"cksum":"f2a84f2520f76d4d99f29c6a1a88372a97b8b3eeb07ed22716bf12ef88b7d893","features":{},"yanked":false}
 {"name":"rustkey","vers":"0.4.1","deps":[],"cksum":"dff73425be22e7e8208bfc319d6259a72fdcb4937dbe7162e81a7fc42ca59eea","features":{},"yanked":false}
+{"name":"rustkey","vers":"0.4.2","deps":[],"cksum":"767afcbd85a2fc63135bd27529aa1d0eb1f34b9d39785555fe9b3edf5be682c7","features":{},"yanked":false}
