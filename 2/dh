@@ -7,3 +7,4 @@
 {"name":"dh","vers":"0.6.1","deps":[{"name":"fs4","req":"^0.10.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e5b57c39302f810b98e019a30ea8f51af7d4b6460cf889113fc555eccca174b2","features":{},"yanked":false}
 {"name":"dh","vers":"0.7.0","deps":[],"cksum":"95eefa5665fe7a75af2d22b96848996239011e298afad042523c5dc4ea76f168","features":{},"yanked":false}
 {"name":"dh","vers":"0.7.1","deps":[],"cksum":"68dbe0030d503b572977f33f218acedb1005f861ad56558a5828a05fdab99af7","features":{},"yanked":false}
+{"name":"dh","vers":"0.7.2","deps":[],"cksum":"8043be08612238410cbdf91ea6e30b592f473da7672ac6a80c83be3d920a84e1","features":{},"yanked":false}
