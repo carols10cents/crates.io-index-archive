@@ -1,0 +1,1 @@
+{"name":"rsabpoa","vers":"0.0.1","deps":[{"name":"lazy_static","req":"^1.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"68427f2fa386d602a9c668d0005e3936c64a71131fde911f5775d9faf1217377","features":{},"yanked":false}
