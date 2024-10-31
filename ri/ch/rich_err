@@ -1,2 +1,3 @@
 {"name":"rich_err","vers":"0.1.0","deps":[],"cksum":"0c653e47cb7a48d94847f32d3f0bdd78c643043be793ce01b95de1530a248eb9","features":{},"yanked":false}
 {"name":"rich_err","vers":"0.1.1","deps":[],"cksum":"5fd5f52b600e50b1017b59fe7bdb74782ef3135a6e5fdeaad1a834e3cc0f7eb2","features":{},"yanked":false}
+{"name":"rich_err","vers":"0.1.3","deps":[],"cksum":"f379ee55ad49a9fcc78e4b52276309439da0d17b5c60dcce0be708e5805367bc","features":{},"yanked":false}
