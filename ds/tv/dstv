@@ -4,3 +4,4 @@
 {"name":"dstv","vers":"0.4.0","deps":[],"cksum":"0032be3390df581f9ae137899ce91216eeeae85fbda1f0efe68bc64d911cbcd4","features":{},"yanked":false,"rust_version":"1.56"}
 {"name":"dstv","vers":"0.5.0","deps":[],"cksum":"3e2f8734e38019e1516de6238acc5de4eb277ac5b37d310f1987d15bdcca0319","features":{},"yanked":false,"rust_version":"1.56"}
 {"name":"dstv","vers":"0.6.0","deps":[],"cksum":"e6c907e03a31796eb0bd4305c47fcbff4dc3551f757b79a31f78eba6fdfc9e66","features":{},"yanked":false,"rust_version":"1.56"}
+{"name":"dstv","vers":"0.7.0","deps":[],"cksum":"c9cd2c022db44b760aefeb9ae57e2f4ac02f73e51058944a84fd5a2fc3aad918","features":{},"yanked":false,"rust_version":"1.56"}
