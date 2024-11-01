@@ -1,2 +1,3 @@
 {"name":"wait","vers":"0.1.0","deps":[],"cksum":"6e7e758b3a1d9080211ac9a9ab739e737c7945a213743cd15e1b5443f08c6f69","features":{},"yanked":false,"rust_version":"1.56.1"}
 {"name":"wait","vers":"0.1.1","deps":[],"cksum":"72e70456b2942c8692fcd1c14b6385587925ab654919ef81169397955e02e74b","features":{},"yanked":false,"rust_version":"1.56.1"}
+{"name":"wait","vers":"0.2.0","deps":[],"cksum":"c3d4c2dbf70b63283fd07a13b74a6792882b11861851167f1040803aca8a1e85","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.56.1"}
