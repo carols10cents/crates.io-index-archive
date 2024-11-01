@@ -1,0 +1,1 @@
+{"name":"swamp-wgpu","vers":"0.0.1","deps":[{"name":"log","req":"^0.4.22","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"wgpu","req":"^23.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1000c0890288e478e3cbf9990d5889f2983814fb9bbf33571eaed1a0d433b335","features":{},"yanked":false}
