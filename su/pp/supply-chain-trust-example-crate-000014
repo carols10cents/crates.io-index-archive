@@ -1,0 +1,1 @@
+{"name":"supply-chain-trust-example-crate-000014","vers":"1.0.11","deps":[{"name":"no-panic","req":"^0.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"216304ea12ca60262ce059ad71c802812194dbaabd5950e291a4442891a03b1e","features":{},"yanked":false,"rust_version":"1.36"}
