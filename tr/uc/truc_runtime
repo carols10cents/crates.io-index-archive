@@ -1,2 +1,3 @@
 {"name":"truc_runtime","vers":"0.1.0","deps":[],"cksum":"d179707ab7893afeaf015bcc5ea9005d97bf5b60928207d52ce8acd3c69e9605","features":{},"yanked":false}
 {"name":"truc_runtime","vers":"0.1.1","deps":[],"cksum":"3f68341804886fcfe7a782567ca9239d37cebe10814fe400e14bf0012303309f","features":{},"yanked":false,"rust_version":"1.56.1"}
+{"name":"truc_runtime","vers":"0.2.0","deps":[],"cksum":"2636cd25cb7f669980af5a7abf74b314a644626e62dca5935fdefe282d749e3c","features":{},"yanked":false,"rust_version":"1.56.1"}
