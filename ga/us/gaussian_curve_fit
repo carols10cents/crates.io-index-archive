@@ -1,0 +1,1 @@
+{"name":"gaussian_curve_fit","vers":"0.1.0","deps":[{"name":"nalgebra","req":"^0.33.2","features":["libm"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"fcba9a4f08e4812f24819aaa377b7d1d030dbd49038dc928a8d61133454d9022","features":{},"yanked":false}
