@@ -3,3 +3,4 @@
 {"name":"dendritic","vers":"1.1.2","deps":[],"cksum":"7d1343653371ec180e6bab7ae44f6830eb6aadb90c1ee33a732a0e363d54abae","features":{},"yanked":false}
 {"name":"dendritic","vers":"1.1.3","deps":[],"cksum":"74abd7ca5b5834ac44b3c377a5c534ce7e4cda0882a7b4a3d63b5d20e0b183e5","features":{},"yanked":false}
 {"name":"dendritic","vers":"1.2.0","deps":[],"cksum":"99b2510ffd92f23abb7e3eff4e21206a8a4186dce042901cc068a84665dd8a2c","features":{},"yanked":false}
+{"name":"dendritic","vers":"1.3.0","deps":[],"cksum":"c31096deb344af79b3ce1388963f063bfc4bc32ce14142ee668c11abf8addb6f","features":{},"yanked":false}
