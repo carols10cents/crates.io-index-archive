@@ -1,4 +1,4 @@
 {"name":"riscv_sim","vers":"0.1.0","deps":[],"cksum":"5fffc077c7d9bd34bdf988f1f9a7f1e4c18946582183a2948f49f4f5b6d7c7e3","features":{},"yanked":true}
 {"name":"riscv_sim","vers":"0.1.1","deps":[],"cksum":"8e27fee099e81c9ae5d4762b0516830f9fe121e08c7b5e3d0d74661835e4dad8","features":{},"yanked":true}
-{"name":"riscv_sim","vers":"0.1.4","deps":[],"cksum":"ff980108385c6a46350bc90b3effc1594a5bf0be9258d70d3767c5fa0261310a","features":{},"yanked":false}
+{"name":"riscv_sim","vers":"0.1.4","deps":[],"cksum":"ff980108385c6a46350bc90b3effc1594a5bf0be9258d70d3767c5fa0261310a","features":{},"yanked":true}
 {"name":"riscv_sim","vers":"0.1.5","deps":[],"cksum":"7b4aa4ed43750751e822a47bc868ec2ba588d223330d28119a1055f7305ca566","features":{},"yanked":false}
