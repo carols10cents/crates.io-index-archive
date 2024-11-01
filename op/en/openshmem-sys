@@ -1,0 +1,1 @@
+{"name":"openshmem-sys","vers":"1.5.0","deps":[{"name":"bindgen","req":"^0.69.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"e1dc7f3aae47c599ebea4762bbdb9f24ba570ec228391cf39764bbc18d5b5359","features":{"default":["shmemx"],"shmemx":[]},"yanked":false}
