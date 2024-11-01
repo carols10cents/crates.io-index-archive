@@ -7,3 +7,4 @@
 {"name":"kurtbuilds_std_ext","vers":"0.1.7","deps":[],"cksum":"ae2feb7f53e4866060b7c045775dabf6e38138c37c7f0d1f14d02080dea267cd","features":{},"yanked":false}
 {"name":"kurtbuilds_std_ext","vers":"0.1.8","deps":[],"cksum":"cd9a94cdcc88c700606e293e2265f8616d18cac41ad59f1334a3962f07f6ff28","features":{},"yanked":false}
 {"name":"kurtbuilds_std_ext","vers":"0.1.9","deps":[],"cksum":"7fd3c45ab6c9f51f0798488e862536444cb92a8d08ef452c0f2a20db2c971286","features":{},"yanked":false}
+{"name":"kurtbuilds_std_ext","vers":"0.1.10","deps":[],"cksum":"96b18b6c726deb8f1041b4059845740d72dc29d9687349cd2a81f0430a0b0fb3","features":{},"yanked":false}
