@@ -15,3 +15,4 @@
 {"name":"rust-ci-cd-template","vers":"0.2.6","deps":[],"cksum":"7c0476f0e94faef9d98abce06fd3b474b16a933528f724d6aab00ece211ce519","features":{},"yanked":false,"rust_version":"1.59.0"}
 {"name":"rust-ci-cd-template","vers":"0.2.7","deps":[],"cksum":"aba728999a20f9aa8031e2ef8f5f7f9790af905a790b6e4986aa602840fb0435","features":{},"yanked":false,"rust_version":"1.59.0"}
 {"name":"rust-ci-cd-template","vers":"0.2.8","deps":[],"cksum":"c7d6f647aa26dc324a804b5b360e044f417c5f7298b62d7b15abd85473c2ac46","features":{},"yanked":false,"rust_version":"1.81.0"}
+{"name":"rust-ci-cd-template","vers":"0.2.9","deps":[],"cksum":"a471b5dbe496ccb1b7da46b8e5654ef5aeecbf4bfcefda5c91e7acb587556e3f","features":{},"yanked":false,"rust_version":"1.81.0"}
