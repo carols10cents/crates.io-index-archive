@@ -1,1 +1,2 @@
 {"name":"description","vers":"0.1.0","deps":[{"name":"description-macro","req":"=0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4dbe5269a3dc96a26905f942993683e84a794d6d01ad2ed186eb05fcb4675fbe","features":{},"yanked":false}
+{"name":"description","vers":"0.2.0","deps":[{"name":"description-macro","req":"=0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f0c77aaff36de8b2d483b9d4511f2714beb838502481a2731d31f716ee7f720c","features":{},"yanked":false}
