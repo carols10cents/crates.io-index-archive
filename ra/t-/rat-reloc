@@ -1,0 +1,1 @@
+{"name":"rat-reloc","vers":"0.2.0","deps":[{"name":"log","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"ratatui","req":"^0.29","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"45a480d4006d6bcecae5c59898a966ae3950e7219a84782d0d223acf7e241107","features":{},"yanked":false}
