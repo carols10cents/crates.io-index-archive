@@ -1,1 +1,2 @@
 {"name":"hardcore_equitizer","vers":"0.1.0","deps":[{"name":"permutohedron","req":"^0.2.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d854b645fc84a315be0c6a3efcc46a8b329b4ffeaded778004938c2b6c1a7e4a","features":{},"yanked":false}
+{"name":"hardcore_equitizer","vers":"0.1.1","deps":[{"name":"permutohedron","req":"^0.2.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bd8d0027e2f75c818251e2536d7ff0840bd31749b10d129a7d1803ebb20ee380","features":{},"yanked":false}
