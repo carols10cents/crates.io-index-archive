@@ -1,1 +1,2 @@
 {"name":"dioxus-core-types","vers":"0.6.0-alpha.3","deps":[],"cksum":"ab7f9d56205a037df2e97bba0d834cb8308d20216af7ab181917a1507e0c877b","features":{},"yanked":false}
+{"name":"dioxus-core-types","vers":"0.6.0-alpha.4","deps":[{"name":"once_cell","req":"^1.17.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"abfa74cda93aa6456d8570d538797bf8ee4d0b85cb6de7cddd87c1db52379c50","features":{},"yanked":false}
