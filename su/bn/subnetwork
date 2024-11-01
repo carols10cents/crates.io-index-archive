@@ -34,3 +34,4 @@
 {"name":"subnetwork","vers":"0.4.2","deps":[],"cksum":"c927c54a126b27657639a9b5fc76c276bed36fee606b89d6545871e245ba1f53","features":{},"yanked":false}
 {"name":"subnetwork","vers":"0.4.3","deps":[],"cksum":"08a575fa55094bdbb24b84ea95a827eedfe2548210d200e6a5f13f9ae55a1feb","features":{},"yanked":false}
 {"name":"subnetwork","vers":"0.4.4","deps":[],"cksum":"76434913a4c2f5c70897840553bc0749055e809255685d507bd3ea50cf116d27","features":{},"yanked":false}
+{"name":"subnetwork","vers":"0.4.5","deps":[],"cksum":"f11eca408af8982636d2a388fdb0e32caf5e9d69e394c68cdf230fa04a8effcc","features":{},"yanked":false}
