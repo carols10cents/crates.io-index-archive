@@ -2,3 +2,4 @@
 {"name":"wtime","vers":"0.1.0","deps":[],"cksum":"02a27ea62d760ee90ac9fefd573aa20fb7da9c0f7116d9cdf4559793294ff9e0","features":{},"yanked":false}
 {"name":"wtime","vers":"0.2.0","deps":[],"cksum":"128303896c9979351132c650a06dd975a80e24d4b0941369609e0654f2b1c1ca","features":{},"yanked":false}
 {"name":"wtime","vers":"0.3.0","deps":[],"cksum":"18b4e85eb68b6059711ca3046e960c8374ef7c161bf16822f8d095f3ecbdfd75","features":{},"yanked":false}
+{"name":"wtime","vers":"0.4.0","deps":[{"name":"chrono","req":"^0.4.38","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"57b8deaac2318535414a1c766f4a253dd88d047091a4dc077119c2eb78394ef6","features":{},"yanked":false,"rust_version":"1.82.0"}
