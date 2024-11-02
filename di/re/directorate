@@ -1,0 +1,1 @@
+{"name":"directorate","vers":"0.0.1","deps":[{"name":"rust-embed","req":"^8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"19849308730476181cf09517b2024236c0bdd8a88bff9223bea977dcb7ba43ec","features":{},"yanked":false,"rust_version":"1.75"}
