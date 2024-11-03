@@ -4,3 +4,4 @@
 {"name":"whatwg-infra","vers":"0.2.1","deps":[],"cksum":"343ae5f9386c49cb53ad2c0ea4a4325f0b6464b275257f0c992cc33d0200b7db","features":{},"yanked":false,"rust_version":"1.63.0"}
 {"name":"whatwg-infra","vers":"0.2.2","deps":[],"cksum":"e25fc87e4eabb6641b42df153b90a1713fec6150d3ce089805de02e91e2cf5c4","features":{},"yanked":false,"rust_version":"1.63.0"}
 {"name":"whatwg-infra","vers":"1.0.0","deps":[],"cksum":"297d16c8b02ad8e0d7e4e6f7ca6d487551893f1ce31b21752ccc7530518326af","features":{},"yanked":false,"rust_version":"1.63.0"}
+{"name":"whatwg-infra","vers":"1.1.0","deps":[],"cksum":"5ee434ec12e3ae583f3af5bde42be9f595c7efbbbcc8896bc3929796b55fcf77","features":{},"yanked":false,"rust_version":"1.63.0"}
