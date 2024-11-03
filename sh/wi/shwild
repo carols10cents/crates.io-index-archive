@@ -1,1 +1,2 @@
 {"name":"shwild","vers":"0.0.0","deps":[],"cksum":"b1f6352d5d6349b3c416c416aaf829990ccc50f12dae83e5b3ccd4afee93f516","features":{},"yanked":false}
+{"name":"shwild","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"test_help-rs","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"6c835be761e77919f718090d92f579da2993dc37585620c58d369b3214197ee2","features":{"_NEVER_TO_BE_ENABLED":[],"null-feature":[]},"yanked":false}
