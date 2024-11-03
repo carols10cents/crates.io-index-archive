@@ -2,3 +2,4 @@
 {"name":"miraland-memory-management","vers":"1.18.1","deps":[],"cksum":"567c4c370e30e9442aca43824b2dd6ba601d7ed5ee243bd9150f695686df8c12","features":{},"yanked":false}
 {"name":"miraland-memory-management","vers":"1.18.2","deps":[],"cksum":"8871b70af12fd20bcc4373a1edac413570da82ff1a65210ebbdd94567364fc80","features":{},"yanked":false}
 {"name":"miraland-memory-management","vers":"1.18.3","deps":[],"cksum":"87bd341c1201441056d6d783a12fc66ecc89619331f8c46990f3692ef7f6b0ae","features":{},"yanked":false}
+{"name":"miraland-memory-management","vers":"1.18.4","deps":[],"cksum":"b5bbe89b7683b3359f95993e488d5daf3f894dcd7434a846cabd426f995bba78","features":{},"yanked":false}
