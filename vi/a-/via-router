@@ -4,3 +4,4 @@
 {"name":"via-router","vers":"1.0.1","deps":[],"cksum":"4b7969604c4f8d7ac38dba45f258d03a1daaddb3aa53761b8b0778d02e01d093","features":{},"yanked":false}
 {"name":"via-router","vers":"2.0.0","deps":[],"cksum":"2e9394ef726d767313a10052a8278bc15d6b33ce64e079574b9475cc26b2a398","features":{},"yanked":false}
 {"name":"via-router","vers":"2.0.1","deps":[{"name":"smallvec","req":"^1.13","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0553bfc66ea988641f03f49b2d44a89a944c88781b961c66fbd1b033ea728873","features":{},"yanked":false}
+{"name":"via-router","vers":"3.0.0-beta.1","deps":[{"name":"smallvec","req":"^1.13","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1485f70c4ef97e3147900071ed86d1b0a2f9ca8c30843f652bc6164ae2e9efde","features":{},"yanked":false}
