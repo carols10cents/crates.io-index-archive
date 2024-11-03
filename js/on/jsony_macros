@@ -1,1 +1,2 @@
 {"name":"jsony_macros","vers":"0.0.1","deps":[],"cksum":"fbc0cbcd2077699d71b8cd7052782eea8cbcd6400f40d52a4b88d896e366e962","features":{},"yanked":false}
+{"name":"jsony_macros","vers":"0.0.2","deps":[],"cksum":"42cc3b773602006b50ece9c1db60a0a5fa7bcce37c2bc121d9db5378a4446b27","features":{},"yanked":false,"rust_version":"1.82"}
