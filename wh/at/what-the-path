@@ -1,1 +1,2 @@
 {"name":"what-the-path","vers":"0.1.0","deps":[{"name":"thiserror","req":"^1.0.65","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"77e4ffe4e22fae674874d4b280eaaf31a4b69f8b72140ce63addb444f26d7f30","features":{},"yanked":false}
+{"name":"what-the-path","vers":"0.1.1","deps":[{"name":"thiserror","req":"^1.0.65","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9fd8b66ed82e3962b6a8212ecf05356c82421b326d9bf40f5d55261412484d4b","features":{},"yanked":false}
