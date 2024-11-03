@@ -1,0 +1,1 @@
+{"name":"one-command","vers":"0.1.0","deps":[{"name":"async-process","req":">0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e3e2e1fa028f56292ea8a616d3fecf4a0732966cd5d1053d9e9d59c56bda25de","features":{},"yanked":false}
