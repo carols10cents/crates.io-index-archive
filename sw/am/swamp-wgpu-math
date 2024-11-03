@@ -2,3 +2,4 @@
 {"name":"swamp-wgpu-math","vers":"0.0.4","deps":[],"cksum":"4fa894f7a6433dbe997379503af6354e037b189aeaeb36373e0a321359b64759","features":{},"yanked":false}
 {"name":"swamp-wgpu-math","vers":"0.0.5","deps":[],"cksum":"517011b43b1e7fc0341a3a909adc922d316b9d0657c5ba4e0fa0f4b7d1daaa5b","features":{},"yanked":false}
 {"name":"swamp-wgpu-math","vers":"0.0.6","deps":[],"cksum":"1ea9f1e397d06077205c4823cca8841f81c1294f309ca97aecf7b122dbfbe658","features":{},"yanked":false}
+{"name":"swamp-wgpu-math","vers":"0.0.7","deps":[],"cksum":"d4af42c2388081ee173d701aa0ab28ee800545bc9cde6145c158de03de235c56","features":{},"yanked":false}
