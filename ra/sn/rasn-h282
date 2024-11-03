@@ -1,0 +1,1 @@
+{"name":"rasn-h282","vers":"0.20.2","deps":[{"name":"rasn","req":"^0.20","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0396a67c19b1f7b6cdd01da4a541a490c3e21b06398aed1ddc828da5fbf534df","features":{},"yanked":false}
