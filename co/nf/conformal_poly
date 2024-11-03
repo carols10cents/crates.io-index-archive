@@ -1,0 +1,1 @@
+{"name":"conformal_poly","vers":"0.3.2","deps":[{"name":"conformal_component","req":"^0.3.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9ace4b8c08abd5f7cea179de9cf213df27eff973f95644caedc79e4032667770","features":{},"yanked":false,"rust_version":"1.79.0"}
