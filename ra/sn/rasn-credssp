@@ -1,0 +1,1 @@
+{"name":"rasn-credssp","vers":"0.20.2","deps":[{"name":"rasn","req":"^0.20","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"298f9435a0c9c016e0e71096b515f02f9f0785ebdd332ca34e8ee40420ce0666","features":{},"yanked":false}
