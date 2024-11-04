@@ -33,3 +33,4 @@
 {"name":"yaxi","vers":"0.1.38","deps":[],"cksum":"448abb588aad024cb9589b12614705dfee4028be4101647239da7f67a121e39e","features":{"clipboard":[],"xinerama":[]},"yanked":false}
 {"name":"yaxi","vers":"0.1.39","deps":[],"cksum":"36fc1606e63458b131d6d1d460802924096e68d66f280bb26cb8bbea2e08a307","features":{"clipboard":[],"xinerama":[]},"yanked":false}
 {"name":"yaxi","vers":"0.1.40","deps":[],"cksum":"ab9f83ca16e9a714164005cb00201df72d06d0a31d2a3f7d83a59de974b671af","features":{"clipboard":[],"xinerama":[]},"yanked":false}
+{"name":"yaxi","vers":"0.1.42","deps":[],"cksum":"6cce2538830a84ebe4eb94833d9ffaeeedeac656cf267ac7c3194718bb526744","features":{"clipboard":[],"extras":[],"xinerama":[]},"yanked":false}
