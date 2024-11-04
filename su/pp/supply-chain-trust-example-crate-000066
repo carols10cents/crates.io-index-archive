@@ -1,0 +1,1 @@
+{"name":"supply-chain-trust-example-crate-000066","vers":"0.1.24","deps":[{"name":"tinyvec","req":"^1","features":["alloc"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"50781717ddb4142ac0bf947b7b471f4624bfa8cab5811d546570f5f6574173e0","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.36"}
