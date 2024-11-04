@@ -1,0 +1,1 @@
+{"name":"amm-sdk-netsblox","vers":"0.1.0","deps":[{"name":"amm_sdk","req":"^0.3.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ed8ad76576ed5239b9cafab55f77237a94751ac77bb7ff978dd2dcaf59b37709","features":{},"yanked":false}
