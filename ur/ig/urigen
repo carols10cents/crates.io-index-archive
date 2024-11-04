@@ -1,0 +1,1 @@
+{"name":"urigen","vers":"0.1.0","deps":[{"name":"indexmap","req":"^2.6.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"70e729488aa9088ca11340e13642d1132fc31c669ce66b935b0ca3bebf8b97f9","features":{},"yanked":false}
