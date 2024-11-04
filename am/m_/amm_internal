@@ -3,3 +3,4 @@
 {"name":"amm_internal","vers":"0.3.2","deps":[],"cksum":"15269d3a84b89ef07b5358edf34c99a187df4ef494aa942dc8f3c6d79188f470","features":{},"yanked":false}
 {"name":"amm_internal","vers":"0.3.3","deps":[],"cksum":"e721e109f07fb019c66aeffe6f66590c4ae02f641b8d908e36e8821b33c7d957","features":{},"yanked":false}
 {"name":"amm_internal","vers":"0.3.4","deps":[],"cksum":"0ec15971a2d835164a081c20398398564a3e26aaa9648f964d1a0cc667b3f02c","features":{},"yanked":false}
+{"name":"amm_internal","vers":"0.3.5","deps":[],"cksum":"63ab70fe99a0644391ef41341eb5008f69b5ad179f00e0985209e907d88d6722","features":{},"yanked":false}
