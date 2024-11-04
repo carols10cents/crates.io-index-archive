@@ -4,3 +4,4 @@
 {"name":"graph-algorithms-rs","vers":"0.1.4","deps":[],"cksum":"55aaa6762084f157d42a216bf0073a2ee35333813e58be172853c0b06e8d6ed1","features":{},"yanked":false}
 {"name":"graph-algorithms-rs","vers":"0.1.5","deps":[],"cksum":"1413eac8881455130e6388be9180f486c51c71eb5b5907ee704403069b71f838","features":{"bellman_ford":[],"default":["bellman_ford","dijkstra"],"dijkstra":[]},"yanked":false}
 {"name":"graph-algorithms-rs","vers":"0.1.6","deps":[],"cksum":"fb84eb2fca7a62a58dfa68b1c7a374b25eb232489ef2d2fa24a49704069d74ad","features":{"bellman_ford":[],"default":["bellman_ford","dijkstra","floyd_warshall"],"dijkstra":[],"floyd_warshall":[]},"yanked":false}
+{"name":"graph-algorithms-rs","vers":"0.1.7","deps":[],"cksum":"58b6fd77e95e38f5eb6fdb56f5f5a9357e6d492a22a11c2aeefc111e7c9871c0","features":{"bellman_ford":[],"default":["bellman_ford","dijkstra","floyd_warshall"],"dijkstra":[],"floyd_warshall":[]},"yanked":false}
