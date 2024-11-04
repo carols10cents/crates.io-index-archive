@@ -1,3 +1,4 @@
 {"name":"oxc_estree","vers":"0.32.0","deps":[],"cksum":"befa5f762524cdd768fee0321c4f19ee24e13e7340ca2a64629183a37875ba71","features":{},"yanked":false,"rust_version":"1.76"}
 {"name":"oxc_estree","vers":"0.33.0","deps":[],"cksum":"b5e473cefef347ff5e4774a297d55fd84c405e5a457a6a48cdc0289b50637a0d","features":{},"yanked":false,"rust_version":"1.76"}
 {"name":"oxc_estree","vers":"0.34.0","deps":[],"cksum":"7c30428989d3af8c8d868ec5fdd3e227865bbf7bc875e47785de368968282234","features":{},"yanked":false,"rust_version":"1.76"}
+{"name":"oxc_estree","vers":"0.35.0","deps":[],"cksum":"9c59e04c9c994165e27bbd855671e5b3121bbe46ed7b8148796a53563c96b286","features":{},"yanked":false,"rust_version":"1.76"}
