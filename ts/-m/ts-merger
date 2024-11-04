@@ -1,0 +1,1 @@
+{"name":"ts-merger","vers":"0.1.0","deps":[{"name":"indicatif","req":"^0.17.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3721e675fc3cc2b132fb176bcd61bfbd9ef54750a3e0e7131e12a307000f899b","features":{},"yanked":false}
