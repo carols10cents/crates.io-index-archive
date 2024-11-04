@@ -1,1 +1,2 @@
 {"name":"urigen","vers":"0.1.0","deps":[{"name":"indexmap","req":"^2.6.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"70e729488aa9088ca11340e13642d1132fc31c669ce66b935b0ca3bebf8b97f9","features":{},"yanked":false}
+{"name":"urigen","vers":"0.2.0","deps":[{"name":"indexmap","req":"^2.6.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1e4adcf8db100f16e017c379a5e2ba1e9e7499059bf65b721c4e8ce21deb01c8","features":{},"yanked":false}
