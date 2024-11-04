@@ -1,0 +1,1 @@
+{"name":"supply-chain-trust-example-crate-000090","vers":"0.3.31","deps":[{"name":"lazy_static","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"6bd394b78555b0b1db6ca9e6716dbdf5fcd73d6eb876b06d2dd36928ec51f5e5","features":{},"yanked":false,"rust_version":"1.31"}
