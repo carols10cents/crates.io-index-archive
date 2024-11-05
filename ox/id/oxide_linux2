@@ -1,5 +1,5 @@
 {"name":"oxide_linux2","vers":"0.1.0","deps":[{"name":"log","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"thiserror","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"48f684edcd2406c7b7d7cab3fa6b5915a889ec84ceddcd0015654e29be0aacb2","features":{},"yanked":true}
 {"name":"oxide_linux2","vers":"0.1.1","deps":[{"name":"log","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"thiserror","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5ae94cf24871debc8daa1c85c8d9f9d56ab2a0ea0803f0c378b6aab870402fb2","features":{},"yanked":true}
-{"name":"oxide_linux2","vers":"1.0.2","deps":[],"cksum":"34bfc9393805a21860f4c480d5c1959ea307e4f3f99e6f4aa65fd7ec59410016","features":{},"yanked":true}
+{"name":"oxide_linux2","vers":"1.0.2","deps":[],"cksum":"34bfc9393805a21860f4c480d5c1959ea307e4f3f99e6f4aa65fd7ec59410016","features":{},"yanked":false}
 {"name":"oxide_linux2","vers":"1.0.3","deps":[],"cksum":"a84a12f2cd85393ec2ddce7bedd42a3c529045e1bb712acd4e6d5fc11d618f88","features":{},"yanked":false}
 {"name":"oxide_linux2","vers":"1.0.4","deps":[],"cksum":"c5407b75b0f11ad681af224b9a23467e22d28bd1637b0d40eb320b53520ef5c2","features":{},"yanked":false}
