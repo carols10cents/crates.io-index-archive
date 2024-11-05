@@ -3,3 +3,4 @@
 {"name":"zmove","vers":"0.1.2","deps":[],"cksum":"cee2f0fbce2cbf7e03f654084e476a8bb8d9c473fb93147fea7e1c4bb710f183","features":{},"yanked":false}
 {"name":"zmove","vers":"0.1.3","deps":[],"cksum":"91df11884634d7355c27449eb36b8c56f2648feeaa380279f3679d22e466f35c","features":{},"yanked":false}
 {"name":"zmove","vers":"0.1.4","deps":[],"cksum":"9e5a136a02af954c3e7f5b260b1b9abd2a5e8a22b3964190f1809b9be6c7e51a","features":{},"yanked":false}
+{"name":"zmove","vers":"0.2.0","deps":[],"cksum":"e630d54b3838a06f76df2952d72f763fd3ec114f9e8fd42fcb55e068a9c19440","features":{},"yanked":false}
