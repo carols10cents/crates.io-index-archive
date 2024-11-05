@@ -1,1 +1,2 @@
 {"name":"vqf","vers":"0.1.0","deps":[],"cksum":"0a8d09457c0c68647a232f6a992eb287a7242bf57a0bead7b9625746e4b6918c","features":{},"yanked":false}
+{"name":"vqf","vers":"0.2.0","deps":[{"name":"nalgebra","req":"^0.32.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1e8639438bb82d74b7b451143e987f788f8e36dc9f22cd455716fc59e32c2ad4","features":{},"yanked":false}
