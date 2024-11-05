@@ -1,0 +1,1 @@
+{"name":"sysinfo_linux","vers":"0.1.2","deps":[{"name":"thiserror","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bbbe4f10f4cae81329e077321324caabcbe933717bbd50a113e8505a256368f6","features":{},"yanked":false}
