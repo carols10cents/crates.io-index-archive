@@ -5,3 +5,4 @@
 {"name":"crabi_test","vers":"0.1.4","deps":[],"cksum":"367eb5123dee94119aea65a31c3a084fedd437ffdd8de6802a59a4a021b4112d","features":{},"yanked":false}
 {"name":"crabi_test","vers":"0.1.5","deps":[],"cksum":"9ade81bae87ed353d84245359ea173c0722137daec414986690d608f5aaabda2","features":{},"yanked":false}
 {"name":"crabi_test","vers":"0.1.6","deps":[],"cksum":"44394cf15d1a0e843ba154b8e508b4445fbaca1d2befb749453b5d78ac6ec301","features":{},"yanked":false}
+{"name":"crabi_test","vers":"0.1.7","deps":[],"cksum":"1276714743886565c6de4a4509d84fa59749b1257002f63c424cd7b44d227a4f","features":{},"yanked":false}
