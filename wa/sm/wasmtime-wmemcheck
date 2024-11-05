@@ -39,3 +39,5 @@
 {"name":"wasmtime-wmemcheck","vers":"23.0.3","deps":[],"cksum":"09f96f67bc8f06c415c6f40c667c0d459752261869dd6e3a4b00631889fb7ebf","features":{},"yanked":false}
 {"name":"wasmtime-wmemcheck","vers":"26.0.0","deps":[],"cksum":"06faea56baa6efdf615599f0a1699f538ee0dbb017673d6dbae5c4d340f60e7f","features":{},"yanked":false,"rust_version":"1.78.0"}
 {"name":"wasmtime-wmemcheck","vers":"24.0.2","deps":[],"cksum":"a5af2982a651764b3b2494b251ab23ae10e0deac6f8878006a9489711b8d22de","features":{},"yanked":false}
+{"name":"wasmtime-wmemcheck","vers":"26.0.1","deps":[],"cksum":"364aed9e4377fdeb264bf79519bddb9c2d6b8b74af708bd0cd63f61086c3759e","features":{},"yanked":false,"rust_version":"1.78.0"}
+{"name":"wasmtime-wmemcheck","vers":"25.0.3","deps":[],"cksum":"2334c5f30eec1f556d1d9029ea02bfd421ea01b3b188c6995256f7449a2e54d7","features":{},"yanked":false,"rust_version":"1.78.0"}
