@@ -1,0 +1,1 @@
+{"name":"sima-rs","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"memchr","req":"^2.7.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4d9c9e41595bbed75e357516679f8983dd90f24fa08f0f8cb4177cdca6a37e04","features":{},"yanked":false}
