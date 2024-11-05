@@ -6,3 +6,4 @@
 {"name":"amm_internal","vers":"0.3.5","deps":[],"cksum":"63ab70fe99a0644391ef41341eb5008f69b5ad179f00e0985209e907d88d6722","features":{},"yanked":false}
 {"name":"amm_internal","vers":"0.3.6","deps":[],"cksum":"f4a5ec62d2591b97ff82b205cbcbd6ea6e0d4073f78239d9aa2b0d2aa3ba4067","features":{},"yanked":false}
 {"name":"amm_internal","vers":"0.3.7","deps":[],"cksum":"44402b08f5bb0b70ec53675ff479b0c304159ab68c531812bf704d3ec5bed781","features":{},"yanked":false}
+{"name":"amm_internal","vers":"0.3.8","deps":[],"cksum":"07d82d04bdbb9d543ce8e8c5483ecba390c2809612b7b34e81f046a4d5c45d78","features":{},"yanked":false}
