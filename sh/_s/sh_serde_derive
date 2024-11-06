@@ -1,0 +1,1 @@
+{"name":"sh_serde_derive","vers":"0.1.0","deps":[{"name":"watt","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"02a3694e13aee2b316c2615c4f091c3464932b9545b7dd5fb2ddb086938d31cc","features":{},"yanked":false}
