@@ -1,2 +1,3 @@
 {"name":"zcopy","vers":"0.0.1","deps":[],"cksum":"639df8e72b0b71802384909e807a1863b4110ae9f1a1f3577ff4f7f2b000cd3e","features":{},"yanked":false}
 {"name":"zcopy","vers":"0.0.2","deps":[],"cksum":"8676b5a3771ad42dcbf023135307968c32a0f6567d1740c6814a49c7ad93da9b","features":{},"yanked":false}
+{"name":"zcopy","vers":"0.1.0","deps":[],"cksum":"7a275ef9676fc3fee4496da677082deb2786c4c704ca1b49e80835335f0c8969","features":{},"yanked":false}
