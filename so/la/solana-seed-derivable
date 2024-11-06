@@ -1,1 +1,2 @@
 {"name":"solana-seed-derivable","vers":"0.0.1","deps":[],"cksum":"6799bb8991a65242d0c5046c7c6a7009421670139f64337bf1955f23532c6d98","features":{},"yanked":false}
+{"name":"solana-seed-derivable","vers":"0.0.2","deps":[{"name":"solana-derivation-path","req":"^2.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"34d112408c7c8dd93d485b15abfd201cd685fb831b2cbe9269cbf08f65edfdd0","features":{},"yanked":false}
