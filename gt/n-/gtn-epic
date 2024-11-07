@@ -1,0 +1,1 @@
+{"name":"gtn-epic","vers":"1.0.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4f03a192b66bda41cbf07d86bbe9c63002b3608148ca0b87b1444487c76b5cf5","features":{},"yanked":false}
