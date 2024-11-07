@@ -10,3 +10,4 @@
 {"name":"log_x","vers":"0.1.9","deps":[],"cksum":"ffca0bdc614644e35416f8724921184323e0e43cb7560f27a6eef80c0fb9c8ec","features":{},"yanked":false}
 {"name":"log_x","vers":"0.2.0","deps":[],"cksum":"3bbf305e5faf14e1b8372f4d2ac5a571eaae8eb62eafd0c0e6f60138e530471e","features":{},"yanked":false}
 {"name":"log_x","vers":"0.2.1","deps":[],"cksum":"18781b8c0b171a319ec47ce4d98a74a413c6731828ae5ccda0b7f92e777a6e2c","features":{},"yanked":false}
+{"name":"log_x","vers":"0.3.0","deps":[],"cksum":"23ab923c6b4bf6d6d6929c1d8c8e38a6b2f0da4ec73a5482f480daad41f4116f","features":{},"yanked":false}
