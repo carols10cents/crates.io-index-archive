@@ -1,1 +1,2 @@
 {"name":"sails-idl-meta","vers":"0.6.2","deps":[{"name":"scale-info","req":"^2.11","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"d5709cf1ddc693e47ca36e3c1373927c253bd25e405d8e60477e6d83e797ccb6","features":{},"yanked":false}
+{"name":"sails-idl-meta","vers":"0.6.3","deps":[{"name":"scale-info","req":"^2.11","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"5d82ca64a461a43ace14347ce2fd98e317267e521492b3f33d60173a2bebc5fd","features":{},"yanked":false}
