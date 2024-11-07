@@ -8,3 +8,4 @@
 {"name":"biometrics","vers":"0.7.0","deps":[],"cksum":"488d7d0845f42a7b542f34ad1af6ce4517b87bf2796640c60e3c410e77131bb2","features":{},"yanked":false}
 {"name":"biometrics","vers":"0.8.0","deps":[],"cksum":"a17e5a5e5f113186483ade7c864b55d4ed738023908018e8cde832c3714dcf1a","features":{},"yanked":false}
 {"name":"biometrics","vers":"0.9.0","deps":[{"name":"sig_fig_histogram","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"22a50124c9be28b92ff57aa4f0d14744de4053b253d3d451b7bc08f989dba6a4","features":{},"yanked":false}
+{"name":"biometrics","vers":"0.10.0","deps":[{"name":"sig_fig_histogram","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d497470bfb1e5ade63ac03cd2871ed7ef7c7cc8657ee43b1469e4988e1bafc97","features":{},"yanked":false}
