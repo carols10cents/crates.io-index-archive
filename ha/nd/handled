@@ -1,0 +1,1 @@
+{"name":"handled","vers":"0.2.0","deps":[{"name":"biometrics","req":"^0.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7ebc2d885a227f05439c469eca870f362da9dad6c9a74e2887868eb2b1932e62","features":{"binaries":[],"default":["binaries"]},"yanked":false}
