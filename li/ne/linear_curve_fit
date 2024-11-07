@@ -1,1 +1,2 @@
 {"name":"linear_curve_fit","vers":"0.1.0","deps":[{"name":"nalgebra","req":"^0.33.2","features":["libm"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"9da905796bc5526e9e7f48500d89d0c2725716bcba8ed2ba50bb954b203d2afc","features":{},"yanked":false}
+{"name":"linear_curve_fit","vers":"0.2.0","deps":[{"name":"nalgebra","req":"^0.33.2","features":["libm"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"cc293f161b504c3dc596aa65d56748b01e37fc6fec8459633de41572a7c0a638","features":{},"yanked":false}
