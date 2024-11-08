@@ -12,3 +12,4 @@
 {"name":"rcu_cell","vers":"0.1.11","deps":[],"cksum":"896edd8da54f928d007a6bb57d849f607bceba085a022c9dfd97d2f9bbdf07dd","features":{},"yanked":false}
 {"name":"rcu_cell","vers":"0.1.12","deps":[],"cksum":"b36a731ee1ddd00b06a4a645818c6a25adadf88414b58511f01466733e795c9f","features":{},"yanked":false}
 {"name":"rcu_cell","vers":"0.2.0","deps":[],"cksum":"fa76952e192c81bc136425be55f11ec6dd92878f1577f34ce881ba8b1b978586","features":{},"yanked":false}
+{"name":"rcu_cell","vers":"0.2.1","deps":[],"cksum":"1c05ea0f5599fdce90406f4780f9d40fac47d8b7c73abe1485eaf68003ab65b2","features":{},"yanked":false}
