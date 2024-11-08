@@ -7,3 +7,4 @@
 {"name":"atmus","vers":"0.2.6","deps":[],"cksum":"fe74f78ccf57d136c5542fff4fb820340f85f2cb09b96d9efe1b42a08ac99ce6","features":{},"yanked":false}
 {"name":"atmus","vers":"0.2.7","deps":[],"cksum":"b96010912ca73577b6e675d998b2277111f1f353e4ce06403e6e72e2d94d0e49","features":{},"yanked":false}
 {"name":"atmus","vers":"0.2.8","deps":[],"cksum":"e7dd0dbb2ec88a4f6e249aa5c63538f6697e2963361aa538e41dfd51bd74a581","features":{},"yanked":false}
+{"name":"atmus","vers":"0.2.9","deps":[],"cksum":"caaf011e8a7ad5416c1bfa38401161b08fe8056d3809a88f1cb6b948ab88cd15","features":{},"yanked":false}
