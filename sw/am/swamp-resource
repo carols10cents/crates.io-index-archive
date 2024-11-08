@@ -1,0 +1,1 @@
+{"name":"swamp-resource","vers":"0.0.9","deps":[{"name":"swamp-macros","req":"^0.0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"26963f76a0bf46ce96438f01df412e402e00ed7ebf38d9f4bea53c2df668acaa","features":{},"yanked":false}
