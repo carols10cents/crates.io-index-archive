@@ -14,3 +14,4 @@
 {"name":"rcu_cell","vers":"0.2.0","deps":[],"cksum":"fa76952e192c81bc136425be55f11ec6dd92878f1577f34ce881ba8b1b978586","features":{},"yanked":false}
 {"name":"rcu_cell","vers":"0.2.1","deps":[],"cksum":"1c05ea0f5599fdce90406f4780f9d40fac47d8b7c73abe1485eaf68003ab65b2","features":{},"yanked":false}
 {"name":"rcu_cell","vers":"0.2.2","deps":[],"cksum":"54d1f6945b8083c9e251694d33f369bf0188a1ba4e7730fe7eab7f5bc91806fa","features":{},"yanked":false}
+{"name":"rcu_cell","vers":"0.2.3","deps":[{"name":"parking_lot","req":"^0.12","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d1ae1565786c8876a120ac6518a8d2dcd9b9ed7959e4d8eb8abf8861e8307615","features":{},"yanked":false}
