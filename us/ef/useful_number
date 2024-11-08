@@ -1,0 +1,1 @@
+{"name":"useful_number","vers":"0.1.0","deps":[{"name":"paste","req":"^1.0.15","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"61136380d94ced584e3c18bcc673d82d5db66aa3e1e9cf7c6060807e12c9f881","features":{},"yanked":false}
