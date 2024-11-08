@@ -7,3 +7,4 @@
 {"name":"zmove","vers":"0.3.0","deps":[],"cksum":"f9805798740cf12570176f92f6758d2caa92f89bc52b762d8d12440bf4a6a729","features":{},"yanked":false}
 {"name":"zmove","vers":"0.3.1","deps":[],"cksum":"42b0ad9393b7786bb1010fd6961ff1ec2ede8190c4bc7657ba508f9feff0b467","features":{},"yanked":false}
 {"name":"zmove","vers":"0.3.2","deps":[],"cksum":"bb32361bec884f5d08b4afd2f6c89c9e69c3d13f3d788acb281700f87ae1c2fc","features":{},"yanked":false}
+{"name":"zmove","vers":"0.3.3","deps":[],"cksum":"40883616201d27c13719c07c3aa014f3816bf038818f6dd8e10341cd22702c40","features":{},"yanked":false}
