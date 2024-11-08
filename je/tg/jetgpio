@@ -1,0 +1,1 @@
+{"name":"jetgpio","vers":"0.1.0","deps":[{"name":"jetgpio-sys","req":"^0.2.2","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"6de810c480173b2e4314a9da981b17b151fe937f14967c3f0147db482f09ad48","features":{"default":[],"orin":["jetgpio-sys/orin"]},"yanked":false}
