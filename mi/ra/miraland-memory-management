@@ -7,3 +7,4 @@
 {"name":"miraland-memory-management","vers":"1.19.0","deps":[],"cksum":"8bc4cfc21d2e3b301d43d07f79d8d13f45e5398e0dcfe7c14022e079fa9eb6fc","features":{},"yanked":true}
 {"name":"miraland-memory-management","vers":"1.18.6","deps":[],"cksum":"0056ce39b15412e68d4e5ea5a30532055daa37c1fb51e061b03593f3d3e06bc4","features":{},"yanked":true}
 {"name":"miraland-memory-management","vers":"1.19.1","deps":[],"cksum":"bfe661f8fcb99f51dd79fd89993f341e6d3210806843d376f91549adcebbf3fb","features":{},"yanked":false}
+{"name":"miraland-memory-management","vers":"1.19.2","deps":[],"cksum":"fed0440522585a7d874d81bd9886f5bed6355f2afe31cf7f40e97e96fa4994c3","features":{},"yanked":false}
