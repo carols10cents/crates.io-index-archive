@@ -1,2 +1,3 @@
 {"name":"vec_mem_heap","vers":"0.1.0","deps":[],"cksum":"3c39a03744343e0b118e116f56026a167926dcbd37ae8215df30a5c84db816b8","features":{},"yanked":false}
 {"name":"vec_mem_heap","vers":"0.1.1","deps":[],"cksum":"544dcd72337733dbdf4cc290fd3206eb1474edc3e62a53484d13df3ccbaa041a","features":{},"yanked":false}
+{"name":"vec_mem_heap","vers":"0.1.2","deps":[],"cksum":"d861e0539141b767fc11676f451ed6888847e1925d28ea9d902de50bf24bec1c","features":{},"yanked":false}
