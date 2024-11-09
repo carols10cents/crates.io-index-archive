@@ -1,2 +1,3 @@
 {"name":"stack_box","vers":"1.0.0","deps":[],"cksum":"c68ff3af0c84acce711901e13befcc393a096834271a2c3af51b75f57c59e51d","features":{},"yanked":false,"rust_version":"1.82"}
 {"name":"stack_box","vers":"1.0.1","deps":[{"name":"thiserror","req":"^2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8ce3f58c1d36fe514e061c8d1c05810f1f991291a2733ef35e1ea00446c94ebc","features":{},"yanked":false,"rust_version":"1.82"}
+{"name":"stack_box","vers":"1.0.2","deps":[{"name":"thiserror","req":"^2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"76fa5520c7495548fc10248f3de685a89d36f697921363ea01c830d9a5d65174","features":{},"yanked":false,"rust_version":"1.82"}
