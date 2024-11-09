@@ -1,0 +1,1 @@
+{"name":"struct-split","vers":"0.1.1","deps":[{"name":"struct-split-macro","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ef27557406d80e4eab26cfdca4802531da7098c12c0ba2283f3eff591e5af122","features":{},"yanked":false}
