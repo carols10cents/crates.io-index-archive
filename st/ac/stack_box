@@ -1,1 +1,2 @@
 {"name":"stack_box","vers":"1.0.0","deps":[],"cksum":"c68ff3af0c84acce711901e13befcc393a096834271a2c3af51b75f57c59e51d","features":{},"yanked":false,"rust_version":"1.82"}
+{"name":"stack_box","vers":"1.0.1","deps":[{"name":"thiserror","req":"^2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8ce3f58c1d36fe514e061c8d1c05810f1f991291a2733ef35e1ea00446c94ebc","features":{},"yanked":false,"rust_version":"1.82"}
