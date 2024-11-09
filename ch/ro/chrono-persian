@@ -1,0 +1,1 @@
+{"name":"chrono-persian","vers":"0.1.0","deps":[{"name":"chrono","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c21941e6c677aa544b292fa38b0eed2bb6e0180c7edc346a19b46b842b7e486a","features":{},"yanked":false}
