@@ -1,0 +1,1 @@
+{"name":"gen_docs_template","vers":"0.0.1","deps":[{"name":"regex","req":"^1.11.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"222bca16ab35dcac44ae9f83afc664984b8a37bc6fa0d700e7e754503092f74f","features":{},"yanked":false}
