@@ -1,0 +1,1 @@
+{"name":"pinocchio-log","vers":"0.1.0","deps":[{"name":"pinocchio-log-macro","req":"^0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9987367f9cc12a98bb45297e91446a4eda3752d4d21cb5d3085e5d4a8b7ba766","features":{},"features2":{"default":["macro"],"macro":["dep:pinocchio-log-macro"]},"yanked":false,"v":2}
