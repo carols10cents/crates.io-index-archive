@@ -12,3 +12,4 @@
 {"name":"tailvec","vers":"0.2.7","deps":[],"cksum":"fab46b421aa0faa5ef1fc9febc88a9c626b7d5b1c49e8a942d3665d9f6a9d1a2","features":{},"yanked":false}
 {"name":"tailvec","vers":"0.2.8","deps":[],"cksum":"e05124475a1206f67beda89d3b3fcb53e97a76a7219c6dd7e5fa8567209a2bd5","features":{},"yanked":false}
 {"name":"tailvec","vers":"0.2.9","deps":[],"cksum":"104e6208f482bdfbf4f113254079e16b9c0cbb94a0dab057a2de6b103b043fe1","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"tailvec","vers":"0.2.10","deps":[],"cksum":"a93d9248e4a758333c8d08c553d6f94c785f0066f724cb48defcbfe23ce35457","features":{"default":["std"],"std":[]},"yanked":false}
