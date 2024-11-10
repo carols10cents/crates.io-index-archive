@@ -6,3 +6,4 @@
 {"name":"mediumvec","vers":"1.1.0","deps":[],"cksum":"f26f46f2bf715278918b763ab694844d9fbd84221c6c143668780e2f74289dd4","features":{},"yanked":false}
 {"name":"mediumvec","vers":"1.2.0","deps":[],"cksum":"a8b8e083db7e75cc22d421c241d2a927d8a6d7bcf24f0cf0fbdcd73027e5028e","features":{},"yanked":false}
 {"name":"mediumvec","vers":"1.3.0","deps":[],"cksum":"bda4ef96d8afadc6140de0806aeacb44faf4c296924ab42f9f669665ce169c64","features":{},"yanked":false}
+{"name":"mediumvec","vers":"1.3.1","deps":[],"cksum":"a782da602bbfe1092179a22dbd51d3d3f7f2af08dd198afb7b9768825361d6db","features":{},"yanked":false}
