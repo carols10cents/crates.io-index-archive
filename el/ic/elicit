@@ -10,7 +10,7 @@
 {"name":"elicit","vers":"0.7.10","deps":[],"cksum":"ae3661fc297bdb2c0ca8b8faa89f743ce1ced8878108a249ae5a36752d537b24","features":{},"yanked":true}
 {"name":"elicit","vers":"0.7.11","deps":[],"cksum":"cecaf40e84f286576c3cee7827f178042d806330034f4fd7992cdc5d480ff47d","features":{},"yanked":true}
 {"name":"elicit","vers":"0.8.0","deps":[],"cksum":"2a0f1fe6dd31fa018bb911d779118921de479cbbfc12506db9118ae6cfa9d6d4","features":{},"yanked":true}
-{"name":"elicit","vers":"0.8.1","deps":[],"cksum":"6036989cf1998072bc93169561bec8a390c50a65df628f96cf5e9c616c9e6874","features":{},"yanked":false}
+{"name":"elicit","vers":"0.8.1","deps":[],"cksum":"6036989cf1998072bc93169561bec8a390c50a65df628f96cf5e9c616c9e6874","features":{},"yanked":true}
 {"name":"elicit","vers":"0.9.0","deps":[{"name":"elicit_macro","req":"^0.1","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"1e43b588bccd57ee763319d5763b353197ebfbc3a82ee78b0bfbec502005e8ad","features":{},"yanked":false}
 {"name":"elicit","vers":"0.9.1","deps":[{"name":"elicit_macro","req":"^0.1","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"8ab857d6fd20c2b60f3bd12ed6e7ae0f02fa896c2f85b46c157b843eb000ff06","features":{},"yanked":false}
 {"name":"elicit","vers":"0.10.0","deps":[{"name":"elicit_macro","req":"^0.2","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"616f060bc7e6c2b12fd8705c1e7197b3b6819becb1dd948315c17466c5e167a0","features":{},"yanked":false}
