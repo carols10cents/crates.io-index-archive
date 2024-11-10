@@ -1,0 +1,1 @@
+{"name":"flux-mail","vers":"0.1.0","deps":[{"name":"tokio","req":"^1.41.1","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c1fae72a8d17ae13fad62ed3a97e8122e8f3a55dcfc38df63d9725d9f6823158","features":{},"yanked":false}
