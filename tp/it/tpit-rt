@@ -1,3 +1,4 @@
 {"name":"tpit-rt","vers":"0.1.1","deps":[],"cksum":"3c2f45f46946900b69e08ec248d45f9a662bb049d77caca2a608bf1e3532b52a","features":{},"yanked":false}
 {"name":"tpit-rt","vers":"0.2.0","deps":[],"cksum":"5dbf9fe2560e4750b4a6843c248aa480d03bd1e512280739ac3efc0baad9e829","features":{},"yanked":false}
 {"name":"tpit-rt","vers":"0.2.4","deps":[],"cksum":"1485e378de1c67878b6ef1a3c82b02fabc11e27a8103736d53f3f81137c28f44","features":{},"yanked":false}
+{"name":"tpit-rt","vers":"0.2.5","deps":[],"cksum":"cd6bee0cebfd2e97ef8bd0087c0ac88ef354160f36efcecfdb3d54745a5060b5","features":{},"yanked":false}
