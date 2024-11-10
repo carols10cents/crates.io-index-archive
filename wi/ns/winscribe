@@ -1,0 +1,1 @@
+{"name":"winscribe","vers":"0.1.0","deps":[{"name":"windows-registry","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ff1fbaa7a5ce68e90fc4f1f7d1844049c9df0a5172aac86446ca1d59e562f331","features":{},"yanked":false}
