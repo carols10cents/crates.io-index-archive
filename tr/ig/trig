@@ -1,1 +1,2 @@
 {"name":"trig","vers":"0.1.0","deps":[{"name":"numtest","req":"^0.1.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"1c01534aee8a365175ea47c170c08874b7062ee22e6ba1bb2a866d333540b697","features":{},"yanked":false}
+{"name":"trig","vers":"0.1.1","deps":[{"name":"numtest","req":"^0.1.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"9b66d8719d5e2d69b00841c978660fbbd1144054333d11c46fada12317b6b558","features":{},"yanked":false}
