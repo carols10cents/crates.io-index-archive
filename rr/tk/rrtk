@@ -24,3 +24,4 @@
 {"name":"rrtk","vers":"0.5.0-beta.1","deps":[],"cksum":"764ef9d9e45c007d216071ca64a6a4ee9dfa71a88000b817f0f3a5c3208acda6","features":{"alloc":[],"default":["std"],"devices":[],"std":["alloc"]},"yanked":false}
 {"name":"rrtk","vers":"0.5.0","deps":[],"cksum":"3264a4c29cf7b7aad9bb28e01b39edb6e740c3475c9f3b5c5784a384f30377a3","features":{"alloc":[],"default":["std"],"devices":[],"std":["alloc"]},"yanked":false}
 {"name":"rrtk","vers":"0.6.0-alpha.0","deps":[],"cksum":"2dc374a01a4628837dfa29a4e44107db6dfff5e3724855aae4afd878c03d5bc9","features":{"alloc":[],"default":["std"],"devices":[],"std":["alloc"]},"yanked":false}
+{"name":"rrtk","vers":"0.6.0-alpha.1","deps":[],"cksum":"3b301d5ef4d8ab78a5bd3ba6082297d2d0712fc1055c57d8904833a110ad8c4b","features":{"alloc":[],"default":["std"],"devices":[],"std":["alloc"]},"yanked":false}
