@@ -1,0 +1,1 @@
+{"name":"terminal3d","vers":"0.0.1","deps":[{"name":"crossterm","req":"^0.28.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"414ca772a6cec9e063034856a3b9551bd8149266d26e8f01f7603939bd074557","features":{},"yanked":false}
