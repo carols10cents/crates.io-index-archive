@@ -1,0 +1,1 @@
+{"name":"trowel","vers":"0.1.0","deps":[{"name":"trowel_macro","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ee18564fbb7d48031e702d04ce1789bea73bea976cdea88a54f90d4e8607885c","features":{},"yanked":false}
