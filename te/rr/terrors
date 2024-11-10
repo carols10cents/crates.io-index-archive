@@ -12,3 +12,4 @@
 {"name":"terrors","vers":"0.2.6","deps":[],"cksum":"23380e640f3d6341e2eeab92af95b21d671436acbfaf509b83116d8d4b668d47","features":{},"yanked":false}
 {"name":"terrors","vers":"0.3.0","deps":[],"cksum":"a5cf7ea47fef0cef7fcdeea0fe2585c66f4334c0d0250a8e77d01a8a46d89fd6","features":{"error_provide":[],"error_provide_feature":[]},"yanked":false}
 {"name":"terrors","vers":"0.3.1","deps":[],"cksum":"74ef542522e3ab6b3a852689091ec316c76b0e0f219d2d9c30b45ec7191833c7","features":{"error_provide":[],"error_provide_feature":[]},"yanked":false}
+{"name":"terrors","vers":"0.3.2","deps":[],"cksum":"a09a4471bca83dc547eb7829f7fe0b96ad3d04d21ad155e1e14084e163fe0e07","features":{"error_provide":[],"error_provide_feature":[]},"yanked":false}
