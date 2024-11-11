@@ -1,0 +1,1 @@
+{"name":"rusty-render","vers":"0.1.0","deps":[{"name":"http-scrap","req":"^0.1.1127","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c3480cd4a6c281a24f6f5b69f483308ac9931bcdc8b844783ff7a68647044928","features":{},"yanked":false}
