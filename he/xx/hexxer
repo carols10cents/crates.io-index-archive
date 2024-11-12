@@ -1,0 +1,1 @@
+{"name":"hexxer","vers":"0.1.0","deps":[{"name":"colored","req":"2.0.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c26f2555c5ef57010e2cff0f86387337fa4513d4d3554a70840dd211ba57a1eb","features":{},"yanked":false}
