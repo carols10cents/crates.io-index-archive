@@ -1,0 +1,1 @@
+{"name":"deki_derive","vers":"0.1.0","deps":[{"name":"derive_preset","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7812924b99c75f34230c3cff26a07e0d4253f56b84865d5e3f3750ff0dcb1db6","features":{},"yanked":false}
