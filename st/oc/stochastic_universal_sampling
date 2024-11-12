@@ -1,0 +1,1 @@
+{"name":"stochastic_universal_sampling","vers":"1.0.0","deps":[{"name":"rand","req":">=0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"463f04f4123b23dbbe8badc76d8110629e896f26f4d4618b88810a570c392e61","features":{},"yanked":false,"rust_version":"1.79"}
