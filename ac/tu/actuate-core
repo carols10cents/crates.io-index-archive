@@ -1,1 +1,2 @@
 {"name":"actuate-core","vers":"0.1.0","deps":[{"name":"actuate-macros","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2b9aef8220c8d8a20123273f422a2b1573db02eb0d352a5c2bb1c30a37d3bbd5","features":{},"yanked":false}
+{"name":"actuate-core","vers":"0.1.1","deps":[{"name":"actuate-macros","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fb0298d61a076cf0cb24a866632f7499b57f41d4bf1697d840939c74885a2839","features":{},"yanked":false}
