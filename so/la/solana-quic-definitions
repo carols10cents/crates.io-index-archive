@@ -1,1 +1,2 @@
 {"name":"solana-quic-definitions","vers":"0.0.1","deps":[],"cksum":"fea8e25f8f30c02bd7b59337fd4955130cff422c9d760f8c7a000a0d5ceddf05","features":{},"yanked":false}
+{"name":"solana-quic-definitions","vers":"0.0.2","deps":[{"name":"solana-keypair","req":"=0.0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7f51a6c003dbf8ba244bc2a36b6af9f722b5595b00dbcda59cfa140f4c5645a4","features":{},"yanked":false}
