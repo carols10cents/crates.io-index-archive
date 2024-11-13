@@ -1,2 +1,3 @@
 {"name":"idalib-build","vers":"0.0.0","deps":[],"cksum":"24c15952df7a6e6e717c0e2efec520a4cf50042f8c67f3a1e4103583aa667299","features":{},"yanked":false}
 {"name":"idalib-build","vers":"0.1.0+9.0.240930","deps":[{"name":"anyhow","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"df8fcf8df78bebedd16f91abab6f288c5a8b5de7c843961b8e53db2635bea260","features":{},"yanked":false}
+{"name":"idalib-build","vers":"0.2.0+9.0.240925","deps":[{"name":"anyhow","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9c6e4dcb00d06d776983618ec956dd45cc292fca15f2a6914d2b255fcca363b9","features":{},"yanked":false}
