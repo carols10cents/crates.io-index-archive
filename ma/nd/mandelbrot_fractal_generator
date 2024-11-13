@@ -1,0 +1,1 @@
+{"name":"mandelbrot_fractal_generator","vers":"0.1.0","deps":[{"name":"image","req":"^0.23.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"009777aec4b59760cba407c4addbc9453a0370b8479de85dbb072bfca9613f04","features":{},"yanked":false}
