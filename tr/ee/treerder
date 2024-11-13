@@ -11,3 +11,4 @@
 {"name":"treerder","vers":"1.0.10","deps":[],"cksum":"47076135545b0ad2d2db7f5d435146bdf157013e8c24f7c5459db58061a2c73a","features":{"test-ext":[]},"yanked":false}
 {"name":"treerder","vers":"1.0.11","deps":[],"cksum":"d752040db281e3dd3d2c9a52cd8eccdc2956ef34d3f5d33bed965fc70e0bc223","features":{"test-ext":[]},"yanked":false}
 {"name":"treerder","vers":"1.0.12","deps":[],"cksum":"98a86acaac125ae3072e78f191c3301566ed19d707b6f9636e17a80dec326b5b","features":{"test-ext":[]},"yanked":false}
+{"name":"treerder","vers":"1.0.13","deps":[],"cksum":"53d72ad043d7868e29102ffd740aa3f7977a58e14b2fc23c8b055cf257e58c3f","features":{"test-ext":[]},"yanked":false}
