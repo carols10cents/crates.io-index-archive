@@ -8,3 +8,4 @@
 {"name":"dh","vers":"0.7.0","deps":[],"cksum":"95eefa5665fe7a75af2d22b96848996239011e298afad042523c5dc4ea76f168","features":{},"yanked":false}
 {"name":"dh","vers":"0.7.1","deps":[],"cksum":"68dbe0030d503b572977f33f218acedb1005f861ad56558a5828a05fdab99af7","features":{},"yanked":false}
 {"name":"dh","vers":"0.7.2","deps":[],"cksum":"8043be08612238410cbdf91ea6e30b592f473da7672ac6a80c83be3d920a84e1","features":{},"yanked":false}
+{"name":"dh","vers":"0.8.0","deps":[{"name":"murmur3","req":"^0.5.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"331be32ac5b7c7862c163f07ca1662daf117e1142f21e36f3677d0f6c1629074","features":{},"yanked":false}
