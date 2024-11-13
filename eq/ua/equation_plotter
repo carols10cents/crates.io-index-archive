@@ -1,1 +1,2 @@
 {"name":"equation_plotter","vers":"0.1.0","deps":[{"name":"plotters","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"33c18ef674642f9b450ac7f3018e22079a443c13da371e0b4d68033d4e750df4","features":{},"yanked":false}
+{"name":"equation_plotter","vers":"0.1.1","deps":[{"name":"plotters","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"090431e7bcd74f5dc2f6a23a15a90a96dc4ab2b97cea919f8b85adea7444f190","features":{},"yanked":false}
