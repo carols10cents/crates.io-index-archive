@@ -1,0 +1,1 @@
+{"name":"kanon","vers":"0.1.0","deps":[{"name":"url","req":"^2.5.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9de5d90043dc31c8a81caba47b0586107bf78d353a6740ecc5b5e56366540936","features":{},"yanked":false}
