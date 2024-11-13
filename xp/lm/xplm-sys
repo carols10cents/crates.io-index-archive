@@ -11,3 +11,4 @@
 {"name":"xplm-sys","vers":"0.3.1","deps":[],"cksum":"fc33db8d9089d9d924c52e00bce2b47755a8b874750222b02d1a6b26c1202fa0","features":{},"yanked":false}
 {"name":"xplm-sys","vers":"0.4.0","deps":[],"cksum":"a50132b23faa3308359091ef5758b2a91bed1b9ac5146a82b9acb4eed62c9677","features":{},"yanked":false}
 {"name":"xplm-sys","vers":"0.5.0","deps":[{"name":"bindgen","req":"^0.69.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"e51ad08805a2f5e22793bb0e36849227502c17002a488027742ed8b0be26569e","features":{},"yanked":false}
+{"name":"xplm-sys","vers":"0.5.1","deps":[{"name":"bindgen","req":"^0.70.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"6fab68e40b18a07a58457d9a21718ff0eca43a37ca5069f7035c5434dc1aa5a1","features":{},"yanked":false}
