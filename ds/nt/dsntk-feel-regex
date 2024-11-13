@@ -4,3 +4,4 @@
 {"name":"dsntk-feel-regex","vers":"0.0.6","deps":[],"cksum":"1abd9da0eac9fb1adda8409b9bef7b1650cfedae15f0f0c5e1ca6024c1057cc8","features":{},"yanked":false}
 {"name":"dsntk-feel-regex","vers":"0.0.7","deps":[],"cksum":"216e85f8ec058b928a0db90e09b89dfd728615050c2c147d724568c9808975ce","features":{},"yanked":false}
 {"name":"dsntk-feel-regex","vers":"0.0.8","deps":[],"cksum":"69cfbe8f4ee1042e8e645d638398348e7694c0ded8ea69a717f5e67d683910a3","features":{},"yanked":false}
+{"name":"dsntk-feel-regex","vers":"0.0.9","deps":[],"cksum":"d0ed1718970bf8e02c111449bcafc6f524b1108800bd46ee6c785e83601edc64","features":{},"yanked":false}
