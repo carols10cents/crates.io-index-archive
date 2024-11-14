@@ -3,3 +3,4 @@
 {"name":"interface-rs","vers":"0.1.1","deps":[],"cksum":"571bf5b473ff2f6525aa203a2f934cf6682353e26f0c0147ababacd91347236c","features":{},"yanked":false}
 {"name":"interface-rs","vers":"0.2.0","deps":[],"cksum":"83b6cf0f39f5bdd1b6a71051811a56612087d76647f172844b965ac436cb9041","features":{},"yanked":false}
 {"name":"interface-rs","vers":"0.2.1","deps":[],"cksum":"7404c5c2e7e422aac3070b3b9f9de4e102db37c00b430796a71f7b37cdfbbb6f","features":{},"yanked":false}
+{"name":"interface-rs","vers":"0.2.2","deps":[],"cksum":"ddf1b8dcc9f2dd36e68302499405dc707eee3753583f70c10f3e96239d9e18df","features":{},"yanked":false}
