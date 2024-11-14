@@ -1,0 +1,1 @@
+{"name":"vtid","vers":"0.1.0","deps":[{"name":"vtid-proc","req":"=0.1.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6fedb6a471819e337132a2c005d416a34130b36c94d9ee29098e618baaf3b709","features":{},"features2":{"derive":["dep:vtid-proc"]},"yanked":false,"v":2}
