@@ -1,0 +1,1 @@
+{"name":"quacky","vers":"0.1.20241114","deps":[{"name":"byteorder-lite","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"033f02b42d3d7de62e272f8bf63119a31df855cc1dcbabbdce25062623643703","features":{"default":["std"],"std":["byteorder-lite/std"]},"yanked":false}
