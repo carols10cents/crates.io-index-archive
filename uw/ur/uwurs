@@ -1,0 +1,1 @@
+{"name":"uwurs","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2a5dd4ce15af1b79c0f6ed8f59536482221798155f920a5e3288108fb24cf85f","features":{},"yanked":false}
