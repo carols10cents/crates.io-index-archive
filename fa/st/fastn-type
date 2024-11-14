@@ -1,0 +1,1 @@
+{"name":"fastn-type","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1494ecd11081fa81a57265457a27262fb640e70cf84acf2c551a8e8a2d69c1c1","features":{},"yanked":false}
