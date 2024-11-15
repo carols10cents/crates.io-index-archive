@@ -1,0 +1,1 @@
+{"name":"cpntt","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.5.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"c2486bfac1bedb274c1bb6082ebfccdd690e3562bd8c9cc49da751291d53600d","features":{},"yanked":false}
