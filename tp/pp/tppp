@@ -10,3 +10,4 @@
 {"name":"tppp","vers":"1.0.0","deps":[],"cksum":"390beb5f767fcacf9af7f9a61b0ab16bc027971bc0e1f8b5db7f6022be689cba","features":{},"yanked":false}
 {"name":"tppp","vers":"1.0.1","deps":[],"cksum":"e88ebb64c2823d85e1ab7b1ea61460c8b5832723ac2de11c8365c893377f46c4","features":{},"yanked":false}
 {"name":"tppp","vers":"1.1.0","deps":[],"cksum":"920ee8fe61d081bf2898350081a0c439e83b6c81171230f6d0f7c3650c7ca9af","features":{},"yanked":false}
+{"name":"tppp","vers":"1.1.1","deps":[],"cksum":"47d1f659aaf65e79dffc5fbef3b2554f5685cf471ba1d8d402337bc76d06d137","features":{},"yanked":false}
