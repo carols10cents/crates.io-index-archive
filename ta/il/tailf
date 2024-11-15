@@ -1,0 +1,1 @@
+{"name":"tailf","vers":"0.1.0","deps":[{"name":"tokio","req":"^1.0","features":["process","io-util","macros","rt-multi-thread"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6868963048828c1ee2aa913ee4c9d40ce9f0f1d945aa007234da6d6fb3c28ffb","features":{},"yanked":false}
