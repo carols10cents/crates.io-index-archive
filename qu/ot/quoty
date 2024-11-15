@@ -1,0 +1,1 @@
+{"name":"quoty","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a89e2b4ce4ea2ed0da8a3dabbcf0aad92c53c5cac849820685a7467936d93f67","features":{},"yanked":false}
