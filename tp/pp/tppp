@@ -7,3 +7,4 @@
 {"name":"tppp","vers":"0.1.6","deps":[],"cksum":"c25d83a3bdc8ac74541d3674838c1d128627e2bd444435441f7da14f7286e4ad","features":{},"yanked":false}
 {"name":"tppp","vers":"0.1.7","deps":[],"cksum":"97db21a8286708f3ce351f3f4b16a0c8581bff7cce036c2c4fdf4408b8ae14fd","features":{},"yanked":false}
 {"name":"tppp","vers":"0.1.8","deps":[],"cksum":"75c414fe48a3318b34bde1ea617b2baae88067f6baef08bd88105e65c6ba0b38","features":{},"yanked":false}
+{"name":"tppp","vers":"1.0.0","deps":[],"cksum":"390beb5f767fcacf9af7f9a61b0ab16bc027971bc0e1f8b5db7f6022be689cba","features":{},"yanked":false}
