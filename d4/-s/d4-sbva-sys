@@ -1,0 +1,1 @@
+{"name":"d4-sbva-sys","vers":"0.1.0","deps":[{"name":"cmake","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"91e4a87d1f0a50e284fb54d4d2f44bef1ad4f926130fc7ab512af33545047414","features":{},"yanked":false,"links":"sbva"}
