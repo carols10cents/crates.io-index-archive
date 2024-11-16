@@ -1,0 +1,1 @@
+{"name":"odpic-sys","vers":"0.1.0","deps":[{"name":"cc","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"6dae4e500bd9222085a5a64c714e350e723a00e26910278c410934810358d440","features":{"separate_blocking":[]},"yanked":false}
