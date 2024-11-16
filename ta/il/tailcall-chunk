@@ -1,0 +1,1 @@
+{"name":"tailcall-chunk","vers":"0.1.0","deps":[{"name":"gh-workflow","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"509e7064543720e12169617c8e4957129d30c4516ad67b84ad990f5f2e2989ea","features":{},"yanked":false}
