@@ -1,1 +1,2 @@
 {"name":"tailcall-chunk","vers":"0.1.0","deps":[{"name":"gh-workflow","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"509e7064543720e12169617c8e4957129d30c4516ad67b84ad990f5f2e2989ea","features":{},"yanked":false}
+{"name":"tailcall-chunk","vers":"0.2.0","deps":[{"name":"gh-workflow","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"2fbef9c4055307aec5849d3b1dc00eeaaf4b99ae4c326ff0d88a9ba92b5669e4","features":{},"yanked":false}
