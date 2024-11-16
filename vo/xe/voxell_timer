@@ -1,2 +1,3 @@
 {"name":"voxell_timer","vers":"0.1.0","deps":[],"cksum":"f3a96e1f684842a7c57da7a5a577512e0e26283ef893d3182ea7acad6d0bebe5","features":{},"yanked":false}
 {"name":"voxell_timer","vers":"0.2.0","deps":[],"cksum":"55c9d76adfca34d5bb507dd4bddabfdfb2b1c77adf35463ba67cb5860151aed7","features":{},"yanked":false}
+{"name":"voxell_timer","vers":"0.2.2","deps":[],"cksum":"c88c89d3cb34be79990136f1e559b70e7133901e1d20a7286d852276836d8305","features":{},"yanked":false}
