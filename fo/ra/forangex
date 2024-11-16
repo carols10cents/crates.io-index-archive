@@ -1,2 +1,3 @@
 {"name":"forangex","vers":"0.3.0","deps":[],"cksum":"aba11d494984981c0d5a2744eab6f03b9144e2e4d387d81ed56664b96e0d6218","features":{},"yanked":false}
 {"name":"forangex","vers":"0.4.1","deps":[],"cksum":"446dbb3570f2b98b35cf51f72b306d6e6ed8d8d3a31175ee28ce1bd4d1850ec5","features":{},"yanked":false}
+{"name":"forangex","vers":"0.4.2","deps":[{"name":"num","req":"^0.4.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"num-traits","req":"^0.2.19","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1b8484a11d8757b938a076b7ba6f91e9cc75b5e2d9c8dfd5ee6be1f959c1bf25","features":{},"yanked":false}
