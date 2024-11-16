@@ -1,0 +1,1 @@
+{"name":"json2str","vers":"0.1.0","deps":[{"name":"serde_json","req":"^1.0.132","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3aaf79095e1d51a985b0ce3a8e0c3b7cdc16651ca24e0820a9e753336c1975b0","features":{},"yanked":false}
