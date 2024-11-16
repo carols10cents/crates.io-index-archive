@@ -3,3 +3,4 @@
 {"name":"conl","vers":"1.2.0","deps":[],"cksum":"1a828210d76d4f6ffa0396efb186f603aac16820f3ede9e99b26569c142e9b4e","features":{},"yanked":false}
 {"name":"conl","vers":"1.3.0","deps":[],"cksum":"8b9ea0436fe8aeaab46baaa764a48e3730f539726bce61ab9b732bdf86982b89","features":{},"yanked":false}
 {"name":"conl","vers":"1.4.0","deps":[],"cksum":"94e9b6d63a2de711f2c567ce34cd736937d7dd09bbe5680e765b2a80e2432764","features":{},"yanked":false}
+{"name":"conl","vers":"1.5.0","deps":[],"cksum":"4f8ba84d4a5f7b6ed7f917583ff15be0a0c1ca570e54504d94eb6aed64c10036","features":{},"yanked":false}
