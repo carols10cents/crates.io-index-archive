@@ -1,0 +1,1 @@
+{"name":"std-next","vers":"0.1.0","deps":[],"cksum":"3ba0e8fbdc51322817a8df3610ab5e7c6c54b4e1baf359a78c41bf1baa5893c7","features":{"alloc":[],"default":["std"],"std":["alloc"],"unstable":[]},"yanked":false}
