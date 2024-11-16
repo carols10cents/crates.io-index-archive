@@ -1,0 +1,1 @@
+{"name":"mimium-scheduler","vers":"2.0.0-alpha-1","deps":[{"name":"mimium-lang","req":"^2.0.0-alpha-1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"76adafe5f952d0806436cf4fe0eb0288247bd7a6b9b9d2f58a9db03345dbd3e5","features":{},"yanked":false}
