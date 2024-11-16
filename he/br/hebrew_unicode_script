@@ -5,3 +5,4 @@
 {"name":"hebrew_unicode_script","vers":"0.4.0","deps":[],"cksum":"c7ce5158121269e7d40700e5af3f38e0f2d2d06abe69bc27922464b1eca39bb8","features":{},"yanked":true,"rust_version":"1.56.1"}
 {"name":"hebrew_unicode_script","vers":"0.4.1","deps":[],"cksum":"bca6a76446659c31fa068635764fe749de4c40a1838b96152d5fed09b864580d","features":{},"yanked":false,"rust_version":"1.56.1"}
 {"name":"hebrew_unicode_script","vers":"0.4.2","deps":[],"cksum":"77bccc64821cf91fbf9145a6cfa8bc4e04ceea1939aa757c422f6a23a502b813","features":{},"yanked":false,"rust_version":"1.56.1"}
+{"name":"hebrew_unicode_script","vers":"0.5.0","deps":[],"cksum":"e9a49bed3cf48e5cb5e543d8066e2737fba51af4bfd864b49ddd08b69991799f","features":{},"yanked":false,"rust_version":"1.56.1"}
