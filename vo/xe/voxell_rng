@@ -1,2 +1,2 @@
 {"name":"voxell_rng","vers":"0.1.0","deps":[],"cksum":"2ec7b93f39956cec50f4ffc8b14b7b7852512bc2b852a1a65565208d509620a5","features":{},"yanked":false}
-{"name":"voxell_rng","vers":"0.1.1","deps":[],"cksum":"5af5dd45f4d47ba928baf83f58d64ec5e9dbebda7f5e6cb2704c7ffdca0f72d7","features":{},"yanked":false}
+{"name":"voxell_rng","vers":"0.1.1","deps":[],"cksum":"5af5dd45f4d47ba928baf83f58d64ec5e9dbebda7f5e6cb2704c7ffdca0f72d7","features":{},"yanked":true}
