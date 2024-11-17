@@ -2,3 +2,4 @@
 {"name":"data-volley-reader","vers":"0.2.0","deps":[],"cksum":"9a076c1a5441770add93a8e425aa239af7e3ede0e88f551e499aa0ccbfb8c021","features":{},"yanked":false}
 {"name":"data-volley-reader","vers":"0.3.0","deps":[],"cksum":"d8efb2a09dc20cfd32ee951cc6be3adb8714c072578f788f116884fc1f29a670","features":{},"yanked":false}
 {"name":"data-volley-reader","vers":"1.0.0","deps":[],"cksum":"c6adbb51e43619cad9d77bbaf75bf0e71603711d8399648a9d39a186d272a503","features":{},"yanked":false}
+{"name":"data-volley-reader","vers":"1.0.1","deps":[],"cksum":"dd3aedea260095ead99466429ae22c9c6c20cb94a7ea29c2451654038ec70043","features":{},"yanked":false}
