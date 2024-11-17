@@ -1,3 +1,4 @@
 {"name":"data-volley-reader","vers":"0.1.0","deps":[],"cksum":"cba15032eef0478de756dc50a41f740b1c2a1117ebda3bb7c4e1b856d014dea8","features":{},"yanked":false}
 {"name":"data-volley-reader","vers":"0.2.0","deps":[],"cksum":"9a076c1a5441770add93a8e425aa239af7e3ede0e88f551e499aa0ccbfb8c021","features":{},"yanked":false}
 {"name":"data-volley-reader","vers":"0.3.0","deps":[],"cksum":"d8efb2a09dc20cfd32ee951cc6be3adb8714c072578f788f116884fc1f29a670","features":{},"yanked":false}
+{"name":"data-volley-reader","vers":"1.0.0","deps":[],"cksum":"c6adbb51e43619cad9d77bbaf75bf0e71603711d8399648a9d39a186d272a503","features":{},"yanked":false}
