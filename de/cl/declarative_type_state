@@ -12,10 +12,10 @@
 {"name":"declarative_type_state","vers":"0.2.2","deps":[],"cksum":"bdc0dfd1f823a33826a33e2d4977d6c76e861fdc74137194402c40dcf1ca9cae","features":{},"yanked":false}
 {"name":"declarative_type_state","vers":"0.2.3","deps":[],"cksum":"5500cb7a10f1043b928f0eb4dba0aec77ff7015adc1b98a59d93518c8855b842","features":{},"yanked":false}
 {"name":"declarative_type_state","vers":"0.2.4","deps":[],"cksum":"a69be9bfc71474549eb3701021da159fd2d4c747faaf8525aa27cd21176b91fa","features":{},"yanked":false}
-{"name":"declarative_type_state","vers":"0.3.0","deps":[],"cksum":"e51600a995c79c8a8af43665ba6b16eb32c37394d50654269e5e1b23b1e19647","features":{},"yanked":false}
+{"name":"declarative_type_state","vers":"0.3.0","deps":[],"cksum":"e51600a995c79c8a8af43665ba6b16eb32c37394d50654269e5e1b23b1e19647","features":{},"yanked":true}
 {"name":"declarative_type_state","vers":"0.3.1","deps":[],"cksum":"7a77b6b974a2979dca4b384d9a2c6aaf0819f4a47c58ff2b5bc4b79a78357f75","features":{},"yanked":false}
-{"name":"declarative_type_state","vers":"0.4.0","deps":[],"cksum":"7121c33e4e4fc97eb10d13a15267b2cd268f01e1d361f93ccb99d1b273a9ecd7","features":{},"yanked":false}
-{"name":"declarative_type_state","vers":"0.4.1","deps":[],"cksum":"e03d2516b2a24a8834177211c388b8354b5722ccd3f09719529277f615117e5e","features":{},"yanked":false}
+{"name":"declarative_type_state","vers":"0.4.0","deps":[],"cksum":"7121c33e4e4fc97eb10d13a15267b2cd268f01e1d361f93ccb99d1b273a9ecd7","features":{},"yanked":true}
+{"name":"declarative_type_state","vers":"0.4.1","deps":[],"cksum":"e03d2516b2a24a8834177211c388b8354b5722ccd3f09719529277f615117e5e","features":{},"yanked":true}
 {"name":"declarative_type_state","vers":"0.4.2","deps":[],"cksum":"5d98941b72d45695d649ffdb125cdec0fc33e94dcaf4fc7946767d38192f764f","features":{},"yanked":true}
 {"name":"declarative_type_state","vers":"0.4.3","deps":[],"cksum":"70c01bd9bc1b2b1f7baaa0f2e668d11f7d494548b474b4ddf518509819c14818","features":{},"yanked":false}
 {"name":"declarative_type_state","vers":"0.5.0","deps":[],"cksum":"07de94fcb38bcf18d061f8ffd213782d017db30fc8781d372c019e726627eca3","features":{},"yanked":false}
