@@ -20,3 +20,4 @@
 {"name":"smallbox","vers":"0.8.2","deps":[],"cksum":"d92359f97e6b417da4328a970cf04a044db104fbd57f7d72cb7ff665bb8806af","features":{"coerce":[],"default":["std"],"std":[]},"yanked":false}
 {"name":"smallbox","vers":"0.8.3","deps":[],"cksum":"057021fa77a2defa4780e23e1627533fcff871486819f229ce6d0a36f35086b2","features":{"coerce":[],"default":["std"],"std":[]},"yanked":false}
 {"name":"smallbox","vers":"0.8.4","deps":[],"cksum":"dd25fd92ca74ea10baed4504ce14d54835060ac90bea40c75274c47518a0ef51","features":{"coerce":[],"default":["std"],"nightly":["coerce"],"std":[]},"yanked":false,"rust_version":"1.56"}
+{"name":"smallbox","vers":"0.8.5","deps":[],"cksum":"85d1ac0d26e79b3129dfaaf70f1d0fe9b212dff64fe56981c8e12fc02d0cb73b","features":{"coerce":[],"default":["std"],"nightly":["coerce"],"std":[]},"yanked":false,"rust_version":"1.56"}
