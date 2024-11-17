@@ -65,3 +65,4 @@
 {"name":"stak-configuration","vers":"0.1.64","deps":[],"cksum":"ae0ab50762d9f072fe478690f58c876b592edc60e79239626e4a5595ef3d7824","features":{},"yanked":false}
 {"name":"stak-configuration","vers":"0.1.65","deps":[],"cksum":"188eb9db3a8b0218c101d85bbd3c0c1a0d242bac60606dc969a092bbe2a59fcc","features":{},"yanked":false}
 {"name":"stak-configuration","vers":"0.1.66","deps":[],"cksum":"a58c69b6cbef4a4a1ccbf18c7f273978d6f5aa9db1e4d67613101e6d48937845","features":{},"yanked":false}
+{"name":"stak-configuration","vers":"0.1.67","deps":[],"cksum":"62f3d58d511623c2dba214c8a0d1838240e88e0318c2d821455b2ac8278f4958","features":{},"yanked":false}
