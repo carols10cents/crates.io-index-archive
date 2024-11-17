@@ -1,0 +1,1 @@
+{"name":"toss","vers":"1.0.0","deps":[{"name":"clap","req":"^4.5.20","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b117a9d4fb9245d09d206f93fa2817e997ae127024cf2b091de58937b44e2aec","features":{},"yanked":false}
