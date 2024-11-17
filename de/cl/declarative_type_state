@@ -7,10 +7,10 @@
 {"name":"declarative_type_state","vers":"0.1.6","deps":[],"cksum":"92fc47533cc2642ae93cf0bf2aedeb791876ad2a6726554ed9ee5ff37e060db1","features":{},"yanked":true}
 {"name":"declarative_type_state","vers":"0.1.7","deps":[],"cksum":"fa86e0dfabc57878c8f37719f11e8da64af49ab680ea0a03801d702d62461b92","features":{},"yanked":true}
 {"name":"declarative_type_state","vers":"0.1.8","deps":[],"cksum":"dafd72d59219953a950dd244f295361d35be36b17da3dd20e30704a238089ca1","features":{},"yanked":false}
-{"name":"declarative_type_state","vers":"0.2.0","deps":[],"cksum":"208c6f929122326a08f5aed642992a829d9335640f6f474d4caca4e5244488bb","features":{},"yanked":false}
-{"name":"declarative_type_state","vers":"0.2.1","deps":[],"cksum":"ab3f1b6d3be8b7e2b3efe31f7504b3d8c6817b3726b9b7b2960581505002d846","features":{},"yanked":false}
-{"name":"declarative_type_state","vers":"0.2.2","deps":[],"cksum":"bdc0dfd1f823a33826a33e2d4977d6c76e861fdc74137194402c40dcf1ca9cae","features":{},"yanked":false}
-{"name":"declarative_type_state","vers":"0.2.3","deps":[],"cksum":"5500cb7a10f1043b928f0eb4dba0aec77ff7015adc1b98a59d93518c8855b842","features":{},"yanked":false}
+{"name":"declarative_type_state","vers":"0.2.0","deps":[],"cksum":"208c6f929122326a08f5aed642992a829d9335640f6f474d4caca4e5244488bb","features":{},"yanked":true}
+{"name":"declarative_type_state","vers":"0.2.1","deps":[],"cksum":"ab3f1b6d3be8b7e2b3efe31f7504b3d8c6817b3726b9b7b2960581505002d846","features":{},"yanked":true}
+{"name":"declarative_type_state","vers":"0.2.2","deps":[],"cksum":"bdc0dfd1f823a33826a33e2d4977d6c76e861fdc74137194402c40dcf1ca9cae","features":{},"yanked":true}
+{"name":"declarative_type_state","vers":"0.2.3","deps":[],"cksum":"5500cb7a10f1043b928f0eb4dba0aec77ff7015adc1b98a59d93518c8855b842","features":{},"yanked":true}
 {"name":"declarative_type_state","vers":"0.2.4","deps":[],"cksum":"a69be9bfc71474549eb3701021da159fd2d4c747faaf8525aa27cd21176b91fa","features":{},"yanked":false}
 {"name":"declarative_type_state","vers":"0.3.0","deps":[],"cksum":"e51600a995c79c8a8af43665ba6b16eb32c37394d50654269e5e1b23b1e19647","features":{},"yanked":true}
 {"name":"declarative_type_state","vers":"0.3.1","deps":[],"cksum":"7a77b6b974a2979dca4b384d9a2c6aaf0819f4a47c58ff2b5bc4b79a78357f75","features":{},"yanked":false}
