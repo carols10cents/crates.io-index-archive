@@ -1,0 +1,1 @@
+{"name":"embive","vers":"0.0.0","deps":[],"cksum":"82970766827725d62d5c4ff06828fb0e2c332d52ca0d41915ec1fc540cd022b2","features":{"default":["m_extension"],"m_extension":[],"start_at_ram":[]},"yanked":false,"rust_version":"1.81"}
