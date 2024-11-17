@@ -5,3 +5,4 @@
 {"name":"data-volley-reader","vers":"1.0.1","deps":[],"cksum":"dd3aedea260095ead99466429ae22c9c6c20cb94a7ea29c2451654038ec70043","features":{},"yanked":false}
 {"name":"data-volley-reader","vers":"1.0.2","deps":[],"cksum":"5b8ccfe4b943083fda0ab7127a3fb97fde377f182a72e04550dda96ba3d1dd06","features":{},"yanked":false}
 {"name":"data-volley-reader","vers":"1.0.3","deps":[],"cksum":"7fe11d92bf99cecf2402d4ccccdc2d713d3059001e3aeaee09a9c7d8617ab06f","features":{},"yanked":false}
+{"name":"data-volley-reader","vers":"1.0.4","deps":[],"cksum":"3f87cfe2c51db9317a7fcf0513893f67267d4aa80380c7f8b60f70f87faa1929","features":{},"yanked":false}
