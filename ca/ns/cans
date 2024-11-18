@@ -7,3 +7,4 @@
 {"name":"cans","vers":"0.5.0","deps":[],"cksum":"00c1aca9816355136323593263a4f5385173d8d371a371255711969b5ee2fb7e","features":{},"yanked":false}
 {"name":"cans","vers":"0.6.0","deps":[],"cksum":"3d15367e60d7a7b857053fe21df73af908eb86f67e8c2ad8902d09ea4c901c0b","features":{},"yanked":false}
 {"name":"cans","vers":"0.7.0","deps":[],"cksum":"c79cde0c6b6178f5d61704286e57d83cdb2dcdf02c096567614d0817b6b30cca","features":{},"yanked":false}
+{"name":"cans","vers":"0.8.0","deps":[],"cksum":"045b5b5086cc7a00e53b4570f348136ed02f55105b0963b030b16030f6fbb480","features":{},"yanked":false}
