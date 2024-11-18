@@ -1,0 +1,1 @@
+{"name":"remote-id","vers":"0.1.0","deps":[{"name":"chrono","req":"^0.4.38","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"4b1030bfb8c7afede6b6333d0762d8805e1d4670e2b1877a1c622a69bb0eafa7","features":{},"yanked":false}
