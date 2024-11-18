@@ -1,1 +1,2 @@
 {"name":"bibleref","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0.215","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0424f0adabc82414677aa43e69a2223d219eebdb64e7ec34f2d7e48a196ebc49","features":{},"yanked":false}
+{"name":"bibleref","vers":"0.1.1","deps":[{"name":"serde","req":"^1.0.215","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"73489201e7d55f246a15218289aebef9f0e41c906208d30a4c7b9df3c227083c","features":{},"yanked":false}
