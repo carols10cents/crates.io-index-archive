@@ -85,3 +85,4 @@
 {"name":"dinghy-test","vers":"0.7.1","deps":[],"cksum":"0c34af7b4a43ad281b1ba625b42f3cf67aaa5cf1ea4bd820347d91f9e981d41c","features":{},"yanked":false}
 {"name":"dinghy-test","vers":"0.7.2","deps":[],"cksum":"0afc0b197191749068519cbd7e93d5bde1cbde6298fe962e7de17b8e6d9ed218","features":{},"yanked":false}
 {"name":"dinghy-test","vers":"0.7.3","deps":[],"cksum":"8d1fb406802f77d6034d3e7c06e7b0130d9a27db666add4fd865374a0e64f237","features":{},"yanked":false}
+{"name":"dinghy-test","vers":"0.8.0","deps":[],"cksum":"486055df6d59bc097c3c8cfaa13ba717af9fd27192e2a5f975da4d3600b06b5b","features":{},"yanked":false}
