@@ -1,1 +1,2 @@
 {"name":"route_match","vers":"0.2.0","deps":[{"name":"route_match_macros","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5b03d61e250afb2c2c90b6a3a602e4f431639a4fa0b26902ce86796e3f5eba57","features":{},"yanked":false}
+{"name":"route_match","vers":"0.2.1","deps":[{"name":"route_match_macros","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"549e35abbdec7414c5359061505c456cf1d24f7e057a88a882d124de26d18cf8","features":{},"yanked":false}
