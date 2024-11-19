@@ -5,3 +5,4 @@
 {"name":"interface-rs","vers":"0.2.1","deps":[],"cksum":"7404c5c2e7e422aac3070b3b9f9de4e102db37c00b430796a71f7b37cdfbbb6f","features":{},"yanked":false}
 {"name":"interface-rs","vers":"0.2.2","deps":[],"cksum":"ddf1b8dcc9f2dd36e68302499405dc707eee3753583f70c10f3e96239d9e18df","features":{},"yanked":false}
 {"name":"interface-rs","vers":"0.2.3","deps":[],"cksum":"93d2ff6fc1d2745188575b38bb483693a220ea839dce74493261a22a985af78e","features":{},"yanked":false}
+{"name":"interface-rs","vers":"0.2.4","deps":[],"cksum":"e8da655ce684a3dd8f6dba756a28c809102e5babb7d633af0a493dd0a527c7a0","features":{},"yanked":false}
