@@ -1,1 +1,2 @@
 {"name":"chibihash","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.5","features":["html_reports"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"e54dec5c6a2372b6bd421ff2cb486421c51d1f25fc6239d0653aaecfd892da69","features":{},"yanked":false}
+{"name":"chibihash","vers":"0.1.1","deps":[{"name":"criterion","req":"^0.5","features":["html_reports"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"690b178437210788dbc6cabf6f29e363035f20fed27ba4c9fe753938695d3479","features":{},"yanked":false}
