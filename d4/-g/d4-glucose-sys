@@ -1,1 +1,2 @@
 {"name":"d4-glucose-sys","vers":"0.1.0","deps":[{"name":"cmake","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"2226a7e773380437e40eeab4bd234ad639488d4b23bde7cf4625907a63db9be9","features":{},"yanked":false,"links":"glucose"}
+{"name":"d4-glucose-sys","vers":"0.1.1","deps":[{"name":"cmake","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"5be01be6c681544a6f0ce3ad80c5bf01dde4085fbe4be4ec7262116acb571efe","features":{},"yanked":false,"links":"glucose"}
