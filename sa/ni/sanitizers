@@ -7,3 +7,4 @@
 {"name":"sanitizers","vers":"0.0.7","deps":[],"cksum":"bdf5abf017b9017a961968976d3923174d25d957ffb731512c11311d935c8e66","features":{},"yanked":false}
 {"name":"sanitizers","vers":"0.0.8","deps":[],"cksum":"96c3943b772d470f67d5d491b0ce8191464ce3201eb973dc8ceccbc3ac267e3c","features":{},"yanked":false}
 {"name":"sanitizers","vers":"0.0.9","deps":[],"cksum":"07f6dec75ab65b7a4d5f99a8a3b50b6995139b60cdd52cce31a7d1f45fea2c64","features":{},"yanked":false}
+{"name":"sanitizers","vers":"0.0.10","deps":[],"cksum":"641261d18a344dd69e22742e684edafb6a0709220604b5413cdae6ee5315b6bc","features":{},"yanked":false}
