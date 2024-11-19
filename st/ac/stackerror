@@ -1,1 +1,2 @@
 {"name":"stackerror","vers":"0.1.0","deps":[{"name":"stackerror-impl","req":"=0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5f160ce710df13746d7f45171e435244e93cd22e35c86eb31cfd962cb56ac255","features":{},"yanked":false}
+{"name":"stackerror","vers":"0.1.1","deps":[{"name":"stackerror-impl","req":"=0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a0231b7061eacd3f43fb328330b4c143bb56ecd10b230edc3e7b9315eb47f4d6","features":{},"yanked":false}
