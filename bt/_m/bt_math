@@ -1,0 +1,1 @@
+{"name":"bt_math","vers":"0.1.0","deps":[{"name":"regex","req":"^1.11.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"23f167928e08c323bd265d11610b003b96ab369af04b63d555d4839deaa8dde7","features":{},"yanked":false}
