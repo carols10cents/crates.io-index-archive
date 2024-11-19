@@ -1,0 +1,1 @@
+{"name":"ltnt","vers":"1.0.0","deps":[{"name":"const_format","req":"^0.2.33","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7064261109acd894b656782d0294b02620f6cf194ae3d64fac84a5358830df1b","features":{"default":["std"],"std":[]},"yanked":false}
