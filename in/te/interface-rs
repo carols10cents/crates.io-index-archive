@@ -9,3 +9,4 @@
 {"name":"interface-rs","vers":"0.2.5","deps":[],"cksum":"03701f6aa183bf4590fc4fb00c1be0154ab74a6eddb2929607a616908ca5df31","features":{},"yanked":false}
 {"name":"interface-rs","vers":"0.2.6","deps":[],"cksum":"70d69ea22056ef122fba53960aaf7a9b66c75d4d5afae8c5d70dbf4e1f4daf93","features":{},"yanked":false}
 {"name":"interface-rs","vers":"0.2.7","deps":[{"name":"natord","req":"^1.0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4dbda9b07a8067d2f5cfc644a3eacbec908d73faf0f32b3097ca2c85c25f7fb8","features":{},"yanked":false}
+{"name":"interface-rs","vers":"0.2.8","deps":[],"cksum":"f0cc27cfadea978a3880e4da4468faa6b01139f39a1dadfcb86bdad6aca9753b","features":{},"yanked":false}
