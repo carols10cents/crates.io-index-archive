@@ -1,1 +1,1 @@
-{"name":"smlog","vers":"0.1.0","deps":[{"name":"log","req":"^0.4.22","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"35a83001232e8be3ce76c04091bad6335a42362708c731ac97d60569dc3eef29","features":{},"yanked":false}
+{"name":"smlog","vers":"0.1.0","deps":[{"name":"log","req":"^0.4.22","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"35a83001232e8be3ce76c04091bad6335a42362708c731ac97d60569dc3eef29","features":{},"yanked":true}
