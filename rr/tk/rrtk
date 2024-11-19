@@ -25,3 +25,4 @@
 {"name":"rrtk","vers":"0.5.0","deps":[],"cksum":"3264a4c29cf7b7aad9bb28e01b39edb6e740c3475c9f3b5c5784a384f30377a3","features":{"alloc":[],"default":["std"],"devices":[],"std":["alloc"]},"yanked":false}
 {"name":"rrtk","vers":"0.6.0-alpha.0","deps":[],"cksum":"2dc374a01a4628837dfa29a4e44107db6dfff5e3724855aae4afd878c03d5bc9","features":{"alloc":[],"default":["std"],"devices":[],"std":["alloc"]},"yanked":false}
 {"name":"rrtk","vers":"0.6.0-alpha.1","deps":[],"cksum":"3b301d5ef4d8ab78a5bd3ba6082297d2d0712fc1055c57d8904833a110ad8c4b","features":{"alloc":[],"default":["std"],"devices":[],"std":["alloc"]},"yanked":false}
+{"name":"rrtk","vers":"0.6.0-beta.0","deps":[],"cksum":"688c0a317a560be290fa13106f19dc002ff3c2bd57fe2068b8241c1e24b3db45","features":{"alloc":[],"default":["std","dim_check_debug"],"devices":[],"dim_check_debug":[],"dim_check_release":["dim_check_debug"],"std":["alloc"]},"yanked":false}
