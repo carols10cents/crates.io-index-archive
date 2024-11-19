@@ -3,3 +3,4 @@
 {"name":"seq-map","vers":"0.0.3","deps":[],"cksum":"e933b85aec68e94e37d719eccae797e4a4928bc0321afc35acbbc7538c395ae6","features":{},"yanked":false}
 {"name":"seq-map","vers":"0.0.4","deps":[],"cksum":"f168ea95915987accc407aab4ff875200d9c93812ff09e776597d2c20ba3e441","features":{},"yanked":false}
 {"name":"seq-map","vers":"0.0.5","deps":[],"cksum":"db7aa01a01996572d98e5fef5bab58196e6ed5e642a4e8c166ca383c98e76962","features":{},"yanked":false}
+{"name":"seq-map","vers":"0.0.6","deps":[],"cksum":"45e0144931706e98e20df2589475b5cc55e77aa3e3519f6314dbb536cfcbca04","features":{},"yanked":false}
