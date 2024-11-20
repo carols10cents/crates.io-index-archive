@@ -1,0 +1,1 @@
+{"name":"lua-bytecode","vers":"0.1.0","deps":[],"cksum":"bd8e9ef905ee3e242c34ee72215b367e0c00ac9ec689c0e3b090b67514b314e2","features":{"lua51":[],"luau":[]},"yanked":false}
