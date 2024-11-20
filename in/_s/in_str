@@ -1,0 +1,1 @@
+{"name":"in_str","vers":"0.1.0","deps":[{"name":"quote","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"syn","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"146ea9639c02e254e5d06ad7acae5b23c92f548a63f544e536dc85e53a94a306","features":{},"yanked":false}
