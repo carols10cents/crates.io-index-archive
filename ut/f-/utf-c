@@ -1,2 +1,2 @@
-{"name":"utf-c","vers":"0.1.0","deps":[],"cksum":"d9bfe54a400bbefbbc570a1406f286a3a50878e966fa80d01b31f4238e22fe92","features":{"default":["simd"],"simd":[]},"yanked":false}
+{"name":"utf-c","vers":"0.1.0","deps":[],"cksum":"d9bfe54a400bbefbbc570a1406f286a3a50878e966fa80d01b31f4238e22fe92","features":{"default":["simd"],"simd":[]},"yanked":true}
 {"name":"utf-c","vers":"0.2.0","deps":[],"cksum":"e5c7748f166d84f37b468f7367d25c41f659532badd05e98d2d5043072535dae","features":{"default":["simd"],"simd":[]},"yanked":false}
