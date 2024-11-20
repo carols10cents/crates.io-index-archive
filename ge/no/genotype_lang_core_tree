@@ -1,1 +1,2 @@
 {"name":"genotype_lang_core_tree","vers":"0.1.0","deps":[{"name":"pretty_assertions","req":"^1.4.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"33ccb400bc4020891324579ca87c7dbe4f1a7aba871dfc424134da0b8bf76fd4","features":{},"yanked":false}
+{"name":"genotype_lang_core_tree","vers":"0.3.0","deps":[{"name":"pretty_assertions","req":"^1.4.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"855d0afa58a6d8c76605b3795e6346c118488382a006d6af5480539823f1b7c7","features":{},"yanked":false}
