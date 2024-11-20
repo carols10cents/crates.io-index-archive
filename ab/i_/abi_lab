@@ -1,1 +1,2 @@
 {"name":"abi_lab","vers":"0.1.0","deps":[{"name":"thiserror","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"30d241fb18930747b86cdcb3ec7c20f60490954b47c0041256e9ca91d857d8dc","features":{},"yanked":false}
+{"name":"abi_lab","vers":"0.1.1","deps":[{"name":"thiserror","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"456f76d3a35a11ea2fc834a0c9fca8b093055787a3883737246dd023b330d564","features":{},"yanked":false}
