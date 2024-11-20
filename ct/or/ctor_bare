@@ -1,0 +1,1 @@
+{"name":"ctor_bare","vers":"0.1.0","deps":[{"name":"ctor_bare_macros","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d136495eea0dc68b0a4e23e94a2012b7a87934e09c9b684f79f3027c901c14bd","features":{},"yanked":false}
