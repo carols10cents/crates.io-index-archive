@@ -87,3 +87,4 @@
 {"name":"ckb-spawn","vers":"0.119.0-rc2","deps":[],"cksum":"b8e567f7ea401d055966c14ad9f2056dde5a131d7f63ff42d5db7e648ef22dd6","features":{},"yanked":false}
 {"name":"ckb-spawn","vers":"0.119.0","deps":[],"cksum":"5f3a2c1cd01ae20ebc3111b9f3a1acf7b099671736506c4696d76fb274cb08e4","features":{},"yanked":false}
 {"name":"ckb-spawn","vers":"0.120.0-rc1","deps":[],"cksum":"5c4d7f27827d061277d4a943b7cdac214f5cbee42994939093310a0b2fb4153e","features":{},"yanked":false}
+{"name":"ckb-spawn","vers":"0.120.0-rc2","deps":[],"cksum":"11ce70076b88611a97aaabad9488e9a01412ad2c312c64cdd27276c9637a7b4c","features":{},"yanked":false}
