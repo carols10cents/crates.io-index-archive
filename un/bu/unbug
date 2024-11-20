@@ -1,1 +1,2 @@
 {"name":"unbug","vers":"0.1.0","deps":[{"name":"tracing","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c2edac678067872aaec7c3970311c42435ddf9398aa44cf4a04d33a5a2f43881","features":{"default":[],"enable":[]},"yanked":false}
+{"name":"unbug","vers":"0.2.0","deps":[{"name":"tracing","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2be2a088cd52fd77fcca4cec94579c59f823b41a4a0e59e1e2585f6a2b57c7b9","features":{"default":[],"enable":[]},"yanked":false}
