@@ -1,0 +1,1 @@
+{"name":"greek-syllables","vers":"0.1.0","deps":[{"name":"unicode-segmentation","req":"^1.11.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"aff3caeb38c5745b6ce794f18a6ad468ed7cd4b882b6c52f3d582fa94cdb874b","features":{},"yanked":false}
