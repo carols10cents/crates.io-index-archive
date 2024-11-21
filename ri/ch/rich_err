@@ -2,3 +2,4 @@
 {"name":"rich_err","vers":"0.1.1","deps":[],"cksum":"5fd5f52b600e50b1017b59fe7bdb74782ef3135a6e5fdeaad1a834e3cc0f7eb2","features":{},"yanked":false}
 {"name":"rich_err","vers":"0.1.3","deps":[],"cksum":"f379ee55ad49a9fcc78e4b52276309439da0d17b5c60dcce0be708e5805367bc","features":{},"yanked":false}
 {"name":"rich_err","vers":"0.1.4","deps":[],"cksum":"df653b2093ce4112061ffc01566cffc6c8bd3086d7a184537f15819dbaa5e521","features":{},"yanked":false}
+{"name":"rich_err","vers":"0.1.5","deps":[],"cksum":"43f8537ef5dfcbc59a6be8e118e704ae3d8d3cc17f5eb2792da5d7d84143b55c","features":{},"yanked":false}
