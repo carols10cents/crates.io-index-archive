@@ -1,0 +1,1 @@
+{"name":"est","vers":"0.0.2","deps":[{"name":"version_check","req":"^0.9.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"ca3b1c7968d47a58d8cb8474fe39549619c3effe6be3eaf1a6b0115b8da3d10a","features":{},"yanked":false,"rust_version":"1.80.0"}
