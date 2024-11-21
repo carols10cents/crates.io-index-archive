@@ -1,3 +1,4 @@
 {"name":"byte_converter","vers":"0.1.0","deps":[],"cksum":"de638033e0b57dd5ce1e3955ba6ec629f9f97501ebe3970938ddf19b5c3dee0b","features":{},"yanked":false}
 {"name":"byte_converter","vers":"0.1.1","deps":[],"cksum":"c75f7883f8f72797768f4ea0dcc2d7aa264b54a2b605203b2bb43d078a1df241","features":{},"yanked":false}
 {"name":"byte_converter","vers":"0.1.2","deps":[],"cksum":"4cf452bd4ff8b9bbd5d084ad9805607b487848d5c528191b1c9fa638d43610f9","features":{},"yanked":false}
+{"name":"byte_converter","vers":"0.1.3","deps":[],"cksum":"2024f7cb5f3f72321c745a974022fbe2d84e96321d571d02ad5320cf9839cb59","features":{},"yanked":false}
