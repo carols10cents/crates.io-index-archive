@@ -8,3 +8,4 @@
 {"name":"rust_gui_kit","vers":"0.1.7","deps":[],"cksum":"d9aba99490e48a8df05faa895c2d8a520b6000f95508152dbd7114ff05c962ed","features":{},"yanked":false}
 {"name":"rust_gui_kit","vers":"0.2.2","deps":[],"cksum":"b74f28531e9d983eb25a21b79dead244125e5ed922dfd37c85b7b97bba24003d","features":{},"yanked":false}
 {"name":"rust_gui_kit","vers":"0.2.3","deps":[],"cksum":"6bed3ceca46a900713518a25b266e9810fed3f7e854fde0bb374468bb9ef0a13","features":{},"yanked":false}
+{"name":"rust_gui_kit","vers":"0.2.4","deps":[],"cksum":"dc8c8ad30c4097e570d525741f4c6f62f2f72ec8d7957f6bf3d5bf09720e6844","features":{},"yanked":false}
