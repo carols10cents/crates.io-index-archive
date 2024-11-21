@@ -1,2 +1,3 @@
 {"name":"human_readable_duration","vers":"0.1.1","deps":[],"cksum":"861ff85fc5e3b8e1c98b644997750341d259d6995f4e43e950df0941c3bc954b","features":{},"yanked":false}
 {"name":"human_readable_duration","vers":"0.1.2","deps":[],"cksum":"2e8562d6d5cf3bb55772960f82cb05925d831fe3342f199d2aea09812765f435","features":{},"yanked":false}
+{"name":"human_readable_duration","vers":"0.1.3","deps":[],"cksum":"dd41ba4f3473b69bcbdd71041553ed70a31b24551b4bab26026ea1b1819d72ac","features":{},"yanked":false}
