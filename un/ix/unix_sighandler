@@ -1,1 +1,2 @@
 {"name":"unix_sighandler","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"58f9242fd1e00de8b256deab6ee5e1c7958de43562402bf348678be6e8032bb5","features":{},"yanked":false}
+{"name":"unix_sighandler","vers":"0.1.1","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e4207023209481002f05d078c506b29a44754a96d1831c4c60d51c2625d479ae","features":{},"yanked":false}
