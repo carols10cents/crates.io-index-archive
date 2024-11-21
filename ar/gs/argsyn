@@ -8,3 +8,4 @@
 {"name":"argsyn","vers":"0.4.0","deps":[],"cksum":"d9df1c81322f41e04a4ceb1c388d66bd26be46802e86c63efc52d692d225f27e","features":{},"yanked":false}
 {"name":"argsyn","vers":"0.5.0","deps":[],"cksum":"b63475933f0ae7c135936df6e3832e963a64a0f756b0c0418cd9c6ca1c53367f","features":{},"yanked":false}
 {"name":"argsyn","vers":"0.5.1","deps":[{"name":"ref-cast","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0581efb12f8de5d4209c92bdff24076a2634ced45e58a6d39b7b2e357c181040","features":{},"yanked":false}
+{"name":"argsyn","vers":"0.6.0","deps":[{"name":"ref-cast","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"629d55970d3d854aa058415f1fc498fff1049b47bceca05926c954d3420659c4","features":{},"yanked":false}
