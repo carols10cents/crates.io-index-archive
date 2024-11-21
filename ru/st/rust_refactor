@@ -1,2 +1,3 @@
 {"name":"rust_refactor","vers":"0.1.0","deps":[],"cksum":"49b3d090f36dddcd420f1f78cfa2a868056b9f8cf5c9d65105209623bb55b116","features":{},"yanked":false}
 {"name":"rust_refactor","vers":"0.1.1","deps":[],"cksum":"0d2e7c24e1ba99247df331e45dfc31632be3b378c5e412cbcb44ce14e1ba3bbc","features":{},"yanked":false}
+{"name":"rust_refactor","vers":"0.1.2","deps":[],"cksum":"0374524ce06400fdf83b12aa8a8f5f8ef92e420c56a89fddc2d23d29e117a9f4","features":{},"yanked":false}
