@@ -1,0 +1,1 @@
+{"name":"mach-dxcompiler-rs","vers":"2023.12.14+0b7073b.1","deps":[{"name":"windows-core","req":"^0.58","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"8b7857414cb65eb5f03cf0365ac801f089fdbfbb0c47f3f257941eda735aebdf","features":{},"yanked":false}
