@@ -23,3 +23,4 @@
 {"name":"zenoh-collections","vers":"1.0.0","deps":[],"cksum":"2976e0975b54f532bbcf67a0c34a9813b4643b75f5831c3aaf8cde36b48a80c2","features":{"default":["std"],"std":[],"test":[]},"yanked":false,"rust_version":"1.75.0"}
 {"name":"zenoh-collections","vers":"1.0.1","deps":[],"cksum":"ccb27c67033ffda0171506658802fda8dc22e62bcb094b49be86c04f84d8bdab","features":{"default":["std"],"std":[],"test":[]},"yanked":false,"rust_version":"1.75.0"}
 {"name":"zenoh-collections","vers":"1.0.2","deps":[],"cksum":"7ba920131fcd1f9e101dfde89c38799f0e6f9a120227f1d2b7e4ed862f400a5a","features":{"default":["std"],"std":[],"test":[]},"yanked":false,"rust_version":"1.75.0"}
+{"name":"zenoh-collections","vers":"1.0.3","deps":[],"cksum":"ba9c78667083e23e6413554b914db5a0b3950ef3a2b15af9e0e1dc7b5113231d","features":{"default":["std"],"std":[],"test":[]},"yanked":false,"rust_version":"1.75.0"}
