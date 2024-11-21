@@ -6,3 +6,4 @@
 {"name":"argsyn","vers":"0.3.0","deps":[],"cksum":"f0b0706c9f869d612ff65ae35880f8c277320efaebd9052e48226720c3eec665","features":{},"yanked":false}
 {"name":"argsyn","vers":"0.3.1","deps":[],"cksum":"7c3442d1363e127a7e4abcccd729272b2e2837019ccbb344c80358a1b234f94d","features":{},"yanked":false}
 {"name":"argsyn","vers":"0.4.0","deps":[],"cksum":"d9df1c81322f41e04a4ceb1c388d66bd26be46802e86c63efc52d692d225f27e","features":{},"yanked":false}
+{"name":"argsyn","vers":"0.5.0","deps":[],"cksum":"b63475933f0ae7c135936df6e3832e963a64a0f756b0c0418cd9c6ca1c53367f","features":{},"yanked":false}
