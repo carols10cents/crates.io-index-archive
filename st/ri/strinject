@@ -1,1 +1,2 @@
 {"name":"strinject","vers":"0.1.0","deps":[{"name":"regex","req":"^1.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ff0ebcd5e74e5817a19bc19b8a37e8f5dde6da58defc5dffe6828554891a26fd","features":{},"yanked":false}
+{"name":"strinject","vers":"0.1.1","deps":[{"name":"regex","req":"^1.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ba2c97fb0df498965c5d2441fb02178e02839913d4c409eac1d026257b8df66f","features":{},"yanked":false}
