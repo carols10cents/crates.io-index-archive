@@ -3,3 +3,4 @@
 {"name":"riscv_sim","vers":"0.1.4","deps":[],"cksum":"ff980108385c6a46350bc90b3effc1594a5bf0be9258d70d3767c5fa0261310a","features":{},"yanked":true}
 {"name":"riscv_sim","vers":"0.1.5","deps":[],"cksum":"7b4aa4ed43750751e822a47bc868ec2ba588d223330d28119a1055f7305ca566","features":{},"yanked":false}
 {"name":"riscv_sim","vers":"0.1.6","deps":[],"cksum":"53102d99dae6669b008f7ce9f9507bdef6ede617706607616642207306f68aab","features":{},"yanked":false}
+{"name":"riscv_sim","vers":"0.1.7","deps":[],"cksum":"6c6cf4429ffdaaafcffbfcf33a6d1991ca448517309dea32121045cc69ce9798","features":{},"yanked":false}
