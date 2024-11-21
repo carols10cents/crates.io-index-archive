@@ -2,3 +2,4 @@
 {"name":"data_type_checker","vers":"0.1.1","deps":[],"cksum":"418d3c595886fb4a58ab67d1b6359f0412372a85fac8bc5a01e3b44beecf84a2","features":{},"yanked":false}
 {"name":"data_type_checker","vers":"0.1.2","deps":[],"cksum":"5ab50e009cba6ba3f0ee42872d473dbbe6d4df9b476ea040e69d2fcc76dadcf7","features":{},"yanked":false}
 {"name":"data_type_checker","vers":"0.1.3","deps":[],"cksum":"5dd98a927c5acc7729e362164aca36d4f65eac1d542c4018056bea3f5e878bc4","features":{},"yanked":false}
+{"name":"data_type_checker","vers":"0.1.4","deps":[],"cksum":"b719eb39921000f7193cc6091820efd2ada3ed2566ba741debf5084794bb944e","features":{},"yanked":false}
