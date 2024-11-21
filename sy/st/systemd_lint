@@ -1,1 +1,2 @@
 {"name":"systemd_lint","vers":"0.1.0","deps":[],"cksum":"85ab7ac5817e1592069ed67b11bdcefbffb2084773c40cc1601a70979b2ae719","features":{},"yanked":false}
+{"name":"systemd_lint","vers":"0.1.1","deps":[],"cksum":"14b0fe2122a83ce6f40715e217916add83a063befe7e4472db18d9fc56c05f02","features":{},"yanked":false}
