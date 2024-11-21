@@ -4,3 +4,4 @@
 {"name":"oxide_linux","vers":"0.1.3","deps":[],"cksum":"1d339c29121baeba6644d61aac50c5b84a45465e942b9c2f921032cb1cf8f2bf","features":{},"yanked":true}
 {"name":"oxide_linux","vers":"0.1.4","deps":[],"cksum":"aa5f4ae74404c79bc666a43a2eaed5b51e070e17505af3665dfd9606a104df75","features":{},"yanked":false}
 {"name":"oxide_linux","vers":"0.1.5","deps":[],"cksum":"191b0599fa87baa337de4017fcf66fe33302fbafb8a13696977b07f4fa645368","features":{},"yanked":false}
+{"name":"oxide_linux","vers":"0.1.6","deps":[],"cksum":"f54b775daecbe429ba69425da1d91358590135fffe48998b18720402f0ffe047","features":{},"yanked":false}
