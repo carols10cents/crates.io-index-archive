@@ -1,3 +1,4 @@
 {"name":"ms_to_secs","vers":"0.1.0","deps":[],"cksum":"47f673503daf0074a345119afd98b39efff526bda40233bc9c21038b17721811","features":{},"yanked":false}
 {"name":"ms_to_secs","vers":"0.1.1","deps":[],"cksum":"83d65848c6dc527d399129ded19e029744b6e837d3a557d70099d4de79a760d7","features":{},"yanked":false}
 {"name":"ms_to_secs","vers":"0.1.2","deps":[],"cksum":"c1e07e2874f1c778c7416b08753a7fff56eb322e7c807a614108f2c093fdd2a6","features":{},"yanked":false}
+{"name":"ms_to_secs","vers":"0.1.3","deps":[],"cksum":"e01e318937db478ebd771b954672b3829f5810222e3281847a37c926e83ddeb9","features":{},"yanked":false}
