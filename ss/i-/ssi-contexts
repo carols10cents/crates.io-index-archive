@@ -8,3 +8,4 @@
 {"name":"ssi-contexts","vers":"0.1.5","deps":[],"cksum":"f3009b82cbae3d88a76f15460fb5fb3f30a1673eb0359ac6917ffaa3c57f7164","features":{},"yanked":false}
 {"name":"ssi-contexts","vers":"0.1.6","deps":[],"cksum":"728dde2f51db62c4667686139f2958b59ab920f8d9d8531b59fc5a01ef0a3896","features":{},"yanked":false}
 {"name":"ssi-contexts","vers":"0.1.7","deps":[],"cksum":"34aa53d986ca89a0bc7774d0004e5f94ef1fc553c90161facec4029fcdd3e2bf","features":{},"yanked":false}
+{"name":"ssi-contexts","vers":"0.1.8","deps":[],"cksum":"8b9e7d68ba4e1544b228d6b7739db285aa5befa9df0db614dbe843e4a3c900a8","features":{},"yanked":false}
