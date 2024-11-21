@@ -1,2 +1,3 @@
 {"name":"partial-json-fixer","vers":"0.1.0","deps":[],"cksum":"3846c72cce013820f0d4091f0e1d4139380d6c01ec37f5c7eaa12c9920ac7108","features":{},"yanked":false}
 {"name":"partial-json-fixer","vers":"0.1.1","deps":[],"cksum":"64adc573103e7f424f4b8df6c05c2bda79848b2cd33cd0c89e46e1ac19f9275f","features":{},"yanked":false}
+{"name":"partial-json-fixer","vers":"0.2.0","deps":[],"cksum":"e584f0f2ac8ff0b0d79a49fed33a3e6939275041134e5c3c2dca243f67cbc348","features":{},"yanked":false}
