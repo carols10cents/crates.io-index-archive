@@ -1,3 +1,4 @@
 {"name":"riscv_debugger","vers":"0.1.0","deps":[],"cksum":"10cface472d7e85bfc052af3ceed3d7e0c3fb6638863c49e270dd99e4bdd2be1","features":{},"yanked":false}
 {"name":"riscv_debugger","vers":"0.1.1","deps":[{"name":"thiserror","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f7344ed16014384a3d7d2bbce95d0ae38c055df2043478b16eec2e7d5d3c88bf","features":{},"yanked":false}
 {"name":"riscv_debugger","vers":"0.1.2","deps":[{"name":"thiserror","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bca773e7442a8d8f00cab0a8f20d964b635e1d0c8f9570de2f91210e68f18cb2","features":{},"yanked":false}
+{"name":"riscv_debugger","vers":"0.1.3","deps":[{"name":"thiserror","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fd88b7569e55fc5f2be3a0146f6636f6dd81fd34f8a27f5ba909d9e9cd357287","features":{},"yanked":false}
