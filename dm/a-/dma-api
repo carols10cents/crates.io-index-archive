@@ -2,3 +2,4 @@
 {"name":"dma-api","vers":"0.1.1","deps":[],"cksum":"bf1ca0bfcdcb5f9e1b7acf7d8908236d41d1bed3d58b62249e05c06b00e0253e","features":{},"yanked":false}
 {"name":"dma-api","vers":"0.1.2","deps":[],"cksum":"234a2e0b78b0a491fd98349352c6b0c6bbb53d1b71a9d8a656062b3e41bb7808","features":{},"yanked":false}
 {"name":"dma-api","vers":"0.1.3","deps":[],"cksum":"4d46ce65c3d146d94b7d6cfd1c48911ee0763068731f033ebf595e87713ece6c","features":{},"yanked":false}
+{"name":"dma-api","vers":"0.1.4","deps":[],"cksum":"082a2f26ebe9c13238a88816bb34a878c5905f73f7da77f8f775f3454c9ab139","features":{},"yanked":false}
