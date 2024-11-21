@@ -1,3 +1,4 @@
 {"name":"hex_to_rgb","vers":"0.1.0","deps":[],"cksum":"a2207d3fe9f47667e4f0ba480965528e8ea91caba5dea30771affabbe445d58b","features":{},"yanked":false}
 {"name":"hex_to_rgb","vers":"0.1.1","deps":[],"cksum":"45e0e1f61b018281cd5f76eb912bc7bd843fe4fe46adcdba51fb36da21603eb3","features":{},"yanked":false}
 {"name":"hex_to_rgb","vers":"0.1.2","deps":[],"cksum":"c5b71635e7e3d9e5172c2a9c562ae3a9d8646c3ccf59ab95d18375ebdadb4e90","features":{},"yanked":false}
+{"name":"hex_to_rgb","vers":"0.1.3","deps":[],"cksum":"9aa49afbf7ae494904aed3229e069341616251a444c2343154fab43f5b6b903c","features":{},"yanked":false}
