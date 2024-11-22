@@ -8,3 +8,4 @@
 {"name":"EnumBitFlags","vers":"1.0.7","deps":[],"cksum":"3efcf79cef03b352018c56ab3a02167827ff30b36b2d821e4193417dddcbe601","features":{},"yanked":false}
 {"name":"EnumBitFlags","vers":"1.0.8","deps":[],"cksum":"effa766aa1a110dd257d2e0e0a16eb95c295115ecd74f5575d4fb44d0a726091","features":{},"yanked":false}
 {"name":"EnumBitFlags","vers":"1.0.9","deps":[],"cksum":"dd70e8eb7469c3771320c02cc5ccc260fcb30f7a8f4007a9378b3307e4930865","features":{},"yanked":false}
+{"name":"EnumBitFlags","vers":"1.0.10","deps":[],"cksum":"f67a0e1a9a71b306e6e9daf2c7cac122707adb92c89af0e20e8db37d5954bb0d","features":{},"yanked":false}
