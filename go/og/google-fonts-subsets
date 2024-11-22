@@ -1,0 +1,1 @@
+{"name":"google-fonts-subsets","vers":"0.202411.21","deps":[{"name":"glob","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"d1ac06c0f52013ab1e0e1e1eee50765f089fb65d435298861564b2aef02937e3","features":{},"yanked":false}
