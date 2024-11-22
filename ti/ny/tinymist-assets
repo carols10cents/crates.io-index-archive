@@ -33,3 +33,4 @@
 {"name":"tinymist-assets","vers":"0.12.2-rc1","deps":[],"cksum":"391e9b2426b356abed446b9f392e5e8650ac25359de3f4360f7590ce91745fcf","features":{"typst-preview":[]},"yanked":false}
 {"name":"tinymist-assets","vers":"0.12.2","deps":[],"cksum":"8430e4e5358fcbb04a1f5a6c6503403e0d7bacb6c701f063394de758ade68c75","features":{"typst-preview":[]},"yanked":false}
 {"name":"tinymist-assets","vers":"0.12.4-rc1","deps":[],"cksum":"38b5a6ef8667c6570b234ffd7c3527de3ae0f80f23d55c5c19313384bf4f0905","features":{"typst-preview":[]},"yanked":false}
+{"name":"tinymist-assets","vers":"0.12.4-rc2","deps":[],"cksum":"f3f15b9924413b373fadf822c5a1c9dab36e5083a3e71471fb24a895bd1a2522","features":{"typst-preview":[]},"yanked":false}
