@@ -1,0 +1,1 @@
+{"name":"sinewave_gen","vers":"0.1.0","deps":[{"name":"hound","req":"^3.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8da778eaec237c0b0ebc84a18fe7e2b50034c61a369847747c2237c771330304","features":{},"yanked":false}
