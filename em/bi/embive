@@ -1,1 +1,2 @@
 {"name":"embive","vers":"0.0.0","deps":[],"cksum":"82970766827725d62d5c4ff06828fb0e2c332d52ca0d41915ec1fc540cd022b2","features":{"default":["m_extension"],"m_extension":[],"start_at_ram":[]},"yanked":false,"rust_version":"1.81"}
+{"name":"embive","vers":"0.1.0","deps":[],"cksum":"d759ba9ee8f9b428bb23f7ab0545cdef712ae03ae994084c7821448ce220b76f","features":{"default":["m_extension"],"full":["m_extension","instruction_limit"],"instruction_limit":[],"m_extension":[]},"yanked":false,"rust_version":"1.81"}
