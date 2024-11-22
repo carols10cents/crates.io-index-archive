@@ -11,3 +11,4 @@
 {"name":"next_tuple","vers":"0.1.0-gamma3","deps":[],"cksum":"3269cf6f446d3606787952f4ba564ababaf1b1d9513ccde8baeb160829e63281","features":{},"yanked":false,"rust_version":"1.76"}
 {"name":"next_tuple","vers":"0.1.0-rc0","deps":[],"cksum":"5154cd29823504d933fa19d02dd52f9f692cf9e337653f1409db70863fa5cd49","features":{},"yanked":false,"rust_version":"1.76"}
 {"name":"next_tuple","vers":"0.1.0-rc1","deps":[],"cksum":"c3615947b64839fe27e9ee557f282b04ad13ead564a543a6548b0cfd17457ff4","features":{},"yanked":false,"rust_version":"1.76"}
+{"name":"next_tuple","vers":"0.1.0-rc2","deps":[],"cksum":"cc6989c5af5a391cdc1c25aad10c6fb881b6e7ebd8df7c6fb29188acb5cba576","features":{},"yanked":false,"rust_version":"1.76"}
