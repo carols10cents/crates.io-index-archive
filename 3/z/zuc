@@ -1,1 +1,2 @@
 {"name":"zuc","vers":"0.0.0","deps":[],"cksum":"f2c864cbc0dc59dae1907f774c658f54172bd3f7b9cfc55ce85a52b66e2aa159","features":{},"yanked":false}
+{"name":"zuc","vers":"0.1.0","deps":[{"name":"const-str","req":"^0.5.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"767d92f0f158c022d3738ad6842519456f50fea34857ca63b4f1efb193d17a23","features":{},"yanked":false}
