@@ -37,3 +37,4 @@
 {"name":"subnetwork","vers":"0.4.5","deps":[],"cksum":"f11eca408af8982636d2a388fdb0e32caf5e9d69e394c68cdf230fa04a8effcc","features":{},"yanked":false}
 {"name":"subnetwork","vers":"0.4.6","deps":[{"name":"thiserror","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3f46c62b2178e546b0ed47ad524b20926cf426ca65de6458b8c4ce5874ebfe0c","features":{},"yanked":false}
 {"name":"subnetwork","vers":"0.4.7","deps":[{"name":"thiserror","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"caf8a73e5fc12a48bdca4b15502f4c5c0b127e7d456650d3aaa7b98742ccd954","features":{},"yanked":false}
+{"name":"subnetwork","vers":"0.4.8","deps":[{"name":"thiserror","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6e2ab69faa80ed178d4f0f2002c1cac72ca75721bce9a253d0c204f3d1d8291d","features":{},"yanked":false}
