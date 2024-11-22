@@ -1,0 +1,1 @@
+{"name":"lorenz_demo","vers":"0.1.0","deps":[{"name":"plotters","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7bbc07d29761a9e307fff375c648b360c59aa07370e0439a77bbcf334bb620b8","features":{},"yanked":false}
