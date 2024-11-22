@@ -1,0 +1,1 @@
+{"name":"core-grep","vers":"0.1.2","deps":[{"name":"grep-search","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"12c31c3de12cb65e39ec3036ce4ff298ad670d7e9d3670dea44d2cc4a789bb74","features":{},"yanked":false}
