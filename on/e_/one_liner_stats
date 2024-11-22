@@ -1,0 +1,1 @@
+{"name":"one_liner_stats","vers":"0.1.0","deps":[{"name":"ordered-float","req":"^2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e98bc46fe23490df1bb6446741567ff0d6bf4fc1bb11ca9e50ee415cb362c210","features":{},"yanked":false}
