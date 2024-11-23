@@ -1,0 +1,1 @@
+{"name":"intrusive-lru-cache","vers":"0.1.0-alpha.1","deps":[{"name":"intrusive-collections","req":"^0.9.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ccd28b12941d55eba8da09ba66a0c663b9b5a9767acf78c28da2f51706e69408","features":{},"yanked":false}
