@@ -1,0 +1,1 @@
+{"name":"acridotheres-3ds","vers":"0.1.0","deps":[{"name":"dh","req":"^0.8.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"039b0b12eb3db6f87baab9cd9aa806086db4d20edcb51c2e8238a5c15989abb5","features":{},"yanked":false}
