@@ -1,0 +1,1 @@
+{"name":"nekohash","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bf2d4e4fb681ffac170f7968a2cf26296e1b0ac940bd371c1fe38b16c293e33d","features":{},"yanked":false}
