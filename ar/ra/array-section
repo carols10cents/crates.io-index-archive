@@ -10,3 +10,4 @@
 {"name":"array-section","vers":"0.2.0","deps":[],"cksum":"adf1bde993dc4bf6006c78a174e5036f4b21c81796c5b744ff6044336a0e7974","features":{"alloc":[],"std":["alloc"]},"yanked":false}
 {"name":"array-section","vers":"0.2.1","deps":[],"cksum":"b61dc058004073cce0fd956dc4f2dbc366fc8c4bdc455b66fff9e056530e02e1","features":{"alloc":[],"std":["alloc"]},"yanked":false}
 {"name":"array-section","vers":"0.2.2","deps":[],"cksum":"ecb49591408942b584fc247f7e5b1d6959448ed093407b5e0512dba41cc670fe","features":{"alloc":[],"std":["alloc"]},"yanked":false,"rust_version":"1.81.0"}
+{"name":"array-section","vers":"0.2.3","deps":[],"cksum":"ee781eea1b5ce4553d1af4e4646a4b2a8fab5f6db9099a677cf90d1f8d220180","features":{"alloc":[],"std":["alloc"]},"yanked":false,"rust_version":"1.81.0"}
