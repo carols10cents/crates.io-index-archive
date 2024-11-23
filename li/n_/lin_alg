@@ -1,0 +1,1 @@
+{"name":"lin_alg","vers":"1.0.0","deps":[{"name":"num-traits","req":"^0.2.19","features":[],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"dfc015020c6f37753aac9db236feefdb30e27fbe1a935dc29b7309a3d03611a6","features":{"computer_graphics":[],"no_std":["num-traits/libm"]},"yanked":false}
