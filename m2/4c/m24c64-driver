@@ -1,0 +1,1 @@
+{"name":"m24c64-driver","vers":"0.0.1","deps":[{"name":"embedded-hal","req":"^0.2.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8a26f7490d0c7026c045c930416c94c3cd607e8600348d3c920a3781f47fb34d","features":{},"yanked":false}
