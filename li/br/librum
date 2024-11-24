@@ -1,0 +1,1 @@
+{"name":"librum","vers":"0.12.0","deps":[{"name":"librum-macros","req":"^0.12.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"56c8ee44778131a7a8d0fc5288ce66e1b2bedd74af7edf387178f2137e9bfd1e","features":{"alloc":[],"default":["alloc","proc-macro","std"],"proc-macro":["librum-macros"],"std":[]},"yanked":false,"rust_version":"1.83"}
