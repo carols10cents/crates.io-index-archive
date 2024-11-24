@@ -1,0 +1,1 @@
+{"name":"limnus-local-resource","vers":"0.0.10","deps":[{"name":"limnus-macros","req":"^0.0.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ee9fc2b967779cc16d1851530c5a35f905e3eb5e65f7e55ad924d9598a874392","features":{},"yanked":false}
