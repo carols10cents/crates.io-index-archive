@@ -7,3 +7,4 @@
 {"name":"big_num_math","vers":"2.1.1","deps":[],"cksum":"73c1c417c37e1fbeee288cbe4e79c9ce6e0d2bac28783854db43f2233ccb55d7","features":{"ext-tests":[]},"yanked":false}
 {"name":"big_num_math","vers":"2.1.2","deps":[],"cksum":"40be72b20ec9f0e7de29801a5db25490b64ece1f6c6031531c9cf78ba14491ff","features":{"ext-tests":[]},"yanked":false}
 {"name":"big_num_math","vers":"1.0.3","deps":[],"cksum":"4b8da72c36a8a3d08634c2e491baa25882227a2c45608c44e237c8ce420d294d","features":{"ext-tests":[]},"yanked":false}
+{"name":"big_num_math","vers":"2.1.3","deps":[],"cksum":"24961b850cf28135abde3f070b32594c2288a7a1cea1ba611b81ef09cb24f077","features":{"ext-tests":[]},"yanked":false}
