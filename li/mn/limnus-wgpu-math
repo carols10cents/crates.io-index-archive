@@ -1,0 +1,1 @@
+{"name":"limnus-wgpu-math","vers":"0.0.10","deps":[{"name":"bytemuck","req":"^1.19.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"664a7439646c3822b45bc366080a0ab4107a14796eab28c2fa15bd82ca05efe9","features":{},"yanked":false}
