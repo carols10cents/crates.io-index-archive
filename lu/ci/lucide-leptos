@@ -1,0 +1,1 @@
+{"name":"lucide-leptos","vers":"0.1.1","deps":[{"name":"leptos","req":"^0.7.0-rc2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1e61bdae4c69573b7bafb39d9f8e73ef7b4089743dff55b78c49a915ece5a7e6","features":{},"yanked":false}
