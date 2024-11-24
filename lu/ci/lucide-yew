@@ -1,0 +1,1 @@
+{"name":"lucide-yew","vers":"0.1.1","deps":[{"name":"yew","req":"^0.21.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3482473a083c0854a43d414ce3862ee9caed81f65f31982fe23cc722ebb735ed","features":{},"yanked":false}
