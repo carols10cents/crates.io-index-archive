@@ -1,0 +1,1 @@
+{"name":"limnus-system","vers":"0.0.10","deps":[{"name":"limnus-system-state","req":"^0.0.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4ce8dab1076904b865607c38d61d8d7f285050df64b1c3412d82badc8f9446b3","features":{},"yanked":false}
