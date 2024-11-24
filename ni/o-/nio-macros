@@ -1,0 +1,1 @@
+{"name":"nio-macros","vers":"0.1.0","deps":[{"name":"quote2","req":"^0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"syn","req":"^2","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4a67f7f91ca31eaa3fa95a2654d86f34ea912e3b0fec9f4a89e0890b64a4e33e","features":{},"yanked":false}
