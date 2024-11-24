@@ -1,0 +1,1 @@
+{"name":"gridava","vers":"0.1.0","deps":[{"name":"assert_float_eq","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cbf011943b7d1e17e2dd4d3765eee9e3cd26b9cd38b4f5f73601224a39a600f8","features":{},"yanked":false}
