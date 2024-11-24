@@ -1,0 +1,1 @@
+{"name":"rusting2d","vers":"0.0.1","deps":[{"name":"wgpu","req":"^0.16","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"winit","req":"^0.28","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9af98ec33debebbd21b5ae69c30379dd1da691f6aa3bfb09540e41b9e6becfc0","features":{},"yanked":false}
