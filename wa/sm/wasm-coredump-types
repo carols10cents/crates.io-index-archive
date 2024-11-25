@@ -14,3 +14,4 @@
 {"name":"wasm-coredump-types","vers":"0.1.23","deps":[],"cksum":"d8a083f101549e99b9cb9831ec775afe11caea0bfb0000e6ddefd20317bf2dfd","features":{},"yanked":false}
 {"name":"wasm-coredump-types","vers":"0.1.24","deps":[],"cksum":"ce6930c202f9dabb7effcb8105a425ee68be0c2ab1d2a0d12fef107b17b92f7c","features":{},"yanked":false}
 {"name":"wasm-coredump-types","vers":"0.2.0","deps":[],"cksum":"e01c8d7a04bd42e5353d21d7b6d0992b7b228097c2b2a7d55340c0df48a984db","features":{},"yanked":false}
+{"name":"wasm-coredump-types","vers":"0.2.1","deps":[],"cksum":"d3718dc3d358d228f7d3d3ff50b9afc6d0a529ba9b1dc56ec9f3ee7db08a6116","features":{},"yanked":false}
