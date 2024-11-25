@@ -1,0 +1,1 @@
+{"name":"yikes-intenum","vers":"0.0.1","deps":[{"name":"fnv","req":"^1.0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"paste","req":"^1.0.15","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"03a27f57175088a6eaf74b687036b51c3bd9937d131380f8e94fee9068a87217","features":{},"yanked":false}
