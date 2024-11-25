@@ -1,0 +1,1 @@
+{"name":"bounded-counter","vers":"0.1.0","deps":[{"name":"num-traits","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"985cfb5cf8eab5290a090c5a4e7982663f63c1035bde5d21114c6c11d9ecbeb0","features":{},"yanked":false,"rust_version":"1.60"}
