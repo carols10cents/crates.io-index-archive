@@ -1,1 +1,2 @@
 {"name":"fck","vers":"0.1.0","deps":[{"name":"clap","req":"^4.5.21","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8e01cea98fb405c9a9c816860c1ba490a2b6e53b69a3fc038168c5f3892c628a","features":{},"yanked":false}
+{"name":"fck","vers":"0.1.1","deps":[{"name":"clap","req":"^4.5.21","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"06c6d4e6209bded8cc290cc2a0cbd67210d871194e31c6c488a492443a18770c","features":{},"yanked":false}
