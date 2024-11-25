@@ -1,0 +1,1 @@
+{"name":"veryl-aligner","vers":"0.13.3","deps":[{"name":"veryl-parser","req":"^0.13.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d97044eff10a2fd0eb2404c9c48442daf9a55c31e01561906ce7b5b7ef809376","features":{},"yanked":false}
