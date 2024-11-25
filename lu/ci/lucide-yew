@@ -1,1 +1,2 @@
 {"name":"lucide-yew","vers":"0.1.1","deps":[{"name":"yew","req":"^0.21.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3482473a083c0854a43d414ce3862ee9caed81f65f31982fe23cc722ebb735ed","features":{},"yanked":false}
+{"name":"lucide-yew","vers":"0.1.2","deps":[{"name":"yew","req":"^0.21.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1cec752ea1313619724eecc3588cafe15f1863361d3daeca5a302e3f0665b74a","features":{},"yanked":false}
