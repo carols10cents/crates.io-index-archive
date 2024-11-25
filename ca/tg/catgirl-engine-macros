@@ -1,2 +1,3 @@
 {"name":"catgirl-engine-macros","vers":"0.14.35","deps":[],"cksum":"a1157c4ff6dbd043a86b38bee7300cb803308e4d3d87c2e1154a9d19428fb428","features":{"default":[]},"yanked":false}
 {"name":"catgirl-engine-macros","vers":"0.14.36-alpha","deps":[],"cksum":"0168b07ac7cacdc5c9986f453a84e9a015aae90ed56bcc3d0d84863c0755a866","features":{"default":[]},"yanked":false}
+{"name":"catgirl-engine-macros","vers":"0.14.37-alpha","deps":[],"cksum":"b7ffb9869d32cba5fd2ee4fb34ef3277e85a090085c0d3613c968044296282e1","features":{"default":[]},"yanked":false}
