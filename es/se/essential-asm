@@ -1,0 +1,1 @@
+{"name":"essential-asm","vers":"0.6.0","deps":[],"cksum":"de94e6b13498f2aaa5edfe9b814b90df6a3a34afe853911956dfbb3ac46f03d4","features":{"default":["std"],"std":[]},"yanked":false}
