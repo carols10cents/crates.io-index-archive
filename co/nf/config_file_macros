@@ -3,3 +3,4 @@
 {"name":"config_file_macros","vers":"2024.11.16","deps":[],"cksum":"316a0e3fe6ab2e669dafc6e4a1db8524c4e6d49e32bd8e6edcd1b3812e5d2aba","features":{},"yanked":false}
 {"name":"config_file_macros","vers":"2024.11.19","deps":[],"cksum":"2daadab5863936d1ad12d6584745278a1b29e3145017b36ceb5ab7fec4c7f681","features":{},"yanked":false}
 {"name":"config_file_macros","vers":"2024.11.21","deps":[],"cksum":"084ca95e9c99c4be650f92f43ccf43b1a30bd75ba6f99d216360dcba37446497","features":{},"yanked":false}
+{"name":"config_file_macros","vers":"2024.11.22","deps":[],"cksum":"05db45213a7f2a159d3d758c05542685a495d4d979594b8bcf54bfa6f6a3d228","features":{},"yanked":false}
