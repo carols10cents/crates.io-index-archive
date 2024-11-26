@@ -19,3 +19,4 @@
 {"name":"declarative_type_state","vers":"0.4.2","deps":[],"cksum":"5d98941b72d45695d649ffdb125cdec0fc33e94dcaf4fc7946767d38192f764f","features":{},"yanked":true}
 {"name":"declarative_type_state","vers":"0.4.3","deps":[],"cksum":"70c01bd9bc1b2b1f7baaa0f2e668d11f7d494548b474b4ddf518509819c14818","features":{},"yanked":false}
 {"name":"declarative_type_state","vers":"0.5.0","deps":[],"cksum":"07de94fcb38bcf18d061f8ffd213782d017db30fc8781d372c019e726627eca3","features":{},"yanked":false}
+{"name":"declarative_type_state","vers":"0.6.0","deps":[],"cksum":"9490e119fa4372cb87604ef9f6de052226a465158886937e86613fa7e49f3835","features":{},"yanked":false}
