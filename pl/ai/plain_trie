@@ -8,3 +8,4 @@
 {"name":"plain_trie","vers":"1.1.0","deps":[],"cksum":"cf6293f02941851cd65b6850a886293e61f6fd8f3d0ea15127088bd0b70232ef","features":{},"yanked":false}
 {"name":"plain_trie","vers":"2.0.0","deps":[],"cksum":"0029f68ae0f258491d6e6fd60564972eca74fcfab7928f8ce68efc4d1c31039c","features":{"test-ext":[]},"yanked":false}
 {"name":"plain_trie","vers":"3.0.0","deps":[],"cksum":"bde83150205858817930fb332b772f9ff8a8e9d9787fb6506b8883d14327124c","features":{"test-ext":[]},"yanked":false}
+{"name":"plain_trie","vers":"4.0.0","deps":[],"cksum":"7c64e67249af03d5e0be345ae25086a68007980b5232fe7ba56e8d05c5ece155","features":{"test-ext":[]},"yanked":false}
