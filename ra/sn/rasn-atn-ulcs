@@ -1,1 +1,2 @@
 {"name":"rasn-atn-ulcs","vers":"0.20.2","deps":[{"name":"rasn","req":"^0.20","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"701e9d27416fd5f6edfe33e0cd2fa6312dc6e91ea9663de57b1aa4d0cc9cb5c6","features":{},"yanked":false}
+{"name":"rasn-atn-ulcs","vers":"0.22.0","deps":[{"name":"rasn","req":"^0.22","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"72c32ce6adb47bd7bef5bbd0384cc1a41f4d54eba1d524db585dc7a4adae798c","features":{},"yanked":false}
