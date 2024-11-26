@@ -1,0 +1,1 @@
+{"name":"dos_to_go","vers":"0.0.5","deps":[{"name":"dos_to_go-procmacro","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"021b31eac0f84ce49b1ecbe79a2942c0b5a91ebae58e3cfba4ab2d0ba7f1f214","features":{},"yanked":false}
