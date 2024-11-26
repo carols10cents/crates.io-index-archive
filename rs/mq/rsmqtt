@@ -1,0 +1,1 @@
+{"name":"rsmqtt","vers":"0.1.0","deps":[{"name":"tokio","req":"^1.41.1","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cfbafc4665076ac7059abd7e7dedb53d75416f8bf89f4a2cd85c499a952c2dd8","features":{},"yanked":false,"rust_version":"1.80.0"}
