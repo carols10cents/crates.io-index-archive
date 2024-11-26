@@ -9,3 +9,4 @@
 {"name":"enumeration","vers":"2.0.0","deps":[],"cksum":"c305559c93c38bdad1402a3832e690793c208598ff3ff925177dd41b88cdbc85","features":{},"yanked":false}
 {"name":"enumeration","vers":"2.1.0","deps":[],"cksum":"5c1e15f2f5a4ed25548bbb77b73c56852d2625d8262b68730a166d2e6ed1f258","features":{},"yanked":false}
 {"name":"enumeration","vers":"2.2.0","deps":[],"cksum":"376c66756a31b28035296a7735ddd86046b36e80fe28e2da4ddd986f1cb6883b","features":{},"yanked":false}
+{"name":"enumeration","vers":"3.0.0","deps":[],"cksum":"4cba0aedd020ee328cf6e37512b0e1145fcf0888e158c666d677c0bcd89825f7","features":{"map":[]},"yanked":false}
