@@ -1,0 +1,1 @@
+{"name":"keplerian_sim","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.5.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"3cdd2fbe0f245ee5a8c0ce5b258f1391bafd32f2fe6c45309db4c975a63f1713","features":{},"yanked":false}
