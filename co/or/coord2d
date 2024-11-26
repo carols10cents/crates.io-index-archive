@@ -23,3 +23,4 @@
 {"name":"coord2d","vers":"0.2.6","deps":[],"cksum":"c461ba4d2537f322b0add9bfaa8c5fa3c7daa134fc0caae5204a9639fede9e66","features":{},"yanked":true}
 {"name":"coord2d","vers":"0.2.7","deps":[],"cksum":"6dcdf5b8d6f088040524f17c843f643046d675778cc2f667a28165b7c5619957","features":{},"yanked":true}
 {"name":"coord2d","vers":"0.2.8","deps":[],"cksum":"e5e4acc2ea13fb85ffa7368529f98ee6c9ace7a6247733980b694761f2a748ff","features":{},"yanked":false}
+{"name":"coord2d","vers":"0.3.0","deps":[],"cksum":"8ed9ecd68fa661e08c4e5cacd2061efde346b705158297fab93d5e1fab6b3ee5","features":{},"yanked":false}
