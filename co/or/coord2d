@@ -26,3 +26,4 @@
 {"name":"coord2d","vers":"0.3.0","deps":[],"cksum":"8ed9ecd68fa661e08c4e5cacd2061efde346b705158297fab93d5e1fab6b3ee5","features":{},"yanked":false}
 {"name":"coord2d","vers":"0.3.0-1","deps":[],"cksum":"1c0aecf2a2c581a65bbcff1c6e7995d141dbe309a4fd70b09695e7b8354f408a","features":{},"yanked":false}
 {"name":"coord2d","vers":"0.3.0-2","deps":[],"cksum":"64b645dfa55375d6714fb79e8d0774e804c652e6c4f76e65990ce351aafbb022","features":{},"yanked":false}
+{"name":"coord2d","vers":"0.4.0","deps":[],"cksum":"9134afd8842e8e03e762d68b26428e200dc4aeaa95cce1aa5206258abb2b8e87","features":{},"yanked":false}
