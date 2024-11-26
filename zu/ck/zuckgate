@@ -1,1 +1,2 @@
 {"name":"ZuckGate","vers":"0.1.1","deps":[{"name":"native-tls","req":"^0.2.12","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f006fc30338abbec71d66032bdc1c2f1ae8f51a1697c51abe03da5194cc38f2b","features":{},"yanked":false}
+{"name":"ZuckGate","vers":"0.1.2","deps":[{"name":"native-tls","req":"^0.2.12","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a7477557807f6ec6cf3f5b746563708678f062a4d29800c1ba072938493d4a63","features":{},"yanked":false}
