@@ -1,1 +1,2 @@
 {"name":"tropo","vers":"0.1.0","deps":[],"cksum":"e167a1b48e9cefc43a0dde74619902a35809d102c0a29ca080136d1e8b610ee7","features":{},"yanked":false}
+{"name":"tropo","vers":"0.2.0","deps":[{"name":"openssl","req":"^0.10.68","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"844392e232d85e1bbd4a7a4000f8a056575d5c650056ce3244b699f4c9caace7","features":{},"yanked":false}
