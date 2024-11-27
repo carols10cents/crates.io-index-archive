@@ -11,3 +11,4 @@
 {"name":"enumeration","vers":"2.2.0","deps":[],"cksum":"376c66756a31b28035296a7735ddd86046b36e80fe28e2da4ddd986f1cb6883b","features":{},"yanked":false}
 {"name":"enumeration","vers":"3.0.0","deps":[],"cksum":"4cba0aedd020ee328cf6e37512b0e1145fcf0888e158c666d677c0bcd89825f7","features":{"map":[]},"yanked":false}
 {"name":"enumeration","vers":"3.1.0","deps":[],"cksum":"a25af8358ded59025c2b0626f0666162fd8e9e1bdcf73024df6db604695cf971","features":{"map":[]},"yanked":false}
+{"name":"enumeration","vers":"3.1.1","deps":[],"cksum":"44853a174b02d0e1944f863cd6fa0359babdda7ca8c2c49056012a1c3421182c","features":{"map":[]},"yanked":false}
